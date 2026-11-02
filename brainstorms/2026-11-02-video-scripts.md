@@ -13,6 +13,9 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
 - **Script quality bar (Rose's words):** "clear, understandable, relatable, business worthy and will create traffic to my pages."
 - **Flow diagrams are a core format element:** every video explains a flow diagram, built with HyperFrames and Remotion.
 - **Reconciling with the earlier "too much graphics" feedback:** the diagram IS the explanation, not decoration. One diagram per video, built node by node as the voice says each step, and nothing else competing on screen.
+- **Default story structure: Before → After, told through one customer.** First the broken flow (the red box is the single bottleneck), then the fixed flow (where automation goes and where a person still checks).
+- **Diagram limits:** max 4 boxes per flow, exactly one red box, and each box appears when the voice says it.
+- **"Make it relatable"** is an explicit requirement (Rose, Q4), so every script must pass a relatability check.
 - **Primary goal of each video: traffic to Rose's pages** (profile visits and follows), not direct sales from the video.
 
 ## Q&A log
@@ -34,6 +37,12 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
 - Interpretation: the goal is traffic to her pages. The CTA wasn't picked directly, so it's inferred as follow/profile-visit and flagged.
 - New requirement: an explained flow diagram (HyperFrames + Remotion) in every video.
 - Flags: CTA mechanic -> Rose
+
+### Q4 — How is the flow diagram told?
+- Asked: Before→After / one flow revealed / follow one customer (recommended Before→After through one customer).
+- Captured: "yes, before → after through one customer. Make it relatable"
+- Terra example: Before = Patient emails → front desk retypes (red) → old system. After = Patient emails → AI fills the form → staff approve → saved.
+- Flags: what "relatable" concretely means (whose pain leads, how the customer is named) -> asked as Q5
 
 ## Open flags (pending input)
 - CTA mechanic: is "traffic to my pages" = follow/profile visit, or should we still use a comment-keyword to start DMs? (inferred: follow-first) -> Rose
