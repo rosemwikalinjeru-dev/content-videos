@@ -1,0 +1,90 @@
+{
+  "id": "what",
+  "words": [
+    {
+      "text": "It's",
+      "start": 0,
+      "end": 0.209
+    },
+    {
+      "text": "called",
+      "start": 0.244,
+      "end": 0.511
+    },
+    {
+      "text": "G-P-T",
+      "start": 0.627,
+      "end": 1.138
+    },
+    {
+      "text": "six",
+      "start": 1.382,
+      "end": 1.695
+    },
+    {
+      "text": "point",
+      "start": 1.776,
+      "end": 2.101
+    },
+    {
+      "text": "one",
+      "start": 2.171,
+      "end": 2.368
+    },
+    {
+      "text": "Terra.",
+      "start": 2.403,
+      "end": 2.81
+    },
+    {
+      "text": "It",
+      "start": 2.856,
+      "end": 3.019
+    },
+    {
+      "text": "reads",
+      "start": 3.1,
+      "end": 3.32
+    },
+    {
+      "text": "the",
+      "start": 3.367,
+      "end": 3.46
+    },
+    {
+      "text": "screen,",
+      "start": 3.495,
+      "end": 3.855
+    },
+    {
+      "text": "clicks,",
+      "start": 3.901,
+      "end": 4.272
+    },
+    {
+      "text": "types,",
+      "start": 4.307,
+      "end": 4.69
+    },
+    {
+      "text": "and",
+      "start": 4.725,
+      "end": 4.865
+    },
+    {
+      "text": "fills",
+      "start": 4.934,
+      "end": 5.143
+    },
+    {
+      "text": "in",
+      "start": 5.201,
+      "end": 5.271
+    },
+    {
+      "text": "forms.",
+      "start": 5.352,
+      "end": 5.991
+    }
+  ]
+}

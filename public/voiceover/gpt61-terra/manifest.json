@@ -1,0 +1,97 @@
+{
+  "video": "gpt61-terra",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v3",
+      "model": "eleven_v3",
+      "hash": "cfdda00344b9e65e",
+      "audio": "voiceover/gpt61-terra/hook.mp3",
+      "captions": "voiceover/gpt61-terra/hook.json",
+      "durationInSeconds": 8.438,
+      "characters": 86
+    },
+    {
+      "id": "what",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9b9043e0a580abeb",
+      "audio": "voiceover/gpt61-terra/what.mp3",
+      "captions": "voiceover/gpt61-terra/what.json",
+      "durationInSeconds": 6.034,
+      "characters": 94
+    },
+    {
+      "id": "price",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "88035b41f9dac183",
+      "audio": "voiceover/gpt61-terra/price.mp3",
+      "captions": "voiceover/gpt61-terra/price.json",
+      "durationInSeconds": 7.131,
+      "characters": 102
+    },
+    {
+      "id": "speed",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "ea583fcbac6a2e2d",
+      "audio": "voiceover/gpt61-terra/speed.mp3",
+      "captions": "voiceover/gpt61-terra/speed.json",
+      "durationInSeconds": 7.184,
+      "characters": 106
+    },
+    {
+      "id": "caveat",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a7343abd96061c7a",
+      "audio": "voiceover/gpt61-terra/caveat.mp3",
+      "captions": "voiceover/gpt61-terra/caveat.json",
+      "durationInSeconds": 2.534,
+      "characters": 34
+    },
+    {
+      "id": "business",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "622307e4c469b0df",
+      "audio": "voiceover/gpt61-terra/business.mp3",
+      "captions": "voiceover/gpt61-terra/business.json",
+      "durationInSeconds": 9.874,
+      "characters": 139
+    },
+    {
+      "id": "fix",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6e792db205950623",
+      "audio": "voiceover/gpt61-terra/fix.mp3",
+      "captions": "voiceover/gpt61-terra/fix.json",
+      "durationInSeconds": 7.419,
+      "characters": 103
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "09c47ddc8835e3cd",
+      "audio": "voiceover/gpt61-terra/verdict.mp3",
+      "captions": "voiceover/gpt61-terra/verdict.json",
+      "durationInSeconds": 7.419,
+      "characters": 111
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "d681275870b5af86",
+      "audio": "voiceover/gpt61-terra/cta.mp3",
+      "captions": "voiceover/gpt61-terra/cta.json",
+      "durationInSeconds": 5.512,
+      "characters": 84
+    }
+  ],
+  "generatedAt": "2026-11-02T18:20:51.694Z"
+}

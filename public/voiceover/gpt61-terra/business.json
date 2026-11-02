@@ -1,0 +1,120 @@
+{
+  "id": "business",
+  "words": [
+    {
+      "text": "Where's",
+      "start": 0,
+      "end": 0.372
+    },
+    {
+      "text": "that",
+      "start": 0.43,
+      "end": 0.604
+    },
+    {
+      "text": "useful?",
+      "start": 0.685,
+      "end": 1.196
+    },
+    {
+      "text": "Picture",
+      "start": 1.312,
+      "end": 1.695
+    },
+    {
+      "text": "a",
+      "start": 1.765,
+      "end": 1.8
+    },
+    {
+      "text": "dental",
+      "start": 1.869,
+      "end": 2.194
+    },
+    {
+      "text": "clinic.",
+      "start": 2.252,
+      "end": 2.728
+    },
+    {
+      "text": "Patient",
+      "start": 2.844,
+      "end": 3.216
+    },
+    {
+      "text": "details",
+      "start": 3.251,
+      "end": 3.692
+    },
+    {
+      "text": "arrive",
+      "start": 3.773,
+      "end": 4.168
+    },
+    {
+      "text": "by",
+      "start": 4.214,
+      "end": 4.4
+    },
+    {
+      "text": "email...",
+      "start": 4.481,
+      "end": 5.05
+    },
+    {
+      "text": "and",
+      "start": 5.259,
+      "end": 5.457
+    },
+    {
+      "text": "someone",
+      "start": 5.515,
+      "end": 5.875
+    },
+    {
+      "text": "retypes",
+      "start": 5.921,
+      "end": 6.385
+    },
+    {
+      "text": "them",
+      "start": 6.444,
+      "end": 6.641
+    },
+    {
+      "text": "into",
+      "start": 6.792,
+      "end": 7.059
+    },
+    {
+      "text": "an",
+      "start": 7.14,
+      "end": 7.233
+    },
+    {
+      "text": "old",
+      "start": 7.349,
+      "end": 7.581
+    },
+    {
+      "text": "system",
+      "start": 7.628,
+      "end": 8.034
+    },
+    {
+      "text": "with",
+      "start": 8.15,
+      "end": 8.371
+    },
+    {
+      "text": "no",
+      "start": 8.429,
+      "end": 8.615
+    },
+    {
+      "text": "A-P-I.",
+      "start": 8.731,
+      "end": 9.845
+    }
+  ]
+}

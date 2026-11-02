@@ -1,0 +1,35 @@
+{
+  "id": "caveat",
+  "words": [
+    {
+      "text": "And",
+      "start": 0,
+      "end": 0.29
+    },
+    {
+      "text": "it's",
+      "start": 0.36,
+      "end": 0.499
+    },
+    {
+      "text": "not",
+      "start": 0.557,
+      "end": 0.778
+    },
+    {
+      "text": "their",
+      "start": 0.859,
+      "end": 1.103
+    },
+    {
+      "text": "smartest",
+      "start": 1.173,
+      "end": 1.788
+    },
+    {
+      "text": "model.",
+      "start": 1.881,
+      "end": 2.508
+    }
+  ]
+}

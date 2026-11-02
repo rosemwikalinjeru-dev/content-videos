@@ -1,0 +1,95 @@
+{
+  "id": "speed",
+  "words": [
+    {
+      "text": "OpenAI",
+      "start": 0,
+      "end": 0.778
+    },
+    {
+      "text": "says",
+      "start": 0.848,
+      "end": 1.138
+    },
+    {
+      "text": "it's",
+      "start": 1.254,
+      "end": 1.451
+    },
+    {
+      "text": "over",
+      "start": 1.533,
+      "end": 1.8
+    },
+    {
+      "text": "three",
+      "start": 1.869,
+      "end": 2.09
+    },
+    {
+      "text": "times",
+      "start": 2.136,
+      "end": 2.403
+    },
+    {
+      "text": "faster",
+      "start": 2.485,
+      "end": 2.879
+    },
+    {
+      "text": "on",
+      "start": 2.937,
+      "end": 3.03
+    },
+    {
+      "text": "computer",
+      "start": 3.1,
+      "end": 3.564
+    },
+    {
+      "text": "tasks.",
+      "start": 3.622,
+      "end": 4.18
+    },
+    {
+      "text": "That's",
+      "start": 4.505,
+      "end": 4.783
+    },
+    {
+      "text": "their",
+      "start": 4.83,
+      "end": 5.016
+    },
+    {
+      "text": "own",
+      "start": 5.085,
+      "end": 5.248
+    },
+    {
+      "text": "test,",
+      "start": 5.294,
+      "end": 5.631
+    },
+    {
+      "text": "not",
+      "start": 5.689,
+      "end": 5.875
+    },
+    {
+      "text": "an",
+      "start": 5.921,
+      "end": 5.979
+    },
+    {
+      "text": "independent",
+      "start": 6.037,
+      "end": 6.641
+    },
+    {
+      "text": "one.",
+      "start": 6.711,
+      "end": 7.152
+    }
+  ]
+}

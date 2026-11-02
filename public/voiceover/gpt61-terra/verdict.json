@@ -1,0 +1,105 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "My",
+      "start": 0,
+      "end": 0.337
+    },
+    {
+      "text": "verdict?",
+      "start": 0.418,
+      "end": 1.01
+    },
+    {
+      "text": "Worth",
+      "start": 1.103,
+      "end": 1.37
+    },
+    {
+      "text": "testing.",
+      "start": 1.44,
+      "end": 2.009
+    },
+    {
+      "text": "Not",
+      "start": 2.183,
+      "end": 2.403
+    },
+    {
+      "text": "worth",
+      "start": 2.473,
+      "end": 2.67
+    },
+    {
+      "text": "trusting",
+      "start": 2.717,
+      "end": 3.146
+    },
+    {
+      "text": "alone.",
+      "start": 3.216,
+      "end": 3.669
+    },
+    {
+      "text": "A",
+      "start": 3.843,
+      "end": 3.936
+    },
+    {
+      "text": "wrong",
+      "start": 4.029,
+      "end": 4.249
+    },
+    {
+      "text": "date",
+      "start": 4.307,
+      "end": 4.563
+    },
+    {
+      "text": "of",
+      "start": 4.586,
+      "end": 4.656
+    },
+    {
+      "text": "birth",
+      "start": 4.725,
+      "end": 4.981
+    },
+    {
+      "text": "costs",
+      "start": 5.039,
+      "end": 5.457
+    },
+    {
+      "text": "more",
+      "start": 5.538,
+      "end": 5.77
+    },
+    {
+      "text": "than",
+      "start": 5.805,
+      "end": 5.956
+    },
+    {
+      "text": "the",
+      "start": 6.002,
+      "end": 6.072
+    },
+    {
+      "text": "tokens",
+      "start": 6.142,
+      "end": 6.548
+    },
+    {
+      "text": "you",
+      "start": 6.606,
+      "end": 6.687
+    },
+    {
+      "text": "save.",
+      "start": 6.757,
+      "end": 7.384
+    }
+  ]
+}
