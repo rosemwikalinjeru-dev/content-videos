@@ -1,6 +1,6 @@
 import React from "react";
 import { AbsoluteFill, Audio, Sequence, interpolate, staticFile, useCurrentFrame } from "remotion";
-import { Background, Captions, PreviewBadge, ProgressBar, SceneWords } from "../../components/kit";
+import { Background, Captions, PreviewBadge, SceneWords } from "../../components/kit";
 import type { TimedScene, VideoProps } from "../../lib/timing";
 import { SCENE_VISUALS } from "./scenes";
 
@@ -38,7 +38,7 @@ export const Gpt61Terra: React.FC<VideoProps> = ({ scenes, preview }) => {
         from += scene.durationInFrames;
         return seq;
       })}
-      <ProgressBar total={total} />
+
       {preview ? <PreviewBadge /> : null}
     </AbsoluteFill>
   );

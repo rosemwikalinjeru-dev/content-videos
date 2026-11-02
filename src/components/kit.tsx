@@ -95,26 +95,8 @@ export function useCount(to: number, delay: number, frames = 24) {
 }
 
 // ---------- background ----------
-export const Background: React.FC = () => {
-  const frame = useCurrentFrame();
-  const drift = (frame * 0.4) % 80;
-  return (
-    <AbsoluteFill style={{ backgroundColor: C.ground }}>
-      <AbsoluteFill
-        style={{
-          backgroundImage: `linear-gradient(${C.line}33 2px, transparent 2px), linear-gradient(90deg, ${C.line}33 2px, transparent 2px)`,
-          backgroundSize: "80px 80px",
-          backgroundPosition: `0 ${drift}px`,
-        }}
-      />
-      <AbsoluteFill
-        style={{
-          background: `radial-gradient(900px 700px at 20% 15%, ${C.blue}22, transparent 70%), radial-gradient(800px 700px at 85% 70%, ${C.accent}14, transparent 70%)`,
-        }}
-      />
-    </AbsoluteFill>
-  );
-};
+// Plain, calm background: one idea per screen, nothing competing with it.
+export const Background: React.FC = () => <AbsoluteFill style={{ backgroundColor: C.ground }} />;
 
 // ---------- source card ----------
 export const SourceCard: React.FC<{ text: string; delay?: number; top?: number }> = ({
