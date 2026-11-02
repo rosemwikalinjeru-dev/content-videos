@@ -1,0 +1,37 @@
+{
+  "name": "content-videos",
+  "version": "1.0.0",
+  "scripts": {
+    "scenes": "node scripts/build-scenes.mjs",
+    "voiceover": "node generate-voiceover.mjs",
+    "studio": "remotion studio",
+    "render": "remotion render",
+    "demo:check": "cd hyperframes/terra-form-demo && npx hyperframes check",
+    "demo:render": "cd hyperframes/terra-form-demo && npx hyperframes render -o ../../public/assets/terra-form-demo.mp4 -q delivery"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosemwikalinjeru-dev/content-videos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rosemwikalinjeru-dev/content-videos/issues"
+  },
+  "homepage": "https://github.com/rosemwikalinjeru-dev/content-videos#readme",
+  "dependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "@remotion/cli": "^4.0.540",
+    "@remotion/renderer": "^4.0.540",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.540"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "gsap": "^3.15.0",
+    "hyperframes": "^0.9.3",
+    "typescript": "^7.0.2"
+  },
+  "private": true,
+  "type": "module"
+}

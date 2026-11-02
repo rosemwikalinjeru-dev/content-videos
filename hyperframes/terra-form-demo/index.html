@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en" data-resolution="square">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1080" />
+    <!-- GSAP is vendored locally (assets/gsap.min.js) so renders don't depend on a CDN. -->
+    <script src="assets/gsap.min.js"></script>
+    <style>
+      :root {
+        --ground: #0b1020;
+        --panel: #141b31;
+        --panel-2: #1c2542;
+        --line: #2b3660;
+        --ink: #f4f6fb;
+        --muted: #9aa5c4;
+        --accent: #ffd84d;
+        --ok: #3ddc97;
+        --font: "Inter", "Liberation Sans", sans-serif;
+        --mono: "JetBrains Mono", "DejaVu Sans Mono", monospace;
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 1080px; height: 1080px; overflow: hidden;
+        background: var(--ground); font-family: var(--font); color: var(--ink);
+      }
+      #root { position: relative; width: 100%; height: 100%; }
+
+      .demo-tag {
+        position: absolute; top: 40px; left: 50%; transform: translateX(-50%);
+        font: 700 28px/1 var(--mono); letter-spacing: 0.14em; color: var(--ground);
+        background: var(--accent); padding: 10px 18px; border-radius: 8px;
+      }
+
+      /* Email card */
+      #email {
+        position: absolute; left: 60px; top: 120px; width: 960px;
+        background: var(--panel); border: 2px solid var(--line); border-radius: 22px;
+        padding: 26px 32px; opacity: 0;
+      }
+      #email .from { font: 600 28px/1.2 var(--font); color: var(--muted); }
+      #email .subj { font: 700 34px/1.3 var(--font); margin-top: 6px; }
+      #email .body { font: 400 32px/1.45 var(--font); color: #d6dbea; margin-top: 12px; }
+      .hl { border-radius: 6px; padding: 0 4px; box-shadow: inset 0 0 0 0 rgba(255,216,77,.0); }
+
+      /* Old booking system window */
+      #portal {
+        position: absolute; left: 60px; top: 470px; width: 960px; height: 560px;
+        background: #e9e6dc; color: #222; border-radius: 14px; overflow: hidden;
+        border: 3px solid #b8b2a1; opacity: 0;
+      }
+      #portal .bar {
+        height: 52px; background: linear-gradient(#5a6c8f, #3e4d6b); color: #fff;
+        font: 700 28px/52px "Liberation Sans", sans-serif; padding-left: 20px;
+      }
+      #portal .bar small { font-size: 28px; font-weight: 400; opacity: .8; margin-left: 10px; }
+      .row { display: flex; align-items: center; margin: 22px 30px 0; }
+      .row label { width: 250px; font: 700 28px/1 "Liberation Sans", sans-serif; color: #333; }
+      .field {
+        flex: 1; height: 56px; background: #fff; border: 2px solid #9b9583; border-radius: 4px;
+        display: flex; align-items: center; padding: 0 14px; overflow: hidden;
+        font: 400 30px/1 "Liberation Sans", sans-serif; color: #111;
+      }
+      .field.active { border-color: #2f6fed; box-shadow: 0 0 0 3px rgba(47,111,237,.35); }
+      .val { display: inline-block; white-space: nowrap; overflow: hidden; width: 0; line-height: 1.3; }
+      #save {
+        position: absolute; right: 30px; bottom: 26px; width: 240px; height: 60px;
+        background: #c9c3b1; border: 2px solid #8f8977; border-radius: 6px;
+        font: 700 28px/56px "Liberation Sans", sans-serif; text-align: center; color: #555;
+      }
+
+      /* Human check badge */
+      #check {
+        position: absolute; left: 50%; top: 290px; transform: translate(-50%, -50%);
+        background: var(--ground); border: 3px solid var(--ok); border-radius: 22px;
+        width: 860px; padding: 30px 38px; display: flex; align-items: center; gap: 26px; opacity: 0;
+        box-shadow: 0 20px 60px rgba(0,0,0,.55);
+      }
+      #check .tick {
+        width: 64px; height: 64px; border-radius: 50%; background: var(--ok); color: var(--ground);
+        font: 900 42px/64px var(--font); text-align: center;
+      }
+      #check .t1 { font: 800 40px/1.1 var(--font); white-space: nowrap; color: var(--ink); }
+      #check .t2 { font: 500 28px/1.3 var(--font); color: var(--muted); margin-top: 6px; }
+
+      /* Cursor */
+      #cursor { position: absolute; left: 0; top: 0; width: 46px; height: 46px; opacity: 0; z-index: 10; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="10" data-width="1080" data-height="1080">
+      <div id="demo-tag" class="demo-tag clip" data-start="0" data-duration="10" data-track-index="0">DEMO · FAKE PATIENT DATA</div>
+
+      <div id="email" class="clip" data-start="0" data-duration="10" data-track-index="1">
+        <div class="from">From: new patient enquiry</div>
+        <div class="subj">Booking request</div>
+        <div class="body">
+          Hi, I'm <span class="hl" id="h1">Jane Demo</span> — born <span class="hl" id="h2">14 March 1990</span>.
+          Can I get a <span class="hl" id="h3">check-up</span> next week? My number is <span class="hl" id="h4">0700 000 000</span>.
+        </div>
+      </div>
+
+      <div id="portal" class="clip" data-start="0" data-duration="10" data-track-index="2">
+        <div class="bar">ClinicDesk 2009 <small>· no API</small></div>
+        <div class="row"><label>Patient name</label><div class="field" id="f1"><span class="val" id="v1">Jane Demo</span></div></div>
+        <div class="row"><label>Date of birth</label><div class="field" id="f2"><span class="val" id="v2">14/03/1990</span></div></div>
+        <div class="row"><label>Reason</label><div class="field" id="f3"><span class="val" id="v3">Check-up</span></div></div>
+        <div class="row"><label>Phone</label><div class="field" id="f4"><span class="val" id="v4">0700 000 000</span></div></div>
+        <div id="save">Save</div>
+      </div>
+
+      <div id="check" class="clip" data-start="0" data-duration="10" data-track-index="3">
+        <div class="tick">✓</div>
+        <div>
+          <div class="t1">Staff checks before saving</div>
+          <div class="t2">AI fills it in. A person approves it.</div>
+        </div>
+      </div>
+
+      <svg id="cursor" class="clip" data-start="0" data-duration="10" data-track-index="4" viewBox="0 0 24 24">
+        <path d="M3 2l7 19 2.6-7.6L20 11z" fill="#ffffff" stroke="#0b1020" stroke-width="1.4" stroke-linejoin="round" />
+      </svg>
+    </div>
+
+    <script>
+      const tl = gsap.timeline({ paused: true });
+
+      // Entrances
+      tl.fromTo("#email", { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 0.1);
+      tl.fromTo("#portal", { opacity: 0, y: 60 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 0.25);
+      tl.set("#cursor", { x: 900, y: 1000 }, 0);
+      tl.to("#cursor", { opacity: 1, duration: 0.2 }, 0.45);
+
+      // Field geometry (portal top 470, rows start at 52 + 22, each row 56 + 22)
+      const fieldY = (i) => 470 + 52 + 22 + i * 78 + 28;
+      const fieldX = 60 + 30 + 250 + 40;
+
+      // For each field: highlight the source text, move cursor, type the value.
+      const steps = [
+        { h: "#h1", f: "#f1", v: "#v1" },
+        { h: "#h2", f: "#f2", v: "#v2" },
+        { h: "#h3", f: "#f3", v: "#v3" },
+        { h: "#h4", f: "#f4", v: "#v4" },
+      ];
+      let t = 0.6;
+      steps.forEach((s, i) => {
+        const val = document.querySelector(s.v);
+        const w = val.scrollWidth; // measured once at load: deterministic
+        tl.to(s.h, { backgroundColor: "rgba(255,216,77,0.35)", duration: 0.2 }, t);
+        tl.to("#cursor", { x: fieldX, y: fieldY(i) - 8, duration: 0.3, ease: "power2.inOut" }, t);
+        tl.set(s.f, { className: "field active" }, t + 0.3);
+        tl.to(val, { width: w, duration: 0.55, ease: `steps(${val.textContent.length})` }, t + 0.32);
+        tl.set(s.f, { className: "field" }, t + 0.92);
+        t += 0.95;
+      });
+
+      // Move to Save, which waits for a human
+      tl.to("#cursor", { x: 60 + 960 - 30 - 120, y: 470 + 560 - 26 - 40, duration: 0.45, ease: "power2.inOut" }, t);
+      tl.to("#save", { backgroundColor: "#ffe9a6", duration: 0.2 }, t + 0.45);
+      tl.to("#cursor", { opacity: 0, duration: 0.2 }, t + 0.7);
+      tl.to("#email", { opacity: 0, y: -30, duration: 0.3 }, t + 0.6);
+      tl.fromTo("#check", { opacity: 0, scale: 0.85 }, { opacity: 1, scale: 1, duration: 0.45, ease: "back.out(1.6)" }, t + 0.7);
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

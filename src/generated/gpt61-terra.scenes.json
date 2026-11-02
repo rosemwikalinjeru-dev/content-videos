@@ -1,0 +1,50 @@
+{
+  "video": "gpt61-terra",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v3",
+      "text": "OpenAI just released an A-I that uses a computer for you... [pause] at half the price."
+    },
+    {
+      "id": "what",
+      "version": "v2",
+      "text": "It's called G-P-T six point one Terra. It reads the screen, clicks, types, and fills in forms."
+    },
+    {
+      "id": "price",
+      "version": "v2",
+      "text": "One dollar per million input tokens, five per million output. Half the price of the model it replaces."
+    },
+    {
+      "id": "speed",
+      "version": "v2",
+      "text": "OpenAI says it's over three times faster on computer tasks. That's their own test, not an independent one."
+    },
+    {
+      "id": "caveat",
+      "version": "v2",
+      "text": "And it's not their smartest model."
+    },
+    {
+      "id": "business",
+      "version": "v2",
+      "text": "Where's that useful? Picture a dental clinic. Patient details arrive by email... and someone retypes them into an old system with no A-P-I."
+    },
+    {
+      "id": "fix",
+      "version": "v2",
+      "text": "That retyping is the job it's built for. It fills in the form... then a person checks it before saving."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "My verdict? Worth testing. Not worth trusting alone. A wrong date of birth costs more than the tokens you save."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Next, I'm putting it on a real booking form to see where it breaks. Follow for that."
+    }
+  ]
+}
