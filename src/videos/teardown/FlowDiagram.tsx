@@ -139,7 +139,16 @@ export const FlowDiagram: React.FC<{ flow: Flow; mode: "before" | "after"; busin
               padding: "0 40px 0 150px",
             }}
           >
-            <div style={{ font: `900 58px/1.05 ${FONT}`, color: k.ink, letterSpacing: "-0.02em" }}>{node.label}</div>
+            <div
+              style={{
+                font: `900 ${node.label.length > 22 ? 46 : 58}px/1.05 ${FONT}`,
+                color: k.ink,
+                letterSpacing: "-0.02em",
+                marginTop: (node.tag ?? k.tag) ? 14 : 0,
+              }}
+            >
+              {node.label}
+            </div>
             {node.sub && (
               <div style={{ font: `600 36px/1.2 ${FONT}`, color: node.kind === "done" ? C.ground : C.muted, marginTop: 8 }}>
                 {node.sub}
@@ -197,6 +206,7 @@ export const FlowDiagram: React.FC<{ flow: Flow; mode: "before" | "after"; busin
           color: chipColor,
           opacity: chipIn,
           whiteSpace: "nowrap",
+          textShadow: "0 0 6px #000, 0 2px 0 #000",
         }}
       >
         {flow.customer}
