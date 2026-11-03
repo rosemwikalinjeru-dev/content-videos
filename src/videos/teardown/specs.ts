@@ -378,6 +378,7 @@ export const SPECS: TeardownSpec[] = [
     },
     verdict: {
       clip: "assets/fix-demos/review-sms.mp4",
+      clipSeconds: 5.2,
       lines: [
         { text: "Ask everyone.", color: "ok", beat: "ask" },
         { text: "Fix the unhappy ones yourself.", color: "accent", beat: "fix" },
@@ -408,6 +409,7 @@ export const SPECS: TeardownSpec[] = [
       kicker: "THE FIX",
       title: "Follow-ups that run on their own",
       clip: "assets/fix-demos/estimate-sequence.mp4",
+      clipSeconds: 6.8,
       isNews: false,
     },
     after: {
@@ -452,6 +454,7 @@ export const SPECS: TeardownSpec[] = [
       kicker: "THE FIX",
       title: "One job card, filled at booking",
       clip: "assets/fix-demos/job-card.mp4",
+      clipSeconds: 4.4,
       isNews: false,
     },
     after: {

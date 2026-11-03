@@ -64,6 +64,14 @@ const Tag: React.FC<{ children: React.ReactNode; color?: string; ink?: string }>
   </span>
 );
 
+// Speed a demo clip up (never slow it down) so its key moment lands before the scene cuts.
+function useClipRate(need: number | undefined, startFrame: number): number {
+  const words = React.useContext(SceneWords);
+  const sceneSec = (words.length ? words[words.length - 1].end : 4) + 0.25;
+  const available = Math.max(1, sceneSec - startFrame / 30 - 0.3);
+  return Math.min(2.5, Math.max(1, (need ?? 6) / available));
+}
+
 const colorOf = (c: string) =>
   ({ ink: C.ink, bad: C.bad, accent: C.accent, ok: C.ok, muted: C.muted } as Record<string, string>)[c] ?? C.ink;
 
@@ -106,6 +114,7 @@ const NewThing: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
   const t = spec.newThing;
   const clipIn = useIn(10);
   const compact = Boolean(t.clip);
+  const rate = useClipRate(t.clipSeconds, 10);
   return (
     <AbsoluteFill
       style={{
@@ -181,7 +190,7 @@ const NewThing: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
           }}
         >
           <Sequence from={10} layout="none">
-            <OffthreadVideo src={staticFile(t.clip)} muted style={{ width: 860, height: 860 }} />
+            <OffthreadVideo src={staticFile(t.clip)} muted playbackRate={rate} style={{ width: 860, height: 860 }} />
           </Sequence>
         </div>
       )}
@@ -194,12 +203,13 @@ const NewThing: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
 const Verdict: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
   const beats = spec.verdict.lines.map((l, i) => useBeat(l.beat ?? "\u0000", i * 30));
   const clipIn = useIn(0);
+  const vRate = useClipRate(spec.verdict.clipSeconds, 0);
   if (spec.verdict.clip) {
     // demo clip on top, verdict lines underneath
     return (
       <AbsoluteFill style={{ paddingLeft: SAFE.left, paddingRight: SAFE.right, top: 140, height: 1200, paddingTop: 10 }}>
         <div style={{ alignSelf: "center", width: 760, height: 760, borderRadius: 30, overflow: "hidden", opacity: clipIn }}>
-          <OffthreadVideo src={staticFile(spec.verdict.clip)} muted style={{ width: 760, height: 760 }} />
+          <OffthreadVideo src={staticFile(spec.verdict.clip)} muted playbackRate={vRate} style={{ width: 760, height: 760 }} />
         </div>
         <div style={{ marginTop: 30 }}>
           <Tag>MY VERDICT</Tag>

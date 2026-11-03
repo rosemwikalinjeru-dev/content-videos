@@ -52,9 +52,11 @@ export type TeardownSpec = {
     isNews: boolean;
     /** HyperFrames demo clip shown under the title */
     clip?: string;
+    /** seconds of the clip that must be seen; playback speeds up to fit the scene */
+    clipSeconds?: number;
     /** do / don't rule card instead of a sub line */
     rule?: { dont: string; do: string };
   };
   after: Flow;
-  verdict: { clip?: string; lines: { text: string; beat?: string; color: "ok" | "bad" | "accent" | "muted" }[] };
+  verdict: { clip?: string; clipSeconds?: number; lines: { text: string; beat?: string; color: "ok" | "bad" | "accent" | "muted" }[] };
 };
