@@ -1,0 +1,65 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Do",
+      "start": 0,
+      "end": 0.255
+    },
+    {
+      "text": "this",
+      "start": 0.325,
+      "end": 0.488
+    },
+    {
+      "text": "one",
+      "start": 0.569,
+      "end": 0.731
+    },
+    {
+      "text": "now.",
+      "start": 0.766,
+      "end": 1.022
+    },
+    {
+      "text": "It",
+      "start": 1.057,
+      "end": 1.196
+    },
+    {
+      "text": "saves",
+      "start": 1.265,
+      "end": 1.533
+    },
+    {
+      "text": "jobs",
+      "start": 1.591,
+      "end": 1.834
+    },
+    {
+      "text": "you",
+      "start": 1.881,
+      "end": 1.985
+    },
+    {
+      "text": "already",
+      "start": 2.043,
+      "end": 2.461
+    },
+    {
+      "text": "paid",
+      "start": 2.531,
+      "end": 2.891
+    },
+    {
+      "text": "to",
+      "start": 3.042,
+      "end": 3.204
+    },
+    {
+      "text": "win.",
+      "start": 3.274,
+      "end": 3.762
+    }
+  ]
+}

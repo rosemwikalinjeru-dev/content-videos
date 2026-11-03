@@ -1,0 +1,95 @@
+{
+  "id": "before",
+  "words": [
+    {
+      "text": "You",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "copy",
+      "start": 0.232,
+      "end": 0.488
+    },
+    {
+      "text": "numbers",
+      "start": 0.546,
+      "end": 1.057
+    },
+    {
+      "text": "out",
+      "start": 1.184,
+      "end": 1.428
+    },
+    {
+      "text": "of",
+      "start": 1.498,
+      "end": 1.579
+    },
+    {
+      "text": "one",
+      "start": 1.695,
+      "end": 1.95
+    },
+    {
+      "text": "app,",
+      "start": 2.009,
+      "end": 2.368
+    },
+    {
+      "text": "paste",
+      "start": 2.543,
+      "end": 2.868
+    },
+    {
+      "text": "them",
+      "start": 2.914,
+      "end": 3.1
+    },
+    {
+      "text": "into",
+      "start": 3.216,
+      "end": 3.495
+    },
+    {
+      "text": "a",
+      "start": 3.564,
+      "end": 3.587
+    },
+    {
+      "text": "spreadsheet,",
+      "start": 3.634,
+      "end": 4.319
+    },
+    {
+      "text": "and",
+      "start": 4.412,
+      "end": 4.598
+    },
+    {
+      "text": "fix",
+      "start": 4.69,
+      "end": 4.934
+    },
+    {
+      "text": "the",
+      "start": 5.016,
+      "end": 5.097
+    },
+    {
+      "text": "formatting",
+      "start": 5.166,
+      "end": 5.747
+    },
+    {
+      "text": "by",
+      "start": 5.817,
+      "end": 5.968
+    },
+    {
+      "text": "hand.",
+      "start": 6.049,
+      "end": 6.641
+    }
+  ]
+}

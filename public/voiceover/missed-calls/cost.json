@@ -1,0 +1,65 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "Miss",
+      "start": 0,
+      "end": 0.406
+    },
+    {
+      "text": "three",
+      "start": 0.464,
+      "end": 0.697
+    },
+    {
+      "text": "calls",
+      "start": 0.755,
+      "end": 0.998
+    },
+    {
+      "text": "like",
+      "start": 1.068,
+      "end": 1.254
+    },
+    {
+      "text": "that",
+      "start": 1.277,
+      "end": 1.463
+    },
+    {
+      "text": "a",
+      "start": 1.533,
+      "end": 1.567
+    },
+    {
+      "text": "week,",
+      "start": 1.637,
+      "end": 1.939
+    },
+    {
+      "text": "and",
+      "start": 1.962,
+      "end": 2.101
+    },
+    {
+      "text": "that's",
+      "start": 2.159,
+      "end": 2.415
+    },
+    {
+      "text": "three",
+      "start": 2.496,
+      "end": 2.728
+    },
+    {
+      "text": "jobs",
+      "start": 2.775,
+      "end": 3.053
+    },
+    {
+      "text": "gone.",
+      "start": 3.123,
+      "end": 3.622
+    }
+  ]
+}

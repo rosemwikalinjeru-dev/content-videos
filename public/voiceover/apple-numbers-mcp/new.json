@@ -1,0 +1,120 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "Apple",
+      "start": 0,
+      "end": 0.522
+    },
+    {
+      "text": "says",
+      "start": 0.557,
+      "end": 0.801
+    },
+    {
+      "text": "Numbers",
+      "start": 0.917,
+      "end": 1.289
+    },
+    {
+      "text": "on",
+      "start": 1.347,
+      "end": 1.416
+    },
+    {
+      "text": "the",
+      "start": 1.463,
+      "end": 1.533
+    },
+    {
+      "text": "Mac",
+      "start": 1.591,
+      "end": 1.858
+    },
+    {
+      "text": "is",
+      "start": 1.95,
+      "end": 2.101
+    },
+    {
+      "text": "getting",
+      "start": 2.159,
+      "end": 2.438
+    },
+    {
+      "text": "a",
+      "start": 2.508,
+      "end": 2.531
+    },
+    {
+      "text": "way",
+      "start": 2.612,
+      "end": 2.786
+    },
+    {
+      "text": "for",
+      "start": 2.856,
+      "end": 3.019
+    },
+    {
+      "text": "outside",
+      "start": 3.111,
+      "end": 3.634
+    },
+    {
+      "text": "A-I",
+      "start": 3.715,
+      "end": 4.005
+    },
+    {
+      "text": "helpers",
+      "start": 4.098,
+      "end": 4.563
+    },
+    {
+      "text": "to",
+      "start": 4.841,
+      "end": 4.969
+    },
+    {
+      "text": "read",
+      "start": 5.085,
+      "end": 5.341
+    },
+    {
+      "text": "and",
+      "start": 5.399,
+      "end": 5.55
+    },
+    {
+      "text": "edit",
+      "start": 5.666,
+      "end": 6.037
+    },
+    {
+      "text": "your",
+      "start": 6.165,
+      "end": 6.339
+    },
+    {
+      "text": "spreadsheets.",
+      "start": 6.374,
+      "end": 7.047
+    },
+    {
+      "text": "It's",
+      "start": 7.163,
+      "end": 7.372
+    },
+    {
+      "text": "in",
+      "start": 7.43,
+      "end": 7.5
+    },
+    {
+      "text": "beta.",
+      "start": 7.558,
+      "end": 8.173
+    }
+  ]
+}

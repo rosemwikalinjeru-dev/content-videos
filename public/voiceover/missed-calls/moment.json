@@ -1,0 +1,85 @@
+{
+  "id": "moment",
+  "words": [
+    {
+      "text": "It's",
+      "start": 0,
+      "end": 0.372
+    },
+    {
+      "text": "Tuesday,",
+      "start": 0.43,
+      "end": 0.987
+    },
+    {
+      "text": "two",
+      "start": 1.057,
+      "end": 1.184
+    },
+    {
+      "text": "in",
+      "start": 1.265,
+      "end": 1.335
+    },
+    {
+      "text": "the",
+      "start": 1.37,
+      "end": 1.44
+    },
+    {
+      "text": "afternoon.",
+      "start": 1.486,
+      "end": 1.997
+    },
+    {
+      "text": "Your",
+      "start": 2.032,
+      "end": 2.206
+    },
+    {
+      "text": "plumber",
+      "start": 2.252,
+      "end": 2.577
+    },
+    {
+      "text": "is",
+      "start": 2.647,
+      "end": 2.752
+    },
+    {
+      "text": "under",
+      "start": 2.81,
+      "end": 3.03
+    },
+    {
+      "text": "a",
+      "start": 3.077,
+      "end": 3.1
+    },
+    {
+      "text": "sink...",
+      "start": 3.158,
+      "end": 3.634
+    },
+    {
+      "text": "and",
+      "start": 3.913,
+      "end": 4.087
+    },
+    {
+      "text": "the",
+      "start": 4.133,
+      "end": 4.214
+    },
+    {
+      "text": "phone",
+      "start": 4.261,
+      "end": 4.516
+    },
+    {
+      "text": "rings.",
+      "start": 4.551,
+      "end": 5.201
+    }
+  ]
+}

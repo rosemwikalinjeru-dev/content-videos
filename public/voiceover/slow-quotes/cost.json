@@ -1,0 +1,60 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "Every",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "slow",
+      "start": 0.488,
+      "end": 0.72
+    },
+    {
+      "text": "reply",
+      "start": 0.789,
+      "end": 1.231
+    },
+    {
+      "text": "is",
+      "start": 1.347,
+      "end": 1.509
+    },
+    {
+      "text": "a",
+      "start": 1.567,
+      "end": 1.602
+    },
+    {
+      "text": "quote",
+      "start": 1.66,
+      "end": 2.078
+    },
+    {
+      "text": "you",
+      "start": 2.148,
+      "end": 2.287
+    },
+    {
+      "text": "never",
+      "start": 2.368,
+      "end": 2.601
+    },
+    {
+      "text": "got",
+      "start": 2.659,
+      "end": 2.833
+    },
+    {
+      "text": "to",
+      "start": 2.868,
+      "end": 2.937
+    },
+    {
+      "text": "send.",
+      "start": 2.995,
+      "end": 3.622
+    }
+  ]
+}

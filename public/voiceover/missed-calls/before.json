@@ -1,0 +1,65 @@
+{
+  "id": "before",
+  "words": [
+    {
+      "text": "Nobody",
+      "start": 0,
+      "end": 0.627
+    },
+    {
+      "text": "answers.",
+      "start": 0.685,
+      "end": 1.335
+    },
+    {
+      "text": "Mike",
+      "start": 1.509,
+      "end": 1.776
+    },
+    {
+      "text": "hangs",
+      "start": 1.811,
+      "end": 2.09
+    },
+    {
+      "text": "up,",
+      "start": 2.148,
+      "end": 2.357
+    },
+    {
+      "text": "and",
+      "start": 2.38,
+      "end": 2.531
+    },
+    {
+      "text": "calls",
+      "start": 2.612,
+      "end": 2.868
+    },
+    {
+      "text": "the",
+      "start": 2.902,
+      "end": 2.984
+    },
+    {
+      "text": "next",
+      "start": 3.042,
+      "end": 3.274
+    },
+    {
+      "text": "plumber",
+      "start": 3.32,
+      "end": 3.646
+    },
+    {
+      "text": "on",
+      "start": 3.738,
+      "end": 3.878
+    },
+    {
+      "text": "Google.",
+      "start": 3.947,
+      "end": 4.505
+    }
+  ]
+}

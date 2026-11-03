@@ -1,0 +1,70 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "fix",
+      "start": 0.221,
+      "end": 0.511
+    },
+    {
+      "text": "is",
+      "start": 0.627,
+      "end": 0.789
+    },
+    {
+      "text": "simple.",
+      "start": 0.836,
+      "end": 1.312
+    },
+    {
+      "text": "Reply",
+      "start": 1.637,
+      "end": 2.078
+    },
+    {
+      "text": "in",
+      "start": 2.194,
+      "end": 2.287
+    },
+    {
+      "text": "minutes,",
+      "start": 2.345,
+      "end": 2.74
+    },
+    {
+      "text": "not",
+      "start": 2.786,
+      "end": 2.949
+    },
+    {
+      "text": "days,",
+      "start": 3.007,
+      "end": 3.332
+    },
+    {
+      "text": "even",
+      "start": 3.39,
+      "end": 3.657
+    },
+    {
+      "text": "when",
+      "start": 3.704,
+      "end": 3.843
+    },
+    {
+      "text": "you're",
+      "start": 3.878,
+      "end": 4.075
+    },
+    {
+      "text": "off.",
+      "start": 4.11,
+      "end": 4.551
+    }
+  ]
+}

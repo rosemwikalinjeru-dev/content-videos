@@ -1,0 +1,100 @@
+{
+  "id": "after",
+  "words": [
+    {
+      "text": "Now",
+      "start": 0,
+      "end": 0.221
+    },
+    {
+      "text": "Sarah's",
+      "start": 0.302,
+      "end": 0.789
+    },
+    {
+      "text": "email",
+      "start": 0.871,
+      "end": 1.219
+    },
+    {
+      "text": "comes",
+      "start": 1.289,
+      "end": 1.533
+    },
+    {
+      "text": "in.",
+      "start": 1.602,
+      "end": 1.904
+    },
+    {
+      "text": "The",
+      "start": 2.148,
+      "end": 2.299
+    },
+    {
+      "text": "A-I",
+      "start": 2.415,
+      "end": 2.74
+    },
+    {
+      "text": "types",
+      "start": 2.856,
+      "end": 3.216
+    },
+    {
+      "text": "it",
+      "start": 3.262,
+      "end": 3.367
+    },
+    {
+      "text": "into",
+      "start": 3.448,
+      "end": 3.669
+    },
+    {
+      "text": "the",
+      "start": 3.75,
+      "end": 3.843
+    },
+    {
+      "text": "system.",
+      "start": 3.889,
+      "end": 4.4
+    },
+    {
+      "text": "Your",
+      "start": 4.609,
+      "end": 4.783
+    },
+    {
+      "text": "front",
+      "start": 4.83,
+      "end": 5.085
+    },
+    {
+      "text": "desk",
+      "start": 5.132,
+      "end": 5.399
+    },
+    {
+      "text": "checks",
+      "start": 5.468,
+      "end": 5.782
+    },
+    {
+      "text": "it,",
+      "start": 5.84,
+      "end": 6.084
+    },
+    {
+      "text": "then",
+      "start": 6.235,
+      "end": 6.444
+    },
+    {
+      "text": "saves.",
+      "start": 6.56,
+      "end": 7.291
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Do",
+      "start": 0,
+      "end": 0.267
+    },
+    {
+      "text": "this",
+      "start": 0.337,
+      "end": 0.522
+    },
+    {
+      "text": "before",
+      "start": 0.592,
+      "end": 0.929
+    },
+    {
+      "text": "you",
+      "start": 0.964,
+      "end": 1.045
+    },
+    {
+      "text": "buy",
+      "start": 1.126,
+      "end": 1.382
+    },
+    {
+      "text": "any",
+      "start": 1.498,
+      "end": 1.753
+    },
+    {
+      "text": "fancy",
+      "start": 1.823,
+      "end": 2.299
+    },
+    {
+      "text": "A-I.",
+      "start": 2.38,
+      "end": 2.949
+    },
+    {
+      "text": "It's",
+      "start": 3.158,
+      "end": 3.344
+    },
+    {
+      "text": "the",
+      "start": 3.402,
+      "end": 3.483
+    },
+    {
+      "text": "easiest",
+      "start": 3.564,
+      "end": 4.087
+    },
+    {
+      "text": "win",
+      "start": 4.168,
+      "end": 4.4
+    },
+    {
+      "text": "in",
+      "start": 4.516,
+      "end": 4.632
+    },
+    {
+      "text": "the",
+      "start": 4.679,
+      "end": 4.76
+    },
+    {
+      "text": "building.",
+      "start": 4.807,
+      "end": 5.433
+    }
+  ]
+}

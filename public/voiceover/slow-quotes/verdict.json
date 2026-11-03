@@ -1,0 +1,65 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Worth",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "doing.",
+      "start": 0.522,
+      "end": 0.964
+    },
+    {
+      "text": "Just",
+      "start": 1.115,
+      "end": 1.312
+    },
+    {
+      "text": "keep",
+      "start": 1.358,
+      "end": 1.509
+    },
+    {
+      "text": "a",
+      "start": 1.567,
+      "end": 1.602
+    },
+    {
+      "text": "real",
+      "start": 1.672,
+      "end": 1.869
+    },
+    {
+      "text": "person",
+      "start": 1.939,
+      "end": 2.287
+    },
+    {
+      "text": "on",
+      "start": 2.357,
+      "end": 2.485
+    },
+    {
+      "text": "the",
+      "start": 2.531,
+      "end": 2.612
+    },
+    {
+      "text": "first",
+      "start": 2.67,
+      "end": 2.961
+    },
+    {
+      "text": "phone",
+      "start": 3.042,
+      "end": 3.297
+    },
+    {
+      "text": "call.",
+      "start": 3.332,
+      "end": 3.808
+    }
+  ]
+}

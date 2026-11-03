@@ -1,0 +1,80 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Promising.",
+      "start": 0,
+      "end": 0.708
+    },
+    {
+      "text": "But",
+      "start": 0.952,
+      "end": 1.138
+    },
+    {
+      "text": "it's",
+      "start": 1.196,
+      "end": 1.347
+    },
+    {
+      "text": "Mac",
+      "start": 1.416,
+      "end": 1.637
+    },
+    {
+      "text": "only,",
+      "start": 1.718,
+      "end": 2.229
+    },
+    {
+      "text": "and",
+      "start": 2.345,
+      "end": 2.496
+    },
+    {
+      "text": "it's",
+      "start": 2.566,
+      "end": 2.705
+    },
+    {
+      "text": "brand",
+      "start": 2.752,
+      "end": 3.019
+    },
+    {
+      "text": "new.",
+      "start": 3.088,
+      "end": 3.355
+    },
+    {
+      "text": "Test",
+      "start": 3.599,
+      "end": 3.878
+    },
+    {
+      "text": "it",
+      "start": 3.924,
+      "end": 4.017
+    },
+    {
+      "text": "on",
+      "start": 4.075,
+      "end": 4.168
+    },
+    {
+      "text": "one",
+      "start": 4.249,
+      "end": 4.423
+    },
+    {
+      "text": "report",
+      "start": 4.47,
+      "end": 4.841
+    },
+    {
+      "text": "first.",
+      "start": 4.911,
+      "end": 5.526
+    }
+  ]
+}

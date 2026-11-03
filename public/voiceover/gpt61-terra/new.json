@@ -1,0 +1,90 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "OpenAI",
+      "start": 0,
+      "end": 0.801
+    },
+    {
+      "text": "just",
+      "start": 0.917,
+      "end": 1.196
+    },
+    {
+      "text": "released",
+      "start": 1.289,
+      "end": 1.8
+    },
+    {
+      "text": "G-P-T",
+      "start": 1.974,
+      "end": 2.566
+    },
+    {
+      "text": "six",
+      "start": 2.717,
+      "end": 3.007
+    },
+    {
+      "text": "point",
+      "start": 3.1,
+      "end": 3.355
+    },
+    {
+      "text": "one",
+      "start": 3.437,
+      "end": 3.611
+    },
+    {
+      "text": "Terra.",
+      "start": 3.646,
+      "end": 4.052
+    },
+    {
+      "text": "It",
+      "start": 4.331,
+      "end": 4.505
+    },
+    {
+      "text": "can",
+      "start": 4.563,
+      "end": 4.702
+    },
+    {
+      "text": "use",
+      "start": 4.772,
+      "end": 4.934
+    },
+    {
+      "text": "a",
+      "start": 4.957,
+      "end": 4.981
+    },
+    {
+      "text": "computer",
+      "start": 5.039,
+      "end": 5.48
+    },
+    {
+      "text": "and",
+      "start": 5.538,
+      "end": 5.631
+    },
+    {
+      "text": "fill",
+      "start": 5.689,
+      "end": 5.863
+    },
+    {
+      "text": "in",
+      "start": 5.921,
+      "end": 5.991
+    },
+    {
+      "text": "forms.",
+      "start": 6.072,
+      "end": 6.78
+    }
+  ]
+}

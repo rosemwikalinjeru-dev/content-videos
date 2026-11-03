@@ -1,0 +1,77 @@
+{
+  "video": "apple-numbers-mcp",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "ede8f922909e2ea4",
+      "audio": "voiceover/apple-numbers-mcp/moment.mp3",
+      "captions": "voiceover/apple-numbers-mcp/moment.json",
+      "durationInSeconds": 4.911,
+      "characters": 83
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "53078544ce25f107",
+      "audio": "voiceover/apple-numbers-mcp/before.mp3",
+      "captions": "voiceover/apple-numbers-mcp/before.json",
+      "durationInSeconds": 6.687,
+      "characters": 95
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "19ef4dfc9065abac",
+      "audio": "voiceover/apple-numbers-mcp/cost.mp3",
+      "captions": "voiceover/apple-numbers-mcp/cost.json",
+      "durationInSeconds": 5.982,
+      "characters": 92
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "19eb8fc2b3e1321d",
+      "audio": "voiceover/apple-numbers-mcp/new.mp3",
+      "captions": "voiceover/apple-numbers-mcp/new.json",
+      "durationInSeconds": 8.202,
+      "characters": 120
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "01ba401badad7848",
+      "audio": "voiceover/apple-numbers-mcp/after.mp3",
+      "captions": "voiceover/apple-numbers-mcp/after.json",
+      "durationInSeconds": 5.982,
+      "characters": 96
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f8576e8131f4ef54",
+      "audio": "voiceover/apple-numbers-mcp/verdict.mp3",
+      "captions": "voiceover/apple-numbers-mcp/verdict.json",
+      "durationInSeconds": 5.564,
+      "characters": 78
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/apple-numbers-mcp/cta.mp3",
+      "captions": "voiceover/apple-numbers-mcp/cta.json",
+      "durationInSeconds": 3.527,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T03:22:48.461Z"
+}

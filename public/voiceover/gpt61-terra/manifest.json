@@ -3,95 +3,75 @@
   "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
   "scenes": [
     {
-      "id": "hook",
-      "version": "v3",
-      "model": "eleven_v3",
-      "hash": "cfdda00344b9e65e",
-      "audio": "voiceover/gpt61-terra/hook.mp3",
-      "captions": "voiceover/gpt61-terra/hook.json",
-      "durationInSeconds": 8.438,
-      "characters": 86
-    },
-    {
-      "id": "what",
+      "id": "moment",
       "version": "v2",
       "model": "eleven_multilingual_v2",
-      "hash": "9b9043e0a580abeb",
-      "audio": "voiceover/gpt61-terra/what.mp3",
-      "captions": "voiceover/gpt61-terra/what.json",
+      "hash": "ec080d8fb1814c7e",
+      "audio": "voiceover/gpt61-terra/moment.mp3",
+      "captions": "voiceover/gpt61-terra/moment.json",
+      "durationInSeconds": 4.728,
+      "characters": 83
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "b6f07651426634ae",
+      "audio": "voiceover/gpt61-terra/before.mp3",
+      "captions": "voiceover/gpt61-terra/before.json",
       "durationInSeconds": 6.034,
-      "characters": 94
+      "characters": 89
     },
     {
-      "id": "price",
+      "id": "cost",
       "version": "v2",
       "model": "eleven_multilingual_v2",
-      "hash": "88035b41f9dac183",
-      "audio": "voiceover/gpt61-terra/price.mp3",
-      "captions": "voiceover/gpt61-terra/price.json",
-      "durationInSeconds": 7.131,
-      "characters": 102
+      "hash": "60ed25943f48dfb7",
+      "audio": "voiceover/gpt61-terra/cost.mp3",
+      "captions": "voiceover/gpt61-terra/cost.json",
+      "durationInSeconds": 5.016,
+      "characters": 69
     },
     {
-      "id": "speed",
+      "id": "new",
       "version": "v2",
       "model": "eleven_multilingual_v2",
-      "hash": "ea583fcbac6a2e2d",
-      "audio": "voiceover/gpt61-terra/speed.mp3",
-      "captions": "voiceover/gpt61-terra/speed.json",
-      "durationInSeconds": 7.184,
-      "characters": 106
+      "hash": "59944c9722cb5129",
+      "audio": "voiceover/gpt61-terra/new.mp3",
+      "captions": "voiceover/gpt61-terra/new.json",
+      "durationInSeconds": 6.818,
+      "characters": 88
     },
     {
-      "id": "caveat",
+      "id": "after",
       "version": "v2",
       "model": "eleven_multilingual_v2",
-      "hash": "a7343abd96061c7a",
-      "audio": "voiceover/gpt61-terra/caveat.mp3",
-      "captions": "voiceover/gpt61-terra/caveat.json",
-      "durationInSeconds": 2.534,
-      "characters": 34
-    },
-    {
-      "id": "business",
-      "version": "v2",
-      "model": "eleven_multilingual_v2",
-      "hash": "622307e4c469b0df",
-      "audio": "voiceover/gpt61-terra/business.mp3",
-      "captions": "voiceover/gpt61-terra/business.json",
-      "durationInSeconds": 9.874,
-      "characters": 139
-    },
-    {
-      "id": "fix",
-      "version": "v2",
-      "model": "eleven_multilingual_v2",
-      "hash": "6e792db205950623",
-      "audio": "voiceover/gpt61-terra/fix.mp3",
-      "captions": "voiceover/gpt61-terra/fix.json",
-      "durationInSeconds": 7.419,
-      "characters": 103
+      "hash": "7f1602f169b9229b",
+      "audio": "voiceover/gpt61-terra/after.mp3",
+      "captions": "voiceover/gpt61-terra/after.json",
+      "durationInSeconds": 7.34,
+      "characters": 100
     },
     {
       "id": "verdict",
       "version": "v2",
       "model": "eleven_multilingual_v2",
-      "hash": "09c47ddc8835e3cd",
+      "hash": "a42e7b8bad888209",
       "audio": "voiceover/gpt61-terra/verdict.mp3",
       "captions": "voiceover/gpt61-terra/verdict.json",
-      "durationInSeconds": 7.419,
-      "characters": 111
+      "durationInSeconds": 5.198,
+      "characters": 74
     },
     {
       "id": "cta",
       "version": "v2",
       "model": "eleven_multilingual_v2",
-      "hash": "d681275870b5af86",
+      "hash": "344b54132bac20a8",
       "audio": "voiceover/gpt61-terra/cta.mp3",
       "captions": "voiceover/gpt61-terra/cta.json",
-      "durationInSeconds": 5.512,
-      "characters": 84
+      "durationInSeconds": 3.709,
+      "characters": 56
     }
   ],
-  "generatedAt": "2026-11-02T18:20:51.694Z"
+  "generatedAt": "2026-11-03T03:22:44.286Z"
 }

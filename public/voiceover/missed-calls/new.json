@@ -1,0 +1,85 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.244
+    },
+    {
+      "text": "fix",
+      "start": 0.313,
+      "end": 0.58
+    },
+    {
+      "text": "isn't",
+      "start": 0.662,
+      "end": 0.94
+    },
+    {
+      "text": "fancy.",
+      "start": 0.998,
+      "end": 1.533
+    },
+    {
+      "text": "When",
+      "start": 1.707,
+      "end": 1.916
+    },
+    {
+      "text": "a",
+      "start": 1.974,
+      "end": 2.009
+    },
+    {
+      "text": "call",
+      "start": 2.078,
+      "end": 2.299
+    },
+    {
+      "text": "is",
+      "start": 2.38,
+      "end": 2.496
+    },
+    {
+      "text": "missed,",
+      "start": 2.589,
+      "end": 2.937
+    },
+    {
+      "text": "a",
+      "start": 3.019,
+      "end": 3.111
+    },
+    {
+      "text": "text",
+      "start": 3.193,
+      "end": 3.506
+    },
+    {
+      "text": "goes",
+      "start": 3.576,
+      "end": 3.796
+    },
+    {
+      "text": "out",
+      "start": 3.855,
+      "end": 4.029
+    },
+    {
+      "text": "within",
+      "start": 4.098,
+      "end": 4.365
+    },
+    {
+      "text": "a",
+      "start": 4.423,
+      "end": 4.447
+    },
+    {
+      "text": "minute.",
+      "start": 4.505,
+      "end": 5.108
+    }
+  ]
+}

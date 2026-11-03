@@ -1,0 +1,77 @@
+{
+  "video": "missed-calls",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7c9e57d28c7e8747",
+      "audio": "voiceover/missed-calls/moment.mp3",
+      "captions": "voiceover/missed-calls/moment.json",
+      "durationInSeconds": 5.251,
+      "characters": 88
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7f9bf775fa37a3d2",
+      "audio": "voiceover/missed-calls/before.mp3",
+      "captions": "voiceover/missed-calls/before.json",
+      "durationInSeconds": 4.545,
+      "characters": 68
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c9c594bcf4287c7e",
+      "audio": "voiceover/missed-calls/cost.mp3",
+      "captions": "voiceover/missed-calls/cost.json",
+      "durationInSeconds": 3.657,
+      "characters": 62
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "073b2f2a33d18e63",
+      "audio": "voiceover/missed-calls/new.mp3",
+      "captions": "voiceover/missed-calls/new.json",
+      "durationInSeconds": 5.146,
+      "characters": 76
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7381879cade9954a",
+      "audio": "voiceover/missed-calls/after.mp3",
+      "captions": "voiceover/missed-calls/after.json",
+      "durationInSeconds": 5.799,
+      "characters": 93
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7019a9b3f2826ca2",
+      "audio": "voiceover/missed-calls/verdict.mp3",
+      "captions": "voiceover/missed-calls/verdict.json",
+      "durationInSeconds": 3.788,
+      "characters": 55
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/missed-calls/cta.mp3",
+      "captions": "voiceover/missed-calls/cta.json",
+      "durationInSeconds": 3.657,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T03:22:52.094Z"
+}

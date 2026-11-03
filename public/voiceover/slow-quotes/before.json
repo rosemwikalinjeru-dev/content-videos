@@ -1,0 +1,85 @@
+{
+  "id": "before",
+  "words": [
+    {
+      "text": "It",
+      "start": 0,
+      "end": 0.313
+    },
+    {
+      "text": "lands",
+      "start": 0.383,
+      "end": 0.708
+    },
+    {
+      "text": "in",
+      "start": 0.766,
+      "end": 0.882
+    },
+    {
+      "text": "an",
+      "start": 0.94,
+      "end": 1.022
+    },
+    {
+      "text": "inbox",
+      "start": 1.115,
+      "end": 1.579
+    },
+    {
+      "text": "nobody",
+      "start": 1.695,
+      "end": 2.113
+    },
+    {
+      "text": "checks",
+      "start": 2.171,
+      "end": 2.554
+    },
+    {
+      "text": "until",
+      "start": 2.682,
+      "end": 2.984
+    },
+    {
+      "text": "Tuesday.",
+      "start": 3.042,
+      "end": 3.599
+    },
+    {
+      "text": "By",
+      "start": 3.808,
+      "end": 4.005
+    },
+    {
+      "text": "then,",
+      "start": 4.063,
+      "end": 4.435
+    },
+    {
+      "text": "Lisa",
+      "start": 4.551,
+      "end": 4.911
+    },
+    {
+      "text": "has",
+      "start": 4.981,
+      "end": 5.143
+    },
+    {
+      "text": "hired",
+      "start": 5.236,
+      "end": 5.608
+    },
+    {
+      "text": "someone",
+      "start": 5.654,
+      "end": 6.026
+    },
+    {
+      "text": "else.",
+      "start": 6.06,
+      "end": 6.641
+    }
+  ]
+}

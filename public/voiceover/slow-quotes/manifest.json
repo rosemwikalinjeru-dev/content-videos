@@ -1,0 +1,77 @@
+{
+  "video": "slow-quotes",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "e5d9db420068243f",
+      "audio": "voiceover/slow-quotes/moment.mp3",
+      "captions": "voiceover/slow-quotes/moment.json",
+      "durationInSeconds": 4.598,
+      "characters": 72
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c7cc2a046cb14921",
+      "audio": "voiceover/slow-quotes/before.mp3",
+      "captions": "voiceover/slow-quotes/before.json",
+      "durationInSeconds": 6.687,
+      "characters": 87
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6a389a16e783c110",
+      "audio": "voiceover/slow-quotes/cost.mp3",
+      "captions": "voiceover/slow-quotes/cost.json",
+      "durationInSeconds": 3.657,
+      "characters": 50
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "98403d53976fded4",
+      "audio": "voiceover/slow-quotes/new.mp3",
+      "captions": "voiceover/slow-quotes/new.json",
+      "durationInSeconds": 4.598,
+      "characters": 68
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "0673e2eafd4556fa",
+      "audio": "voiceover/slow-quotes/after.mp3",
+      "captions": "voiceover/slow-quotes/after.json",
+      "durationInSeconds": 8.62,
+      "characters": 133
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7a062ba59b6ed9f7",
+      "audio": "voiceover/slow-quotes/verdict.mp3",
+      "captions": "voiceover/slow-quotes/verdict.json",
+      "durationInSeconds": 3.84,
+      "characters": 61
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/slow-quotes/cta.mp3",
+      "captions": "voiceover/slow-quotes/cta.json",
+      "durationInSeconds": 3.527,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T03:22:58.754Z"
+}
