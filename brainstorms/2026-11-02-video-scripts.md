@@ -16,6 +16,12 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
 - **Default story structure: Before → After, told through one customer.** First the broken flow (the red box is the single bottleneck), then the fixed flow (where automation goes and where a person still checks).
 - **Diagram limits:** max 4 boxes per flow, exactly one red box, and each box appears when the voice says it.
 - **"Make it relatable"** is an explicit requirement (Rose, Q4), so every script must pass a relatability check.
+- **Relatability rule: the owner's moment comes first, then the customer moves through the flow.** Every short-form script needs:
+  1. A real moment with a time of day and a situation ("It's Monday, 8am. Your front desk has fourteen new patient emails…")
+  2. One named demo customer with an ordinary name, labelled demo on screen
+  3. A cost in owner terms (hours per week, a lost appointment, a wrong record), never tokens or benchmarks
+  4. Owner vocabulary ("front desk", "appointment", "the system"), never "workflow", "integration" or "API" in the voiceover
+- **Demo numbers are allowed only if labelled as demo** on screen (e.g. "DEMO SCENARIO"). Real or news numbers still need a source in research/.
 - **Primary goal of each video: traffic to Rose's pages** (profile visits and follows), not direct sales from the video.
 
 ## Q&A log
@@ -43,6 +49,12 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
 - Captured: "yes, before → after through one customer. Make it relatable"
 - Terra example: Before = Patient emails → front desk retypes (red) → old system. After = Patient emails → AI fills the form → staff approve → saved.
 - Flags: what "relatable" concretely means (whose pain leads, how the customer is named) -> asked as Q5
+
+### Q5 — What makes it relatable?
+- Asked: owner's pain vs. customer's pain leading, and how specific the moment is (recommended owner's moment first, customer moves through the flow, demo numbers labelled).
+- Captured: "yes, owner's moment first, label demo numbers"
+- Terra hook draft (not yet approved): "It's Monday, 8am. Your front desk has fourteen new patient emails… and every one gets retyped by hand. OpenAI just released an AI that can do that typing for you."
+- Flags: none
 
 ## Open flags (pending input)
 - CTA mechanic: is "traffic to my pages" = follow/profile visit, or should we still use a comment-keyword to start DMs? (inferred: follow-first) -> Rose
