@@ -1,0 +1,65 @@
+{
+  "id": "moment",
+  "words": [
+    {
+      "text": "Your",
+      "start": 0,
+      "end": 0.255
+    },
+    {
+      "text": "A-I",
+      "start": 0.372,
+      "end": 0.836
+    },
+    {
+      "text": "receptionist",
+      "start": 0.952,
+      "end": 1.788
+    },
+    {
+      "text": "doesn't",
+      "start": 2.032,
+      "end": 2.392
+    },
+    {
+      "text": "need",
+      "start": 2.438,
+      "end": 2.635
+    },
+    {
+      "text": "to",
+      "start": 2.682,
+      "end": 2.752
+    },
+    {
+      "text": "be",
+      "start": 2.821,
+      "end": 2.926
+    },
+    {
+      "text": "hacked",
+      "start": 3.007,
+      "end": 3.355
+    },
+    {
+      "text": "to",
+      "start": 3.483,
+      "end": 3.611
+    },
+    {
+      "text": "hurt",
+      "start": 3.68,
+      "end": 3.913
+    },
+    {
+      "text": "your",
+      "start": 3.959,
+      "end": 4.075
+    },
+    {
+      "text": "business.",
+      "start": 4.122,
+      "end": 4.876
+    }
+  ]
+}

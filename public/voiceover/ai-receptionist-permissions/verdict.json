@@ -1,0 +1,60 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Don't",
+      "start": 0,
+      "end": 0.36
+    },
+    {
+      "text": "give",
+      "start": 0.395,
+      "end": 0.569
+    },
+    {
+      "text": "your",
+      "start": 0.604,
+      "end": 0.743
+    },
+    {
+      "text": "A-I",
+      "start": 0.824,
+      "end": 1.022
+    },
+    {
+      "text": "the",
+      "start": 1.115,
+      "end": 1.207
+    },
+    {
+      "text": "keys.",
+      "start": 1.265,
+      "end": 1.544
+    },
+    {
+      "text": "Give",
+      "start": 1.567,
+      "end": 1.788
+    },
+    {
+      "text": "it",
+      "start": 1.823,
+      "end": 1.927
+    },
+    {
+      "text": "a",
+      "start": 1.985,
+      "end": 2.009
+    },
+    {
+      "text": "job",
+      "start": 2.09,
+      "end": 2.31
+    },
+    {
+      "text": "description.",
+      "start": 2.392,
+      "end": 3.344
+    }
+  ]
+}

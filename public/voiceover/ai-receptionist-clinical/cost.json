@@ -1,0 +1,85 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "That's",
+      "start": 0,
+      "end": 0.383
+    },
+    {
+      "text": "not",
+      "start": 0.43,
+      "end": 0.569
+    },
+    {
+      "text": "a",
+      "start": 0.615,
+      "end": 0.65
+    },
+    {
+      "text": "wrong",
+      "start": 0.697,
+      "end": 0.871
+    },
+    {
+      "text": "booking.",
+      "start": 0.929,
+      "end": 1.324
+    },
+    {
+      "text": "That's",
+      "start": 1.347,
+      "end": 1.602
+    },
+    {
+      "text": "medical",
+      "start": 1.66,
+      "end": 2.02
+    },
+    {
+      "text": "advice",
+      "start": 2.078,
+      "end": 2.461
+    },
+    {
+      "text": "from",
+      "start": 2.496,
+      "end": 2.635
+    },
+    {
+      "text": "a",
+      "start": 2.694,
+      "end": 2.717
+    },
+    {
+      "text": "chatbot,",
+      "start": 2.775,
+      "end": 3.437
+    },
+    {
+      "text": "with",
+      "start": 3.587,
+      "end": 3.773
+    },
+    {
+      "text": "your",
+      "start": 3.808,
+      "end": 3.924
+    },
+    {
+      "text": "name",
+      "start": 3.971,
+      "end": 4.156
+    },
+    {
+      "text": "on",
+      "start": 4.203,
+      "end": 4.296
+    },
+    {
+      "text": "it.",
+      "start": 4.342,
+      "end": 4.83
+    }
+  ]
+}

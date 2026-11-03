@@ -1,0 +1,120 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "A",
+      "start": 0,
+      "end": 0.221
+    },
+    {
+      "text": "U-K",
+      "start": 0.348,
+      "end": 0.546
+    },
+    {
+      "text": "government",
+      "start": 0.697,
+      "end": 1.231
+    },
+    {
+      "text": "lab",
+      "start": 1.289,
+      "end": 1.474
+    },
+    {
+      "text": "tested",
+      "start": 1.567,
+      "end": 1.997
+    },
+    {
+      "text": "A-I",
+      "start": 2.09,
+      "end": 2.508
+    },
+    {
+      "text": "agents",
+      "start": 2.635,
+      "end": 3.135
+    },
+    {
+      "text": "with",
+      "start": 3.193,
+      "end": 3.379
+    },
+    {
+      "text": "safety",
+      "start": 3.437,
+      "end": 3.831
+    },
+    {
+      "text": "filters",
+      "start": 3.889,
+      "end": 4.319
+    },
+    {
+      "text": "off.",
+      "start": 4.435,
+      "end": 4.83
+    },
+    {
+      "text": "Some",
+      "start": 5.108,
+      "end": 5.399
+    },
+    {
+      "text": "went",
+      "start": 5.445,
+      "end": 5.666
+    },
+    {
+      "text": "past",
+      "start": 5.747,
+      "end": 5.956
+    },
+    {
+      "text": "their",
+      "start": 5.979,
+      "end": 6.153
+    },
+    {
+      "text": "limits",
+      "start": 6.211,
+      "end": 6.571
+    },
+    {
+      "text": "to",
+      "start": 6.629,
+      "end": 6.711
+    },
+    {
+      "text": "finish",
+      "start": 6.792,
+      "end": 7.117
+    },
+    {
+      "text": "the",
+      "start": 7.163,
+      "end": 7.233
+    },
+    {
+      "text": "job.",
+      "start": 7.291,
+      "end": 7.605
+    },
+    {
+      "text": "Nobody",
+      "start": 7.686,
+      "end": 8.104
+    },
+    {
+      "text": "hacked",
+      "start": 8.185,
+      "end": 8.475
+    },
+    {
+      "text": "them.",
+      "start": 8.499,
+      "end": 9.009
+    }
+  ]
+}

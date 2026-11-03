@@ -1,0 +1,65 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Your",
+      "start": 0,
+      "end": 0.406
+    },
+    {
+      "text": "A-I",
+      "start": 0.522,
+      "end": 0.882
+    },
+    {
+      "text": "can",
+      "start": 1.091,
+      "end": 1.265
+    },
+    {
+      "text": "book",
+      "start": 1.324,
+      "end": 1.498
+    },
+    {
+      "text": "the",
+      "start": 1.556,
+      "end": 1.637
+    },
+    {
+      "text": "appointment.",
+      "start": 1.695,
+      "end": 2.45
+    },
+    {
+      "text": "It",
+      "start": 2.659,
+      "end": 2.798
+    },
+    {
+      "text": "should",
+      "start": 2.833,
+      "end": 3.042
+    },
+    {
+      "text": "never",
+      "start": 3.1,
+      "end": 3.32
+    },
+    {
+      "text": "give",
+      "start": 3.379,
+      "end": 3.576
+    },
+    {
+      "text": "the",
+      "start": 3.599,
+      "end": 3.692
+    },
+    {
+      "text": "answer.",
+      "start": 3.738,
+      "end": 4.365
+    }
+  ]
+}

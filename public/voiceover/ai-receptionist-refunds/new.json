@@ -1,0 +1,65 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.232
+    },
+    {
+      "text": "fix",
+      "start": 0.302,
+      "end": 0.546
+    },
+    {
+      "text": "is",
+      "start": 0.627,
+      "end": 0.731
+    },
+    {
+      "text": "one",
+      "start": 0.813,
+      "end": 0.987
+    },
+    {
+      "text": "rule.",
+      "start": 1.01,
+      "end": 1.37
+    },
+    {
+      "text": "Money",
+      "start": 1.521,
+      "end": 1.788
+    },
+    {
+      "text": "questions",
+      "start": 1.834,
+      "end": 2.252
+    },
+    {
+      "text": "are",
+      "start": 2.299,
+      "end": 2.403
+    },
+    {
+      "text": "never",
+      "start": 2.438,
+      "end": 2.659
+    },
+    {
+      "text": "the",
+      "start": 2.717,
+      "end": 2.833
+    },
+    {
+      "text": "A-I's",
+      "start": 2.914,
+      "end": 3.332
+    },
+    {
+      "text": "call.",
+      "start": 3.413,
+      "end": 3.994
+    }
+  ]
+}

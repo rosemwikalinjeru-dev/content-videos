@@ -1,0 +1,77 @@
+{
+  "video": "ai-receptionist-permissions",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9af8b9498361ecc9",
+      "audio": "voiceover/ai-receptionist-permissions/moment.mp3",
+      "captions": "voiceover/ai-receptionist-permissions/moment.json",
+      "durationInSeconds": 4.911,
+      "characters": 70
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9a8a4bdaa5e09e9f",
+      "audio": "voiceover/ai-receptionist-permissions/before.mp3",
+      "captions": "voiceover/ai-receptionist-permissions/before.json",
+      "durationInSeconds": 8.438,
+      "characters": 110
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c08be60b1a631ac8",
+      "audio": "voiceover/ai-receptionist-permissions/cost.mp3",
+      "captions": "voiceover/ai-receptionist-permissions/cost.json",
+      "durationInSeconds": 4.963,
+      "characters": 84
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "e83ff114d06729dc",
+      "audio": "voiceover/ai-receptionist-permissions/new.mp3",
+      "captions": "voiceover/ai-receptionist-permissions/new.json",
+      "durationInSeconds": 9.038,
+      "characters": 130
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a9e0c2b0a99ec511",
+      "audio": "voiceover/ai-receptionist-permissions/after.mp3",
+      "captions": "voiceover/ai-receptionist-permissions/after.json",
+      "durationInSeconds": 9.143,
+      "characters": 137
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "423821987f9f1dea",
+      "audio": "voiceover/ai-receptionist-permissions/verdict.mp3",
+      "captions": "voiceover/ai-receptionist-permissions/verdict.json",
+      "durationInSeconds": 3.37,
+      "characters": 56
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/ai-receptionist-permissions/cta.mp3",
+      "captions": "voiceover/ai-receptionist-permissions/cta.json",
+      "durationInSeconds": 3.37,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T07:26:58.303Z"
+}

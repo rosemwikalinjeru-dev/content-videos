@@ -1,0 +1,75 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.232
+    },
+    {
+      "text": "fix",
+      "start": 0.302,
+      "end": 0.58
+    },
+    {
+      "text": "is",
+      "start": 0.697,
+      "end": 0.824
+    },
+    {
+      "text": "a",
+      "start": 0.871,
+      "end": 0.894
+    },
+    {
+      "text": "hard",
+      "start": 0.964,
+      "end": 1.138
+    },
+    {
+      "text": "line.",
+      "start": 1.207,
+      "end": 1.591
+    },
+    {
+      "text": "Anything",
+      "start": 1.8,
+      "end": 2.299
+    },
+    {
+      "text": "clinical",
+      "start": 2.357,
+      "end": 2.833
+    },
+    {
+      "text": "goes",
+      "start": 2.902,
+      "end": 3.088
+    },
+    {
+      "text": "to",
+      "start": 3.146,
+      "end": 3.216
+    },
+    {
+      "text": "a",
+      "start": 3.286,
+      "end": 3.32
+    },
+    {
+      "text": "provider.",
+      "start": 3.379,
+      "end": 3.994
+    },
+    {
+      "text": "Every",
+      "start": 4.145,
+      "end": 4.447
+    },
+    {
+      "text": "time.",
+      "start": 4.493,
+      "end": 5.016
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "Now",
+      "start": 0,
+      "end": 0.348
+    },
+    {
+      "text": "your",
+      "start": 0.406,
+      "end": 0.534
+    },
+    {
+      "text": "front",
+      "start": 0.58,
+      "end": 0.789
+    },
+    {
+      "text": "desk",
+      "start": 0.836,
+      "end": 1.173
+    },
+    {
+      "text": "starts",
+      "start": 1.289,
+      "end": 1.625
+    },
+    {
+      "text": "Monday",
+      "start": 1.695,
+      "end": 2.043
+    },
+    {
+      "text": "by",
+      "start": 2.113,
+      "end": 2.229
+    },
+    {
+      "text": "taking",
+      "start": 2.276,
+      "end": 2.566
+    },
+    {
+      "text": "back",
+      "start": 2.624,
+      "end": 2.798
+    },
+    {
+      "text": "a",
+      "start": 2.844,
+      "end": 2.868
+    },
+    {
+      "text": "promise.",
+      "start": 2.914,
+      "end": 3.622
+    }
+  ]
+}

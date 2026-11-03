@@ -1,0 +1,90 @@
+{
+  "id": "before",
+  "words": [
+    {
+      "text": "Your",
+      "start": 0,
+      "end": 0.383
+    },
+    {
+      "text": "A-I",
+      "start": 0.534,
+      "end": 1.103
+    },
+    {
+      "text": "receptionist",
+      "start": 1.219,
+      "end": 1.916
+    },
+    {
+      "text": "answers",
+      "start": 1.997,
+      "end": 2.519
+    },
+    {
+      "text": "right",
+      "start": 2.635,
+      "end": 2.891
+    },
+    {
+      "text": "away.",
+      "start": 2.937,
+      "end": 3.309
+    },
+    {
+      "text": "It",
+      "start": 3.483,
+      "end": 3.634
+    },
+    {
+      "text": "sounds",
+      "start": 3.692,
+      "end": 3.959
+    },
+    {
+      "text": "confident.",
+      "start": 4.029,
+      "end": 4.644
+    },
+    {
+      "text": "And",
+      "start": 4.853,
+      "end": 5.004
+    },
+    {
+      "text": "nobody",
+      "start": 5.074,
+      "end": 5.433
+    },
+    {
+      "text": "with",
+      "start": 5.48,
+      "end": 5.654
+    },
+    {
+      "text": "a",
+      "start": 5.7,
+      "end": 5.724
+    },
+    {
+      "text": "license",
+      "start": 5.793,
+      "end": 6.281
+    },
+    {
+      "text": "ever",
+      "start": 6.362,
+      "end": 6.594
+    },
+    {
+      "text": "sees",
+      "start": 6.641,
+      "end": 6.85
+    },
+    {
+      "text": "it.",
+      "start": 6.92,
+      "end": 7.384
+    }
+  ]
+}

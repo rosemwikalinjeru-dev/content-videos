@@ -1,0 +1,115 @@
+{
+  "id": "after",
+  "words": [
+    {
+      "text": "Maya's",
+      "start": 0,
+      "end": 0.418
+    },
+    {
+      "text": "question",
+      "start": 0.488,
+      "end": 0.906
+    },
+    {
+      "text": "comes",
+      "start": 0.964,
+      "end": 1.207
+    },
+    {
+      "text": "in.",
+      "start": 1.277,
+      "end": 1.509
+    },
+    {
+      "text": "The",
+      "start": 1.683,
+      "end": 1.846
+    },
+    {
+      "text": "A-I",
+      "start": 1.927,
+      "end": 2.438
+    },
+    {
+      "text": "spots",
+      "start": 2.508,
+      "end": 2.961
+    },
+    {
+      "text": "that",
+      "start": 3.077,
+      "end": 3.344
+    },
+    {
+      "text": "it's",
+      "start": 3.425,
+      "end": 3.634
+    },
+    {
+      "text": "clinical,",
+      "start": 3.692,
+      "end": 4.342
+    },
+    {
+      "text": "tells",
+      "start": 4.435,
+      "end": 4.76
+    },
+    {
+      "text": "her",
+      "start": 4.83,
+      "end": 4.981
+    },
+    {
+      "text": "a",
+      "start": 5.05,
+      "end": 5.097
+    },
+    {
+      "text": "provider",
+      "start": 5.166,
+      "end": 5.666
+    },
+    {
+      "text": "will",
+      "start": 5.724,
+      "end": 5.909
+    },
+    {
+      "text": "reply,",
+      "start": 5.991,
+      "end": 6.536
+    },
+    {
+      "text": "and",
+      "start": 6.687,
+      "end": 6.838
+    },
+    {
+      "text": "flags",
+      "start": 6.92,
+      "end": 7.291
+    },
+    {
+      "text": "it",
+      "start": 7.349,
+      "end": 7.477
+    },
+    {
+      "text": "for",
+      "start": 7.593,
+      "end": 7.79
+    },
+    {
+      "text": "the",
+      "start": 7.848,
+      "end": 7.93
+    },
+    {
+      "text": "morning.",
+      "start": 7.999,
+      "end": 8.684
+    }
+  ]
+}

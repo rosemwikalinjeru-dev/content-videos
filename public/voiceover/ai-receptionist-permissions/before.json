@@ -1,0 +1,115 @@
+{
+  "id": "before",
+  "words": [
+    {
+      "text": "It's",
+      "start": 0,
+      "end": 0.348
+    },
+    {
+      "text": "Saturday",
+      "start": 0.372,
+      "end": 0.871
+    },
+    {
+      "text": "night.",
+      "start": 0.94,
+      "end": 1.358
+    },
+    {
+      "text": "A",
+      "start": 1.602,
+      "end": 1.683
+    },
+    {
+      "text": "client",
+      "start": 1.753,
+      "end": 2.183
+    },
+    {
+      "text": "texts",
+      "start": 2.241,
+      "end": 2.577
+    },
+    {
+      "text": "your",
+      "start": 2.635,
+      "end": 2.752
+    },
+    {
+      "text": "med",
+      "start": 2.81,
+      "end": 2.949
+    },
+    {
+      "text": "spa",
+      "start": 2.972,
+      "end": 3.262
+    },
+    {
+      "text": "asking",
+      "start": 3.379,
+      "end": 3.808
+    },
+    {
+      "text": "for",
+      "start": 3.878,
+      "end": 4.029
+    },
+    {
+      "text": "a",
+      "start": 4.098,
+      "end": 4.145
+    },
+    {
+      "text": "refund.",
+      "start": 4.238,
+      "end": 4.783
+    },
+    {
+      "text": "The",
+      "start": 5.062,
+      "end": 5.201
+    },
+    {
+      "text": "A-I",
+      "start": 5.294,
+      "end": 5.654
+    },
+    {
+      "text": "has",
+      "start": 5.77,
+      "end": 5.909
+    },
+    {
+      "text": "full",
+      "start": 5.968,
+      "end": 6.153
+    },
+    {
+      "text": "access,",
+      "start": 6.223,
+      "end": 6.78
+    },
+    {
+      "text": "so",
+      "start": 6.896,
+      "end": 7.036
+    },
+    {
+      "text": "it",
+      "start": 7.117,
+      "end": 7.198
+    },
+    {
+      "text": "says",
+      "start": 7.256,
+      "end": 7.558
+    },
+    {
+      "text": "yes.",
+      "start": 7.732,
+      "end": 8.406
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "video": "ai-receptionist-clinical",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f8ce02d2a7ce1dca",
+      "audio": "voiceover/ai-receptionist-clinical/moment.mp3",
+      "captions": "voiceover/ai-receptionist-clinical/moment.json",
+      "durationInSeconds": 6.348,
+      "characters": 98
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "184ec31deca97e3c",
+      "audio": "voiceover/ai-receptionist-clinical/before.mp3",
+      "captions": "voiceover/ai-receptionist-clinical/before.json",
+      "durationInSeconds": 7.419,
+      "characters": 102
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "0fa8acd36ae82f4b",
+      "audio": "voiceover/ai-receptionist-clinical/cost.mp3",
+      "captions": "voiceover/ai-receptionist-clinical/cost.json",
+      "durationInSeconds": 4.859,
+      "characters": 87
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "ce8f3d49ea0e55e1",
+      "audio": "voiceover/ai-receptionist-clinical/new.mp3",
+      "captions": "voiceover/ai-receptionist-clinical/new.json",
+      "durationInSeconds": 5.042,
+      "characters": 73
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "17c549df52be58b0",
+      "audio": "voiceover/ai-receptionist-clinical/after.mp3",
+      "captions": "voiceover/ai-receptionist-clinical/after.json",
+      "durationInSeconds": 8.725,
+      "characters": 122
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "fd98c0c27946200f",
+      "audio": "voiceover/ai-receptionist-clinical/verdict.mp3",
+      "captions": "voiceover/ai-receptionist-clinical/verdict.json",
+      "durationInSeconds": 4.415,
+      "characters": 67
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/ai-receptionist-clinical/cta.mp3",
+      "captions": "voiceover/ai-receptionist-clinical/cta.json",
+      "durationInSeconds": 3.997,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T07:27:07.820Z"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "moment",
+  "words": [
+    {
+      "text": "It's",
+      "start": 0,
+      "end": 0.383
+    },
+    {
+      "text": "ten",
+      "start": 0.464,
+      "end": 0.673
+    },
+    {
+      "text": "at",
+      "start": 0.743,
+      "end": 0.859
+    },
+    {
+      "text": "night.",
+      "start": 0.952,
+      "end": 1.254
+    },
+    {
+      "text": "A",
+      "start": 1.335,
+      "end": 1.405
+    },
+    {
+      "text": "client",
+      "start": 1.498,
+      "end": 1.881
+    },
+    {
+      "text": "texts",
+      "start": 1.904,
+      "end": 2.229
+    },
+    {
+      "text": "your",
+      "start": 2.322,
+      "end": 2.485
+    },
+    {
+      "text": "med",
+      "start": 2.531,
+      "end": 2.705
+    },
+    {
+      "text": "spa,",
+      "start": 2.752,
+      "end": 3.204
+    },
+    {
+      "text": "asking",
+      "start": 3.448,
+      "end": 3.82
+    },
+    {
+      "text": "if",
+      "start": 3.878,
+      "end": 3.959
+    },
+    {
+      "text": "a",
+      "start": 4.029,
+      "end": 4.052
+    },
+    {
+      "text": "treatment",
+      "start": 4.122,
+      "end": 4.598
+    },
+    {
+      "text": "is",
+      "start": 4.656,
+      "end": 4.76
+    },
+    {
+      "text": "safe",
+      "start": 4.807,
+      "end": 5.074
+    },
+    {
+      "text": "with",
+      "start": 5.097,
+      "end": 5.248
+    },
+    {
+      "text": "her",
+      "start": 5.283,
+      "end": 5.352
+    },
+    {
+      "text": "medication.",
+      "start": 5.399,
+      "end": 6.316
+    }
+  ]
+}

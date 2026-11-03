@@ -1,0 +1,40 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Let",
+      "start": 0,
+      "end": 0.348
+    },
+    {
+      "text": "it",
+      "start": 0.406,
+      "end": 0.476
+    },
+    {
+      "text": "book",
+      "start": 0.522,
+      "end": 0.685
+    },
+    {
+      "text": "appointments.",
+      "start": 0.731,
+      "end": 1.486
+    },
+    {
+      "text": "Keep",
+      "start": 1.66,
+      "end": 1.904
+    },
+    {
+      "text": "refunds",
+      "start": 1.997,
+      "end": 2.392
+    },
+    {
+      "text": "human.",
+      "start": 2.438,
+      "end": 3.065
+    }
+  ]
+}

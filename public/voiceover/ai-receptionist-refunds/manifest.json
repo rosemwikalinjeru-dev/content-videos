@@ -1,0 +1,77 @@
+{
+  "video": "ai-receptionist-refunds",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "85c881b8fa82f2a5",
+      "audio": "voiceover/ai-receptionist-refunds/moment.mp3",
+      "captions": "voiceover/ai-receptionist-refunds/moment.json",
+      "durationInSeconds": 5.747,
+      "characters": 87
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "978c4400fcb9f6e0",
+      "audio": "voiceover/ai-receptionist-refunds/before.mp3",
+      "captions": "voiceover/ai-receptionist-refunds/before.json",
+      "durationInSeconds": 7.131,
+      "characters": 94
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "4a4d76214fc5f564",
+      "audio": "voiceover/ai-receptionist-refunds/cost.mp3",
+      "captions": "voiceover/ai-receptionist-refunds/cost.json",
+      "durationInSeconds": 3.657,
+      "characters": 59
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "956c397e5977af03",
+      "audio": "voiceover/ai-receptionist-refunds/new.mp3",
+      "captions": "voiceover/ai-receptionist-refunds/new.json",
+      "durationInSeconds": 4.023,
+      "characters": 62
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "35de34105502bea3",
+      "audio": "voiceover/ai-receptionist-refunds/after.mp3",
+      "captions": "voiceover/ai-receptionist-refunds/after.json",
+      "durationInSeconds": 10.58,
+      "characters": 138
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3f35824842592352",
+      "audio": "voiceover/ai-receptionist-refunds/verdict.mp3",
+      "captions": "voiceover/ai-receptionist-refunds/verdict.json",
+      "durationInSeconds": 3.109,
+      "characters": 45
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/ai-receptionist-refunds/cta.mp3",
+      "captions": "voiceover/ai-receptionist-refunds/cta.json",
+      "durationInSeconds": 3.892,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T07:27:02.349Z"
+}
