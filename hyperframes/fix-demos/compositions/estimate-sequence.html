@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en" data-resolution="square">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1080" />
+    <script src="../assets/gsap.min.js"></script>
+    <style>
+      :root { --ground:#0b1020; --panel:#141b31; --line:#2b3660; --ink:#f4f6fb; --muted:#9aa5c4;
+        --blue:#5b8cff; --ok:#3ddc97; --accent:#ffd84d;
+        --font:"Inter","Liberation Sans",sans-serif; --mono:"JetBrains Mono","DejaVu Sans Mono",monospace; }
+      * { margin:0; padding:0; box-sizing:border-box; }
+      html, body { width:1080px; height:1080px; overflow:hidden; background:var(--ground); font-family:var(--font); color:var(--ink); }
+      #root { position:relative; width:100%; height:100%; }
+      #title { position:absolute; left:70px; top:60px; font:800 44px/1.1 var(--font); }
+      #title small { display:block; font:600 30px/1.3 var(--font); color:var(--muted); margin-top:8px; }
+      #cal { position:absolute; left:70px; top:220px; width:940px; display:grid; grid-template-columns:repeat(11, 1fr); gap:8px; }
+      .d { height:120px; border-radius:16px; background:var(--panel); border:2px solid var(--line); display:flex; flex-direction:column;
+        align-items:center; justify-content:center; font:700 28px/1 var(--mono); color:var(--muted); }
+      .d.on { border-color:var(--blue); color:var(--ink); }
+      .d.reply { border-color:var(--ok); background:#0f2a22; color:var(--ok); }
+      #now { position:absolute; top:212px; width:78px; height:136px; border:5px solid var(--accent); border-radius:20px; left:70px; }
+      .mail { position:absolute; left:70px; width:940px; padding:22px 28px; border-radius:22px; background:var(--panel); border:3px solid var(--blue);
+        font:700 32px/1.25 var(--font); opacity:0; display:flex; justify-content:space-between; align-items:center; }
+      .mail span { font:700 26px/1 var(--mono); color:var(--blue); }
+      #reply { border-color:var(--ok); background:#0f2a22; }
+      #reply span { color:var(--ok); }
+      #stop { position:absolute; left:50%; bottom:40px; transform:translateX(-50%); background:var(--ok); color:var(--ground);
+        font:800 32px/1 var(--mono); letter-spacing:.05em; padding:16px 22px; border-radius:12px; opacity:0; white-space:nowrap; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="8" data-width="1080" data-height="1080">
+      <div id="title" class="clip" data-start="0" data-duration="8" data-track-index="0">Estimate · Dana Demo · roof replacement<small>Follow-ups run on their own</small></div>
+      <div id="cal" class="clip" data-start="0" data-duration="8" data-track-index="1">
+        <div class="d on" id="d0">D0</div><div class="d">D1</div><div class="d" id="d2">D2</div><div class="d">D3</div><div class="d">D4</div>
+        <div class="d" id="d5">D5</div><div class="d">D6</div><div class="d">D7</div><div class="d">D8</div><div class="d">D9</div><div class="d" id="d10">D10</div>
+      </div>
+      <div id="now" class="clip" data-start="0" data-duration="8" data-track-index="2"></div>
+      <div id="e1" class="mail clip" style="top:400px" data-start="0" data-duration="8" data-track-index="3">Quick check-in: any questions? <span>DAY 2</span></div>
+      <div id="e2" class="mail clip" style="top:530px" data-start="0" data-duration="8" data-track-index="4">Photos of a similar roof we did <span>DAY 5</span></div>
+      <div id="e3" class="mail clip" style="top:660px" data-start="0" data-duration="8" data-track-index="5">Last nudge: want to lock in a date? <span>DAY 10</span></div>
+      <div id="reply" class="mail clip" style="top:790px" data-start="0" data-duration="8" data-track-index="6">Dana: "Yes, let's do it." <span>REPLY</span></div>
+      <div id="stop" class="clip" data-start="0" data-duration="8" data-track-index="7">SEQUENCE STOPS → SENT TO YOU</div>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      const step = 86.2; // 940px grid / 11 columns incl. gaps
+      tl.fromTo("#title", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.4 }, 0);
+      tl.fromTo("#cal", { opacity: 0 }, { opacity: 1, duration: 0.4 }, 0.2);
+      tl.to("#now", { x: step * 2, duration: 0.6, ease: "power2.inOut" }, 0.9);
+      tl.set("#d2", { className: "d on" }, 1.5);
+      tl.fromTo("#e1", { opacity: 0, x: -40 }, { opacity: 1, x: 0, duration: 0.35 }, 1.5);
+      tl.to("#now", { x: step * 5, duration: 0.7, ease: "power2.inOut" }, 2.3);
+      tl.set("#d5", { className: "d on" }, 3.0);
+      tl.fromTo("#e2", { opacity: 0, x: -40 }, { opacity: 1, x: 0, duration: 0.35 }, 3.0);
+      tl.to("#now", { x: step * 10, duration: 0.8, ease: "power2.inOut" }, 3.8);
+      tl.set("#d10", { className: "d reply" }, 4.6);
+      tl.fromTo("#e3", { opacity: 0, x: -40 }, { opacity: 1, x: 0, duration: 0.35 }, 4.6);
+      tl.fromTo("#reply", { opacity: 0, x: -40 }, { opacity: 1, x: 0, duration: 0.35 }, 5.5);
+      tl.fromTo("#stop", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.35 }, 6.0);
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

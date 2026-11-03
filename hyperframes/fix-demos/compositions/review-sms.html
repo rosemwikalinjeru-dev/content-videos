@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en" data-resolution="square">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1080" />
+    <script src="../assets/gsap.min.js"></script>
+    <style>
+      :root { --ground:#0b1020; --screen:#f5f6fa; --ink:#12151f; --muted:#5d6478; --line:#e2e5ee;
+        --biz:#2f6fed; --ok:#1f9d6b; --bad:#e5484d; --accent:#ffd84d;
+        --font:"Inter","Liberation Sans",sans-serif; --mono:"JetBrains Mono","DejaVu Sans Mono",monospace; }
+      * { margin:0; padding:0; box-sizing:border-box; }
+      html, body { width:1080px; height:1080px; overflow:hidden; background:var(--ground); font-family:var(--font); }
+      #root { position:relative; width:100%; height:100%; }
+      #phone { position:absolute; left:200px; top:100px; width:680px; height:860px; background:#05070f; border-radius:72px; padding:22px; opacity:0; }
+      .screen { width:100%; height:100%; background:var(--screen); border-radius:54px; overflow:hidden; position:relative; }
+      .head { padding:34px 40px 22px; border-bottom:2px solid var(--line); }
+      .head .n { font:800 40px/1.1 var(--font); color:var(--ink); }
+      .head .s { font:600 26px/1.2 var(--font); color:var(--muted); margin-top:6px; }
+      .msg { position:absolute; max-width:500px; padding:22px 26px; border-radius:30px; font:600 30px/1.3 var(--font); opacity:0; }
+      .out { right:30px; background:var(--biz); color:#fff; border-bottom-right-radius:8px; }
+      .in { left:30px; background:#e4e7ef; color:var(--ink); border-bottom-left-radius:8px; }
+      .link { display:inline-block; margin-top:10px; background:#fff; color:var(--biz); border-radius:12px; padding:8px 14px; font:800 26px/1 var(--font); }
+      #badge1, #badge2 { position:absolute; left:50%; transform:translateX(-50%); font:800 30px/1 var(--mono); letter-spacing:.06em;
+        padding:14px 20px; border-radius:12px; opacity:0; white-space:nowrap; }
+      #badge1 { top:24px; background:var(--accent); color:var(--ground); }
+      #badge2 { bottom:30px; background:var(--ok); color:#fff; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="8" data-width="1080" data-height="1080">
+      <div id="phone" class="clip" data-start="0" data-duration="8" data-track-index="0">
+        <div class="screen">
+          <div class="head"><div class="n">Polar Air (demo)</div><div class="s">To: Tom Demo · 1 hour after the job</div></div>
+          <div id="m1" class="msg out" style="top:190px">Thanks for choosing us today, Tom! How did it go? Leave us a review: <span class="link">review link</span></div>
+          <div id="m2" class="msg in" style="top:470px">2 stars. Tech was great, but 3 hours late.</div>
+          <div id="m3" class="msg out" style="top:620px">Sorry, Tom. Our office manager will call you today to make it right.</div>
+        </div>
+      </div>
+      <div id="badge1" class="clip" data-start="0" data-duration="8" data-track-index="1">REVIEW LINK → EVERYONE</div>
+      <div id="badge2" class="clip" data-start="0" data-duration="8" data-track-index="2">LOW SCORE → OFFICE CALLS TOO</div>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      tl.fromTo("#phone", { opacity: 0, y: 50 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 0);
+      tl.fromTo("#m1", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }, 0.6);
+      tl.fromTo("#badge1", { opacity: 0, y: -20 }, { opacity: 1, y: 0, duration: 0.35 }, 1.3);
+      tl.fromTo("#m2", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }, 2.6);
+      tl.fromTo("#m3", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }, 3.8);
+      tl.fromTo("#badge2", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.35 }, 4.4);
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,40 @@
+{
+  "video": "estimate-follow-up",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's Monday morning. You sent nine roofing estimates last week. Two people wrote back."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "The other seven are sitting in inboxes. Nobody follows up, because everyone's up on a roof."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "Each estimate took hours to put together. And most of them just quietly expire."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "The fix is a follow-up schedule that runs on its own, and stops the moment they reply."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "Day two, Dana gets a quick check-in. Day five, photos of a similar roof. Day ten, one last nudge. She replies, and it comes straight to you."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Worth setting up this week. You already did the hard part."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}

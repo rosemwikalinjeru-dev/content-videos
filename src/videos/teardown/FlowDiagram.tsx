@@ -12,7 +12,7 @@ const GAP = 100;
 const AREA_TOP = 110; // below the BEFORE/AFTER header
 const AREA_H = 1090;
 
-const KIND: Record<NodeKind, { border: string; fill: string; ink: string; tag?: string; tagColor?: string }> = {
+export const KIND: Record<NodeKind, { border: string; fill: string; ink: string; tag?: string; tagColor?: string }> = {
   normal: { border: C.line, fill: C.panel, ink: C.ink },
   bad: { border: C.bad, fill: "#2a1220", ink: C.ink, tag: "BOTTLENECK", tagColor: C.bad },
   outcome: { border: "#3a4260", fill: "#10152a", ink: C.muted },

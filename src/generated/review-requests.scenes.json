@@ -1,0 +1,40 @@
+{
+  "video": "review-requests",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's Friday, five in the afternoon. Your tech just fixed Tom's A-C, and Tom loved him."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "Nobody asks for a review. Tom forgets by dinner. And your newest review is from March."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "Your next customer reads those reviews before they ever call you."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "So you automate it. But careful. Google's rules say you can't only ask the happy customers."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "An hour after the job, Tom gets one text. Everyone gets your review link. If Tom says it went badly, your office also calls him."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Ask everyone. Then fix the unhappy ones yourself."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}

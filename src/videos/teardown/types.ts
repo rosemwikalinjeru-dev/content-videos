@@ -27,6 +27,14 @@ export type Flow = {
   /** the demo customer travelling through the flow */
   customer: string;
   nodes: FlowNode[]; // max 4 (readable on a phone)
+  /** diagram shape; default "flow" (vertical boxes) */
+  layout?: "flow" | "branch" | "timeline" | "swimlane";
+  /** branch: labels on the two split arrows */
+  edgeLabels?: [string, string];
+  /** timeline: label at the top of the rail (e.g. "DAY 0 · estimate sent") */
+  railLabel?: string;
+  /** swimlane: one label per lane, node i sits in lane i */
+  lanes?: string[];
 };
 
 export type TeardownSpec = {
@@ -36,7 +44,17 @@ export type TeardownSpec = {
   moment: { clip: string; label: string };
   before: Flow;
   cost: { tag?: string; lines: { text: string; beat?: string; color?: "ink" | "bad" | "accent" }[] };
-  newThing: { kicker: string; title: string; sub?: string; source?: string; isNews: boolean };
+  newThing: {
+    kicker: string;
+    title: string;
+    sub?: string;
+    source?: string;
+    isNews: boolean;
+    /** HyperFrames demo clip shown under the title */
+    clip?: string;
+    /** do / don't rule card instead of a sub line */
+    rule?: { dont: string; do: string };
+  };
   after: Flow;
-  verdict: { lines: { text: string; beat?: string; color: "ok" | "bad" | "accent" | "muted" }[] };
+  verdict: { clip?: string; lines: { text: string; beat?: string; color: "ok" | "bad" | "accent" | "muted" }[] };
 };

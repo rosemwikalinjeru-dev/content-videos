@@ -338,4 +338,138 @@ export const SPECS: TeardownSpec[] = [
       ],
     },
   },
+  {
+    id: "review-requests",
+    compositionId: "ReviewRequests",
+    business: "HVAC COMPANY",
+    moment: { clip: "assets/moments/review-requests.mp4", label: "Friday · 5:00 PM" },
+    before: {
+      customer: "Tom",
+      nodes: [
+        { label: "Job done, Tom's happy", sub: "AC fixed", kind: "normal" },
+        { label: "Nobody asks for a review", kind: "bad", beat: "asks" },
+        { label: "Newest review: March", sub: "Tom forgot by dinner", kind: "outcome", beat: "march" },
+      ],
+    },
+    cost: {
+      tag: "DEMO SCENARIO",
+      lines: [
+        { text: "Your next customer reads these", color: "ink" },
+        { text: "before they ever call you", color: "bad", beat: "before" },
+      ],
+    },
+    newThing: {
+      kicker: "THE RULE · GOOGLE REVIEW POLICY",
+      title: "Careful when you automate it",
+      rule: { dont: "Only ask the happy customers", do: "Ask everyone the same way" },
+      source: "Google review policy: \"fake engagement\"",
+      isNews: false,
+    },
+    after: {
+      customer: "Tom",
+      layout: "branch",
+      edgeLabels: ["EVERYONE", "LOW SCORE: ALSO"],
+      nodes: [
+        { label: "Job done", sub: "wait 1 hour", kind: "normal", beat: "hour" },
+        { label: "One text to Tom", sub: "same text for every customer", kind: "ai", beat: "text" },
+        { label: "Review link", sub: "goes to everyone", kind: "done", beat: "everyone" },
+        { label: "Went badly? Office calls", sub: "on top of the link", kind: "human", beat: "badly" },
+      ],
+    },
+    verdict: {
+      clip: "assets/fix-demos/review-sms.mp4",
+      lines: [
+        { text: "Ask everyone.", color: "ok", beat: "ask" },
+        { text: "Fix the unhappy ones yourself.", color: "accent", beat: "fix" },
+      ],
+    },
+  },
+  {
+    id: "estimate-follow-up",
+    compositionId: "EstimateFollowUp",
+    business: "ROOFING COMPANY",
+    moment: { clip: "assets/moments/estimate-follow-up.mp4", label: "Monday · 8:00 AM" },
+    before: {
+      customer: "Dana",
+      nodes: [
+        { label: "9 estimates sent", sub: "last week", kind: "normal" },
+        { label: "7 sitting in inboxes", sub: "no reply", kind: "outcome", beat: "sitting" },
+        { label: "Nobody follows up", sub: "everyone's on a roof", kind: "bad", beat: "follows" },
+      ],
+    },
+    cost: {
+      tag: "DEMO NUMBERS",
+      lines: [
+        { text: "Hours on every estimate", color: "ink" },
+        { text: "Most quietly expire", color: "bad", beat: "expire" },
+      ],
+    },
+    newThing: {
+      kicker: "THE FIX",
+      title: "Follow-ups that run on their own",
+      clip: "assets/fix-demos/estimate-sequence.mp4",
+      isNews: false,
+    },
+    after: {
+      customer: "Dana",
+      layout: "timeline",
+      railLabel: "DAY 0 · ESTIMATE SENT",
+      nodes: [
+        { label: "Quick check-in", sub: "any questions?", kind: "ai", tag: "DAY 2", beat: "two" },
+        { label: "Photos of a similar roof", kind: "ai", tag: "DAY 5", beat: "five" },
+        { label: "One last nudge", sub: "want to lock in a date?", kind: "ai", tag: "DAY 10", beat: "ten" },
+        { label: "Dana replies → to you", sub: "the sequence stops", kind: "done", tag: "REPLY", beat: "replies" },
+      ],
+    },
+    verdict: {
+      lines: [
+        { text: "Worth it this week.", color: "ok", beat: "worth" },
+        { text: "You already did the hard part.", color: "muted", beat: "hard" },
+      ],
+    },
+  },
+  {
+    id: "tech-handoff",
+    compositionId: "TechHandoff",
+    business: "PLUMBING COMPANY",
+    moment: { clip: "assets/moments/tech-handoff.mp4", label: "Wednesday · 9:00 AM" },
+    before: {
+      customer: "Sam",
+      nodes: [
+        { label: "Gate code: in an email", kind: "normal", beat: "gate" },
+        { label: "Photos: in someone's texts", kind: "normal", beat: "photos" },
+        { label: "Office: on another call", sub: "your plumber waits", kind: "bad", tag: "SCATTERED", beat: "office" },
+      ],
+    },
+    cost: {
+      tag: "DEMO NUMBERS",
+      lines: [
+        { text: "20 minutes in the truck", color: "ink" },
+        { text: "on a job you're paying for", color: "bad", beat: "paying" },
+      ],
+    },
+    newThing: {
+      kicker: "THE FIX",
+      title: "One job card, filled at booking",
+      clip: "assets/fix-demos/job-card.mp4",
+      isNews: false,
+    },
+    after: {
+      customer: "Priya",
+      layout: "swimlane",
+      lanes: ["CUSTOMER", "SYSTEM", "OFFICE", "PLUMBER"],
+      nodes: [
+        { label: "Priya books online", kind: "normal", beat: "books" },
+        { label: "One job card", sub: "address · gate code · photos", kind: "ai", beat: "card" },
+        { label: "Office checks it", kind: "human", beat: "checks" },
+        { label: "On the plumber's phone", sub: "before he leaves", kind: "done", beat: "plumber's" },
+      ],
+    },
+    verdict: {
+      lines: [
+        { text: "Start working.", color: "ok", beat: "working" },
+        { text: "Not start calling.", color: "bad", beat: "calling" },
+      ],
+    },
+  },
 ];

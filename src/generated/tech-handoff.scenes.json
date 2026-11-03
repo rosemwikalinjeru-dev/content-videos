@@ -1,0 +1,40 @@
+{
+  "video": "tech-handoff",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's Wednesday, nine in the morning. Your plumber pulls up to a job, and calls the office."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "The gate code is in an email. The photos are in someone's texts. And the office is on another call."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "So he waits in the truck. Twenty minutes, on a job you're paying him for."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "The fix is one job card, filled in the moment the customer books."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "Priya books online. Her address, gate code, and photos land on one card. Your office checks it, and it goes to the plumber's phone."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Your plumber should start working, not start calling."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}

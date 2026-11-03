@@ -54,5 +54,26 @@
     "app": "Messages",
     "badge": "After hours",
     "items": "[{\"t\": \"Maya Demo\", \"s\": \"Is this treatment safe with my medication?\", \"tag\": \"New\", \"bad\": true}, {\"t\": \"AI receptionist\", \"s\": \"Typing a confident answer…\", \"tag\": \"Replying\"}, {\"t\": \"Licensed provider\", \"s\": \"Not on shift\", \"tag\": \"Offline\"}]"
+  },
+  {
+    "out": "review-requests",
+    "clock": "5:02 PM",
+    "app": "Reviews",
+    "badge": "Newest: March",
+    "items": "[{\"t\": \"Job done · Tom Demo\", \"s\": \"AC repair · today 4:45 PM\", \"tag\": \"Not asked\", \"bad\": true}, {\"t\": \"★★★★★ Fast and friendly\", \"s\": \"Ana Demo · March 14\", \"tag\": \"7 mo ago\"}, {\"t\": \"★★★★☆ Fair price\", \"s\": \"Raj Demo · February 2\", \"tag\": \"9 mo ago\"}]"
+  },
+  {
+    "out": "estimate-follow-up",
+    "clock": "Mon 8:05 AM",
+    "app": "Sent estimates",
+    "badge": "2 of 9 replied",
+    "items": "[{\"t\": \"Roof replacement · Dana Demo\", \"s\": \"Sent Tue\", \"tag\": \"No reply\", \"bad\": true}, {\"t\": \"Storm repair · Leo Demo\", \"s\": \"Sent Tue\", \"tag\": \"No reply\", \"bad\": true}, {\"t\": \"Re-roof · Kim Demo\", \"s\": \"Sent Wed\", \"tag\": \"Replied\"}, {\"t\": \"Gutters + flashing · Mark Demo\", \"s\": \"Sent Thu\", \"tag\": \"No reply\", \"bad\": true}, {\"t\": \"Roof repair · Ana Demo\", \"s\": \"Sent Fri\", \"tag\": \"Replied\"}]"
+  },
+  {
+    "out": "tech-handoff",
+    "clock": "9:01 AM",
+    "app": "Calling Office",
+    "badge": "On hold 4:12",
+    "items": "[{\"t\": \"Gate code?\", \"s\": \"In an email to the front desk\", \"tag\": \"Can't find\", \"bad\": true}, {\"t\": \"Photos of the leak?\", \"s\": \"In Sam's texts\", \"tag\": \"Missing\", \"bad\": true}, {\"t\": \"Customer: Priya Demo\", \"s\": \"Waiting at the gate\", \"tag\": \"Waiting\"}]"
   }
 ]

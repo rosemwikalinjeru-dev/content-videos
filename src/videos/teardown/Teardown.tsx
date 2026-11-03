@@ -25,6 +25,7 @@ import {
 } from "../../components/kit";
 import type { TimedScene, VideoProps } from "../../lib/timing";
 import { FlowDiagram } from "./FlowDiagram";
+import { LayoutDiagram } from "./LayoutDiagram";
 import type { TeardownSpec } from "./types";
 
 // 7-scene owner-first teardown: moment → before → cost → new → after → verdict → cta.
@@ -103,28 +104,116 @@ const Cost: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
 // 4 ─ the new thing (news + source card) or the fix (evergreen)
 const NewThing: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
   const t = spec.newThing;
+  const clipIn = useIn(10);
+  const compact = Boolean(t.clip);
   return (
-    <Center>
+    <AbsoluteFill
+      style={{
+        paddingLeft: SAFE.left,
+        paddingRight: SAFE.right,
+        top: 140,
+        height: 1200,
+        justifyContent: compact ? "flex-start" : "center",
+        paddingTop: compact ? 30 : 0,
+      }}
+    >
       <Rise>
         <Tag color={t.isNews ? C.accent : C.ok}>{t.kicker}</Tag>
       </Rise>
-      <div style={{ height: 40 }} />
+      <div style={{ height: compact ? 24 : 40 }} />
       <Rise delay={4}>
-        <H size={t.title.length > 22 ? 100 : 140}>{t.title}</H>
+        <H size={compact ? 76 : t.title.length > 22 ? 100 : 140}>{t.title}</H>
       </Rise>
-      {t.sub && (
+      {t.sub && !t.rule && !t.clip && (
         <Rise delay={14}>
           <div style={{ font: `700 50px/1.25 ${FONT}`, color: C.muted, marginTop: 30 }}>{t.sub}</div>
         </Rise>
       )}
+      {t.rule && (
+        <div style={{ marginTop: 50, display: "flex", flexDirection: "column", gap: 26 }}>
+          {[
+            { mark: "✕", text: t.rule.dont, color: C.bad, d: 16 },
+            { mark: "✓", text: t.rule.do, color: C.ok, d: 40 },
+          ].map((r) => (
+            <Pop key={r.mark} delay={r.d}>
+              <div
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  gap: 26,
+                  border: `5px solid ${r.color}`,
+                  borderRadius: 26,
+                  padding: "28px 30px",
+                  background: C.panel,
+                }}
+              >
+                <div
+                  style={{
+                    width: 92,
+                    height: 92,
+                    borderRadius: 99,
+                    background: r.color,
+                    color: C.ground,
+                    font: `900 58px/92px ${FONT}`,
+                    textAlign: "center",
+                    flexShrink: 0,
+                  }}
+                >
+                  {r.mark}
+                </div>
+                <div style={{ font: `800 50px/1.15 ${FONT}`, color: C.ink }}>{r.text}</div>
+              </div>
+            </Pop>
+          ))}
+        </div>
+      )}
+      {t.clip && (
+        <div
+          style={{
+            marginTop: 26,
+            alignSelf: "center",
+            width: 860,
+            height: 860,
+            borderRadius: 30,
+            overflow: "hidden",
+            opacity: clipIn,
+            transform: `scale(${0.95 + clipIn * 0.05})`,
+          }}
+        >
+          <Sequence from={10} layout="none">
+            <OffthreadVideo src={staticFile(t.clip)} muted style={{ width: 860, height: 860 }} />
+          </Sequence>
+        </div>
+      )}
       {t.source && <SourceCard text={t.source} delay={10} top={1110} />}
-    </Center>
+    </AbsoluteFill>
   );
 };
 
 // 6 ─ verdict
 const Verdict: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
   const beats = spec.verdict.lines.map((l, i) => useBeat(l.beat ?? "\u0000", i * 30));
+  const clipIn = useIn(0);
+  if (spec.verdict.clip) {
+    // demo clip on top, verdict lines underneath
+    return (
+      <AbsoluteFill style={{ paddingLeft: SAFE.left, paddingRight: SAFE.right, top: 140, height: 1200, paddingTop: 10 }}>
+        <div style={{ alignSelf: "center", width: 760, height: 760, borderRadius: 30, overflow: "hidden", opacity: clipIn }}>
+          <OffthreadVideo src={staticFile(spec.verdict.clip)} muted style={{ width: 760, height: 760 }} />
+        </div>
+        <div style={{ marginTop: 30 }}>
+          <Tag>MY VERDICT</Tag>
+        </div>
+        {spec.verdict.lines.map((l, i) => (
+          <Rise key={i} delay={beats[i]} style={{ marginTop: 14 }}>
+            <H size={l.color === "muted" ? 56 : 84} color={colorOf(l.color)}>
+              {l.text}
+            </H>
+          </Rise>
+        ))}
+      </AbsoluteFill>
+    );
+  }
   return (
     <Center>
       <div style={{ marginBottom: 40 }}>
@@ -190,7 +279,11 @@ const Visual: React.FC<{ id: string; spec: TeardownSpec }> = ({ id, spec }) => {
     case "new":
       return <NewThing spec={spec} />;
     case "after":
-      return <FlowDiagram flow={spec.after} mode="after" business={spec.business} />;
+      return !spec.after.layout || spec.after.layout === "flow" ? (
+        <FlowDiagram flow={spec.after} mode="after" business={spec.business} />
+      ) : (
+        <LayoutDiagram flow={spec.after} business={spec.business} />
+      );
     case "verdict":
       return <Verdict spec={spec} />;
     case "cta":
