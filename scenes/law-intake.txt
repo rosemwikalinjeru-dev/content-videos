@@ -1,0 +1,20 @@
+# moment
+It's Monday morning. Your law firm missed six calls over the weekend. Nobody knows who they were.
+
+# before
+Some left voicemails. Most didn't. And the ones who did were never written down.
+
+# cost
+Every one of those calls was someone who needed a lawyer that weekend.
+
+# new
+The fix is an answering assistant that takes the details, and never gives legal advice.
+
+# after
+Carlos calls on Saturday. The assistant takes his name, number, and what happened. Monday, your intake team reviews it, and an attorney calls him back.
+
+# verdict
+Let it take the message. Never let it give the advice.
+
+# cta
+Follow. I fix one business process like this every week.

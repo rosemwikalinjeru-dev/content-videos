@@ -1,0 +1,20 @@
+# moment
+It's Tuesday afternoon. Your hygienist has three empty slots. And hundreds of past patients are overdue.
+
+# before
+Nobody reminds them. They meant to book. Life got busy, and they just drifted away.
+
+# cost
+Every empty hygiene slot is time you've already paid for.
+
+# new
+The fix is a recall schedule that starts when they're due, and stops the moment they book.
+
+# after
+At six months, Maria gets a text with open times. A month later, a friendly nudge. Still nothing? Your front desk gives her a call.
+
+# verdict
+Your best new patients are the ones you already have.
+
+# cta
+Follow. I fix one business process like this every week.
