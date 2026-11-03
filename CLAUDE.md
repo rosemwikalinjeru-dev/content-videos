@@ -181,6 +181,10 @@ Write for the ear:
 - Vertical safe zone: nothing important in the bottom 250px or the right 120px.
 - Captions always on: word-by-word, 4 words per chunk, active word `#FFD84D`, bold, high contrast.
 - Put a **source card** on screen when stating news ("Source: OpenAI blog, Oct 30").
+- **Industry images in every teardown:** set `industry` in the spec (roofing, hvac, plumbing, dental, medspa,
+  salon, law, landscaping, cleaning, bookkeeping, agency, remodeling). The original illustration appears in the
+  moment, cost (red "!"), fix and verdict (green ✓) scenes. They're drawn in `src/components/industry/IndustryArt.tsx`:
+  faceless figures, no stock photos, no real faces. Add a new industry scene there when a video needs one.
 - On-screen text is readable on a phone without zooming, one idea per card, and scannable in under 10 seconds.
 
 ---
