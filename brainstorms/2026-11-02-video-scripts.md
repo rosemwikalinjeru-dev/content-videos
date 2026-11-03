@@ -22,6 +22,7 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
   3. A cost in owner terms (hours per week, a lost appointment, a wrong record), never tokens or benchmarks
   4. Owner vocabulary ("front desk", "appointment", "the system"), never "workflow", "integration" or "API" in the voiceover
 - **Demo numbers are allowed only if labelled as demo** on screen (e.g. "DEMO SCENARIO"). Real or news numbers still need a source in research/.
+- **US default** for wording, currency and spelling: "front desk", "appointment", "dental practice", "$", "organize/color". Make UK-specific videos only when the topic is UK-only (NHS, UK regulation).
 - **Default short-form scene order (replaces the CLAUDE.md order for business-owner shorts):**
   1. Owner's moment (hook), 3–5s
   2. Before flow, with the red box as the bottleneck, 6–8s
@@ -80,6 +81,11 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
 - Commitment implied: a weekly teardown cadence. That's consistent with the Saturday "Can I Automate This Business?" series in Rose's operating system.
 - Flags: none (resolves the earlier CTA-mechanic flag)
 
+### Q8 — US or UK when one has to win
+- Asked: US vs UK default (recommended US).
+- Captured: "yes, US default"
+- Applies to voiceover text (the clone says what's written), captions and on-screen text.
+- Flags: none (resolves the earlier US/UK flag)
+
 ## Open flags (pending input)
 - Update CLAUDE.md (short-form structure, rule 3 freshness, audience/CTA rules) once the grill is done -> Claude, with Rose's approval
-- When one has to win, US or UK? (currency, spelling, terminology) -> Rose
