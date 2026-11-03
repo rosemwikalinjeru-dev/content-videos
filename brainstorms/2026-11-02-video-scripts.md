@@ -23,6 +23,7 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
   4. Owner vocabulary ("front desk", "appointment", "the system"), never "workflow", "integration" or "API" in the voiceover
 - **Demo numbers are allowed only if labelled as demo** on screen (e.g. "DEMO SCENARIO"). Real or news numbers still need a source in research/.
 - **US default** for wording, currency and spelling: "front desk", "appointment", "dental practice", "$", "organize/color". Make UK-specific videos only when the topic is UK-only (NHS, UK regulation).
+- **Voice rules:** (1) hooks use v2 by default, and v3 only for real emotion; (2) never "..." plus [pause] together, max one "..." per scene, none in the first 3s; (3) the first spoken words are the owner's moment, with no "So," or "Hey guys"; (4) max ~15 words per scene, split anything over 8s; (5) read it out loud before generating.
 - **Default short-form scene order (replaces the CLAUDE.md order for business-owner shorts):**
   1. Owner's moment (hook), 3–5s
   2. Before flow, with the red box as the bottleneck, 6–8s
@@ -87,5 +88,23 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
 - Applies to voiceover text (the clone says what's written), captions and on-screen text.
 - Flags: none (resolves the earlier US/UK flag)
 
+### Q9 — Writing for the voice
+- Asked: approve the 5 voice rules? Anything else to decide (thumbnails, posting captions, hashtags)?
+- Captured: "yes, use those rules and rewrite the Terra script. this is alot i need 5 videos, well detailed, explainable, clear, shows flow a point to another"
+- Decisions: the voice rules are approved. Grill ends here (Rose: "this is a lot"). Thumbnails, posting captions and hashtags are left undecided.
+- New request: **5 videos** (Terra rewrite + 4 more), each with a clear point-to-point flow (the customer visibly moves from one step to the next).
+- Flags: thumbnails / captions / hashtags -> Rose, later
+
+## Wrap-up: the 5-video batch (decided by Claude, per "be decisive")
+- Mix: 2 news-driven teardowns (inside the 14-day window) + 3 evergreen "Can I Automate This Business?" teardowns (no news claim, so no freshness limit; all numbers labelled demo).
+  1. gpt61-terra — dental practice retyping patient emails (OpenAI, Oct 26)
+  2. apple-numbers-mcp — Friday client report copy-paste (Apple, Oct 27; MCP in Numbers, beta, Mac only)
+  3. missed-calls — plumbing/HVAC missed call goes to a competitor
+  4. no-shows — med spa no-shows from no confirmation
+  5. slow-quotes — remodeler web-form lead sits in the inbox all weekend
+- Build: one shared Remotion teardown template (7 scenes) with a point-to-point FlowDiagram (a customer chip travels box to box on the spoken word) + a HyperFrames "owner's moment" phone clip per video (one template, rendered with variables).
+- Gate: scripts need Rose's approval before any voiceover (~5 × 500 characters).
+
 ## Open flags (pending input)
-- Update CLAUDE.md (short-form structure, rule 3 freshness, audience/CTA rules) once the grill is done -> Claude, with Rose's approval
+- Update CLAUDE.md with the decisions above -> Claude (doing it with the 5-video batch)
+- Thumbnails, posting captions, hashtags -> Rose, later
