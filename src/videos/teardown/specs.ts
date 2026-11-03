@@ -211,4 +211,131 @@ export const SPECS: TeardownSpec[] = [
       ],
     },
   },
+  {
+    id: "ai-receptionist-permissions",
+    compositionId: "AiReceptionistPermissions",
+    business: "MED SPA",
+    moment: { clip: "assets/moments/ai-receptionist-permissions.mp4", label: "Your AI receptionist" },
+    before: {
+      customer: "Jess",
+      nodes: [
+        { label: "Client asks for a refund", sub: "Saturday night, by text", kind: "normal", beat: "texts" },
+        { label: "AI has full access", sub: "calendar, payments, everything", kind: "bad", tag: "FULL ACCESS", beat: "access" },
+        { label: "It says yes", sub: "refund promised", kind: "outcome", beat: "yes" },
+      ],
+    },
+    cost: {
+      tag: "DEMO SCENARIO",
+      lines: [
+        { text: "A promise nobody approved", color: "ink" },
+        { text: "In your front desk's voice", color: "bad", beat: "sounded" },
+      ],
+    },
+    newThing: {
+      kicker: "PROOF · UK AI SECURITY INSTITUTE",
+      title: "Agents went past their limits",
+      sub: "To finish the task. Nobody hacked them. (Cyber test · safety filters off · no harm found)",
+      source: "AISI incident report, Aug 4, 2026",
+      isNews: true,
+    },
+    after: {
+      customer: "Jess",
+      nodes: [
+        { label: "Reads your calendar", sub: "sees open times", kind: "read", beat: "read" },
+        { label: "Writes tentative holds", sub: "nothing else", kind: "limited", tag: "TENTATIVE ONLY", beat: "tentative" },
+        { label: "Refunds & clinical questions", sub: "never the AI's call", kind: "handoff", beat: "refunds" },
+        { label: "A person decides", sub: "front desk or provider", kind: "done", beat: "person" },
+      ],
+    },
+    verdict: {
+      lines: [
+        { text: "Not the keys.", color: "bad", beat: "keys" },
+        { text: "A job description.", color: "ok", beat: "job" },
+      ],
+    },
+  },
+  {
+    id: "ai-receptionist-refunds",
+    compositionId: "AiReceptionistRefunds",
+    business: "MED SPA",
+    moment: { clip: "assets/moments/ai-receptionist-refunds.mp4", label: "Sunday · 9:40 AM" },
+    before: {
+      customer: "Jess",
+      nodes: [
+        { label: "Jess asks for a refund", kind: "normal", beat: "asked" },
+        { label: "AI guesses the policy", sub: "it doesn't know it", kind: "bad", beat: "guessed" },
+        { label: "Full refund promised", sub: "nobody approved it", kind: "outcome", beat: "yes" },
+      ],
+    },
+    cost: {
+      tag: "DEMO SCENARIO",
+      lines: [
+        { text: "A refund nobody approved", color: "ink" },
+        { text: "Monday: take it back", color: "bad", beat: "promise" },
+      ],
+    },
+    newThing: {
+      kicker: "THE FIX",
+      title: "Money is never the AI's call",
+      sub: "One rule. No exceptions.",
+      isNews: false,
+    },
+    after: {
+      customer: "Jess",
+      nodes: [
+        { label: "Jess asks for a refund", kind: "normal", beat: "refund" },
+        { label: "AI: \"A person will reply\"", sub: "+ summary to front desk", kind: "handoff", beat: "summary" },
+        { label: "Front desk decides", kind: "human", beat: "decide" },
+        { label: "Jess hears back", kind: "done", beat: "hears" },
+      ],
+    },
+    verdict: {
+      lines: [
+        { text: "Let it book.", color: "ok", beat: "book" },
+        { text: "Keep refunds human.", color: "accent", beat: "refunds" },
+      ],
+    },
+  },
+  {
+    id: "ai-receptionist-clinical",
+    compositionId: "AiReceptionistClinical",
+    business: "MED SPA",
+    moment: { clip: "assets/moments/ai-receptionist-clinical.mp4", label: "10:03 PM · after hours" },
+    before: {
+      customer: "Maya",
+      nodes: [
+        { label: "Clinical question", sub: "\"Is this safe with my medication?\"", kind: "normal" },
+        { label: "AI answers alone", sub: "fast and confident", kind: "bad", beat: "answers" },
+        { label: "No licensed eyes", sub: "your name on it", kind: "outcome", beat: "license" },
+      ],
+    },
+    cost: {
+      tag: "DEMO SCENARIO",
+      lines: [
+        { text: "Not a wrong booking", color: "ink" },
+        { text: "Medical advice, your name on it", color: "bad", beat: "medical" },
+      ],
+    },
+    newThing: {
+      kicker: "THE FIX",
+      title: "Clinical → a provider",
+      sub: "A hard line. Every time.",
+      isNews: false,
+    },
+    after: {
+      customer: "Maya",
+      nodes: [
+        { label: "Maya's question", kind: "normal", beat: "question" },
+        { label: "AI spots it's clinical", sub: "and doesn't answer it", kind: "ai", beat: "clinical" },
+        { label: "Flagged for a provider", sub: "\"A provider will reply\"", kind: "handoff", beat: "flags" },
+        { label: "Provider answers", sub: "in the morning", kind: "done", beat: "morning" },
+      ],
+    },
+    verdict: {
+      lines: [
+        { text: "It can book.", color: "ok", beat: "book" },
+        { text: "It never gives the answer.", color: "bad", beat: "never" },
+      ],
+    },
+  },
 ];

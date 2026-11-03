@@ -1,0 +1,20 @@
+# moment
+It's ten at night. A client texts your med spa, asking if a treatment is safe with her medication.
+
+# before
+Your A-I receptionist answers right away. It sounds confident. And nobody with a license ever sees it.
+
+# cost
+That's not a wrong booking. That's medical advice from a chatbot, with your name on it.
+
+# new
+The fix is a hard line. Anything clinical goes to a provider. Every time.
+
+# after
+Maya's question comes in. The A-I spots that it's clinical, tells her a provider will reply, and flags it for the morning.
+
+# verdict
+Your A-I can book the appointment. It should never give the answer.
+
+# cta
+Follow. I fix one business process like this every week.

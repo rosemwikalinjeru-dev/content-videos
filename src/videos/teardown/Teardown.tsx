@@ -87,7 +87,7 @@ const Cost: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
   return (
     <Center>
       <div style={{ marginBottom: 40 }}>
-        <Tag color={C.muted}>DEMO NUMBERS</Tag>
+        <Tag color={C.muted}>{spec.cost.tag ?? "DEMO NUMBERS"}</Tag>
       </div>
       {spec.cost.lines.map((l, i) => (
         <Rise key={i} delay={beats[i]} style={{ marginBottom: 30 }}>

@@ -1,0 +1,20 @@
+# moment
+It's Sunday morning. Your A-I receptionist just told a client she'll get a full refund.
+
+# before
+Jess asked about a refund. The A-I didn't know your policy, so it guessed. And it guessed yes.
+
+# cost
+Now your front desk starts Monday by taking back a promise.
+
+# new
+The fix is one rule. Money questions are never the A-I's call.
+
+# after
+When Jess asks for a refund, the A-I tells her a person will reply, and sends your front desk a summary. They decide, and Jess hears back.
+
+# verdict
+Let it book appointments. Keep refunds human.
+
+# cta
+Follow. I fix one business process like this every week.

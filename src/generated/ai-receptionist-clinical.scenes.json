@@ -1,0 +1,40 @@
+{
+  "video": "ai-receptionist-clinical",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's ten at night. A client texts your med spa, asking if a treatment is safe with her medication."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "Your A-I receptionist answers right away. It sounds confident. And nobody with a license ever sees it."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "That's not a wrong booking. That's medical advice from a chatbot, with your name on it."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "The fix is a hard line. Anything clinical goes to a provider. Every time."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "Maya's question comes in. The A-I spots that it's clinical, tells her a provider will reply, and flags it for the morning."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Your A-I can book the appointment. It should never give the answer."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}

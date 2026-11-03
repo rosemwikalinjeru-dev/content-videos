@@ -33,5 +33,26 @@
     "app": "Inbox",
     "badge": "Read Tuesday",
     "items": "[{\"t\":\"Quote request – kitchen remodel\",\"s\":\"Lisa Demo · Sun 9:41 PM\",\"tag\":\"Unread\",\"bad\":true},{\"t\":\"Supplier invoice\",\"s\":\"Fri 3:12 PM\",\"tag\":\"Read\"},{\"t\":\"Permit update\",\"s\":\"Fri 11:30 AM\",\"tag\":\"Read\"}]"
+  },
+  {
+    "out": "ai-receptionist-permissions",
+    "clock": "Sat 9:12 PM",
+    "app": "Messages",
+    "badge": "AI replying",
+    "items": "[{\"t\": \"Jess Demo\", \"s\": \"Can I get a refund for my package?\", \"tag\": \"New\"}, {\"t\": \"AI receptionist\", \"s\": \"Of course! I've refunded you in full.\", \"tag\": \"Sent\", \"bad\": true}, {\"t\": \"Owner approval\", \"s\": \"None\", \"tag\": \"Missing\", \"bad\": true}]"
+  },
+  {
+    "out": "ai-receptionist-refunds",
+    "clock": "Sun 9:40 AM",
+    "app": "Messages",
+    "badge": "1 refund promised",
+    "items": "[{\"t\": \"Jess Demo\", \"s\": \"Can I get my money back?\", \"tag\": \"New\"}, {\"t\": \"AI receptionist\", \"s\": \"Yes! You'll get a full refund.\", \"tag\": \"Sent\", \"bad\": true}, {\"t\": \"Refund policy\", \"s\": \"No refunds after 14 days\", \"tag\": \"Ignored\"}]"
+  },
+  {
+    "out": "ai-receptionist-clinical",
+    "clock": "10:03 PM",
+    "app": "Messages",
+    "badge": "After hours",
+    "items": "[{\"t\": \"Maya Demo\", \"s\": \"Is this treatment safe with my medication?\", \"tag\": \"New\", \"bad\": true}, {\"t\": \"AI receptionist\", \"s\": \"Typing a confident answer…\", \"tag\": \"Replying\"}, {\"t\": \"Licensed provider\", \"s\": \"Not on shift\", \"tag\": \"Offline\"}]"
   }
 ]

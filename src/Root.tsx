@@ -15,6 +15,9 @@ import apple from "./generated/apple-numbers-mcp.scenes.json";
 import missed from "./generated/missed-calls.scenes.json";
 import noShows from "./generated/no-shows.scenes.json";
 import slowQuotes from "./generated/slow-quotes.scenes.json";
+import aiPermissions from "./generated/ai-receptionist-permissions.scenes.json";
+import aiRefunds from "./generated/ai-receptionist-refunds.scenes.json";
+import aiClinical from "./generated/ai-receptionist-clinical.scenes.json";
 
 const SCRIPTS: Record<string, ScriptScene[]> = {
   "gpt61-terra": terra.scenes,
@@ -22,6 +25,9 @@ const SCRIPTS: Record<string, ScriptScene[]> = {
   "missed-calls": missed.scenes,
   "no-shows": noShows.scenes,
   "slow-quotes": slowQuotes.scenes,
+  "ai-receptionist-permissions": aiPermissions.scenes,
+  "ai-receptionist-refunds": aiRefunds.scenes,
+  "ai-receptionist-clinical": aiClinical.scenes,
 };
 
 type Props = VideoProps & { spec: TeardownSpec };

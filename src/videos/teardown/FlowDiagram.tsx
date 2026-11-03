@@ -19,6 +19,9 @@ const KIND: Record<NodeKind, { border: string; fill: string; ink: string; tag?: 
   ai: { border: C.blue, fill: "#121d3d", ink: C.ink, tag: "AUTOMATED", tagColor: C.blue },
   human: { border: C.ok, fill: "#0f2a22", ink: C.ink, tag: "PERSON", tagColor: C.ok },
   done: { border: C.ok, fill: C.ok, ink: C.ground },
+  read: { border: C.blue, fill: "#121d3d", ink: C.ink, tag: "READ ONLY", tagColor: C.blue },
+  limited: { border: C.accent, fill: "#2a2410", ink: C.ink, tag: "LIMITED WRITE", tagColor: C.accent },
+  handoff: { border: C.ok, fill: "#0f2a22", ink: C.ink, tag: "HAND TO A PERSON", tagColor: C.ok },
 };
 
 const ease = (t: number) => 1 - Math.pow(1 - t, 3);
@@ -54,7 +57,12 @@ export const FlowDiagram: React.FC<{ flow: Flow; mode: "before" | "after"; busin
   const chipY = TOP + pos * (BOX_H + GAP) + BOX_H / 2;
   const atIdx = Math.round(pos);
   const atKind = flow.nodes[Math.min(atIdx, n - 1)].kind;
-  const chipColor = atKind === "bad" || atKind === "outcome" ? C.bad : atKind === "done" || atKind === "human" ? C.ok : C.accent;
+  const chipColor =
+    atKind === "bad" || atKind === "outcome"
+      ? C.bad
+      : atKind === "done" || atKind === "human" || atKind === "handoff"
+        ? C.ok
+        : C.accent;
   const chipIn = spring({ frame: frame - beats[0], fps, config: { damping: 14 } });
 
   const headColor = mode === "before" ? C.bad : C.ok;
@@ -137,7 +145,7 @@ export const FlowDiagram: React.FC<{ flow: Flow; mode: "before" | "after"; busin
                 {node.sub}
               </div>
             )}
-            {k.tag && (
+            {(node.tag ?? k.tag) && (
               <div
                 style={{
                   position: "absolute",
@@ -151,7 +159,7 @@ export const FlowDiagram: React.FC<{ flow: Flow; mode: "before" | "after"; busin
                   borderRadius: 8,
                 }}
               >
-                {k.tag}
+                {node.tag ?? k.tag}
               </div>
             )}
           </div>
