@@ -1,0 +1,60 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Worth",
+      "start": 0,
+      "end": 0.546
+    },
+    {
+      "text": "setting",
+      "start": 0.615,
+      "end": 0.952
+    },
+    {
+      "text": "up",
+      "start": 1.022,
+      "end": 1.138
+    },
+    {
+      "text": "this",
+      "start": 1.207,
+      "end": 1.382
+    },
+    {
+      "text": "week.",
+      "start": 1.451,
+      "end": 1.776
+    },
+    {
+      "text": "You",
+      "start": 1.823,
+      "end": 1.95
+    },
+    {
+      "text": "already",
+      "start": 2.009,
+      "end": 2.322
+    },
+    {
+      "text": "did",
+      "start": 2.368,
+      "end": 2.508
+    },
+    {
+      "text": "the",
+      "start": 2.543,
+      "end": 2.612
+    },
+    {
+      "text": "hard",
+      "start": 2.694,
+      "end": 2.914
+    },
+    {
+      "text": "part.",
+      "start": 2.984,
+      "end": 3.576
+    }
+  ]
+}

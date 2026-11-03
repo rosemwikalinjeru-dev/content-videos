@@ -1,0 +1,130 @@
+{
+  "id": "after",
+  "words": [
+    {
+      "text": "An",
+      "start": 0,
+      "end": 0.163
+    },
+    {
+      "text": "hour",
+      "start": 0.255,
+      "end": 0.546
+    },
+    {
+      "text": "after",
+      "start": 0.639,
+      "end": 0.964
+    },
+    {
+      "text": "the",
+      "start": 1.01,
+      "end": 1.091
+    },
+    {
+      "text": "job,",
+      "start": 1.161,
+      "end": 1.474
+    },
+    {
+      "text": "Tom",
+      "start": 1.567,
+      "end": 1.765
+    },
+    {
+      "text": "gets",
+      "start": 1.834,
+      "end": 2.032
+    },
+    {
+      "text": "one",
+      "start": 2.113,
+      "end": 2.264
+    },
+    {
+      "text": "text.",
+      "start": 2.287,
+      "end": 2.717
+    },
+    {
+      "text": "Everyone",
+      "start": 2.995,
+      "end": 3.506
+    },
+    {
+      "text": "gets",
+      "start": 3.553,
+      "end": 3.75
+    },
+    {
+      "text": "your",
+      "start": 3.808,
+      "end": 3.947
+    },
+    {
+      "text": "review",
+      "start": 3.982,
+      "end": 4.261
+    },
+    {
+      "text": "link.",
+      "start": 4.331,
+      "end": 4.69
+    },
+    {
+      "text": "If",
+      "start": 5.016,
+      "end": 5.178
+    },
+    {
+      "text": "Tom",
+      "start": 5.248,
+      "end": 5.433
+    },
+    {
+      "text": "says",
+      "start": 5.503,
+      "end": 5.782
+    },
+    {
+      "text": "it",
+      "start": 5.898,
+      "end": 6.037
+    },
+    {
+      "text": "went",
+      "start": 6.095,
+      "end": 6.316
+    },
+    {
+      "text": "badly,",
+      "start": 6.374,
+      "end": 6.803
+    },
+    {
+      "text": "your",
+      "start": 6.873,
+      "end": 7.024
+    },
+    {
+      "text": "office",
+      "start": 7.082,
+      "end": 7.407
+    },
+    {
+      "text": "also",
+      "start": 7.442,
+      "end": 7.732
+    },
+    {
+      "text": "calls",
+      "start": 7.79,
+      "end": 8.057
+    },
+    {
+      "text": "him.",
+      "start": 8.127,
+      "end": 8.591
+    }
+  ]
+}

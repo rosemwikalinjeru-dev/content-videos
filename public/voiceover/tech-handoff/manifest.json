@@ -1,0 +1,77 @@
+{
+  "video": "tech-handoff",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3a310987fb2d15b5",
+      "audio": "voiceover/tech-handoff/moment.mp3",
+      "captions": "voiceover/tech-handoff/moment.json",
+      "durationInSeconds": 4.963,
+      "characters": 90
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "36460ae53adb0a25",
+      "audio": "voiceover/tech-handoff/before.mp3",
+      "captions": "voiceover/tech-handoff/before.json",
+      "durationInSeconds": 7.053,
+      "characters": 99
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3211d2693791c113",
+      "audio": "voiceover/tech-handoff/cost.mp3",
+      "captions": "voiceover/tech-handoff/cost.json",
+      "durationInSeconds": 5.146,
+      "characters": 73
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "17b0250fc057a425",
+      "audio": "voiceover/tech-handoff/new.mp3",
+      "captions": "voiceover/tech-handoff/new.json",
+      "durationInSeconds": 4.31,
+      "characters": 65
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "0d694fe8b4f5bb7d",
+      "audio": "voiceover/tech-handoff/after.mp3",
+      "captions": "voiceover/tech-handoff/after.json",
+      "durationInSeconds": 8.438,
+      "characters": 131
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "98a8799c1e6d319b",
+      "audio": "voiceover/tech-handoff/verdict.mp3",
+      "captions": "voiceover/tech-handoff/verdict.json",
+      "durationInSeconds": 3.422,
+      "characters": 53
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/tech-handoff/cta.mp3",
+      "captions": "voiceover/tech-handoff/cta.json",
+      "durationInSeconds": 3.422,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T10:06:30.874Z"
+}

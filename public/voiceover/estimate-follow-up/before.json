@@ -1,0 +1,85 @@
+{
+  "id": "before",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.174
+    },
+    {
+      "text": "other",
+      "start": 0.255,
+      "end": 0.511
+    },
+    {
+      "text": "seven",
+      "start": 0.569,
+      "end": 0.94
+    },
+    {
+      "text": "are",
+      "start": 1.057,
+      "end": 1.265
+    },
+    {
+      "text": "sitting",
+      "start": 1.312,
+      "end": 1.672
+    },
+    {
+      "text": "in",
+      "start": 1.823,
+      "end": 2.02
+    },
+    {
+      "text": "inboxes.",
+      "start": 2.148,
+      "end": 2.914
+    },
+    {
+      "text": "Nobody",
+      "start": 3.123,
+      "end": 3.576
+    },
+    {
+      "text": "follows",
+      "start": 3.634,
+      "end": 3.959
+    },
+    {
+      "text": "up,",
+      "start": 4.017,
+      "end": 4.296
+    },
+    {
+      "text": "because",
+      "start": 4.377,
+      "end": 4.679
+    },
+    {
+      "text": "everyone's",
+      "start": 4.725,
+      "end": 5.213
+    },
+    {
+      "text": "up",
+      "start": 5.283,
+      "end": 5.41
+    },
+    {
+      "text": "on",
+      "start": 5.468,
+      "end": 5.538
+    },
+    {
+      "text": "a",
+      "start": 5.596,
+      "end": 5.631
+    },
+    {
+      "text": "roof.",
+      "start": 5.677,
+      "end": 6.223
+    }
+  ]
+}

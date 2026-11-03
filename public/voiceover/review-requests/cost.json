@@ -1,0 +1,60 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "Your",
+      "start": 0,
+      "end": 0.372
+    },
+    {
+      "text": "next",
+      "start": 0.453,
+      "end": 0.731
+    },
+    {
+      "text": "customer",
+      "start": 0.789,
+      "end": 1.254
+    },
+    {
+      "text": "reads",
+      "start": 1.324,
+      "end": 1.579
+    },
+    {
+      "text": "those",
+      "start": 1.637,
+      "end": 1.892
+    },
+    {
+      "text": "reviews",
+      "start": 1.95,
+      "end": 2.426
+    },
+    {
+      "text": "before",
+      "start": 2.705,
+      "end": 3.03
+    },
+    {
+      "text": "they",
+      "start": 3.065,
+      "end": 3.181
+    },
+    {
+      "text": "ever",
+      "start": 3.228,
+      "end": 3.379
+    },
+    {
+      "text": "call",
+      "start": 3.448,
+      "end": 3.646
+    },
+    {
+      "text": "you.",
+      "start": 3.704,
+      "end": 4.087
+    }
+  ]
+}

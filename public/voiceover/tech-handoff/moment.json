@@ -1,0 +1,90 @@
+{
+  "id": "moment",
+  "words": [
+    {
+      "text": "It's",
+      "start": 0,
+      "end": 0.232
+    },
+    {
+      "text": "Wednesday,",
+      "start": 0.29,
+      "end": 0.697
+    },
+    {
+      "text": "nine",
+      "start": 0.731,
+      "end": 0.952
+    },
+    {
+      "text": "in",
+      "start": 0.987,
+      "end": 1.045
+    },
+    {
+      "text": "the",
+      "start": 1.091,
+      "end": 1.161
+    },
+    {
+      "text": "morning.",
+      "start": 1.207,
+      "end": 1.649
+    },
+    {
+      "text": "Your",
+      "start": 1.695,
+      "end": 1.858
+    },
+    {
+      "text": "plumber",
+      "start": 1.904,
+      "end": 2.264
+    },
+    {
+      "text": "pulls",
+      "start": 2.334,
+      "end": 2.659
+    },
+    {
+      "text": "up",
+      "start": 2.775,
+      "end": 2.949
+    },
+    {
+      "text": "to",
+      "start": 2.995,
+      "end": 3.077
+    },
+    {
+      "text": "a",
+      "start": 3.158,
+      "end": 3.181
+    },
+    {
+      "text": "job,",
+      "start": 3.262,
+      "end": 3.587
+    },
+    {
+      "text": "and",
+      "start": 3.611,
+      "end": 3.738
+    },
+    {
+      "text": "calls",
+      "start": 3.82,
+      "end": 4.098
+    },
+    {
+      "text": "the",
+      "start": 4.156,
+      "end": 4.238
+    },
+    {
+      "text": "office.",
+      "start": 4.307,
+      "end": 4.923
+    }
+  ]
+}

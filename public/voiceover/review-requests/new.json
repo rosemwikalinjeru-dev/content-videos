@@ -1,0 +1,85 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "So",
+      "start": 0,
+      "end": 0.325
+    },
+    {
+      "text": "you",
+      "start": 0.406,
+      "end": 0.511
+    },
+    {
+      "text": "automate",
+      "start": 0.58,
+      "end": 1.091
+    },
+    {
+      "text": "it.",
+      "start": 1.115,
+      "end": 1.37
+    },
+    {
+      "text": "But",
+      "start": 1.544,
+      "end": 1.741
+    },
+    {
+      "text": "careful.",
+      "start": 1.8,
+      "end": 2.31
+    },
+    {
+      "text": "Google's",
+      "start": 2.485,
+      "end": 2.902
+    },
+    {
+      "text": "rules",
+      "start": 2.961,
+      "end": 3.32
+    },
+    {
+      "text": "say",
+      "start": 3.495,
+      "end": 3.785
+    },
+    {
+      "text": "you",
+      "start": 3.936,
+      "end": 4.052
+    },
+    {
+      "text": "can't",
+      "start": 4.11,
+      "end": 4.389
+    },
+    {
+      "text": "only",
+      "start": 4.505,
+      "end": 4.807
+    },
+    {
+      "text": "ask",
+      "start": 4.876,
+      "end": 5.12
+    },
+    {
+      "text": "the",
+      "start": 5.19,
+      "end": 5.259
+    },
+    {
+      "text": "happy",
+      "start": 5.329,
+      "end": 5.573
+    },
+    {
+      "text": "customers.",
+      "start": 5.619,
+      "end": 6.502
+    }
+  ]
+}

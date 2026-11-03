@@ -1,0 +1,85 @@
+{
+  "id": "moment",
+  "words": [
+    {
+      "text": "It's",
+      "start": 0,
+      "end": 0.174
+    },
+    {
+      "text": "Friday,",
+      "start": 0.244,
+      "end": 0.778
+    },
+    {
+      "text": "five",
+      "start": 0.848,
+      "end": 1.091
+    },
+    {
+      "text": "in",
+      "start": 1.126,
+      "end": 1.184
+    },
+    {
+      "text": "the",
+      "start": 1.231,
+      "end": 1.3
+    },
+    {
+      "text": "afternoon.",
+      "start": 1.347,
+      "end": 1.881
+    },
+    {
+      "text": "Your",
+      "start": 2.09,
+      "end": 2.264
+    },
+    {
+      "text": "tech",
+      "start": 2.322,
+      "end": 2.496
+    },
+    {
+      "text": "just",
+      "start": 2.566,
+      "end": 2.752
+    },
+    {
+      "text": "fixed",
+      "start": 2.81,
+      "end": 3.1
+    },
+    {
+      "text": "Tom's",
+      "start": 3.135,
+      "end": 3.425
+    },
+    {
+      "text": "A-C,",
+      "start": 3.541,
+      "end": 3.971
+    },
+    {
+      "text": "and",
+      "start": 4.005,
+      "end": 4.156
+    },
+    {
+      "text": "Tom",
+      "start": 4.214,
+      "end": 4.435
+    },
+    {
+      "text": "loved",
+      "start": 4.516,
+      "end": 4.772
+    },
+    {
+      "text": "him.",
+      "start": 4.818,
+      "end": 5.248
+    }
+  ]
+}

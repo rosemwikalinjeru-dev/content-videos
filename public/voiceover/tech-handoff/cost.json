@@ -1,0 +1,80 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "So",
+      "start": 0,
+      "end": 0.383
+    },
+    {
+      "text": "he",
+      "start": 0.464,
+      "end": 0.546
+    },
+    {
+      "text": "waits",
+      "start": 0.615,
+      "end": 0.917
+    },
+    {
+      "text": "in",
+      "start": 0.998,
+      "end": 1.103
+    },
+    {
+      "text": "the",
+      "start": 1.138,
+      "end": 1.219
+    },
+    {
+      "text": "truck.",
+      "start": 1.265,
+      "end": 1.614
+    },
+    {
+      "text": "Twenty",
+      "start": 1.858,
+      "end": 2.264
+    },
+    {
+      "text": "minutes,",
+      "start": 2.322,
+      "end": 2.856
+    },
+    {
+      "text": "on",
+      "start": 3.065,
+      "end": 3.228
+    },
+    {
+      "text": "a",
+      "start": 3.274,
+      "end": 3.297
+    },
+    {
+      "text": "job",
+      "start": 3.355,
+      "end": 3.657
+    },
+    {
+      "text": "you're",
+      "start": 3.808,
+      "end": 4.005
+    },
+    {
+      "text": "paying",
+      "start": 4.029,
+      "end": 4.319
+    },
+    {
+      "text": "him",
+      "start": 4.4,
+      "end": 4.528
+    },
+    {
+      "text": "for.",
+      "start": 4.609,
+      "end": 5.108
+    }
+  ]
+}

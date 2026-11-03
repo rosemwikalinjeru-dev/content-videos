@@ -1,0 +1,45 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Ask",
+      "start": 0,
+      "end": 0.476
+    },
+    {
+      "text": "everyone.",
+      "start": 0.557,
+      "end": 1.161
+    },
+    {
+      "text": "Then",
+      "start": 1.207,
+      "end": 1.393
+    },
+    {
+      "text": "fix",
+      "start": 1.474,
+      "end": 1.741
+    },
+    {
+      "text": "the",
+      "start": 1.823,
+      "end": 1.916
+    },
+    {
+      "text": "unhappy",
+      "start": 1.985,
+      "end": 2.38
+    },
+    {
+      "text": "ones",
+      "start": 2.45,
+      "end": 2.647
+    },
+    {
+      "text": "yourself.",
+      "start": 2.694,
+      "end": 3.39
+    }
+  ]
+}

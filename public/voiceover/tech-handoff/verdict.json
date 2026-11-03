@@ -1,0 +1,45 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Your",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "plumber",
+      "start": 0.522,
+      "end": 0.975
+    },
+    {
+      "text": "should",
+      "start": 1.149,
+      "end": 1.428
+    },
+    {
+      "text": "start",
+      "start": 1.474,
+      "end": 1.776
+    },
+    {
+      "text": "working,",
+      "start": 1.846,
+      "end": 2.194
+    },
+    {
+      "text": "not",
+      "start": 2.218,
+      "end": 2.357
+    },
+    {
+      "text": "start",
+      "start": 2.415,
+      "end": 2.705
+    },
+    {
+      "text": "calling.",
+      "start": 2.763,
+      "end": 3.39
+    }
+  ]
+}

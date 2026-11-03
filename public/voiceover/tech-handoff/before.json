@@ -1,0 +1,105 @@
+{
+  "id": "before",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.337
+    },
+    {
+      "text": "gate",
+      "start": 0.406,
+      "end": 0.65
+    },
+    {
+      "text": "code",
+      "start": 0.708,
+      "end": 0.998
+    },
+    {
+      "text": "is",
+      "start": 1.068,
+      "end": 1.219
+    },
+    {
+      "text": "in",
+      "start": 1.3,
+      "end": 1.428
+    },
+    {
+      "text": "an",
+      "start": 1.509,
+      "end": 1.591
+    },
+    {
+      "text": "email.",
+      "start": 1.672,
+      "end": 2.113
+    },
+    {
+      "text": "The",
+      "start": 2.183,
+      "end": 2.299
+    },
+    {
+      "text": "photos",
+      "start": 2.357,
+      "end": 2.763
+    },
+    {
+      "text": "are",
+      "start": 2.833,
+      "end": 2.995
+    },
+    {
+      "text": "in",
+      "start": 3.053,
+      "end": 3.146
+    },
+    {
+      "text": "someone's",
+      "start": 3.216,
+      "end": 3.692
+    },
+    {
+      "text": "texts.",
+      "start": 3.75,
+      "end": 4.261
+    },
+    {
+      "text": "And",
+      "start": 4.505,
+      "end": 4.679
+    },
+    {
+      "text": "the",
+      "start": 4.737,
+      "end": 4.83
+    },
+    {
+      "text": "office",
+      "start": 4.911,
+      "end": 5.422
+    },
+    {
+      "text": "is",
+      "start": 5.503,
+      "end": 5.712
+    },
+    {
+      "text": "on",
+      "start": 5.782,
+      "end": 5.956
+    },
+    {
+      "text": "another",
+      "start": 6.037,
+      "end": 6.397
+    },
+    {
+      "text": "call.",
+      "start": 6.455,
+      "end": 7.012
+    }
+  ]
+}

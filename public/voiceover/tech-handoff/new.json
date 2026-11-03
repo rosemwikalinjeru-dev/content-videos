@@ -1,0 +1,70 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "fix",
+      "start": 0.209,
+      "end": 0.488
+    },
+    {
+      "text": "is",
+      "start": 0.604,
+      "end": 0.755
+    },
+    {
+      "text": "one",
+      "start": 0.848,
+      "end": 0.998
+    },
+    {
+      "text": "job",
+      "start": 1.045,
+      "end": 1.254
+    },
+    {
+      "text": "card,",
+      "start": 1.347,
+      "end": 1.683
+    },
+    {
+      "text": "filled",
+      "start": 1.765,
+      "end": 2.148
+    },
+    {
+      "text": "in",
+      "start": 2.241,
+      "end": 2.392
+    },
+    {
+      "text": "the",
+      "start": 2.45,
+      "end": 2.531
+    },
+    {
+      "text": "moment",
+      "start": 2.601,
+      "end": 2.972
+    },
+    {
+      "text": "the",
+      "start": 3.007,
+      "end": 3.077
+    },
+    {
+      "text": "customer",
+      "start": 3.135,
+      "end": 3.587
+    },
+    {
+      "text": "books.",
+      "start": 3.646,
+      "end": 4.272
+    }
+  ]
+}

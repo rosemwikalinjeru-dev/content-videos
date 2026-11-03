@@ -1,0 +1,90 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.139
+    },
+    {
+      "text": "fix",
+      "start": 0.221,
+      "end": 0.511
+    },
+    {
+      "text": "is",
+      "start": 0.627,
+      "end": 0.789
+    },
+    {
+      "text": "a",
+      "start": 0.848,
+      "end": 0.871
+    },
+    {
+      "text": "follow-up",
+      "start": 0.94,
+      "end": 1.347
+    },
+    {
+      "text": "schedule",
+      "start": 1.405,
+      "end": 1.927
+    },
+    {
+      "text": "that",
+      "start": 1.974,
+      "end": 2.136
+    },
+    {
+      "text": "runs",
+      "start": 2.206,
+      "end": 2.426
+    },
+    {
+      "text": "on",
+      "start": 2.496,
+      "end": 2.589
+    },
+    {
+      "text": "its",
+      "start": 2.647,
+      "end": 2.786
+    },
+    {
+      "text": "own,",
+      "start": 2.856,
+      "end": 3.17
+    },
+    {
+      "text": "and",
+      "start": 3.344,
+      "end": 3.506
+    },
+    {
+      "text": "stops",
+      "start": 3.564,
+      "end": 3.878
+    },
+    {
+      "text": "the",
+      "start": 3.913,
+      "end": 3.982
+    },
+    {
+      "text": "moment",
+      "start": 4.04,
+      "end": 4.331
+    },
+    {
+      "text": "they",
+      "start": 4.365,
+      "end": 4.505
+    },
+    {
+      "text": "reply.",
+      "start": 4.574,
+      "end": 5.248
+    }
+  ]
+}

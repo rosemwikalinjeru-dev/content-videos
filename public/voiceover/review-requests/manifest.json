@@ -1,0 +1,77 @@
+{
+  "video": "review-requests",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f49efd6681c9f26e",
+      "audio": "voiceover/review-requests/moment.mp3",
+      "captions": "voiceover/review-requests/moment.json",
+      "durationInSeconds": 5.277,
+      "characters": 86
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "86e262351cf3a55b",
+      "audio": "voiceover/review-requests/before.mp3",
+      "captions": "voiceover/review-requests/before.json",
+      "durationInSeconds": 5.747,
+      "characters": 86
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "37cf46f11ef30295",
+      "audio": "voiceover/review-requests/cost.mp3",
+      "captions": "voiceover/review-requests/cost.json",
+      "durationInSeconds": 4.127,
+      "characters": 65
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "4671269fb9b81c4b",
+      "audio": "voiceover/review-requests/new.mp3",
+      "captions": "voiceover/review-requests/new.json",
+      "durationInSeconds": 6.531,
+      "characters": 91
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "10542ee25f974f4b",
+      "audio": "voiceover/review-requests/after.mp3",
+      "captions": "voiceover/review-requests/after.json",
+      "durationInSeconds": 8.62,
+      "characters": 128
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c2840d2fffbe418d",
+      "audio": "voiceover/review-requests/verdict.mp3",
+      "captions": "voiceover/review-requests/verdict.json",
+      "durationInSeconds": 3.422,
+      "characters": 49
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/review-requests/cta.mp3",
+      "captions": "voiceover/review-requests/cta.json",
+      "durationInSeconds": 3.762,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T10:06:22.826Z"
+}

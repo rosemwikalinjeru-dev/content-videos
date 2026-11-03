@@ -1,0 +1,77 @@
+{
+  "video": "estimate-follow-up",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "64ef27b1071ae9f3",
+      "audio": "voiceover/estimate-follow-up/moment.mp3",
+      "captions": "voiceover/estimate-follow-up/moment.json",
+      "durationInSeconds": 5.381,
+      "characters": 86
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "b5fe1eb743eba7e1",
+      "audio": "voiceover/estimate-follow-up/before.mp3",
+      "captions": "voiceover/estimate-follow-up/before.json",
+      "durationInSeconds": 6.269,
+      "characters": 91
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9bcd36189ab60f1b",
+      "audio": "voiceover/estimate-follow-up/cost.mp3",
+      "captions": "voiceover/estimate-follow-up/cost.json",
+      "durationInSeconds": 5.512,
+      "characters": 79
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "829e13dd099a289e",
+      "audio": "voiceover/estimate-follow-up/new.mp3",
+      "captions": "voiceover/estimate-follow-up/new.json",
+      "durationInSeconds": 5.277,
+      "characters": 86
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f0098df8c8aec3d1",
+      "audio": "voiceover/estimate-follow-up/after.mp3",
+      "captions": "voiceover/estimate-follow-up/after.json",
+      "durationInSeconds": 10.397,
+      "characters": 140
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "faf4fee51e37ca8c",
+      "audio": "voiceover/estimate-follow-up/verdict.mp3",
+      "captions": "voiceover/estimate-follow-up/verdict.json",
+      "durationInSeconds": 3.605,
+      "characters": 58
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/estimate-follow-up/cta.mp3",
+      "captions": "voiceover/estimate-follow-up/cta.json",
+      "durationInSeconds": 3.709,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T10:06:26.911Z"
+}
