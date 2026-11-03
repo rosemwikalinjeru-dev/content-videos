@@ -1,0 +1,90 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "fix",
+      "start": 0.221,
+      "end": 0.476
+    },
+    {
+      "text": "is",
+      "start": 0.569,
+      "end": 0.743
+    },
+    {
+      "text": "a",
+      "start": 0.859,
+      "end": 0.906
+    },
+    {
+      "text": "recall",
+      "start": 0.998,
+      "end": 1.335
+    },
+    {
+      "text": "schedule",
+      "start": 1.405,
+      "end": 1.904
+    },
+    {
+      "text": "that",
+      "start": 1.95,
+      "end": 2.113
+    },
+    {
+      "text": "starts",
+      "start": 2.171,
+      "end": 2.635
+    },
+    {
+      "text": "when",
+      "start": 2.705,
+      "end": 2.879
+    },
+    {
+      "text": "they're",
+      "start": 2.914,
+      "end": 3.146
+    },
+    {
+      "text": "due,",
+      "start": 3.181,
+      "end": 3.541
+    },
+    {
+      "text": "and",
+      "start": 3.75,
+      "end": 3.924
+    },
+    {
+      "text": "stops",
+      "start": 3.982,
+      "end": 4.447
+    },
+    {
+      "text": "the",
+      "start": 4.598,
+      "end": 4.725
+    },
+    {
+      "text": "moment",
+      "start": 4.783,
+      "end": 5.132
+    },
+    {
+      "text": "they",
+      "start": 5.166,
+      "end": 5.294
+    },
+    {
+      "text": "book.",
+      "start": 5.352,
+      "end": 5.898
+    }
+  ]
+}

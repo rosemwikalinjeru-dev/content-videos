@@ -1,0 +1,90 @@
+{
+  "id": "before",
+  "words": [
+    {
+      "text": "They're",
+      "start": 0,
+      "end": 0.348
+    },
+    {
+      "text": "on",
+      "start": 0.372,
+      "end": 0.453
+    },
+    {
+      "text": "a",
+      "start": 0.522,
+      "end": 0.546
+    },
+    {
+      "text": "sticky",
+      "start": 0.592,
+      "end": 0.894
+    },
+    {
+      "text": "note.",
+      "start": 0.952,
+      "end": 1.196
+    },
+    {
+      "text": "Nobody",
+      "start": 1.231,
+      "end": 1.567
+    },
+    {
+      "text": "has",
+      "start": 1.614,
+      "end": 1.741
+    },
+    {
+      "text": "time",
+      "start": 1.811,
+      "end": 2.043
+    },
+    {
+      "text": "to",
+      "start": 2.09,
+      "end": 2.159
+    },
+    {
+      "text": "call",
+      "start": 2.241,
+      "end": 2.403
+    },
+    {
+      "text": "them",
+      "start": 2.45,
+      "end": 2.589
+    },
+    {
+      "text": "all.",
+      "start": 2.67,
+      "end": 2.949
+    },
+    {
+      "text": "So",
+      "start": 3.158,
+      "end": 3.297
+    },
+    {
+      "text": "the",
+      "start": 3.355,
+      "end": 3.437
+    },
+    {
+      "text": "chair",
+      "start": 3.495,
+      "end": 3.762
+    },
+    {
+      "text": "sits",
+      "start": 3.831,
+      "end": 4.087
+    },
+    {
+      "text": "empty.",
+      "start": 4.156,
+      "end": 4.876
+    }
+  ]
+}

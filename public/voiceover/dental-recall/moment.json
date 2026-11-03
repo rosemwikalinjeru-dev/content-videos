@@ -1,0 +1,85 @@
+{
+  "id": "moment",
+  "words": [
+    {
+      "text": "It's",
+      "start": 0,
+      "end": 0.372
+    },
+    {
+      "text": "Tuesday",
+      "start": 0.418,
+      "end": 0.766
+    },
+    {
+      "text": "afternoon.",
+      "start": 0.824,
+      "end": 1.382
+    },
+    {
+      "text": "Your",
+      "start": 1.498,
+      "end": 1.683
+    },
+    {
+      "text": "hygienist",
+      "start": 1.753,
+      "end": 2.229
+    },
+    {
+      "text": "has",
+      "start": 2.287,
+      "end": 2.426
+    },
+    {
+      "text": "three",
+      "start": 2.496,
+      "end": 2.763
+    },
+    {
+      "text": "empty",
+      "start": 2.81,
+      "end": 3.135
+    },
+    {
+      "text": "slots.",
+      "start": 3.193,
+      "end": 3.715
+    },
+    {
+      "text": "And",
+      "start": 3.924,
+      "end": 4.11
+    },
+    {
+      "text": "hundreds",
+      "start": 4.203,
+      "end": 4.563
+    },
+    {
+      "text": "of",
+      "start": 4.609,
+      "end": 4.69
+    },
+    {
+      "text": "past",
+      "start": 4.783,
+      "end": 5.05
+    },
+    {
+      "text": "patients",
+      "start": 5.108,
+      "end": 5.573
+    },
+    {
+      "text": "are",
+      "start": 5.666,
+      "end": 5.875
+    },
+    {
+      "text": "overdue.",
+      "start": 5.921,
+      "end": 6.734
+    }
+  ]
+}

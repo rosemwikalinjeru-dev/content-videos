@@ -1,0 +1,77 @@
+{
+  "video": "bookkeeper-onboarding",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a6e0c1253227e25e",
+      "audio": "voiceover/bookkeeper-onboarding/moment.mp3",
+      "captions": "voiceover/bookkeeper-onboarding/moment.json",
+      "durationInSeconds": 6.504,
+      "characters": 110
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6d82d510d9bb1e5a",
+      "audio": "voiceover/bookkeeper-onboarding/before.mp3",
+      "captions": "voiceover/bookkeeper-onboarding/before.json",
+      "durationInSeconds": 5.982,
+      "characters": 96
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c87a7ab6d8c5d1f6",
+      "audio": "voiceover/bookkeeper-onboarding/cost.mp3",
+      "captions": "voiceover/bookkeeper-onboarding/cost.json",
+      "durationInSeconds": 3.762,
+      "characters": 64
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "06e00fa5ad418d83",
+      "audio": "voiceover/bookkeeper-onboarding/new.mp3",
+      "captions": "voiceover/bookkeeper-onboarding/new.json",
+      "durationInSeconds": 5.016,
+      "characters": 74
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "ece2c3859903a1d1",
+      "audio": "voiceover/bookkeeper-onboarding/after.mp3",
+      "captions": "voiceover/bookkeeper-onboarding/after.json",
+      "durationInSeconds": 9.744,
+      "characters": 150
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "734ed1893362212b",
+      "audio": "voiceover/bookkeeper-onboarding/verdict.mp3",
+      "captions": "voiceover/bookkeeper-onboarding/verdict.json",
+      "durationInSeconds": 3.84,
+      "characters": 52
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/bookkeeper-onboarding/cta.mp3",
+      "captions": "voiceover/bookkeeper-onboarding/cta.json",
+      "durationInSeconds": 3.579,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T18:57:24.133Z"
+}

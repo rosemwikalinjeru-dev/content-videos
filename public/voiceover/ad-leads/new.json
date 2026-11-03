@@ -1,0 +1,90 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "fix",
+      "start": 0.209,
+      "end": 0.441
+    },
+    {
+      "text": "is",
+      "start": 0.534,
+      "end": 0.662
+    },
+    {
+      "text": "a",
+      "start": 0.708,
+      "end": 0.743
+    },
+    {
+      "text": "reply",
+      "start": 0.813,
+      "end": 1.242
+    },
+    {
+      "text": "in",
+      "start": 1.358,
+      "end": 1.474
+    },
+    {
+      "text": "the",
+      "start": 1.509,
+      "end": 1.579
+    },
+    {
+      "text": "first",
+      "start": 1.637,
+      "end": 1.834
+    },
+    {
+      "text": "few",
+      "start": 1.881,
+      "end": 2.055
+    },
+    {
+      "text": "minutes,",
+      "start": 2.101,
+      "end": 2.519
+    },
+    {
+      "text": "asking",
+      "start": 2.798,
+      "end": 3.251
+    },
+    {
+      "text": "what",
+      "start": 3.32,
+      "end": 3.495
+    },
+    {
+      "text": "you'd",
+      "start": 3.553,
+      "end": 3.738
+    },
+    {
+      "text": "ask",
+      "start": 3.796,
+      "end": 4.087
+    },
+    {
+      "text": "on",
+      "start": 4.168,
+      "end": 4.284
+    },
+    {
+      "text": "the",
+      "start": 4.331,
+      "end": 4.412
+    },
+    {
+      "text": "phone.",
+      "start": 4.458,
+      "end": 5.062
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "before",
+  "words": [
+    {
+      "text": "You've",
+      "start": 0,
+      "end": 0.267
+    },
+    {
+      "text": "sent",
+      "start": 0.302,
+      "end": 0.546
+    },
+    {
+      "text": "six",
+      "start": 0.592,
+      "end": 0.813
+    },
+    {
+      "text": "emails.",
+      "start": 0.906,
+      "end": 1.358
+    },
+    {
+      "text": "Each",
+      "start": 1.44,
+      "end": 1.672
+    },
+    {
+      "text": "one",
+      "start": 1.753,
+      "end": 1.985
+    },
+    {
+      "text": "asks",
+      "start": 2.067,
+      "end": 2.473
+    },
+    {
+      "text": "for",
+      "start": 2.543,
+      "end": 2.705
+    },
+    {
+      "text": "something",
+      "start": 2.775,
+      "end": 3.181
+    },
+    {
+      "text": "different.",
+      "start": 3.239,
+      "end": 3.82
+    },
+    {
+      "text": "And",
+      "start": 4.098,
+      "end": 4.261
+    },
+    {
+      "text": "they've",
+      "start": 4.319,
+      "end": 4.574
+    },
+    {
+      "text": "stopped",
+      "start": 4.598,
+      "end": 4.934
+    },
+    {
+      "text": "opening",
+      "start": 5.016,
+      "end": 5.445
+    },
+    {
+      "text": "them.",
+      "start": 5.503,
+      "end": 5.944
+    }
+  ]
+}

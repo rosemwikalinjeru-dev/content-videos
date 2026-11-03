@@ -1,0 +1,55 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Speed",
+      "start": 0,
+      "end": 0.546
+    },
+    {
+      "text": "wins",
+      "start": 0.615,
+      "end": 0.882
+    },
+    {
+      "text": "the",
+      "start": 0.929,
+      "end": 1.022
+    },
+    {
+      "text": "job.",
+      "start": 1.091,
+      "end": 1.416
+    },
+    {
+      "text": "But",
+      "start": 1.509,
+      "end": 1.672
+    },
+    {
+      "text": "you",
+      "start": 1.718,
+      "end": 1.8
+    },
+    {
+      "text": "still",
+      "start": 1.869,
+      "end": 2.078
+    },
+    {
+      "text": "make",
+      "start": 2.125,
+      "end": 2.299
+    },
+    {
+      "text": "the",
+      "start": 2.334,
+      "end": 2.403
+    },
+    {
+      "text": "call.",
+      "start": 2.45,
+      "end": 2.972
+    }
+  ]
+}

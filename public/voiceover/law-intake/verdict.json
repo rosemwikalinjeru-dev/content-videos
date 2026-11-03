@@ -1,0 +1,60 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Let",
+      "start": 0,
+      "end": 0.464
+    },
+    {
+      "text": "it",
+      "start": 0.534,
+      "end": 0.615
+    },
+    {
+      "text": "take",
+      "start": 0.65,
+      "end": 0.859
+    },
+    {
+      "text": "the",
+      "start": 0.894,
+      "end": 0.964
+    },
+    {
+      "text": "message.",
+      "start": 1.022,
+      "end": 1.521
+    },
+    {
+      "text": "Never",
+      "start": 1.904,
+      "end": 2.229
+    },
+    {
+      "text": "let",
+      "start": 2.299,
+      "end": 2.461
+    },
+    {
+      "text": "it",
+      "start": 2.508,
+      "end": 2.589
+    },
+    {
+      "text": "give",
+      "start": 2.635,
+      "end": 2.821
+    },
+    {
+      "text": "the",
+      "start": 2.844,
+      "end": 2.926
+    },
+    {
+      "text": "advice.",
+      "start": 2.984,
+      "end": 3.855
+    }
+  ]
+}

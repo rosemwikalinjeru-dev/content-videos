@@ -1,0 +1,90 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.232
+    },
+    {
+      "text": "fix",
+      "start": 0.302,
+      "end": 0.604
+    },
+    {
+      "text": "is",
+      "start": 0.813,
+      "end": 0.975
+    },
+    {
+      "text": "polite",
+      "start": 1.068,
+      "end": 1.428
+    },
+    {
+      "text": "reminders",
+      "start": 1.498,
+      "end": 2.125
+    },
+    {
+      "text": "that",
+      "start": 2.368,
+      "end": 2.589
+    },
+    {
+      "text": "go",
+      "start": 2.659,
+      "end": 2.775
+    },
+    {
+      "text": "out",
+      "start": 2.856,
+      "end": 3.065
+    },
+    {
+      "text": "on",
+      "start": 3.135,
+      "end": 3.216
+    },
+    {
+      "text": "their",
+      "start": 3.262,
+      "end": 3.413
+    },
+    {
+      "text": "own,",
+      "start": 3.471,
+      "end": 3.75
+    },
+    {
+      "text": "with",
+      "start": 3.82,
+      "end": 4.005
+    },
+    {
+      "text": "a",
+      "start": 4.04,
+      "end": 4.075
+    },
+    {
+      "text": "pay",
+      "start": 4.133,
+      "end": 4.272
+    },
+    {
+      "text": "link",
+      "start": 4.331,
+      "end": 4.551
+    },
+    {
+      "text": "every",
+      "start": 4.609,
+      "end": 4.818
+    },
+    {
+      "text": "time.",
+      "start": 4.865,
+      "end": 5.433
+    }
+  ]
+}

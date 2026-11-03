@@ -1,0 +1,55 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Your",
+      "start": 0,
+      "end": 0.43
+    },
+    {
+      "text": "best",
+      "start": 0.511,
+      "end": 0.755
+    },
+    {
+      "text": "new",
+      "start": 0.813,
+      "end": 0.952
+    },
+    {
+      "text": "patients",
+      "start": 1.022,
+      "end": 1.509
+    },
+    {
+      "text": "are",
+      "start": 1.579,
+      "end": 1.776
+    },
+    {
+      "text": "the",
+      "start": 1.811,
+      "end": 1.892
+    },
+    {
+      "text": "ones",
+      "start": 1.974,
+      "end": 2.276
+    },
+    {
+      "text": "you",
+      "start": 2.392,
+      "end": 2.519
+    },
+    {
+      "text": "already",
+      "start": 2.589,
+      "end": 2.961
+    },
+    {
+      "text": "have.",
+      "start": 3.019,
+      "end": 3.622
+    }
+  ]
+}

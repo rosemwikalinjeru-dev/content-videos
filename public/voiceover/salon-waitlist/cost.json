@@ -1,0 +1,50 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "A",
+      "start": 0,
+      "end": 0.197
+    },
+    {
+      "text": "last-minute",
+      "start": 0.313,
+      "end": 0.848
+    },
+    {
+      "text": "cancel",
+      "start": 0.882,
+      "end": 1.254
+    },
+    {
+      "text": "is",
+      "start": 1.335,
+      "end": 1.405
+    },
+    {
+      "text": "fine.",
+      "start": 1.474,
+      "end": 1.776
+    },
+    {
+      "text": "An",
+      "start": 1.8,
+      "end": 1.904
+    },
+    {
+      "text": "empty",
+      "start": 1.974,
+      "end": 2.218
+    },
+    {
+      "text": "chair",
+      "start": 2.276,
+      "end": 2.508
+    },
+    {
+      "text": "isn't.",
+      "start": 2.589,
+      "end": 3.297
+    }
+  ]
+}

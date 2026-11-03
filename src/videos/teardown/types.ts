@@ -43,6 +43,8 @@ export type TeardownSpec = {
   id: string; // must match scenes/<id>.txt and the voiceover folder
   /** which industry illustration to show (moment, cost, fix, verdict) */
   industry?: Industry;
+  /** episode number in the "Can I Automate This Business?" series */
+  episode?: number;
   compositionId: string;
   business: string; // shown as "DEMO · <business>"
   moment: { clip: string; label: string };

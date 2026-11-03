@@ -1,0 +1,65 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "You",
+      "start": 0,
+      "end": 0.279
+    },
+    {
+      "text": "paid",
+      "start": 0.36,
+      "end": 0.557
+    },
+    {
+      "text": "for",
+      "start": 0.615,
+      "end": 0.731
+    },
+    {
+      "text": "that",
+      "start": 0.801,
+      "end": 0.964
+    },
+    {
+      "text": "lead.",
+      "start": 1.057,
+      "end": 1.416
+    },
+    {
+      "text": "And",
+      "start": 1.533,
+      "end": 1.683
+    },
+    {
+      "text": "then",
+      "start": 1.73,
+      "end": 1.869
+    },
+    {
+      "text": "you",
+      "start": 1.916,
+      "end": 1.997
+    },
+    {
+      "text": "let",
+      "start": 2.067,
+      "end": 2.218
+    },
+    {
+      "text": "it",
+      "start": 2.276,
+      "end": 2.345
+    },
+    {
+      "text": "go",
+      "start": 2.392,
+      "end": 2.519
+    },
+    {
+      "text": "cold.",
+      "start": 2.589,
+      "end": 3.297
+    }
+  ]
+}

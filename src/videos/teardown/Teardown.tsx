@@ -88,6 +88,7 @@ const Moment: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
           <div style={{ position: "absolute", left: 24, top: 22 }}>
             <Tag>{spec.moment.label}</Tag>
           </div>
+          {spec.episode && <EpisodeBadge n={spec.episode} />}
         </div>
         <div style={{ width: 760, height: 760, marginTop: -6, opacity: art, transform: `scale(${0.96 + art * 0.04})` }}>
           <OffthreadVideo src={staticFile(spec.moment.clip)} muted style={{ width: 760, height: 760 }} />
@@ -274,13 +275,38 @@ const Verdict: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
 };
 
 // 7 ─ CTA: series follow
-const Cta: React.FC = () => {
+const pad2 = (n: number) => String(n).padStart(2, "0");
+
+// series badge on the opening scene: "EP 07 · CAN I AUTOMATE THIS BUSINESS?"
+const EpisodeBadge: React.FC<{ n: number }> = ({ n }) => (
+  <div
+    style={{
+      position: "absolute",
+      right: 24,
+      bottom: 22,
+      display: "flex",
+      alignItems: "stretch",
+      borderRadius: 10,
+      overflow: "hidden",
+      boxShadow: "0 8px 24px #000a",
+    }}
+  >
+    <span style={{ font: `900 30px/1 ${MONO}`, background: C.ink, color: C.ground, padding: "12px 14px" }}>EP {pad2(n)}</span>
+    <span style={{ font: `800 24px/30px ${MONO}`, letterSpacing: "0.06em", background: C.ground, color: C.accent, padding: "12px 14px" }}>
+      CAN I AUTOMATE THIS BUSINESS?
+    </span>
+  </div>
+);
+
+const Cta: React.FC<{ episode?: number }> = ({ episode }) => {
   const frame = useCurrentFrame();
   const pulse = 1 + Math.sin(frame / 6) * 0.025;
   return (
     <Center>
       <Rise>
-        <div style={{ font: `700 36px/1.2 ${MONO}`, letterSpacing: "0.08em", color: C.muted }}>THE SERIES</div>
+        <div style={{ font: `700 36px/1.2 ${MONO}`, letterSpacing: "0.08em", color: C.muted }}>
+          {episode ? `THE SERIES · EPISODE ${pad2(episode)}` : "THE SERIES"}
+        </div>
       </Rise>
       <Rise delay={3}>
         <H size={104} color={C.accent}>
@@ -330,7 +356,7 @@ const Visual: React.FC<{ id: string; spec: TeardownSpec }> = ({ id, spec }) => {
     case "verdict":
       return <Verdict spec={spec} />;
     case "cta":
-      return <Cta />;
+      return <Cta episode={spec.episode} />;
     default:
       return null;
   }

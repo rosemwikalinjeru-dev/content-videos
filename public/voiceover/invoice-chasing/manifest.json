@@ -1,0 +1,77 @@
+{
+  "video": "invoice-chasing",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "bd690fb38e1b7291",
+      "audio": "voiceover/invoice-chasing/moment.mp3",
+      "captions": "voiceover/invoice-chasing/moment.json",
+      "durationInSeconds": 5.564,
+      "characters": 98
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "97275707783e8271",
+      "audio": "voiceover/invoice-chasing/before.mp3",
+      "captions": "voiceover/invoice-chasing/before.json",
+      "durationInSeconds": 5.564,
+      "characters": 86
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6fe238d4ba5f46e7",
+      "audio": "voiceover/invoice-chasing/cost.mp3",
+      "captions": "voiceover/invoice-chasing/cost.json",
+      "durationInSeconds": 3.709,
+      "characters": 66
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "fe67296c527b4558",
+      "audio": "voiceover/invoice-chasing/new.mp3",
+      "captions": "voiceover/invoice-chasing/new.json",
+      "durationInSeconds": 5.46,
+      "characters": 81
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "975a209178287f67",
+      "audio": "voiceover/invoice-chasing/after.mp3",
+      "captions": "voiceover/invoice-chasing/after.json",
+      "durationInSeconds": 9.012,
+      "characters": 140
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "712b69fc679133f0",
+      "audio": "voiceover/invoice-chasing/verdict.mp3",
+      "captions": "voiceover/invoice-chasing/verdict.json",
+      "durationInSeconds": 3.344,
+      "characters": 56
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/invoice-chasing/cta.mp3",
+      "captions": "voiceover/invoice-chasing/cta.json",
+      "durationInSeconds": 3.709,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T18:57:12.283Z"
+}

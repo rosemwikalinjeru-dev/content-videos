@@ -6,6 +6,7 @@ import type { TeardownSpec } from "./types";
 export const SPECS: TeardownSpec[] = [
   {
     id: "gpt61-terra",
+    episode: 1,
     industry: "dental",
     compositionId: "Gpt61Terra",
     business: "DENTAL PRACTICE",
@@ -50,6 +51,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "apple-numbers-mcp",
+    episode: 3,
     industry: "agency",
     compositionId: "AppleNumbersMcp",
     business: "MARKETING AGENCY",
@@ -94,6 +96,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "missed-calls",
+    episode: 2,
     industry: "plumbing",
     compositionId: "MissedCalls",
     business: "PLUMBING COMPANY",
@@ -136,6 +139,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "no-shows",
+    episode: 4,
     industry: "medspa",
     compositionId: "NoShows",
     business: "MED SPA",
@@ -177,6 +181,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "slow-quotes",
+    episode: 5,
     industry: "remodeling",
     compositionId: "SlowQuotes",
     business: "HOME REMODELER",
@@ -218,6 +223,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "ai-receptionist-permissions",
+    episode: 6,
     industry: "medspa",
     compositionId: "AiReceptionistPermissions",
     business: "MED SPA",
@@ -262,6 +268,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "ai-receptionist-refunds",
+    episode: 7,
     industry: "medspa",
     compositionId: "AiReceptionistRefunds",
     business: "MED SPA",
@@ -305,6 +312,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "ai-receptionist-clinical",
+    episode: 8,
     industry: "medspa",
     compositionId: "AiReceptionistClinical",
     business: "MED SPA",
@@ -348,6 +356,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "review-requests",
+    episode: 9,
     industry: "hvac",
     compositionId: "ReviewRequests",
     business: "HVAC COMPANY",
@@ -396,6 +405,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "estimate-follow-up",
+    episode: 10,
     industry: "roofing",
     compositionId: "EstimateFollowUp",
     business: "ROOFING COMPANY",
@@ -442,6 +452,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "tech-handoff",
+    episode: 11,
     industry: "plumbing",
     compositionId: "TechHandoff",
     business: "PLUMBING COMPANY",
@@ -488,6 +499,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "dental-recall",
+    episode: 12,
     industry: "dental",
     compositionId: "DentalRecall",
     business: "DENTAL PRACTICE",
@@ -533,6 +545,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "ad-leads",
+    episode: 13,
     industry: "landscaping",
     compositionId: "AdLeads",
     business: "LANDSCAPING COMPANY",
@@ -580,6 +593,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "invoice-chasing",
+    episode: 14,
     industry: "cleaning",
     compositionId: "InvoiceChasing",
     business: "COMMERCIAL CLEANING",
@@ -623,6 +637,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "law-intake",
+    episode: 15,
     industry: "law",
     compositionId: "LawIntake",
     business: "LAW FIRM",
@@ -669,6 +684,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "salon-waitlist",
+    episode: 16,
     industry: "salon",
     compositionId: "SalonWaitlist",
     business: "HAIR SALON",
@@ -716,6 +732,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "bookkeeper-onboarding",
+    episode: 17,
     industry: "bookkeeping",
     compositionId: "BookkeeperOnboarding",
     business: "BOOKKEEPING FIRM",

@@ -1,0 +1,100 @@
+{
+  "id": "moment",
+  "words": [
+    {
+      "text": "It's",
+      "start": 0,
+      "end": 0.325
+    },
+    {
+      "text": "the",
+      "start": 0.36,
+      "end": 0.441
+    },
+    {
+      "text": "end",
+      "start": 0.511,
+      "end": 0.685
+    },
+    {
+      "text": "of",
+      "start": 0.743,
+      "end": 0.824
+    },
+    {
+      "text": "the",
+      "start": 0.894,
+      "end": 0.964
+    },
+    {
+      "text": "month.",
+      "start": 1.033,
+      "end": 1.416
+    },
+    {
+      "text": "You",
+      "start": 1.591,
+      "end": 1.707
+    },
+    {
+      "text": "finished",
+      "start": 1.776,
+      "end": 2.101
+    },
+    {
+      "text": "the",
+      "start": 2.125,
+      "end": 2.206
+    },
+    {
+      "text": "job",
+      "start": 2.276,
+      "end": 2.508
+    },
+    {
+      "text": "three",
+      "start": 2.566,
+      "end": 2.775
+    },
+    {
+      "text": "weeks",
+      "start": 2.81,
+      "end": 3.053
+    },
+    {
+      "text": "ago.",
+      "start": 3.1,
+      "end": 3.506
+    },
+    {
+      "text": "You're",
+      "start": 3.634,
+      "end": 3.855
+    },
+    {
+      "text": "still",
+      "start": 3.878,
+      "end": 4.098
+    },
+    {
+      "text": "waiting",
+      "start": 4.156,
+      "end": 4.481
+    },
+    {
+      "text": "to",
+      "start": 4.54,
+      "end": 4.609
+    },
+    {
+      "text": "get",
+      "start": 4.679,
+      "end": 4.841
+    },
+    {
+      "text": "paid.",
+      "start": 4.911,
+      "end": 5.526
+    }
+  ]
+}

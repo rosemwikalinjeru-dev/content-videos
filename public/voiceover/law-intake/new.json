@@ -1,0 +1,80 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.244
+    },
+    {
+      "text": "fix",
+      "start": 0.313,
+      "end": 0.511
+    },
+    {
+      "text": "is",
+      "start": 0.592,
+      "end": 0.685
+    },
+    {
+      "text": "an",
+      "start": 0.743,
+      "end": 0.836
+    },
+    {
+      "text": "answering",
+      "start": 0.917,
+      "end": 1.451
+    },
+    {
+      "text": "assistant",
+      "start": 1.544,
+      "end": 2.113
+    },
+    {
+      "text": "that",
+      "start": 2.148,
+      "end": 2.299
+    },
+    {
+      "text": "takes",
+      "start": 2.345,
+      "end": 2.612
+    },
+    {
+      "text": "the",
+      "start": 2.659,
+      "end": 2.74
+    },
+    {
+      "text": "details,",
+      "start": 2.798,
+      "end": 3.309
+    },
+    {
+      "text": "and",
+      "start": 3.332,
+      "end": 3.495
+    },
+    {
+      "text": "never",
+      "start": 3.553,
+      "end": 3.785
+    },
+    {
+      "text": "gives",
+      "start": 3.855,
+      "end": 4.11
+    },
+    {
+      "text": "legal",
+      "start": 4.261,
+      "end": 4.563
+    },
+    {
+      "text": "advice.",
+      "start": 4.621,
+      "end": 5.433
+    }
+  ]
+}

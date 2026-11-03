@@ -1,0 +1,77 @@
+{
+  "video": "ad-leads",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "fe3e9c5c5c07b68d",
+      "audio": "voiceover/ad-leads/moment.mp3",
+      "captions": "voiceover/ad-leads/moment.json",
+      "durationInSeconds": 4.493,
+      "characters": 80
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "5e1ad15b83291e3d",
+      "audio": "voiceover/ad-leads/before.mp3",
+      "captions": "voiceover/ad-leads/before.json",
+      "durationInSeconds": 7.419,
+      "characters": 106
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "af0f857afc92332f",
+      "audio": "voiceover/ad-leads/cost.mp3",
+      "captions": "voiceover/ad-leads/cost.json",
+      "durationInSeconds": 3.344,
+      "characters": 52
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "22727e1e7cc3e3cf",
+      "audio": "voiceover/ad-leads/new.mp3",
+      "captions": "voiceover/ad-leads/new.json",
+      "durationInSeconds": 5.094,
+      "characters": 80
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "60b5d83ef1e5d3ba",
+      "audio": "voiceover/ad-leads/after.mp3",
+      "captions": "voiceover/ad-leads/after.json",
+      "durationInSeconds": 9.848,
+      "characters": 154
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "93c246ad6b14a40c",
+      "audio": "voiceover/ad-leads/verdict.mp3",
+      "captions": "voiceover/ad-leads/verdict.json",
+      "durationInSeconds": 3.004,
+      "characters": 48
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/ad-leads/cta.mp3",
+      "captions": "voiceover/ad-leads/cta.json",
+      "durationInSeconds": 3.605,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T18:57:08.122Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Ask",
+      "start": 0,
+      "end": 0.499
+    },
+    {
+      "text": "once,",
+      "start": 0.615,
+      "end": 1.057
+    },
+    {
+      "text": "clearly.",
+      "start": 1.207,
+      "end": 1.683
+    },
+    {
+      "text": "Let",
+      "start": 1.834,
+      "end": 2.078
+    },
+    {
+      "text": "the",
+      "start": 2.101,
+      "end": 2.183
+    },
+    {
+      "text": "reminders",
+      "start": 2.252,
+      "end": 2.775
+    },
+    {
+      "text": "do",
+      "start": 2.833,
+      "end": 2.937
+    },
+    {
+      "text": "the",
+      "start": 2.995,
+      "end": 3.065
+    },
+    {
+      "text": "chasing.",
+      "start": 3.111,
+      "end": 3.808
+    }
+  ]
+}

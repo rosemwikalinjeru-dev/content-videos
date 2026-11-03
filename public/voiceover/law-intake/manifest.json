@@ -1,0 +1,77 @@
+{
+  "video": "law-intake",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "5657840f444b62f3",
+      "audio": "voiceover/law-intake/moment.mp3",
+      "captions": "voiceover/law-intake/moment.json",
+      "durationInSeconds": 5.982,
+      "characters": 97
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "06aa9d1d4a43a077",
+      "audio": "voiceover/law-intake/before.mp3",
+      "captions": "voiceover/law-intake/before.json",
+      "durationInSeconds": 5.799,
+      "characters": 80
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3cd333ab6496a148",
+      "audio": "voiceover/law-intake/cost.mp3",
+      "captions": "voiceover/law-intake/cost.json",
+      "durationInSeconds": 4.127,
+      "characters": 70
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "cba3782688b13474",
+      "audio": "voiceover/law-intake/new.mp3",
+      "captions": "voiceover/law-intake/new.json",
+      "durationInSeconds": 5.46,
+      "characters": 87
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "d77cc3a91847f10f",
+      "audio": "voiceover/law-intake/after.mp3",
+      "captions": "voiceover/law-intake/after.json",
+      "durationInSeconds": 10.815,
+      "characters": 151
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "d1d40bac64abe20c",
+      "audio": "voiceover/law-intake/verdict.mp3",
+      "captions": "voiceover/law-intake/verdict.json",
+      "durationInSeconds": 3.892,
+      "characters": 54
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/law-intake/cta.mp3",
+      "captions": "voiceover/law-intake/cta.json",
+      "durationInSeconds": 3.527,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T18:57:16.307Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "Every",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "empty",
+      "start": 0.511,
+      "end": 0.824
+    },
+    {
+      "text": "hygiene",
+      "start": 0.882,
+      "end": 1.289
+    },
+    {
+      "text": "slot",
+      "start": 1.312,
+      "end": 1.695
+    },
+    {
+      "text": "is",
+      "start": 1.788,
+      "end": 1.95
+    },
+    {
+      "text": "time",
+      "start": 2.02,
+      "end": 2.252
+    },
+    {
+      "text": "you've",
+      "start": 2.287,
+      "end": 2.473
+    },
+    {
+      "text": "already",
+      "start": 2.508,
+      "end": 2.879
+    },
+    {
+      "text": "paid",
+      "start": 2.949,
+      "end": 3.158
+    },
+    {
+      "text": "for.",
+      "start": 3.216,
+      "end": 3.715
+    }
+  ]
+}

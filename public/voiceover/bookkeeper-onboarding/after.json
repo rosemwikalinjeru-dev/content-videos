@@ -1,0 +1,145 @@
+{
+  "id": "after",
+  "words": [
+    {
+      "text": "Anna",
+      "start": 0,
+      "end": 0.279
+    },
+    {
+      "text": "opens",
+      "start": 0.348,
+      "end": 0.708
+    },
+    {
+      "text": "one",
+      "start": 0.824,
+      "end": 0.975
+    },
+    {
+      "text": "link,",
+      "start": 1.022,
+      "end": 1.382
+    },
+    {
+      "text": "and",
+      "start": 1.405,
+      "end": 1.556
+    },
+    {
+      "text": "uploads",
+      "start": 1.649,
+      "end": 2.113
+    },
+    {
+      "text": "what",
+      "start": 2.183,
+      "end": 2.368
+    },
+    {
+      "text": "she",
+      "start": 2.415,
+      "end": 2.531
+    },
+    {
+      "text": "has.",
+      "start": 2.601,
+      "end": 3.03
+    },
+    {
+      "text": "Missing",
+      "start": 3.309,
+      "end": 3.692
+    },
+    {
+      "text": "something?",
+      "start": 3.762,
+      "end": 4.261
+    },
+    {
+      "text": "She",
+      "start": 4.354,
+      "end": 4.493
+    },
+    {
+      "text": "gets",
+      "start": 4.563,
+      "end": 4.772
+    },
+    {
+      "text": "a",
+      "start": 4.83,
+      "end": 4.853
+    },
+    {
+      "text": "reminder",
+      "start": 4.923,
+      "end": 5.399
+    },
+    {
+      "text": "for",
+      "start": 5.48,
+      "end": 5.642
+    },
+    {
+      "text": "just",
+      "start": 5.7,
+      "end": 5.933
+    },
+    {
+      "text": "that",
+      "start": 5.968,
+      "end": 6.142
+    },
+    {
+      "text": "item.",
+      "start": 6.223,
+      "end": 6.745
+    },
+    {
+      "text": "When",
+      "start": 6.989,
+      "end": 7.187
+    },
+    {
+      "text": "it's",
+      "start": 7.233,
+      "end": 7.372
+    },
+    {
+      "text": "complete,",
+      "start": 7.419,
+      "end": 8.034
+    },
+    {
+      "text": "you",
+      "start": 8.208,
+      "end": 8.324
+    },
+    {
+      "text": "get",
+      "start": 8.382,
+      "end": 8.51
+    },
+    {
+      "text": "a",
+      "start": 8.557,
+      "end": 8.58
+    },
+    {
+      "text": "ping",
+      "start": 8.638,
+      "end": 8.858
+    },
+    {
+      "text": "to",
+      "start": 8.928,
+      "end": 9.009
+    },
+    {
+      "text": "start.",
+      "start": 9.067,
+      "end": 9.706
+    }
+  ]
+}

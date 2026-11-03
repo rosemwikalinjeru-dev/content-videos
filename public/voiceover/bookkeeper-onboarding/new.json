@@ -1,0 +1,75 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.163
+    },
+    {
+      "text": "fix",
+      "start": 0.232,
+      "end": 0.546
+    },
+    {
+      "text": "is",
+      "start": 0.697,
+      "end": 0.894
+    },
+    {
+      "text": "one",
+      "start": 1.01,
+      "end": 1.219
+    },
+    {
+      "text": "checklist",
+      "start": 1.254,
+      "end": 1.765
+    },
+    {
+      "text": "link,",
+      "start": 1.834,
+      "end": 2.183
+    },
+    {
+      "text": "with",
+      "start": 2.241,
+      "end": 2.45
+    },
+    {
+      "text": "every",
+      "start": 2.519,
+      "end": 2.786
+    },
+    {
+      "text": "document",
+      "start": 2.844,
+      "end": 3.309
+    },
+    {
+      "text": "they",
+      "start": 3.344,
+      "end": 3.483
+    },
+    {
+      "text": "need",
+      "start": 3.541,
+      "end": 3.75
+    },
+    {
+      "text": "in",
+      "start": 3.866,
+      "end": 4.005
+    },
+    {
+      "text": "one",
+      "start": 4.087,
+      "end": 4.261
+    },
+    {
+      "text": "place.",
+      "start": 4.296,
+      "end": 4.969
+    }
+  ]
+}

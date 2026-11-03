@@ -1,0 +1,77 @@
+{
+  "video": "salon-waitlist",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "27c529dd8025171a",
+      "audio": "voiceover/salon-waitlist/moment.mp3",
+      "captions": "voiceover/salon-waitlist/moment.json",
+      "durationInSeconds": 8.176,
+      "characters": 121
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "adfec4c51258bd23",
+      "audio": "voiceover/salon-waitlist/before.mp3",
+      "captions": "voiceover/salon-waitlist/before.json",
+      "durationInSeconds": 4.911,
+      "characters": 84
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "4adcd19696b77a94",
+      "audio": "voiceover/salon-waitlist/cost.mp3",
+      "captions": "voiceover/salon-waitlist/cost.json",
+      "durationInSeconds": 3.344,
+      "characters": 51
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "e9e223658fa93066",
+      "audio": "voiceover/salon-waitlist/new.mp3",
+      "captions": "voiceover/salon-waitlist/new.json",
+      "durationInSeconds": 5.564,
+      "characters": 87
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7fa705267f23da05",
+      "audio": "voiceover/salon-waitlist/after.mp3",
+      "captions": "voiceover/salon-waitlist/after.json",
+      "durationInSeconds": 8.49,
+      "characters": 128
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "2d7c955d66116c7e",
+      "audio": "voiceover/salon-waitlist/verdict.mp3",
+      "captions": "voiceover/salon-waitlist/verdict.json",
+      "durationInSeconds": 3.004,
+      "characters": 49
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/salon-waitlist/cta.mp3",
+      "captions": "voiceover/salon-waitlist/cta.json",
+      "durationInSeconds": 3.527,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T18:57:20.308Z"
+}

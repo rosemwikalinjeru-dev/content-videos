@@ -1,0 +1,95 @@
+{
+  "id": "moment",
+  "words": [
+    {
+      "text": "It's",
+      "start": 0,
+      "end": 0.348
+    },
+    {
+      "text": "Wednesday.",
+      "start": 0.395,
+      "end": 0.929
+    },
+    {
+      "text": "You",
+      "start": 1.103,
+      "end": 1.242
+    },
+    {
+      "text": "signed",
+      "start": 1.324,
+      "end": 1.614
+    },
+    {
+      "text": "a",
+      "start": 1.672,
+      "end": 1.695
+    },
+    {
+      "text": "new",
+      "start": 1.776,
+      "end": 1.927
+    },
+    {
+      "text": "bookkeeping",
+      "start": 1.985,
+      "end": 2.461
+    },
+    {
+      "text": "client",
+      "start": 2.519,
+      "end": 3.007
+    },
+    {
+      "text": "two",
+      "start": 3.123,
+      "end": 3.286
+    },
+    {
+      "text": "weeks",
+      "start": 3.332,
+      "end": 3.576
+    },
+    {
+      "text": "ago.",
+      "start": 3.611,
+      "end": 3.947
+    },
+    {
+      "text": "You",
+      "start": 4.156,
+      "end": 4.272
+    },
+    {
+      "text": "still",
+      "start": 4.331,
+      "end": 4.551
+    },
+    {
+      "text": "don't",
+      "start": 4.609,
+      "end": 4.83
+    },
+    {
+      "text": "have",
+      "start": 4.876,
+      "end": 5.039
+    },
+    {
+      "text": "their",
+      "start": 5.074,
+      "end": 5.213
+    },
+    {
+      "text": "bank",
+      "start": 5.271,
+      "end": 5.48
+    },
+    {
+      "text": "statements.",
+      "start": 5.538,
+      "end": 6.455
+    }
+  ]
+}

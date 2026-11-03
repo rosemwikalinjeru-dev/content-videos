@@ -1,0 +1,77 @@
+{
+  "video": "dental-recall",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7740ae5574bcacce",
+      "audio": "voiceover/dental-recall/moment.mp3",
+      "captions": "voiceover/dental-recall/moment.json",
+      "durationInSeconds": 6.766,
+      "characters": 104
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "efe49cbd5692d8be",
+      "audio": "voiceover/dental-recall/before.mp3",
+      "captions": "voiceover/dental-recall/before.json",
+      "durationInSeconds": 5.042,
+      "characters": 83
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "91f3dda2bbe50341",
+      "audio": "voiceover/dental-recall/cost.mp3",
+      "captions": "voiceover/dental-recall/cost.json",
+      "durationInSeconds": 3.762,
+      "characters": 57
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f951c84609c112dc",
+      "audio": "voiceover/dental-recall/new.mp3",
+      "captions": "voiceover/dental-recall/new.json",
+      "durationInSeconds": 5.93,
+      "characters": 90
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f0e4a26ceae59010",
+      "audio": "voiceover/dental-recall/after.mp3",
+      "captions": "voiceover/dental-recall/after.json",
+      "durationInSeconds": 9.378,
+      "characters": 131
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "97a4e601c5a0b61b",
+      "audio": "voiceover/dental-recall/verdict.mp3",
+      "captions": "voiceover/dental-recall/verdict.json",
+      "durationInSeconds": 3.657,
+      "characters": 53
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "344b54132bac20a8",
+      "audio": "voiceover/dental-recall/cta.mp3",
+      "captions": "voiceover/dental-recall/cta.json",
+      "durationInSeconds": 3.944,
+      "characters": 56
+    }
+  ],
+  "generatedAt": "2026-11-03T18:57:04.118Z"
+}

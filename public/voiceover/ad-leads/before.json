@@ -1,0 +1,105 @@
+{
+  "id": "before",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "lead",
+      "start": 0.244,
+      "end": 0.499
+    },
+    {
+      "text": "lands",
+      "start": 0.627,
+      "end": 0.987
+    },
+    {
+      "text": "in",
+      "start": 1.08,
+      "end": 1.184
+    },
+    {
+      "text": "a",
+      "start": 1.242,
+      "end": 1.265
+    },
+    {
+      "text": "spreadsheet.",
+      "start": 1.312,
+      "end": 2.067
+    },
+    {
+      "text": "Your",
+      "start": 2.345,
+      "end": 2.543
+    },
+    {
+      "text": "crew",
+      "start": 2.612,
+      "end": 2.833
+    },
+    {
+      "text": "lead",
+      "start": 2.902,
+      "end": 3.1
+    },
+    {
+      "text": "sees",
+      "start": 3.181,
+      "end": 3.483
+    },
+    {
+      "text": "it",
+      "start": 3.564,
+      "end": 3.715
+    },
+    {
+      "text": "two",
+      "start": 3.796,
+      "end": 3.971
+    },
+    {
+      "text": "days",
+      "start": 4.04,
+      "end": 4.272
+    },
+    {
+      "text": "later.",
+      "start": 4.365,
+      "end": 4.888
+    },
+    {
+      "text": "By",
+      "start": 5.097,
+      "end": 5.259
+    },
+    {
+      "text": "then,",
+      "start": 5.329,
+      "end": 5.642
+    },
+    {
+      "text": "she's",
+      "start": 5.666,
+      "end": 5.898
+    },
+    {
+      "text": "hired",
+      "start": 5.968,
+      "end": 6.293
+    },
+    {
+      "text": "someone",
+      "start": 6.339,
+      "end": 6.699
+    },
+    {
+      "text": "else.",
+      "start": 6.757,
+      "end": 7.384
+    }
+  ]
+}

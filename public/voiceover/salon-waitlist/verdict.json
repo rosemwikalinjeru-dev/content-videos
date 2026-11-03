@@ -1,0 +1,40 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Cancellations",
+      "start": 0,
+      "end": 0.859
+    },
+    {
+      "text": "happen.",
+      "start": 0.94,
+      "end": 1.335
+    },
+    {
+      "text": "Empty",
+      "start": 1.393,
+      "end": 1.707
+    },
+    {
+      "text": "chairs",
+      "start": 1.753,
+      "end": 2.032
+    },
+    {
+      "text": "don't",
+      "start": 2.078,
+      "end": 2.299
+    },
+    {
+      "text": "have",
+      "start": 2.345,
+      "end": 2.519
+    },
+    {
+      "text": "to.",
+      "start": 2.566,
+      "end": 2.972
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "Your",
+      "start": 0,
+      "end": 0.279
+    },
+    {
+      "text": "crew",
+      "start": 0.337,
+      "end": 0.511
+    },
+    {
+      "text": "got",
+      "start": 0.569,
+      "end": 0.743
+    },
+    {
+      "text": "paid.",
+      "start": 0.813,
+      "end": 1.126
+    },
+    {
+      "text": "You",
+      "start": 1.184,
+      "end": 1.3
+    },
+    {
+      "text": "didn't.",
+      "start": 1.358,
+      "end": 1.765
+    },
+    {
+      "text": "That",
+      "start": 1.823,
+      "end": 2.032
+    },
+    {
+      "text": "gap",
+      "start": 2.101,
+      "end": 2.264
+    },
+    {
+      "text": "comes",
+      "start": 2.345,
+      "end": 2.554
+    },
+    {
+      "text": "out",
+      "start": 2.589,
+      "end": 2.728
+    },
+    {
+      "text": "of",
+      "start": 2.786,
+      "end": 2.856
+    },
+    {
+      "text": "your",
+      "start": 2.902,
+      "end": 3.007
+    },
+    {
+      "text": "pocket.",
+      "start": 3.053,
+      "end": 3.669
+    }
+  ]
+}

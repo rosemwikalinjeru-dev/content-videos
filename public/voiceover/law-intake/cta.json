@@ -1,0 +1,55 @@
+{
+  "id": "cta",
+  "words": [
+    {
+      "text": "Follow.",
+      "start": 0,
+      "end": 0.534
+    },
+    {
+      "text": "I",
+      "start": 0.778,
+      "end": 0.848
+    },
+    {
+      "text": "fix",
+      "start": 0.998,
+      "end": 1.196
+    },
+    {
+      "text": "one",
+      "start": 1.277,
+      "end": 1.416
+    },
+    {
+      "text": "business",
+      "start": 1.451,
+      "end": 1.788
+    },
+    {
+      "text": "process",
+      "start": 1.834,
+      "end": 2.159
+    },
+    {
+      "text": "like",
+      "start": 2.218,
+      "end": 2.392
+    },
+    {
+      "text": "this",
+      "start": 2.415,
+      "end": 2.589
+    },
+    {
+      "text": "every",
+      "start": 2.705,
+      "end": 2.949
+    },
+    {
+      "text": "week.",
+      "start": 2.995,
+      "end": 3.483
+    }
+  ]
+}

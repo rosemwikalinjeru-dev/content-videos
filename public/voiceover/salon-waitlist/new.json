@@ -1,0 +1,95 @@
+{
+  "id": "new",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "fix",
+      "start": 0.232,
+      "end": 0.499
+    },
+    {
+      "text": "is",
+      "start": 0.592,
+      "end": 0.755
+    },
+    {
+      "text": "a",
+      "start": 0.813,
+      "end": 0.848
+    },
+    {
+      "text": "waitlist",
+      "start": 0.917,
+      "end": 1.44
+    },
+    {
+      "text": "that",
+      "start": 1.474,
+      "end": 1.637
+    },
+    {
+      "text": "texts",
+      "start": 1.66,
+      "end": 1.927
+    },
+    {
+      "text": "everyone",
+      "start": 2.009,
+      "end": 2.45
+    },
+    {
+      "text": "at",
+      "start": 2.485,
+      "end": 2.589
+    },
+    {
+      "text": "once,",
+      "start": 2.705,
+      "end": 3.065
+    },
+    {
+      "text": "and",
+      "start": 3.088,
+      "end": 3.251
+    },
+    {
+      "text": "gives",
+      "start": 3.332,
+      "end": 3.553
+    },
+    {
+      "text": "the",
+      "start": 3.587,
+      "end": 3.657
+    },
+    {
+      "text": "slot",
+      "start": 3.704,
+      "end": 4.04
+    },
+    {
+      "text": "to",
+      "start": 4.133,
+      "end": 4.261
+    },
+    {
+      "text": "the",
+      "start": 4.331,
+      "end": 4.4
+    },
+    {
+      "text": "first",
+      "start": 4.47,
+      "end": 4.783
+    },
+    {
+      "text": "yes.",
+      "start": 4.899,
+      "end": 5.526
+    }
+  ]
+}

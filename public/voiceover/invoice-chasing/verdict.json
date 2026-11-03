@@ -1,0 +1,45 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "Automate",
+      "start": 0,
+      "end": 0.708
+    },
+    {
+      "text": "the",
+      "start": 0.731,
+      "end": 0.813
+    },
+    {
+      "text": "reminder.",
+      "start": 0.871,
+      "end": 1.324
+    },
+    {
+      "text": "Keep",
+      "start": 1.382,
+      "end": 1.579
+    },
+    {
+      "text": "the",
+      "start": 1.625,
+      "end": 1.695
+    },
+    {
+      "text": "hard",
+      "start": 1.753,
+      "end": 1.927
+    },
+    {
+      "text": "conversation",
+      "start": 1.985,
+      "end": 2.635
+    },
+    {
+      "text": "human.",
+      "start": 2.694,
+      "end": 3.297
+    }
+  ]
+}
