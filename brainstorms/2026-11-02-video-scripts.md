@@ -22,6 +22,16 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
   3. A cost in owner terms (hours per week, a lost appointment, a wrong record), never tokens or benchmarks
   4. Owner vocabulary ("front desk", "appointment", "the system"), never "workflow", "integration" or "API" in the voiceover
 - **Demo numbers are allowed only if labelled as demo** on screen (e.g. "DEMO SCENARIO"). Real or news numbers still need a source in research/.
+- **Default short-form scene order (replaces the CLAUDE.md order for business-owner shorts):**
+  1. Owner's moment (hook), 3–5s
+  2. Before flow, with the red box as the bottleneck, 6–8s
+  3. The cost (labelled demo number), 3–5s
+  4. The new thing, one sentence plus a source card, 5–7s
+  5. After flow, showing where AI goes and where a person checks, 8–10s
+  6. Honest verdict, 4–6s
+  7. CTA, about 3s
+  Target 35–45s. Builder details (price per token, benchmarks, model comparisons) become on-screen text at most, never voiceover.
+- **Freshness rule relaxed:** topic news can be up to **14 days** old when the video is a business teardown (news is the fix, not the headline). Pure news videos keep the 7-day rule. Terra (Oct 26) is OK until ~Nov 9.
 - **Primary goal of each video: traffic to Rose's pages** (profile visits and follows), not direct sales from the video.
 
 ## Q&A log
@@ -56,6 +66,13 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
 - Terra hook draft (not yet approved): "It's Monday, 8am. Your front desk has fourteen new patient emails… and every one gets retyped by hand. OpenAI just released an AI that can do that typing for you."
 - Flags: none
 
+### Q6 — Default scene order and news freshness
+- Asked: switch to the owner-first 7-scene order? Relax the 7-day rule for teardown videos?
+- Captured: "yes, use the 7-scene order, relax to 14 days"
+- Follow-ups: CLAUDE.md "Short-form structure" and "Hard rule 3" need updating to match (do this at the end, with Rose's OK).
+- Flags: none
+
 ## Open flags (pending input)
+- Update CLAUDE.md (short-form structure, rule 3 freshness, audience/CTA rules) once the grill is done -> Claude, with Rose's approval
 - CTA mechanic: is "traffic to my pages" = follow/profile visit, or should we still use a comment-keyword to start DMs? (inferred: follow-first) -> Rose
 - When one has to win, US or UK? (currency, spelling, terminology) -> Rose
