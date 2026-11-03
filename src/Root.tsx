@@ -9,6 +9,7 @@ import { FPS, loadTiming, ScriptScene, VideoProps } from "./lib/timing";
 import { Teardown } from "./videos/teardown/Teardown";
 import { SPECS } from "./videos/teardown/specs";
 import type { TeardownSpec } from "./videos/teardown/types";
+import { PermissionCarousel, SLIDES } from "./carousel/PermissionCarousel";
 
 import terra from "./generated/gpt61-terra.scenes.json";
 import apple from "./generated/apple-numbers-mcp.scenes.json";
@@ -59,5 +60,14 @@ export const RemotionRoot: React.FC = () => (
         }}
       />
     ))}
+    {/* Instagram carousel: 1 frame = 1 slide (render with scripts/render-carousel.mjs) */}
+    <Composition
+      id="PermissionCarousel"
+      component={PermissionCarousel}
+      width={1080}
+      height={1350}
+      fps={30}
+      durationInFrames={SLIDES}
+    />
   </>
 );
