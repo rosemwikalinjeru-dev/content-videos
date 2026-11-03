@@ -75,5 +75,47 @@
     "app": "Calling Office",
     "badge": "On hold 4:12",
     "items": "[{\"t\": \"Gate code?\", \"s\": \"In an email to the front desk\", \"tag\": \"Can't find\", \"bad\": true}, {\"t\": \"Photos of the leak?\", \"s\": \"In Sam's texts\", \"tag\": \"Missing\", \"bad\": true}, {\"t\": \"Customer: Priya Demo\", \"s\": \"Waiting at the gate\", \"tag\": \"Waiting\"}]"
+  },
+  {
+    "out": "dental-recall",
+    "clock": "2:15 PM",
+    "app": "Hygiene schedule",
+    "badge": "3 open",
+    "items": "[{\"t\": \"10:00 · Cleaning\", \"s\": \"Raj Demo\", \"tag\": \"Booked\"}, {\"t\": \"11:00 · Open\", \"s\": \"no patient\", \"tag\": \"Empty\", \"bad\": true}, {\"t\": \"1:00 · Open\", \"s\": \"no patient\", \"tag\": \"Empty\", \"bad\": true}, {\"t\": \"2:00 · Open\", \"s\": \"no patient\", \"tag\": \"Empty\", \"bad\": true}]"
+  },
+  {
+    "out": "ad-leads",
+    "clock": "7:04 PM",
+    "app": "Lead spreadsheet",
+    "badge": "Nobody's looked",
+    "items": "[{\"t\": \"Nina Demo · new backyard\", \"s\": \"Facebook ad form · 7:02 PM\", \"tag\": \"New\", \"bad\": true}, {\"t\": \"Ben Demo · patio\", \"s\": \"Tuesday\", \"tag\": \"Not called\", \"bad\": true}, {\"t\": \"Lia Demo · sod\", \"s\": \"Monday\", \"tag\": \"Not called\", \"bad\": true}]"
+  },
+  {
+    "out": "invoice-chasing",
+    "clock": "Oct 31",
+    "app": "Invoices",
+    "badge": "2 overdue",
+    "items": "[{\"t\": \"#2231 · Dan Demo\", \"s\": \"Office cleaning · 21 days\", \"tag\": \"Unpaid\", \"bad\": true}, {\"t\": \"#2219 · Kim Demo\", \"s\": \"Deep clean · 34 days\", \"tag\": \"Unpaid\", \"bad\": true}, {\"t\": \"#2240 · Lee Demo\", \"s\": \"Window cleaning\", \"tag\": \"Paid\"}]"
+  },
+  {
+    "out": "law-intake",
+    "clock": "Mon 8:02 AM",
+    "app": "Recents",
+    "badge": "6 missed",
+    "items": "[{\"t\": \"(555) 010-7720\", \"s\": \"Sat 2:14 PM\", \"tag\": \"Missed\", \"bad\": true}, {\"t\": \"(555) 010-1984\", \"s\": \"Sat 6:40 PM\", \"tag\": \"Missed\", \"bad\": true}, {\"t\": \"Unknown caller\", \"s\": \"Sun 9:40 AM\", \"tag\": \"Missed\", \"bad\": true}, {\"t\": \"Voicemail · 0:12\", \"s\": \"never written down\", \"tag\": \"Lost\"}]"
+  },
+  {
+    "out": "salon-waitlist",
+    "clock": "8:01 AM",
+    "app": "Today",
+    "badge": "1 canceled",
+    "items": "[{\"t\": \"12:00 · Color\", \"s\": \"Ana Demo\", \"tag\": \"Booked\"}, {\"t\": \"2:00 · Cut + style\", \"s\": \"just canceled\", \"tag\": \"Empty\", \"bad\": true}, {\"t\": \"Waitlist: sticky note\", \"s\": \"5 names\", \"tag\": \"Not called\"}]"
+  },
+  {
+    "out": "bookkeeper-onboarding",
+    "clock": "Wed 9:30 AM",
+    "app": "Sent",
+    "badge": "6 emails · 0 replies",
+    "items": "[{\"t\": \"Re: Re: documents needed\", \"s\": \"to Anna Demo\", \"tag\": \"Unopened\", \"bad\": true}, {\"t\": \"Bank statements please\", \"s\": \"to Anna Demo\", \"tag\": \"Unopened\"}, {\"t\": \"Following up\", \"s\": \"to Anna Demo\", \"tag\": \"Unopened\"}, {\"t\": \"Tax return?\", \"s\": \"to Anna Demo\", \"tag\": \"Unopened\"}]"
   }
 ]

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en" data-resolution="square">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1080" />
+    <script src="../assets/gsap.min.js"></script>
+    <style>
+      :root { --ground:#0b1020; --panel:#141b31; --line:#2b3660; --ink:#f4f6fb; --muted:#9aa5c4;
+        --blue:#5b8cff; --ok:#3ddc97; --accent:#ffd84d;
+        --font:"Inter","Liberation Sans",sans-serif; --mono:"JetBrains Mono","DejaVu Sans Mono",monospace; }
+      * { margin:0; padding:0; box-sizing:border-box; }
+      html, body { width:1080px; height:1080px; overflow:hidden; background:var(--ground); font-family:var(--font); color:var(--ink); }
+      #root { position:relative; width:100%; height:100%; }
+      #card { position:absolute; left:90px; top:70px; width:900px; height:920px; background:var(--panel); border:4px solid var(--line); border-radius:36px; padding:44px 48px; opacity:0; }
+      h1 { font:800 46px/1.1 var(--font); }
+      .sub { font:600 30px/1.3 var(--font); color:var(--muted); margin-top:8px; }
+      .bar { margin-top:30px; height:26px; border-radius:13px; background:var(--line); overflow:hidden; }
+      #fill { height:100%; width:0%; background:var(--ok); border-radius:13px; }
+      #pct { font:800 30px/1 var(--mono); color:var(--ok); margin-top:12px; }
+      .item { display:flex; align-items:center; gap:22px; margin-top:26px; font:700 36px/1.2 var(--font); }
+      .box { width:52px; height:52px; border-radius:14px; border:4px solid var(--line); display:flex; align-items:center; justify-content:center; font:900 32px/1 var(--font); color:var(--ground); flex-shrink:0; }
+      .box.done { background:var(--ok); border-color:var(--ok); }
+      .box.miss { border-color:var(--accent); }
+      .tag { margin-left:auto; font:800 24px/1 var(--mono); padding:8px 12px; border-radius:8px; }
+      #rem { position:absolute; left:50%; bottom:40px; transform:translateX(-50%); font:800 30px/1 var(--mono); padding:16px 22px; border-radius:12px; background:var(--accent); color:var(--ground); white-space:nowrap; opacity:0; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="8" data-width="1080" data-height="1080">
+      <div id="card" class="clip" data-start="0" data-duration="8" data-track-index="0">
+        <h1>Onboarding checklist</h1>
+        <div class="sub">Anna Demo · one link, everything in one place</div>
+        <div class="bar"><div id="fill"></div></div>
+        <div id="pct">0% COMPLETE</div>
+        <div class="item"><span class="box" id="b1"></span>Bank statements (3 months)</div>
+        <div class="item"><span class="box" id="b2"></span>Last year's tax return</div>
+        <div class="item"><span class="box" id="b3"></span>Payroll report</div>
+        <div class="item"><span class="box miss" id="b4"></span>Loan statement<span class="tag" id="t4" style="background:#ffd84d;color:#0b1020;opacity:0">MISSING</span></div>
+      </div>
+      <div id="rem" class="clip" data-start="0" data-duration="8" data-track-index="1">REMINDER SENT: JUST THE LOAN STATEMENT</div>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      tl.fromTo("#card", { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 0);
+      const done = [["#b1", 0.9, 25], ["#b2", 1.6, 50], ["#b3", 2.3, 75]];
+      done.forEach(([id, at, pct]) => {
+        tl.set(id, { className: "box done", textContent: "✓" }, at);
+        tl.to("#fill", { width: pct + "%", duration: 0.4, ease: "power2.out" }, at);
+        tl.set("#pct", { textContent: pct + "% COMPLETE" }, at);
+      });
+      tl.fromTo("#t4", { opacity: 0 }, { opacity: 1, duration: 0.3 }, 3.0);
+      tl.fromTo("#rem", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.35 }, 3.6);
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

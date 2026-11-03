@@ -1,0 +1,40 @@
+{
+  "video": "bookkeeper-onboarding",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's Wednesday. You signed a new bookkeeping client two weeks ago. You still don't have their bank statements."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "You've sent six emails. Each one asks for something different. And they've stopped opening them."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "Two weeks of back and forth, before you've done any actual work."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "The fix is one checklist link, with every document they need in one place."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "Anna opens one link, and uploads what she has. Missing something? She gets a reminder for just that item. When it's complete, you get a ping to start."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Ask once, clearly. Let the reminders do the chasing."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}

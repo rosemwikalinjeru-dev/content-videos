@@ -1,0 +1,34 @@
+[
+  {
+    "out": "recall-thread",
+    "title": "Bright Smile Dental (demo)",
+    "sub": "To: Maria Demo · 6 months since her cleaning",
+    "messages": "[{\"text\": \"Hi Maria! You're due for a cleaning. Open times: Tue 10:00 · Thu 2:30 · Sat 9:00\", \"out\": true, \"at\": 0.6}, {\"text\": \"Thu 2:30 please!\", \"at\": 1.9}, {\"text\": \"You're booked: Thursday 2:30. See you then!\", \"out\": true, \"ok\": true, \"at\": 2.9}]",
+    "top": "MONTH 6 · RECALL TEXT",
+    "bottom": "BOOKED → REMINDERS STOP"
+  },
+  {
+    "out": "lead-thread",
+    "title": "GreenYard Landscaping (demo)",
+    "sub": "To: Nina Demo · 2 min after the ad form",
+    "messages": "[{\"text\": \"Hi Nina! Thanks for asking about a new backyard. 3 quick questions: size? budget range? when to start?\", \"out\": true, \"at\": 0.6}, {\"text\": \"Big yard, around $15k, this spring\", \"at\": 1.9}, {\"text\": \"Perfect, the owner will call you today.\", \"out\": true, \"ok\": true, \"at\": 2.9}]",
+    "top": "REPLY IN MINUTES",
+    "bottom": "READY → OWNER GETS AN ALERT"
+  },
+  {
+    "out": "invoice-thread",
+    "title": "Spotless Commercial (demo)",
+    "sub": "To: Dan Demo · Invoice #2231",
+    "messages": "[{\"text\": \"Hi Dan, friendly heads-up: invoice #2231 is due Friday.\", \"out\": true, \"at\": 0.6}, {\"text\": \"Invoice #2231 is due today. Pay in one tap: pay link\", \"out\": true, \"at\": 1.8}, {\"text\": \"Sorry! Paying now.\", \"at\": 2.9}]",
+    "top": "−3 DAYS · DUE DATE · +7 DAYS",
+    "bottom": "STILL UNPAID AT +7 → YOU CALL"
+  },
+  {
+    "out": "waitlist-thread",
+    "title": "Studio Nine Salon (demo)",
+    "sub": "To: 5 people on the waitlist",
+    "messages": "[{\"text\": \"A 2:00 PM spot just opened today! Reply YES to grab it.\", \"out\": true, \"at\": 0.6}, {\"text\": \"YES!! (Leah Demo)\", \"at\": 1.7}, {\"text\": \"It's yours, Leah. See you at 2!\", \"out\": true, \"ok\": true, \"at\": 2.6}, {\"text\": \"To the other 4: sorry, it's taken. We'll text you next time.\", \"out\": true, \"at\": 3.4}]",
+    "top": "SENT TO ALL 5 AT ONCE",
+    "bottom": "FIRST YES GETS THE SLOT"
+  }
+]

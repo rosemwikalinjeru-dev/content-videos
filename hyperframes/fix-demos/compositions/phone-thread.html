@@ -1,0 +1,88 @@
+<!doctype html>
+<html
+  lang="en"
+  data-resolution="square"
+  data-composition-variables='[
+    {"id":"title","type":"string","label":"Thread title","default":"Business (demo)"},
+    {"id":"sub","type":"string","label":"Thread subtitle","default":"To: Customer Demo"},
+    {"id":"messages","type":"string","label":"JSON [{text,out,bad,at}]","default":"[]"},
+    {"id":"top","type":"string","label":"Top badge","default":""},
+    {"id":"bottom","type":"string","label":"Bottom badge","default":""}
+  ]'
+>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1080" />
+    <!-- Reusable text-message demo. Each video renders it with --variables. -->
+    <script src="../assets/gsap.min.js"></script>
+    <style>
+      :root { --ground:#0b1020; --screen:#f5f6fa; --ink:#12151f; --muted:#5d6478; --line:#e2e5ee;
+        --biz:#2f6fed; --ok:#1f9d6b; --bad:#e5484d; --accent:#ffd84d;
+        --font:"Inter","Liberation Sans",sans-serif; --mono:"JetBrains Mono","DejaVu Sans Mono",monospace; }
+      * { margin:0; padding:0; box-sizing:border-box; }
+      html, body { width:1080px; height:1080px; overflow:hidden; background:var(--ground); font-family:var(--font); }
+      #root { position:relative; width:100%; height:100%; }
+      #phone { position:absolute; left:200px; top:100px; width:680px; height:860px; background:#05070f; border-radius:72px; padding:22px; opacity:0; }
+      .screen { width:100%; height:100%; background:var(--screen); border-radius:54px; overflow:hidden; position:relative; }
+      .head { padding:34px 40px 22px; border-bottom:2px solid var(--line); }
+      #t { font:800 40px/1.1 var(--font); color:var(--ink); }
+      #s { font:600 26px/1.2 var(--font); color:var(--muted); margin-top:6px; }
+      #thread { padding:26px 30px; display:flex; flex-direction:column; gap:22px; }
+      .msg { max-width:500px; padding:22px 26px; border-radius:30px; font:600 30px/1.3 var(--font); opacity:0; }
+      .out { align-self:flex-end; background:var(--biz); color:#fff; border-bottom-right-radius:8px; }
+      .in { align-self:flex-start; background:#e4e7ef; color:var(--ink); border-bottom-left-radius:8px; }
+      .out.bad { background:var(--bad); }
+      .out.ok { background:var(--ok); }
+      #top, #bottom { position:absolute; left:50%; transform:translateX(-50%); font:800 30px/1 var(--mono); letter-spacing:.06em;
+        padding:14px 20px; border-radius:12px; opacity:0; white-space:nowrap; }
+      #top { top:24px; background:var(--accent); color:var(--ground); }
+      #bottom { bottom:30px; background:var(--ok); color:#fff; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="8" data-width="1080" data-height="1080">
+      <div id="phone" class="clip" data-start="0" data-duration="8" data-track-index="0">
+        <div class="screen">
+          <div class="head"><div id="t"></div><div id="s"></div></div>
+          <div id="thread"></div>
+        </div>
+      </div>
+      <div id="top" class="clip" data-start="0" data-duration="8" data-track-index="1"></div>
+      <div id="bottom" class="clip" data-start="0" data-duration="8" data-track-index="2"></div>
+    </div>
+    <script>
+      const v = (window.__hyperframes && window.__hyperframes.getVariables && window.__hyperframes.getVariables()) || {};
+      document.getElementById("t").textContent = v.title || "";
+      document.getElementById("s").textContent = v.sub || "";
+      const topEl = document.getElementById("top");
+      const botEl = document.getElementById("bottom");
+      topEl.textContent = v.top || "";
+      botEl.textContent = v.bottom || "";
+      let msgs = [];
+      try { msgs = JSON.parse(v.messages || "[]"); } catch (e) { msgs = []; }
+      const thread = document.getElementById("thread");
+      msgs.slice(0, 5).forEach((m, i) => {
+        const el = document.createElement("div");
+        el.className = "msg " + (m.out ? "out" : "in") + (m.bad ? " bad" : "") + (m.ok ? " ok" : "");
+        el.id = "msg" + i;
+        el.textContent = m.text || "";
+        thread.appendChild(el);
+      });
+
+      const tl = gsap.timeline({ paused: true });
+      tl.fromTo("#phone", { opacity: 0, y: 50 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 0);
+      Array.from(thread.children).forEach((el, i) => {
+        const at = typeof msgs[i].at === "number" ? msgs[i].at : 0.6 + i * 1.1;
+        tl.fromTo(el, { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.35, ease: "power2.out" }, at);
+      });
+      if (v.top) tl.fromTo("#top", { opacity: 0, y: -20 }, { opacity: 1, y: 0, duration: 0.35 }, 0.4);
+      if (v.bottom) {
+        const last = msgs.length ? (typeof msgs[msgs.length - 1].at === "number" ? msgs[msgs.length - 1].at : 0.6 + (msgs.length - 1) * 1.1) : 1;
+        tl.fromTo("#bottom", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.35 }, last + 0.5);
+      }
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

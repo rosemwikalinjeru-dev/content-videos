@@ -486,4 +486,276 @@ export const SPECS: TeardownSpec[] = [
       ],
     },
   },
+  {
+    id: "dental-recall",
+    industry: "dental",
+    compositionId: "DentalRecall",
+    business: "DENTAL PRACTICE",
+    moment: { clip: "assets/moments/dental-recall.mp4", label: "Tuesday · 2:15 PM" },
+    before: {
+      customer: "Maria",
+      nodes: [
+        { label: "Patient due for a cleaning", kind: "normal" },
+        { label: "Nobody reminds them", kind: "bad", beat: "reminds" },
+        { label: "They drift away", sub: "life got busy", kind: "outcome", beat: "drifted" },
+      ],
+    },
+    cost: {
+      tag: "DEMO SCENARIO",
+      lines: [
+        { text: "Empty hygiene slots", color: "ink" },
+        { text: "= time you already paid for", color: "bad", beat: "paid" },
+      ],
+    },
+    newThing: {
+      kicker: "THE FIX",
+      title: "A recall schedule that stops when they book",
+      clip: "assets/fix-demos/recall-thread.mp4",
+      clipSeconds: 4.0,
+      isNews: false,
+    },
+    after: {
+      customer: "Maria",
+      layout: "timeline",
+      railLabel: "LAST CLEANING",
+      nodes: [
+        { label: "Text with open times", kind: "ai", tag: "MONTH 6", beat: "six" },
+        { label: "A friendly nudge", kind: "ai", tag: "MONTH 7", beat: "later" },
+        { label: "Front desk calls", sub: "still no booking", kind: "human", tag: "STILL NOTHING", beat: "nothing" },
+      ],
+    },
+    verdict: {
+      lines: [
+        { text: "Your best new patients", color: "ok", beat: "best" },
+        { text: "are the ones you already have.", color: "muted", beat: "already" },
+      ],
+    },
+  },
+  {
+    id: "ad-leads",
+    industry: "landscaping",
+    compositionId: "AdLeads",
+    business: "LANDSCAPING COMPANY",
+    moment: { clip: "assets/moments/ad-leads.mp4", label: "7:02 PM · ad form" },
+    before: {
+      customer: "Nina",
+      nodes: [
+        { label: "Ad form at 7 PM", kind: "normal" },
+        { label: "Lands in a spreadsheet", kind: "bad", beat: "spreadsheet" },
+        { label: "Seen 2 days later", kind: "normal", beat: "days" },
+        { label: "She hires someone else", kind: "outcome", beat: "hired" },
+      ],
+    },
+    cost: {
+      tag: "DEMO SCENARIO",
+      lines: [
+        { text: "You paid for that lead", color: "ink" },
+        { text: "then let it go cold", color: "bad", beat: "cold" },
+      ],
+    },
+    newThing: {
+      kicker: "THE FIX",
+      title: "Reply in minutes, ask the right questions",
+      clip: "assets/fix-demos/lead-thread.mp4",
+      clipSeconds: 4.0,
+      isNews: false,
+    },
+    after: {
+      customer: "Nina",
+      layout: "branch",
+      edgeLabels: ["READY", "JUST LOOKING"],
+      nodes: [
+        { label: "Ad form", sub: "7 PM", kind: "normal" },
+        { label: "Instant text", sub: "3 quick questions", kind: "ai", beat: "text" },
+        { label: "You get an alert", sub: "call her today", kind: "human", beat: "ready" },
+        { label: "Project photos", sub: "check in later", kind: "ai", beat: "looking" },
+      ],
+    },
+    verdict: {
+      lines: [
+        { text: "Speed wins the job.", color: "ok", beat: "speed" },
+        { text: "You still make the call.", color: "accent", beat: "still" },
+      ],
+    },
+  },
+  {
+    id: "invoice-chasing",
+    industry: "cleaning",
+    compositionId: "InvoiceChasing",
+    business: "COMMERCIAL CLEANING",
+    moment: { clip: "assets/moments/invoice-chasing.mp4", label: "End of the month" },
+    before: {
+      customer: "Dan",
+      nodes: [
+        { label: "Job finished", sub: "3 weeks ago", kind: "normal" },
+        { label: "Invoice sent once", kind: "normal", beat: "invoice" },
+        { label: "Nobody follows up", sub: "asking feels awkward", kind: "bad", beat: "followed" },
+      ],
+    },
+    cost: {
+      tag: "DEMO SCENARIO",
+      lines: [
+        { text: "Your crew got paid.", color: "ink" },
+        { text: "You didn't.", color: "bad", beat: "didn't" },
+      ],
+    },
+    newThing: {
+      kicker: "THE FIX",
+      title: "Polite reminders, a pay link every time",
+      clip: "assets/fix-demos/invoice-thread.mp4",
+      clipSeconds: 4.0,
+      isNews: false,
+    },
+    after: {
+      customer: "Dan",
+      nodes: [
+        { label: "Friendly heads-up", sub: "3 days before it's due", kind: "ai", beat: "before" },
+        { label: "Pay link", sub: "on the due date", kind: "ai", beat: "link" },
+        { label: "A week late? You call", sub: "personally", kind: "human", beat: "late" },
+      ],
+    },
+    verdict: {
+      lines: [
+        { text: "Automate the reminder.", color: "ok", beat: "automate" },
+        { text: "Keep the hard talk human.", color: "accent", beat: "hard" },
+      ],
+    },
+  },
+  {
+    id: "law-intake",
+    industry: "law",
+    compositionId: "LawIntake",
+    business: "LAW FIRM",
+    moment: { clip: "assets/moments/law-intake.mp4", label: "Monday · 8:00 AM" },
+    before: {
+      customer: "Carlos",
+      nodes: [
+        { label: "6 weekend calls", kind: "normal" },
+        { label: "Few voicemails", sub: "most hang up", kind: "normal", beat: "voicemails" },
+        { label: "Never written down", kind: "bad", beat: "written" },
+      ],
+    },
+    cost: {
+      tag: "DEMO SCENARIO",
+      lines: [
+        { text: "Every missed call", color: "ink" },
+        { text: "was someone who needed a lawyer", color: "bad", beat: "needed" },
+      ],
+    },
+    newThing: {
+      kicker: "THE FIX",
+      title: "Takes the details, never gives advice",
+      clip: "assets/fix-demos/intake-note.mp4",
+      clipSeconds: 4.0,
+      isNews: false,
+    },
+    after: {
+      customer: "Carlos",
+      layout: "swimlane",
+      lanes: ["CALLER", "ASSISTANT", "INTAKE TEAM", "ATTORNEY"],
+      nodes: [
+        { label: "Carlos calls Saturday", kind: "normal", beat: "calls" },
+        { label: "Takes the details", sub: "name · number · what happened", kind: "ai", tag: "NO ADVICE", beat: "takes" },
+        { label: "Intake team reviews", sub: "Monday", kind: "human", beat: "reviews" },
+        { label: "Attorney calls back", kind: "done", beat: "attorney" },
+      ],
+    },
+    verdict: {
+      lines: [
+        { text: "Let it take the message.", color: "ok", beat: "message" },
+        { text: "Never the advice.", color: "bad", beat: "never" },
+      ],
+    },
+  },
+  {
+    id: "salon-waitlist",
+    industry: "salon",
+    compositionId: "SalonWaitlist",
+    business: "HAIR SALON",
+    moment: { clip: "assets/moments/salon-waitlist.mp4", label: "Thursday · 8:00 AM" },
+    before: {
+      customer: "Leah",
+      nodes: [
+        { label: "2 PM cancels", kind: "normal" },
+        { label: "Waitlist on a sticky note", kind: "normal", beat: "sticky" },
+        { label: "No time to call them all", kind: "bad", beat: "time" },
+        { label: "Empty chair", kind: "outcome", beat: "chair" },
+      ],
+    },
+    cost: {
+      tag: "DEMO SCENARIO",
+      lines: [
+        { text: "A last-minute cancel is fine.", color: "ink" },
+        { text: "An empty chair isn't.", color: "bad", beat: "empty" },
+      ],
+    },
+    newThing: {
+      kicker: "THE FIX",
+      title: "Text the whole waitlist, first yes wins",
+      clip: "assets/fix-demos/waitlist-thread.mp4",
+      clipSeconds: 4.2,
+      isNews: false,
+    },
+    after: {
+      customer: "Leah",
+      layout: "branch",
+      edgeLabels: ["FIRST YES", "NO REPLIES"],
+      nodes: [
+        { label: "Cancel comes in", kind: "normal", beat: "cancel" },
+        { label: "Text all 5 at once", kind: "ai", beat: "text" },
+        { label: "Leah's booked", sub: "first to reply", kind: "done", beat: "first" },
+        { label: "Front desk heads-up", sub: "nobody replied", kind: "human", beat: "nobody" },
+      ],
+    },
+    verdict: {
+      lines: [
+        { text: "Cancellations happen.", color: "ok", beat: "cancellations" },
+        { text: "Empty chairs don't have to.", color: "accent", beat: "empty" },
+      ],
+    },
+  },
+  {
+    id: "bookkeeper-onboarding",
+    industry: "bookkeeping",
+    compositionId: "BookkeeperOnboarding",
+    business: "BOOKKEEPING FIRM",
+    moment: { clip: "assets/moments/bookkeeper-onboarding.mp4", label: "Wednesday · 9:30 AM" },
+    before: {
+      customer: "Anna",
+      nodes: [
+        { label: "New client signed", sub: "2 weeks ago", kind: "normal" },
+        { label: "6 emails, each different", kind: "bad", beat: "emails" },
+        { label: "They stop opening them", kind: "outcome", beat: "stopped" },
+      ],
+    },
+    cost: {
+      tag: "DEMO NUMBERS",
+      lines: [
+        { text: "Two weeks of back and forth", color: "ink" },
+        { text: "before any actual work", color: "bad", beat: "actual" },
+      ],
+    },
+    newThing: {
+      kicker: "THE FIX",
+      title: "One checklist link",
+      clip: "assets/fix-demos/doc-checklist.mp4",
+      clipSeconds: 4.0,
+      isNews: false,
+    },
+    after: {
+      customer: "Anna",
+      nodes: [
+        { label: "One checklist link", kind: "normal", beat: "link" },
+        { label: "Anna uploads what she has", kind: "normal", beat: "uploads" },
+        { label: "Reminder for the missing item", kind: "ai", beat: "missing" },
+        { label: "Complete → you start", kind: "done", beat: "complete" },
+      ],
+    },
+    verdict: {
+      lines: [
+        { text: "Ask once, clearly.", color: "ok", beat: "ask" },
+        { text: "Let reminders do the chasing.", color: "accent", beat: "reminders" },
+      ],
+    },
+  },
 ];

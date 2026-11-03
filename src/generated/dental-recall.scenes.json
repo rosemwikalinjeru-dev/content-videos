@@ -1,0 +1,40 @@
+{
+  "video": "dental-recall",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's Tuesday afternoon. Your hygienist has three empty slots. And hundreds of past patients are overdue."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "Nobody reminds them. They meant to book. Life got busy, and they just drifted away."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "Every empty hygiene slot is time you've already paid for."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "The fix is a recall schedule that starts when they're due, and stops the moment they book."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "At six months, Maria gets a text with open times. A month later, a friendly nudge. Still nothing? Your front desk gives her a call."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Your best new patients are the ones you already have."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}

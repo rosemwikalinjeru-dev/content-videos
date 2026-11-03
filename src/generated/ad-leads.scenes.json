@@ -1,0 +1,40 @@
+{
+  "video": "ad-leads",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's seven at night. Someone fills out your Facebook ad form for a new backyard."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "The lead lands in a spreadsheet. Your crew lead sees it two days later. By then, she's hired someone else."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "You paid for that lead. And then you let it go cold."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "The fix is a reply in the first few minutes, asking what you'd ask on the phone."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "Nina gets a text right away, with three quick questions. Ready to start? You get an alert to call her. Just looking? She gets your project photos instead."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Speed wins the job. But you still make the call."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}

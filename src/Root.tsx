@@ -23,6 +23,12 @@ import aiClinical from "./generated/ai-receptionist-clinical.scenes.json";
 import reviews from "./generated/review-requests.scenes.json";
 import estimates from "./generated/estimate-follow-up.scenes.json";
 import techHandoff from "./generated/tech-handoff.scenes.json";
+import dentalRecall from "./generated/dental-recall.scenes.json";
+import adLeads from "./generated/ad-leads.scenes.json";
+import invoiceChasing from "./generated/invoice-chasing.scenes.json";
+import lawIntake from "./generated/law-intake.scenes.json";
+import salonWaitlist from "./generated/salon-waitlist.scenes.json";
+import bookkeeperOnboarding from "./generated/bookkeeper-onboarding.scenes.json";
 
 const SCRIPTS: Record<string, ScriptScene[]> = {
   "gpt61-terra": terra.scenes,
@@ -36,6 +42,12 @@ const SCRIPTS: Record<string, ScriptScene[]> = {
   "review-requests": reviews.scenes,
   "estimate-follow-up": estimates.scenes,
   "tech-handoff": techHandoff.scenes,
+  "dental-recall": dentalRecall.scenes,
+  "ad-leads": adLeads.scenes,
+  "invoice-chasing": invoiceChasing.scenes,
+  "law-intake": lawIntake.scenes,
+  "salon-waitlist": salonWaitlist.scenes,
+  "bookkeeper-onboarding": bookkeeperOnboarding.scenes,
 };
 
 type Props = VideoProps & { spec: TeardownSpec };

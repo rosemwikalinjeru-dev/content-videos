@@ -1,0 +1,40 @@
+{
+  "video": "invoice-chasing",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's the end of the month. You finished the job three weeks ago. You're still waiting to get paid."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "The invoice went out once. Nobody followed up, because asking for money feels awkward."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "Your crew got paid. You didn't. That gap comes out of your pocket."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "The fix is polite reminders that go out on their own, with a pay link every time."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "Three days before it's due, Dan gets a friendly heads-up. On the due date, a pay link. A week late? It comes to you, to call him personally."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Automate the reminder. Keep the hard conversation human."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}
