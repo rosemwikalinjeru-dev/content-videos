@@ -5,29 +5,47 @@ import "@fontsource/inter/900.css";
 import "@fontsource/jetbrains-mono/700.css";
 import React from "react";
 import { Composition } from "remotion";
-import { Gpt61Terra } from "./videos/gpt61-terra/Gpt61Terra";
-import terraScript from "./generated/gpt61-terra.scenes.json";
-import { FPS, loadTiming, VideoProps } from "./lib/timing";
+import { FPS, loadTiming, ScriptScene, VideoProps } from "./lib/timing";
+import { Teardown } from "./videos/teardown/Teardown";
+import { SPECS } from "./videos/teardown/specs";
+import type { TeardownSpec } from "./videos/teardown/types";
 
-export const RemotionRoot: React.FC = () => {
-  return (
-    <>
+import terra from "./generated/gpt61-terra.scenes.json";
+import apple from "./generated/apple-numbers-mcp.scenes.json";
+import missed from "./generated/missed-calls.scenes.json";
+import noShows from "./generated/no-shows.scenes.json";
+import slowQuotes from "./generated/slow-quotes.scenes.json";
+
+const SCRIPTS: Record<string, ScriptScene[]> = {
+  "gpt61-terra": terra.scenes,
+  "apple-numbers-mcp": apple.scenes,
+  "missed-calls": missed.scenes,
+  "no-shows": noShows.scenes,
+  "slow-quotes": slowQuotes.scenes,
+};
+
+type Props = VideoProps & { spec: TeardownSpec };
+
+export const RemotionRoot: React.FC = () => (
+  <>
+    {SPECS.map((spec) => (
       <Composition
-        id="Gpt61Terra"
-        component={Gpt61Terra}
+        key={spec.id}
+        id={spec.compositionId}
+        component={Teardown}
         width={1080}
         height={1920}
         fps={FPS}
         durationInFrames={30}
-        defaultProps={{ video: "gpt61-terra", preview: true, scenes: [] } as VideoProps}
-        calculateMetadata={async () => {
-          const props = await loadTiming("gpt61-terra", terraScript.scenes);
+        defaultProps={{ video: spec.id, preview: true, scenes: [], spec } as Props}
+        calculateMetadata={async ({ props }) => {
+          const timing = await loadTiming(spec.id, SCRIPTS[spec.id]);
           return {
-            props,
-            durationInFrames: props.scenes.reduce((n, s) => n + s.durationInFrames, 0),
+            props: { ...props, ...timing, spec },
+            durationInFrames: timing.scenes.reduce((n, s) => n + s.durationInFrames, 0),
           };
         }}
       />
-    </>
-  );
-};
+    ))}
+  </>
+);

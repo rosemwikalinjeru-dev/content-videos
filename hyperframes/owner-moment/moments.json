@@ -1,0 +1,37 @@
+[
+  {
+    "out": "gpt61-terra",
+    "clock": "8:00",
+    "app": "Inbox",
+    "badge": "14 new",
+    "items": "[{\"t\":\"Booking request – new patient\",\"s\":\"Sarah Demo · 7:52 AM\",\"tag\":\"Retype\",\"bad\":true},{\"t\":\"New patient – cleaning\",\"s\":\"Tom Demo · 7:40 AM\",\"tag\":\"Retype\"},{\"t\":\"Can I book a check-up?\",\"s\":\"Ana Demo · 7:31 AM\",\"tag\":\"Retype\"},{\"t\":\"New patient form\",\"s\":\"Raj Demo · 7:05 AM\",\"tag\":\"Retype\"},{\"t\":\"Appointment request\",\"s\":\"Kim Demo · 6:48 AM\",\"tag\":\"Retype\"}]"
+  },
+  {
+    "out": "apple-numbers-mcp",
+    "clock": "4:02",
+    "app": "Friday to-do",
+    "badge": "Report due 5 PM",
+    "items": "[{\"t\":\"Copy leads from the app\",\"s\":\"Dave's Plumbing · weekly report\",\"tag\":\"By hand\",\"bad\":true},{\"t\":\"Paste into spreadsheet\",\"s\":\"23 cells to update\",\"tag\":\"By hand\"},{\"t\":\"Fix the formatting\",\"s\":\"Again\",\"tag\":\"By hand\"},{\"t\":\"Email it to Dave\",\"s\":\"Before 5 PM\",\"tag\":\"To do\"}]"
+  },
+  {
+    "out": "missed-calls",
+    "clock": "2:14",
+    "app": "Recents",
+    "badge": "3 missed",
+    "items": "[{\"t\":\"Mike Demo\",\"s\":\"(555) 010-2231 · 2:14 PM\",\"tag\":\"Missed\",\"bad\":true},{\"t\":\"(555) 010-4410\",\"s\":\"11:02 AM\",\"tag\":\"Missed\",\"bad\":true},{\"t\":\"(555) 010-7781\",\"s\":\"9:47 AM\",\"tag\":\"Missed\",\"bad\":true}]"
+  },
+  {
+    "out": "no-shows",
+    "clock": "11:10",
+    "app": "Today",
+    "badge": "1 no-show",
+    "items": "[{\"t\":\"10:00 · Facial\",\"s\":\"Ana Demo\",\"tag\":\"Done\"},{\"t\":\"11:00 · Laser session\",\"s\":\"Jess Demo · never confirmed\",\"tag\":\"No-show\",\"bad\":true},{\"t\":\"12:00 · Consultation\",\"s\":\"Kim Demo\",\"tag\":\"Booked\"},{\"t\":\"1:00 · Peel\",\"s\":\"Raj Demo\",\"tag\":\"Booked\"}]"
+  },
+  {
+    "out": "slow-quotes",
+    "clock": "Sun 9:47 PM",
+    "app": "Inbox",
+    "badge": "Read Tuesday",
+    "items": "[{\"t\":\"Quote request – kitchen remodel\",\"s\":\"Lisa Demo · Sun 9:41 PM\",\"tag\":\"Unread\",\"bad\":true},{\"t\":\"Supplier invoice\",\"s\":\"Fri 3:12 PM\",\"tag\":\"Read\"},{\"t\":\"Permit update\",\"s\":\"Fri 11:30 AM\",\"tag\":\"Read\"}]"
+  }
+]

@@ -1,0 +1,20 @@
+# moment
+It's Friday, four in the afternoon. You're still building the weekly client report.
+
+# before
+You copy numbers out of one app, paste them into a spreadsheet, and fix the formatting by hand.
+
+# cost
+That's your Friday afternoon, every Friday. And one wrong cell goes straight to your client.
+
+# new
+Apple says Numbers on the Mac is getting a way for outside A-I helpers to read and edit your spreadsheets. It's in beta.
+
+# after
+So the A-I pulls this week's numbers, fills in Dave's report, and you check it before it's sent.
+
+# verdict
+Promising. But it's Mac only, and it's brand new. Test it on one report first.
+
+# cta
+Follow. I fix one business process like this every week.

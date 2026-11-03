@@ -25,7 +25,13 @@ node generate-voiceover.mjs scenes/<video>.txt                       # generate 
 node generate-voiceover.mjs scenes/<video>.txt --only hook --force   # redo one take
 npx remotion studio                                                  # preview
 npx remotion render <CompositionId> out/<video>.mp4                  # render
+node scripts/build-scenes.mjs scenes/<video>.txt                     # refresh script text for Remotion (no credits)
+node scripts/check-beats.mjs                                         # every flow box lands on a spoken word
 ```
+
+- Teardown template: `src/videos/teardown/` (one spec per video in `specs.ts`).
+- Owner's-moment phone clips: HyperFrames project `hyperframes/owner-moment/`, one row per video in
+  `moments.json`, rendered to `public/assets/moments/<video>.mp4` with `--variables`.
 
 - Voice ID: `B7ZAlMIzX6c9jwjYTxMd` (my clone; it's the default in the script)
 - API key: `ELEVENLABS_API_KEY` in `.env`
@@ -68,8 +74,9 @@ out/              rendered videos (gitignored)
    chat, or a file, stop and tell me to rotate it.
 2. **Nothing goes in a script without a source in `research/`.** No invented features, numbers,
    benchmarks, prices, or quotes. If it's unconfirmed, the script says so ("reportedly", "early reports").
-3. **Check the date.** News topics need to be under ~7 days old. If something's older, tell me
-   and suggest a fresher angle.
+3. **Check the date.** Pure news videos need the news to be under ~7 days old. Business teardowns
+   (news is the fix, not the headline) can use news up to **14 days** old. Evergreen teardowns have
+   no news claim, so no limit. If something's older, tell me and suggest a fresher angle.
 4. **Script first, audio second, visuals third.** Every ElevenLabs generation costs credits.
 5. **Never use `--force` on the whole script without asking.** Regenerate only the scenes that changed.
 6. **Never hand-edit files in `public/voiceover/`.** Change the scene text and regenerate.
@@ -92,14 +99,34 @@ out/              rendered videos (gitignored)
 
 Default to **I tested it**. Showing it working beats explaining it.
 
-## Short-form structure
+## Who short-form is for (decided 2026-11-03, see brainstorms/2026-11-02-video-scripts.md)
 
-1. **Hook (0–3s):** name the trend + the tension. ("Everyone's posting about ___. I tried it on a real workflow.")
-2. **What it is:** one sentence, no jargon.
-3. **Show it:** screen recording of it working, or failing.
-4. **The business translation:** where it's actually useful. Start from a familiar business, then name the concept.
-5. **Verdict:** use it / skip it / wait, in one line.
-6. **CTA:** one ask only.
+- **Short-form = US/UK service business owners.** Long-form "Build it" = automation builders.
+- **US default** for wording, currency and spelling ("front desk", "appointment", "$", "organize").
+- Builder detail (tokens, benchmarks, model comparisons, "API", "workflow", "integration") goes in
+  **on-screen text only**, never in the voiceover. Owner vocabulary only ("the system", "your customer list").
+- Goal of every short: **traffic to my pages**. Clear, understandable, relatable, business-worthy.
+
+## Short-form structure (owner-first teardown, 35–45s)
+
+Before → After, told through **one named demo customer**. The owner's moment comes first, and the news is the fix.
+
+| # | Scene id | What | Length |
+|---|---|---|---|
+| 1 | `moment` | Owner's moment: time of day + situation ("It's Monday, 8am…") | 3–5s |
+| 2 | `before` | Broken flow. **One red box** = the bottleneck | 6–8s |
+| 3 | `cost` | Cost in owner terms (hours, lost job, wrong record), with **demo numbers labelled DEMO** | 3–5s |
+| 4 | `new` | The new thing (news + source card) or the fix (evergreen) | 5–7s |
+| 5 | `after` | Fixed flow: where automation goes, **where a person checks** | 8–10s |
+| 6 | `verdict` | Honest verdict in one line | 4–6s |
+| 7 | `cta` | "Follow. I fix one business process like this every week." | ~3s |
+
+Flow diagrams: **max 4 boxes**, each box appears on the spoken word (`beat` in
+`src/videos/teardown/specs.ts`), and the customer chip travels box to box. Run
+`node scripts/check-beats.mjs` after editing a script or spec.
+
+CTA: series follow by default ("Can I Automate This Business?" on screen). Use a comment keyword only
+when a real asset exists. Never promise "next I'm testing X" unless it's scheduled.
 
 ---
 
@@ -128,8 +155,12 @@ Write for the ear:
 | two hundred dollars | $200 |
 
 - Version numbers and model names: write them out the way they're said. When in doubt, say it in full.
-- Use `| v3` only for hooks. Tags: `[excited]`, `[pause]`, `[laughs softly]`, `[whispers]`. Everything else uses v2.
+- Hooks use **v2 by default**. Use `| v3` only when a hook needs real emotion. Tags: `[excited]`, `[pause]`,
+  `[laughs softly]`, `[whispers]`.
 - If a v3 scene fails on timestamps, switch it to v2.
+- **Never "..." and `[pause]` together.** Max one "..." per scene, and none in the first 3 seconds.
+- First spoken words = the owner's moment. No "So," or "Hey guys".
+- **Max ~15 words per scene** (~5s). Split or cut anything over 8s. Read it out loud before generating.
 
 ## Voice settings (already in the script)
 

@@ -1,0 +1,40 @@
+{
+  "video": "missed-calls",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's Tuesday, two in the afternoon. Your plumber is under a sink... and the phone rings."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "Nobody answers. Mike hangs up, and calls the next plumber on Google."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "Miss three calls like that a week, and that's three jobs gone."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "The fix isn't fancy. When a call is missed, a text goes out within a minute."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "Mike gets a text with a booking link. He picks a time. Your office calls him back to confirm."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Do this one now. It saves jobs you already paid to win."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "video": "apple-numbers-mcp",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's Friday, four in the afternoon. You're still building the weekly client report."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "You copy numbers out of one app, paste them into a spreadsheet, and fix the formatting by hand."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "That's your Friday afternoon, every Friday. And one wrong cell goes straight to your client."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "Apple says Numbers on the Mac is getting a way for outside A-I helpers to read and edit your spreadsheets. It's in beta."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "So the A-I pulls this week's numbers, fills in Dave's report, and you check it before it's sent."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Promising. But it's Mac only, and it's brand new. Test it on one report first."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}

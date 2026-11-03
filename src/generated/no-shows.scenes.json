@@ -1,0 +1,40 @@
+{
+  "video": "no-shows",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's Thursday, ten in the morning. Your eleven o'clock client just didn't show up."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "Jess booked two weeks ago. Nobody reminded her. And that chair sat empty."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "Two no-shows a week is two slots you can never sell again."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "The fix is a reminder that asks for a reply. Not just a reminder."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "The day before, Jess gets a text. She replies yes, or picks a new time. No reply? Your front desk calls her."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Do this before you buy any fancy A-I. It's the easiest win in the building."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}

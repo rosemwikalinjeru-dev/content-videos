@@ -1,26 +1,20 @@
-# hook | v3
-OpenAI just released an A-I that uses a computer for you... [pause] at half the price.
+# moment
+It's Monday, eight in the morning. Your front desk has fourteen new patient emails.
 
-# what
-It's called G-P-T six point one Terra. It reads the screen, clicks, types, and fills in forms.
+# before
+Each one gets retyped by hand, into an old booking system that can't connect to anything.
 
-# price
-One dollar per million input tokens, five per million output. Half the price of the model it replaces.
+# cost
+That's hours every week. And one typo means the wrong patient record.
 
-# speed
-OpenAI says it's over three times faster on computer tasks. That's their own test, not an independent one.
+# new
+OpenAI just released G-P-T six point one Terra. It can use a computer and fill in forms.
 
-# caveat
-And it's not their smartest model.
-
-# business
-Where's that useful? Picture a dental clinic. Patient details arrive by email... and someone retypes them into an old system with no A-P-I.
-
-# fix
-That retyping is the job it's built for. It fills in the form... then a person checks it before saving.
+# after
+Now Sarah's email comes in. The A-I types it into the system. Your front desk checks it, then saves.
 
 # verdict
-My verdict? Worth testing. Not worth trusting alone. A wrong date of birth costs more than the tokens you save.
+Worth testing. Not worth trusting alone. Keep a person on the final click.
 
 # cta
-Next, I'm putting it on a real booking form to see where it breaks. Follow for that.
+Follow. I fix one business process like this every week.

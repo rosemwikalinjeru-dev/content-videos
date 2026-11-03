@@ -70,3 +70,19 @@ It's slower and less reliable than an API, so it needs a human check and error h
 5. Show the fix: validation and a human-approval step before submit.
 
 **This video makes no test claims.** It's the explainer. The test is the follow-up.
+
+---
+
+## Script v2 (2026-11-03): owner-first teardown rewrite
+
+The script was rewritten to the owner-first 7-scene structure (see brainstorms/2026-11-02-video-scripts.md).
+Claims now in the voiceover:
+
+| Claim | Status | Source |
+|---|---|---|
+| OpenAI just released GPT-6.1 Terra | Confirmed, Oct 26, 2026 (8 days old; inside the 14-day teardown window until ~Nov 9) | OpenAI announcement |
+| It can use a computer and fill in forms | Confirmed ("precise computer use"; "filling out forms" listed as a workday task) | OpenAI announcement |
+| Fourteen new patient emails / hours every week / one typo = wrong record | **Demo scenario**, labelled DEMO on screen | — |
+| AI types it in, front desk checks before saving | Design of the fix (human approval step) | — |
+
+Dropped from the voiceover (builder detail): $1/$5 per million tokens, "3× faster", and "not their smartest model".

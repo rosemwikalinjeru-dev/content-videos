@@ -1,0 +1,40 @@
+{
+  "video": "slow-quotes",
+  "scenes": [
+    {
+      "id": "moment",
+      "version": "v2",
+      "text": "It's Sunday night. A homeowner fills out the quote form on your website."
+    },
+    {
+      "id": "before",
+      "version": "v2",
+      "text": "It lands in an inbox nobody checks until Tuesday. By then, Lisa has hired someone else."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "Every slow reply is a quote you never got to send."
+    },
+    {
+      "id": "new",
+      "version": "v2",
+      "text": "The fix is simple. Reply in minutes, not days, even when you're off."
+    },
+    {
+      "id": "after",
+      "version": "v2",
+      "text": "Lisa gets a reply right away, with three quick questions. Her answers go into your customer list. If it's a real job, you get a text."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Worth doing. Just keep a real person on the first phone call."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow. I fix one business process like this every week."
+    }
+  ]
+}
