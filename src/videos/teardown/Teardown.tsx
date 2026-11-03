@@ -25,6 +25,7 @@ import {
 } from "../../components/kit";
 import type { TimedScene, VideoProps } from "../../lib/timing";
 import { FlowDiagram } from "./FlowDiagram";
+import { IndustryArt } from "../../components/industry/IndustryArt";
 import { LayoutDiagram } from "./LayoutDiagram";
 import type { TeardownSpec } from "./types";
 
@@ -78,6 +79,22 @@ const colorOf = (c: string) =>
 // 1 ─ owner's moment: the HyperFrames phone clip
 const Moment: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
   const p = useIn(0);
+  const art = useIn(6);
+  if (spec.industry) {
+    return (
+      <AbsoluteFill style={{ top: 140, height: 1220, alignItems: "center" }}>
+        <div style={{ position: "relative", opacity: p, transform: `translateY(${(1 - p) * 30}px)` }}>
+          <IndustryArt industry={spec.industry} width={760} />
+          <div style={{ position: "absolute", left: 24, top: 22 }}>
+            <Tag>{spec.moment.label}</Tag>
+          </div>
+        </div>
+        <div style={{ width: 760, height: 760, marginTop: -6, opacity: art, transform: `scale(${0.96 + art * 0.04})` }}>
+          <OffthreadVideo src={staticFile(spec.moment.clip)} muted style={{ width: 760, height: 760 }} />
+        </div>
+      </AbsoluteFill>
+    );
+  }
   return (
     <AbsoluteFill style={{ top: 140, height: 1200, alignItems: "center" }}>
       <div style={{ marginTop: 20, opacity: p }}>
@@ -93,14 +110,20 @@ const Moment: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
 // 3 ─ the cost (demo numbers, labelled)
 const Cost: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
   const beats = spec.cost.lines.map((l, i) => useBeat(l.beat ?? "\u0000", i === 0 ? 0 : 40));
+  const artIn = useIn(0);
   return (
     <Center>
+      {spec.industry && (
+        <div style={{ opacity: artIn, marginBottom: 36, alignSelf: "center" }}>
+          <IndustryArt industry={spec.industry} width={760} mood="problem" />
+        </div>
+      )}
       <div style={{ marginBottom: 40 }}>
         <Tag color={C.muted}>{spec.cost.tag ?? "DEMO NUMBERS"}</Tag>
       </div>
       {spec.cost.lines.map((l, i) => (
         <Rise key={i} delay={beats[i]} style={{ marginBottom: 30 }}>
-          <H size={i === 0 ? 120 : 84} color={colorOf(l.color ?? "ink")}>
+          <H size={spec.industry ? (i === 0 ? 92 : 72) : i === 0 ? 120 : 84} color={colorOf(l.color ?? "ink")}>
             {l.text}
           </H>
         </Rise>
@@ -194,6 +217,11 @@ const NewThing: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
           </Sequence>
         </div>
       )}
+      {spec.industry && !t.clip && !t.rule && (
+        <Rise delay={18} style={{ marginTop: 50, alignSelf: "center" }}>
+          <IndustryArt industry={spec.industry} width={760} mood="fixed" />
+        </Rise>
+      )}
       {t.source && <SourceCard text={t.source} delay={10} top={1110} />}
     </AbsoluteFill>
   );
@@ -226,12 +254,17 @@ const Verdict: React.FC<{ spec: TeardownSpec }> = ({ spec }) => {
   }
   return (
     <Center>
+      {spec.industry && (
+        <div style={{ opacity: clipIn, marginBottom: 40, alignSelf: "center" }}>
+          <IndustryArt industry={spec.industry} width={700} mood="fixed" />
+        </div>
+      )}
       <div style={{ marginBottom: 40 }}>
         <Tag>MY VERDICT</Tag>
       </div>
       {spec.verdict.lines.map((l, i) => (
         <Rise key={i} delay={beats[i]} style={{ marginBottom: 20 }}>
-          <H size={l.color === "muted" ? 68 : 120} color={colorOf(l.color)}>
+          <H size={spec.industry ? (l.color === "muted" ? 56 : 96) : l.color === "muted" ? 68 : 120} color={colorOf(l.color)}>
             {l.text}
           </H>
         </Rise>

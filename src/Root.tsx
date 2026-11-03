@@ -10,6 +10,7 @@ import { Teardown } from "./videos/teardown/Teardown";
 import { SPECS } from "./videos/teardown/specs";
 import type { TeardownSpec } from "./videos/teardown/types";
 import { PermissionCarousel, SLIDES } from "./carousel/PermissionCarousel";
+import { IndustryGallery } from "./components/industry/Gallery";
 
 import terra from "./generated/gpt61-terra.scenes.json";
 import apple from "./generated/apple-numbers-mcp.scenes.json";
@@ -60,6 +61,7 @@ export const RemotionRoot: React.FC = () => (
         }}
       />
     ))}
+    <Composition id="IndustryGallery" component={IndustryGallery} width={1800} height={1440} fps={30} durationInFrames={60} />
     {/* Instagram carousel: 1 frame = 1 slide (render with scripts/render-carousel.mjs) */}
     <Composition
       id="PermissionCarousel"

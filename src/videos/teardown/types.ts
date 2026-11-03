@@ -37,8 +37,12 @@ export type Flow = {
   lanes?: string[];
 };
 
+import type { Industry } from "../../components/industry/IndustryArt";
+
 export type TeardownSpec = {
   id: string; // must match scenes/<id>.txt and the voiceover folder
+  /** which industry illustration to show (moment, cost, fix, verdict) */
+  industry?: Industry;
   compositionId: string;
   business: string; // shown as "DEMO · <business>"
   moment: { clip: string; label: string };

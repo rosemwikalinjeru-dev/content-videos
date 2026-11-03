@@ -6,6 +6,7 @@ import type { TeardownSpec } from "./types";
 export const SPECS: TeardownSpec[] = [
   {
     id: "gpt61-terra",
+    industry: "dental",
     compositionId: "Gpt61Terra",
     business: "DENTAL PRACTICE",
     moment: { clip: "assets/moments/gpt61-terra.mp4", label: "Monday · 8:00 AM" },
@@ -49,6 +50,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "apple-numbers-mcp",
+    industry: "agency",
     compositionId: "AppleNumbersMcp",
     business: "MARKETING AGENCY",
     moment: { clip: "assets/moments/apple-numbers-mcp.mp4", label: "Friday · 4:00 PM" },
@@ -92,6 +94,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "missed-calls",
+    industry: "plumbing",
     compositionId: "MissedCalls",
     business: "PLUMBING COMPANY",
     moment: { clip: "assets/moments/missed-calls.mp4", label: "Tuesday · 2:00 PM" },
@@ -133,6 +136,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "no-shows",
+    industry: "medspa",
     compositionId: "NoShows",
     business: "MED SPA",
     moment: { clip: "assets/moments/no-shows.mp4", label: "Thursday · 10:00 AM" },
@@ -173,6 +177,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "slow-quotes",
+    industry: "remodeling",
     compositionId: "SlowQuotes",
     business: "HOME REMODELER",
     moment: { clip: "assets/moments/slow-quotes.mp4", label: "Sunday · 9:41 PM" },
@@ -213,6 +218,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "ai-receptionist-permissions",
+    industry: "medspa",
     compositionId: "AiReceptionistPermissions",
     business: "MED SPA",
     moment: { clip: "assets/moments/ai-receptionist-permissions.mp4", label: "Your AI receptionist" },
@@ -256,6 +262,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "ai-receptionist-refunds",
+    industry: "medspa",
     compositionId: "AiReceptionistRefunds",
     business: "MED SPA",
     moment: { clip: "assets/moments/ai-receptionist-refunds.mp4", label: "Sunday · 9:40 AM" },
@@ -298,6 +305,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "ai-receptionist-clinical",
+    industry: "medspa",
     compositionId: "AiReceptionistClinical",
     business: "MED SPA",
     moment: { clip: "assets/moments/ai-receptionist-clinical.mp4", label: "10:03 PM · after hours" },
@@ -340,6 +348,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "review-requests",
+    industry: "hvac",
     compositionId: "ReviewRequests",
     business: "HVAC COMPANY",
     moment: { clip: "assets/moments/review-requests.mp4", label: "Friday · 5:00 PM" },
@@ -387,6 +396,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "estimate-follow-up",
+    industry: "roofing",
     compositionId: "EstimateFollowUp",
     business: "ROOFING COMPANY",
     moment: { clip: "assets/moments/estimate-follow-up.mp4", label: "Monday · 8:00 AM" },
@@ -432,6 +442,7 @@ export const SPECS: TeardownSpec[] = [
   },
   {
     id: "tech-handoff",
+    industry: "plumbing",
     compositionId: "TechHandoff",
     business: "PLUMBING COMPANY",
     moment: { clip: "assets/moments/tech-handoff.mp4", label: "Wednesday · 9:00 AM" },
