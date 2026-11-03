@@ -32,6 +32,7 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
   7. CTA, about 3s
   Target 35–45s. Builder details (price per token, benchmarks, model comparisons) become on-screen text at most, never voiceover.
 - **Freshness rule relaxed:** topic news can be up to **14 days** old when the video is a business teardown (news is the fix, not the headline). Pure news videos keep the 7-day rule. Terra (Oct 26) is OK until ~Nov 9.
+- **Default CTA: series follow.** "Follow… I fix one business process like this every week." Show the series name on screen ("Can I Automate This Business?"). Use a comment keyword only when a real asset exists to send. Don't use "next I'm testing X" lines unless that video is scheduled.
 - **Primary goal of each video: traffic to Rose's pages** (profile visits and follows), not direct sales from the video.
 
 ## Q&A log
@@ -72,7 +73,13 @@ Date: 2026-11-02 · Goal: Stress-test how Rose Njeru Automation video scripts ar
 - Follow-ups: CLAUDE.md "Short-form structure" and "Hard rule 3" need updating to match (do this at the end, with Rose's OK).
 - Flags: none
 
+### Q7 — CTA
+- Asked: follow / comment keyword / series-follow (recommended series-follow as the default).
+- Captured: "yes, option 3 as default"
+- Terra CTA becomes: "Follow… I fix one business process like this every week." This replaces "Next, I'm putting it on a real booking form…", so there's no unscheduled promise.
+- Commitment implied: a weekly teardown cadence. That's consistent with the Saturday "Can I Automate This Business?" series in Rose's operating system.
+- Flags: none (resolves the earlier CTA-mechanic flag)
+
 ## Open flags (pending input)
 - Update CLAUDE.md (short-form structure, rule 3 freshness, audience/CTA rules) once the grill is done -> Claude, with Rose's approval
-- CTA mechanic: is "traffic to my pages" = follow/profile visit, or should we still use a comment-keyword to start DMs? (inferred: follow-first) -> Rose
 - When one has to win, US or UK? (currency, spelling, terminology) -> Rose
