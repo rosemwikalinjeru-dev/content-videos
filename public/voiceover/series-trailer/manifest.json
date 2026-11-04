@@ -1,0 +1,57 @@
+{
+  "video": "series-trailer",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "51b4c38c2b77ad82",
+      "audio": "voiceover/series-trailer/hook.mp3",
+      "captions": "voiceover/series-trailer/hook.json",
+      "durationInSeconds": 5.669,
+      "characters": 78
+    },
+    {
+      "id": "promise",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f14d286051007df1",
+      "audio": "voiceover/series-trailer/promise.mp3",
+      "captions": "voiceover/series-trailer/promise.json",
+      "durationInSeconds": 8.62,
+      "characters": 128
+    },
+    {
+      "id": "how",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "effcd61275219a93",
+      "audio": "voiceover/series-trailer/how.mp3",
+      "captions": "voiceover/series-trailer/how.json",
+      "durationInSeconds": 5.329,
+      "characters": 79
+    },
+    {
+      "id": "honest",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "259940f0281f82dd",
+      "audio": "voiceover/series-trailer/honest.mp3",
+      "captions": "voiceover/series-trailer/honest.json",
+      "durationInSeconds": 3.892,
+      "characters": 60
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "64a5ce813b5e25ee",
+      "audio": "voiceover/series-trailer/cta.mp3",
+      "captions": "voiceover/series-trailer/cta.json",
+      "durationInSeconds": 5.669,
+      "characters": 92
+    }
+  ],
+  "generatedAt": "2026-11-04T11:39:24.857Z"
+}

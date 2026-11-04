@@ -1,0 +1,85 @@
+{
+  "id": "cta",
+  "words": [
+    {
+      "text": "This",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "is,",
+      "start": 0.534,
+      "end": 0.917
+    },
+    {
+      "text": "Can",
+      "start": 0.987,
+      "end": 1.173
+    },
+    {
+      "text": "I",
+      "start": 1.242,
+      "end": 1.277
+    },
+    {
+      "text": "Automate",
+      "start": 1.347,
+      "end": 1.811
+    },
+    {
+      "text": "This",
+      "start": 1.834,
+      "end": 1.974
+    },
+    {
+      "text": "Business?",
+      "start": 2.032,
+      "end": 2.438
+    },
+    {
+      "text": "Follow,",
+      "start": 2.473,
+      "end": 2.868
+    },
+    {
+      "text": "and",
+      "start": 2.914,
+      "end": 3.053
+    },
+    {
+      "text": "comment",
+      "start": 3.123,
+      "end": 3.529
+    },
+    {
+      "text": "which",
+      "start": 3.622,
+      "end": 3.866
+    },
+    {
+      "text": "business",
+      "start": 3.924,
+      "end": 4.296
+    },
+    {
+      "text": "I",
+      "start": 4.354,
+      "end": 4.389
+    },
+    {
+      "text": "should",
+      "start": 4.447,
+      "end": 4.656
+    },
+    {
+      "text": "fix",
+      "start": 4.702,
+      "end": 4.934
+    },
+    {
+      "text": "next.",
+      "start": 5.016,
+      "end": 5.619
+    }
+  ]
+}

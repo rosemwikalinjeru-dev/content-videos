@@ -1,0 +1,85 @@
+{
+  "id": "how",
+  "words": [
+    {
+      "text": "You'll",
+      "start": 0,
+      "end": 0.372
+    },
+    {
+      "text": "see",
+      "start": 0.43,
+      "end": 0.673
+    },
+    {
+      "text": "the",
+      "start": 0.708,
+      "end": 0.789
+    },
+    {
+      "text": "broken",
+      "start": 0.836,
+      "end": 1.161
+    },
+    {
+      "text": "flow,",
+      "start": 1.231,
+      "end": 1.73
+    },
+    {
+      "text": "the",
+      "start": 1.776,
+      "end": 1.892
+    },
+    {
+      "text": "fix,",
+      "start": 1.974,
+      "end": 2.45
+    },
+    {
+      "text": "and",
+      "start": 2.694,
+      "end": 2.844
+    },
+    {
+      "text": "where",
+      "start": 2.914,
+      "end": 3.158
+    },
+    {
+      "text": "a",
+      "start": 3.216,
+      "end": 3.262
+    },
+    {
+      "text": "person",
+      "start": 3.332,
+      "end": 3.657
+    },
+    {
+      "text": "still",
+      "start": 3.715,
+      "end": 3.947
+    },
+    {
+      "text": "needs",
+      "start": 3.994,
+      "end": 4.214
+    },
+    {
+      "text": "to",
+      "start": 4.261,
+      "end": 4.354
+    },
+    {
+      "text": "step",
+      "start": 4.423,
+      "end": 4.702
+    },
+    {
+      "text": "in.",
+      "start": 4.783,
+      "end": 5.294
+    }
+  ]
+}

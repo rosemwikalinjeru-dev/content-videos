@@ -1,0 +1,30 @@
+{
+  "video": "series-trailer",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Most small businesses don't need more A-I. They need one broken process fixed."
+    },
+    {
+      "id": "promise",
+      "version": "v2",
+      "text": "Every week, I take one kind of business. A roofer. A dental office. A salon. And I find where customers fall through the cracks."
+    },
+    {
+      "id": "how",
+      "version": "v2",
+      "text": "You'll see the broken flow, the fix, and where a person still needs to step in."
+    },
+    {
+      "id": "honest",
+      "version": "v2",
+      "text": "No hype. If something isn't worth automating, I'll tell you."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "This is, Can I Automate This Business? Follow, and comment which business I should fix next."
+    }
+  ]
+}

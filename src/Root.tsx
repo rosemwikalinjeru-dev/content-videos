@@ -11,6 +11,8 @@ import { SPECS } from "./videos/teardown/specs";
 import type { TeardownSpec } from "./videos/teardown/types";
 import { PermissionCarousel, SLIDES } from "./carousel/PermissionCarousel";
 import { IndustryGallery } from "./components/industry/Gallery";
+import { SeriesTrailer } from "./videos/trailer/SeriesTrailer";
+import trailer from "./generated/series-trailer.scenes.json";
 
 import terra from "./generated/gpt61-terra.scenes.json";
 import apple from "./generated/apple-numbers-mcp.scenes.json";
@@ -73,6 +75,20 @@ export const RemotionRoot: React.FC = () => (
         }}
       />
     ))}
+    {/* Ep 00: series trailer */}
+    <Composition
+      id="SeriesTrailer"
+      component={SeriesTrailer}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={30}
+      defaultProps={{ video: "series-trailer", preview: true, scenes: [] } as VideoProps}
+      calculateMetadata={async () => {
+        const timing = await loadTiming("series-trailer", trailer.scenes);
+        return { props: timing, durationInFrames: timing.scenes.reduce((n, s) => n + s.durationInFrames, 0) };
+      }}
+    />
     <Composition id="IndustryGallery" component={IndustryGallery} width={1800} height={1440} fps={30} durationInFrames={60} />
     {/* Instagram carousel: 1 frame = 1 slide (render with scripts/render-carousel.mjs) */}
     <Composition

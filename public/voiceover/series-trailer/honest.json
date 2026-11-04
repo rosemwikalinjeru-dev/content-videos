@@ -1,0 +1,55 @@
+{
+  "id": "honest",
+  "words": [
+    {
+      "text": "No",
+      "start": 0,
+      "end": 0.209
+    },
+    {
+      "text": "hype.",
+      "start": 0.325,
+      "end": 0.824
+    },
+    {
+      "text": "If",
+      "start": 0.998,
+      "end": 1.149
+    },
+    {
+      "text": "something",
+      "start": 1.219,
+      "end": 1.672
+    },
+    {
+      "text": "isn't",
+      "start": 1.741,
+      "end": 2.02
+    },
+    {
+      "text": "worth",
+      "start": 2.078,
+      "end": 2.276
+    },
+    {
+      "text": "automating,",
+      "start": 2.345,
+      "end": 3.019
+    },
+    {
+      "text": "I'll",
+      "start": 3.053,
+      "end": 3.228
+    },
+    {
+      "text": "tell",
+      "start": 3.262,
+      "end": 3.425
+    },
+    {
+      "text": "you.",
+      "start": 3.471,
+      "end": 3.855
+    }
+  ]
+}

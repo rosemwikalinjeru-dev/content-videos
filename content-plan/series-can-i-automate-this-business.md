@@ -15,7 +15,7 @@ what to automate, and where a person still steps in.**
 ## Episode list (already produced)
 | Ep | File | Business | Problem | Diagram |
 |---|---|---|---|---|
-| 00 | series-trailer *(script pending approval)* | — | the series promise | industry montage |
+| 00 | series-trailer | — | the series promise (30.5s) | industry montage |
 | 01 | gpt61-terra | Dental practice | retyping patient emails (news: OpenAI, Oct 26) | flow |
 | 02 | missed-calls | Plumbing | missed calls → competitor | flow |
 | 03 | apple-numbers-mcp | Agency | Friday report copy-paste (news: Apple, Oct 27) | flow |
