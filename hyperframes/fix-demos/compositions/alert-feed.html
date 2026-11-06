@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en" data-resolution="square">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1080" />
+    <script src="../assets/gsap.min.js"></script>
+    <style>
+      :root { --ground:#0b1020; --panel:#141b31; --line:#2b3660; --ink:#f4f6fb; --muted:#9aa5c4;
+        --ok:#3ddc97; --bad:#ff5a5f; --accent:#ffd84d;
+        --font:"Inter","Liberation Sans",sans-serif; --mono:"JetBrains Mono","DejaVu Sans Mono",monospace; }
+      * { margin:0; padding:0; box-sizing:border-box; }
+      html, body { width:1080px; height:1080px; overflow:hidden; background:var(--ground); font-family:var(--font); color:var(--ink); }
+      #root { position:relative; width:100%; height:100%; }
+      #card { position:absolute; left:80px; top:70px; width:920px; height:940px; background:var(--panel); border:4px solid var(--line); border-radius:36px; padding:40px 44px; opacity:0; }
+      h1 { font:800 44px/1.1 var(--font); }
+      .sub { font:600 28px/1.3 var(--font); color:var(--muted); margin-top:6px; }
+      .row { display:flex; align-items:center; gap:20px; padding:24px 6px; border-bottom:2px solid var(--line); opacity:0; }
+      .dot { width:22px; height:22px; border-radius:50%; flex-shrink:0; }
+      .t { font:700 34px/1.2 var(--font); }
+      .m { font:600 26px/1.2 var(--mono); color:var(--muted); margin-top:6px; }
+      .st { margin-left:auto; font:800 24px/1 var(--mono); padding:8px 12px; border-radius:8px; }
+      #alert { position:absolute; left:50%; bottom:50px; transform:translateX(-50%); width:840px; background:var(--bad); color:#fff; border-radius:24px; padding:24px 28px; opacity:0; }
+      #alert b { display:block; font:900 36px/1.2 var(--font); }
+      #alert span { font:600 26px/1.3 var(--font); }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="8" data-width="1080" data-height="1080">
+      <div id="card" class="clip" data-start="0" data-duration="8" data-track-index="0">
+        <h1>Automation health (demo)</h1>
+        <div class="sub">What's running, and when it last worked</div>
+        <div class="row" id="r1"><span class="dot" style="background:#3ddc97"></span><div><div class="t">New lead → instant reply</div><div class="m">last run: 4 min ago</div></div><span class="st" style="background:#0f2a22;color:#3ddc97">OK</span></div>
+        <div class="row" id="r2"><span class="dot" style="background:#3ddc97"></span><div><div class="t">Booking → reminder text</div><div class="m">last run: 1 hr ago</div></div><span class="st" style="background:#0f2a22;color:#3ddc97">OK</span></div>
+        <div class="row" id="r3"><span class="dot" style="background:#ff5a5f"></span><div><div class="t">Web form → customer list</div><div class="m">last run: 21 days ago</div></div><span class="st" id="s3" style="background:#2a1220;color:#ff5a5f">STOPPED</span></div>
+      </div>
+      <div id="alert" class="clip" data-start="0" data-duration="8" data-track-index="1"><b>⚠ Web form stopped sending leads</b><span>Alert sent to the owner the moment it failed, not 21 days later.</span></div>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      tl.fromTo("#card", { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.45 }, 0);
+      tl.fromTo("#r1", { opacity: 0, x: -30 }, { opacity: 1, x: 0, duration: 0.3 }, 0.6);
+      tl.fromTo("#r2", { opacity: 0, x: -30 }, { opacity: 1, x: 0, duration: 0.3 }, 1.1);
+      tl.fromTo("#r3", { opacity: 0, x: -30 }, { opacity: 1, x: 0, duration: 0.3 }, 1.6);
+      tl.to("#s3", { scale: 1.15, duration: 0.15, yoyo: true, repeat: 3 }, 2.1);
+      tl.fromTo("#alert", { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.4, ease: "back.out(1.5)" }, 3.0);
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en" data-resolution="square">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1080" />
+    <script src="../assets/gsap.min.js"></script>
+    <style>
+      :root { --ground:#0b1020; --screen:#f5f6fa; --ink:#12151f; --muted:#5d6478; --line:#e2e5ee;
+        --biz:#2f6fed; --ok:#1f9d6b; --bad:#e5484d; --accent:#ffd84d;
+        --font:"Inter","Liberation Sans",sans-serif; --mono:"JetBrains Mono","DejaVu Sans Mono",monospace; }
+      * { margin:0; padding:0; box-sizing:border-box; }
+      html, body { width:1080px; height:1080px; overflow:hidden; background:var(--ground); font-family:var(--font); }
+      #root { position:relative; width:100%; height:100%; }
+      .phone { position:absolute; top:150px; width:470px; height:820px; background:#05070f; border-radius:56px; padding:16px; opacity:0; }
+      #pa { left:40px; } #pb { left:570px; }
+      .screen { width:100%; height:100%; background:var(--screen); border-radius:42px; overflow:hidden; position:relative; }
+      .head { padding:26px 28px 16px; border-bottom:2px solid var(--line); }
+      .n { font:800 32px/1.1 var(--font); color:var(--ink); }
+      .s { font:600 22px/1.2 var(--font); color:var(--muted); margin-top:4px; }
+      .msg { position:absolute; max-width:360px; padding:16px 20px; border-radius:24px; font:600 24px/1.3 var(--font); opacity:0; }
+      .in { left:20px; background:#e4e7ef; color:var(--ink); }
+      .out { right:20px; background:var(--biz); color:#fff; }
+      .stamp { position:absolute; left:20px; right:20px; bottom:24px; text-align:center; font:800 24px/1 var(--mono); padding:14px; border-radius:12px; opacity:0; }
+      #sa { background:#fde2e3; color:var(--bad); } #sb { background:#d9f5e9; color:var(--ok); }
+      .lbl { position:absolute; top:70px; width:470px; text-align:center; font:900 40px/1 var(--font); }
+      #la { left:40px; color:#9aa5c4; } #lb { left:570px; color:var(--accent); }
+      #clock { position:absolute; left:50%; top:24px; transform:translateX(-50%); font:800 28px/1 var(--mono); color:var(--ink); background:var(--accent); padding:10px 16px; border-radius:10px; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="8" data-width="1080" data-height="1080">
+      <div id="clock" class="clip" data-start="0" data-duration="8" data-track-index="0">9:42 PM</div>
+      <div id="la" class="lbl clip" data-start="0" data-duration="8" data-track-index="1">SALON A</div>
+      <div id="lb" class="lbl clip" data-start="0" data-duration="8" data-track-index="2">SALON B</div>
+      <div id="pa" class="phone clip" data-start="0" data-duration="8" data-track-index="3">
+        <div class="screen">
+          <div class="head"><div class="n">Salon A (demo)</div><div class="s">Answers when someone's free</div></div>
+          <div class="msg in" id="a1" style="top:130px">Hi! Any openings Saturday?</div>
+          <div class="stamp" id="sa">UNREAD · REPLY TOMORROW</div>
+        </div>
+      </div>
+      <div id="pb" class="phone clip" data-start="0" data-duration="8" data-track-index="4">
+        <div class="screen">
+          <div class="head"><div class="n">Salon B (demo)</div><div class="s">Replies in a minute</div></div>
+          <div class="msg in" id="b1" style="top:130px">Hi! Any openings Saturday?</div>
+          <div class="msg out" id="b2" style="top:260px">Yes! 10:00 or 2:30. Want one?</div>
+          <div class="msg in" id="b3" style="top:410px">10 please!</div>
+          <div class="msg out" id="b4" style="top:520px">Booked ✓ See you Saturday</div>
+          <div class="stamp" id="sb">BOOKED IN 1 MINUTE</div>
+        </div>
+      </div>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      tl.fromTo("#pa", { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.45 }, 0);
+      tl.fromTo("#pb", { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.45 }, 0.1);
+      tl.fromTo("#a1", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.3 }, 0.6);
+      tl.fromTo("#b1", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.3 }, 0.6);
+      tl.fromTo("#b2", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.3 }, 1.5);
+      tl.fromTo("#b3", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.3 }, 2.3);
+      tl.fromTo("#b4", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.3 }, 3.0);
+      tl.fromTo("#sb", { opacity: 0, scale: 0.8 }, { opacity: 1, scale: 1, duration: 0.35, ease: "back.out(1.6)" }, 3.6);
+      tl.fromTo("#sa", { opacity: 0, scale: 0.8 }, { opacity: 1, scale: 1, duration: 0.35, ease: "back.out(1.6)" }, 3.9);
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>
