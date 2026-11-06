@@ -1,0 +1,20 @@
+# hook
+You don't need a big A-I project. You need five small steps, in the right order.
+
+# s1
+Step one. Pick the one task your team complains about most.
+
+# s2
+Step two. Write down how it works today. Every step, even the messy ones.
+
+# s3
+Step three. Fix the process on paper, before you touch any tool.
+
+# s4
+Step four. Automate the boring part, and keep a person on the decisions.
+
+# s5
+Step five. Watch it for a month. Count the hours saved, and the mistakes caught.
+
+# cta
+Small, boring, and measured. That's how it actually works. Follow for one fix a week.
