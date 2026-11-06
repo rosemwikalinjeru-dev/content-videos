@@ -128,6 +128,22 @@ Flow diagrams: **max 4 boxes**, each box appears on the spoken word (`beat` in
 CTA: series follow by default ("Can I Automate This Business?" on screen). Use a comment keyword only
 when a real asset exists. Never promise "next I'm testing X" unless it's scheduled.
 
+## Explainer formats (decided 2026-11-06: the teardowns started to sound the same)
+
+Rotate formats. **Never post more than 2 teardowns in a row.** Each explainer has its own story shape and visuals
+(`src/videos/explainer/`):
+
+| Format | Use it for | File |
+|---|---|---|
+| Split screen (same business, two versions) | advantages | `twoSalons.tsx` |
+| Chain reaction (dominoes on a loop) | effects, knock-on results | `ripple.tsx` |
+| Warning countdown (red → green flip cards) | problems + their fixes | `goesWrong.tsx` |
+| Staircase (climb one step per scene) | how to start, playbooks | `fiveSteps.tsx` |
+| Race (lanes, bar = waiting time) | staying ahead of competitors | `race.tsx` |
+| Quiz (question, timer ring, reveal stamp) | myths, "is it X or Y" | `quiz.tsx` |
+
+Vary the opening too: comparison, consequence, warning, reframe, provocation, quiz. Don't open every video with "It's Monday, 8am".
+
 ---
 
 ## Writing scene scripts (`scenes/*.txt`)

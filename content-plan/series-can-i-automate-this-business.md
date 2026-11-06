@@ -34,6 +34,18 @@ what to automate, and where a person still steps in.**
 | 16 | salon-waitlist | Hair salon | cancellations left empty | branch |
 | 17 | bookkeeper-onboarding | Bookkeeping | documents chased by email | flow |
 
+## Explainers (between episodes, so the feed doesn't repeat itself)
+| File | Topic | Format | Length |
+|---|---|---|---|
+| ex-two-salons | advantages | split screen | 40.5s |
+| ex-ripple-effects | effects | chain reaction | 38.8s |
+| ex-what-goes-wrong | problems + fixes | warning countdown | 40.6s |
+| ex-five-steps | how to start | staircase | 37.2s |
+| ex-the-race | staying ahead of competitors | race | 33.6s |
+| ex-ai-or-automation | AI vs automation | quiz | 36.8s |
+
+Mix rule: each day = 1 teardown episode + 1 explainer + 1 of either. Never 3 teardowns in a row.
+
 ## Posting rhythm (3 a day)
 - **Day 1:** Ep 00 (trailer, pinned) · Ep 01 (news, expires ~Nov 9) · Ep 03 (news, expires ~Nov 10)
 - **Day 2 onward:** next three episodes in order, at 8:30 AM / 12:30 PM / 7:30 PM ET

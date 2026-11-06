@@ -31,6 +31,7 @@ export const Area: React.FC<{ children: React.ReactNode; center?: boolean; style
       top: 140,
       height: 1220,
       justifyContent: center ? "center" : "flex-start",
+      color: C.ink, // default text colour, so nothing renders dark-on-dark
       ...style,
     }}
   >
