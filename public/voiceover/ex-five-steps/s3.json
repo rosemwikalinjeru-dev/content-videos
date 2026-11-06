@@ -1,0 +1,65 @@
+{
+  "id": "s3",
+  "words": [
+    {
+      "text": "Step",
+      "start": 0,
+      "end": 0.43
+    },
+    {
+      "text": "three.",
+      "start": 0.639,
+      "end": 1.022
+    },
+    {
+      "text": "Fix",
+      "start": 1.347,
+      "end": 1.649
+    },
+    {
+      "text": "the",
+      "start": 1.695,
+      "end": 1.765
+    },
+    {
+      "text": "process",
+      "start": 1.823,
+      "end": 2.171
+    },
+    {
+      "text": "on",
+      "start": 2.229,
+      "end": 2.345
+    },
+    {
+      "text": "paper,",
+      "start": 2.426,
+      "end": 2.902
+    },
+    {
+      "text": "before",
+      "start": 3.077,
+      "end": 3.39
+    },
+    {
+      "text": "you",
+      "start": 3.425,
+      "end": 3.506
+    },
+    {
+      "text": "touch",
+      "start": 3.576,
+      "end": 3.773
+    },
+    {
+      "text": "any",
+      "start": 3.831,
+      "end": 4.017
+    },
+    {
+      "text": "tool.",
+      "start": 4.075,
+      "end": 4.598
+    }
+  ]
+}

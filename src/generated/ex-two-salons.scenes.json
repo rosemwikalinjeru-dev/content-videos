@@ -1,0 +1,40 @@
+{
+  "video": "ex-two-salons",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Two salons. Same street, same prices. One of them is quietly pulling ahead."
+    },
+    {
+      "id": "split",
+      "version": "v2",
+      "text": "Salon A answers texts whenever someone's free. Salon B replies in a minute, every time, even at night."
+    },
+    {
+      "id": "speed",
+      "version": "v2",
+      "text": "First advantage, speed. The salon that answers first gets the first chance to book."
+    },
+    {
+      "id": "accuracy",
+      "version": "v2",
+      "text": "Second, fewer mistakes. Details get typed once, not three times."
+    },
+    {
+      "id": "time",
+      "version": "v2",
+      "text": "Third, your team's time. They stop chasing messages, and start doing the work people pay for."
+    },
+    {
+      "id": "gap",
+      "version": "v2",
+      "text": "None of it feels big on day one. But small gaps, every single day, add up."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "So which salon are you? Follow for one fix like this every week."
+    }
+  ]
+}

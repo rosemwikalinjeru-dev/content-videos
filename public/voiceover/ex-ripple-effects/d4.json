@@ -1,0 +1,65 @@
+{
+  "id": "d4",
+  "words": [
+    {
+      "text": "More",
+      "start": 0,
+      "end": 0.255
+    },
+    {
+      "text": "reviews",
+      "start": 0.29,
+      "end": 0.801
+    },
+    {
+      "text": "bring",
+      "start": 0.975,
+      "end": 1.219
+    },
+    {
+      "text": "in",
+      "start": 1.277,
+      "end": 1.347
+    },
+    {
+      "text": "more",
+      "start": 1.416,
+      "end": 1.637
+    },
+    {
+      "text": "leads,",
+      "start": 1.695,
+      "end": 2.009
+    },
+    {
+      "text": "and",
+      "start": 2.043,
+      "end": 2.229
+    },
+    {
+      "text": "the",
+      "start": 2.276,
+      "end": 2.368
+    },
+    {
+      "text": "whole",
+      "start": 2.415,
+      "end": 2.67
+    },
+    {
+      "text": "cycle",
+      "start": 2.705,
+      "end": 3.123
+    },
+    {
+      "text": "starts",
+      "start": 3.17,
+      "end": 3.564
+    },
+    {
+      "text": "again.",
+      "start": 3.622,
+      "end": 4.18
+    }
+  ]
+}

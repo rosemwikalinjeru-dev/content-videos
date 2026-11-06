@@ -1,0 +1,77 @@
+{
+  "video": "ex-ripple-effects",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "ea9fc8202037d923",
+      "audio": "voiceover/ex-ripple-effects/hook.mp3",
+      "captions": "voiceover/ex-ripple-effects/hook.json",
+      "durationInSeconds": 7.941,
+      "characters": 103
+    },
+    {
+      "id": "d1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "eb3419569ed678ba",
+      "audio": "voiceover/ex-ripple-effects/d1.mp3",
+      "captions": "voiceover/ex-ripple-effects/d1.json",
+      "durationInSeconds": 3.892,
+      "characters": 61
+    },
+    {
+      "id": "d2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "5f12357d99ce70e1",
+      "audio": "voiceover/ex-ripple-effects/d2.mp3",
+      "captions": "voiceover/ex-ripple-effects/d2.json",
+      "durationInSeconds": 3.944,
+      "characters": 65
+    },
+    {
+      "id": "d3",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "17d5518c28ff71f7",
+      "audio": "voiceover/ex-ripple-effects/d3.mp3",
+      "captions": "voiceover/ex-ripple-effects/d3.json",
+      "durationInSeconds": 5.93,
+      "characters": 91
+    },
+    {
+      "id": "d4",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6bef8da9fc24286c",
+      "audio": "voiceover/ex-ripple-effects/d4.mp3",
+      "captions": "voiceover/ex-ripple-effects/d4.json",
+      "durationInSeconds": 4.206,
+      "characters": 67
+    },
+    {
+      "id": "twist",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9461ca235bf60dc5",
+      "audio": "voiceover/ex-ripple-effects/twist.mp3",
+      "captions": "voiceover/ex-ripple-effects/twist.json",
+      "durationInSeconds": 6.113,
+      "characters": 93
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "5b982a0fdac58f2f",
+      "audio": "voiceover/ex-ripple-effects/cta.mp3",
+      "captions": "voiceover/ex-ripple-effects/cta.json",
+      "durationInSeconds": 4.963,
+      "characters": 71
+    }
+  ],
+  "generatedAt": "2026-11-06T19:40:16.559Z"
+}

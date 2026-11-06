@@ -1,0 +1,90 @@
+{
+  "id": "p2",
+  "words": [
+    {
+      "text": "Two.",
+      "start": 0,
+      "end": 0.418
+    },
+    {
+      "text": "It",
+      "start": 0.592,
+      "end": 0.778
+    },
+    {
+      "text": "breaks",
+      "start": 0.848,
+      "end": 1.242
+    },
+    {
+      "text": "silently,",
+      "start": 1.416,
+      "end": 2.322
+    },
+    {
+      "text": "and",
+      "start": 2.531,
+      "end": 2.682
+    },
+    {
+      "text": "nobody",
+      "start": 2.752,
+      "end": 3.111
+    },
+    {
+      "text": "notices",
+      "start": 3.17,
+      "end": 3.646
+    },
+    {
+      "text": "for",
+      "start": 3.715,
+      "end": 3.866
+    },
+    {
+      "text": "weeks.",
+      "start": 3.947,
+      "end": 4.296
+    },
+    {
+      "text": "The",
+      "start": 4.377,
+      "end": 4.528
+    },
+    {
+      "text": "fix,",
+      "start": 4.609,
+      "end": 4.957
+    },
+    {
+      "text": "an",
+      "start": 4.992,
+      "end": 5.108
+    },
+    {
+      "text": "alert",
+      "start": 5.19,
+      "end": 5.457
+    },
+    {
+      "text": "the",
+      "start": 5.492,
+      "end": 5.573
+    },
+    {
+      "text": "moment",
+      "start": 5.642,
+      "end": 5.956
+    },
+    {
+      "text": "something",
+      "start": 6.002,
+      "end": 6.327
+    },
+    {
+      "text": "fails.",
+      "start": 6.397,
+      "end": 7.059
+    }
+  ]
+}

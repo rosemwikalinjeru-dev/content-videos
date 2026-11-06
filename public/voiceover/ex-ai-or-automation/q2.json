@@ -1,0 +1,60 @@
+{
+  "id": "q2",
+  "words": [
+    {
+      "text": "Reading",
+      "start": 0,
+      "end": 0.58
+    },
+    {
+      "text": "a",
+      "start": 0.697,
+      "end": 0.789
+    },
+    {
+      "text": "customer's",
+      "start": 0.871,
+      "end": 1.44
+    },
+    {
+      "text": "message,",
+      "start": 1.509,
+      "end": 1.939
+    },
+    {
+      "text": "and",
+      "start": 1.974,
+      "end": 2.101
+    },
+    {
+      "text": "drafting",
+      "start": 2.148,
+      "end": 2.577
+    },
+    {
+      "text": "a",
+      "start": 2.635,
+      "end": 2.659
+    },
+    {
+      "text": "reply",
+      "start": 2.728,
+      "end": 3.088
+    },
+    {
+      "text": "in",
+      "start": 3.181,
+      "end": 3.262
+    },
+    {
+      "text": "plain",
+      "start": 3.32,
+      "end": 3.541
+    },
+    {
+      "text": "English?",
+      "start": 3.611,
+      "end": 4.272
+    }
+  ]
+}

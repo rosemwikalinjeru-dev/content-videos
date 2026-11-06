@@ -1,0 +1,55 @@
+{
+  "id": "d2",
+  "words": [
+    {
+      "text": "A",
+      "start": 0,
+      "end": 0.186
+    },
+    {
+      "text": "fuller",
+      "start": 0.267,
+      "end": 0.522
+    },
+    {
+      "text": "schedule",
+      "start": 0.557,
+      "end": 0.975
+    },
+    {
+      "text": "means",
+      "start": 1.022,
+      "end": 1.358
+    },
+    {
+      "text": "techs",
+      "start": 1.474,
+      "end": 1.776
+    },
+    {
+      "text": "aren't",
+      "start": 1.846,
+      "end": 2.136
+    },
+    {
+      "text": "sitting",
+      "start": 2.171,
+      "end": 2.45
+    },
+    {
+      "text": "around",
+      "start": 2.496,
+      "end": 2.81
+    },
+    {
+      "text": "between",
+      "start": 2.868,
+      "end": 3.193
+    },
+    {
+      "text": "jobs.",
+      "start": 3.251,
+      "end": 3.901
+    }
+  ]
+}

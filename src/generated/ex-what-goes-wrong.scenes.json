@@ -1,0 +1,35 @@
+{
+  "video": "ex-what-goes-wrong",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Automation can quietly hurt your business. Here are four ways it goes wrong, and the fix for each."
+    },
+    {
+      "id": "p1",
+      "version": "v2",
+      "text": "One. Bad details in, bad messages out. The fix, check details at the door, like confirming the phone number."
+    },
+    {
+      "id": "p2",
+      "version": "v2",
+      "text": "Two. It breaks silently, and nobody notices for weeks. The fix, an alert the moment something fails."
+    },
+    {
+      "id": "p3",
+      "version": "v2",
+      "text": "Three. A-I can sound sure and still be wrong. The fix, let it draft, and have a person approve what matters."
+    },
+    {
+      "id": "p4",
+      "version": "v2",
+      "text": "Four. Customers feel stuck with a robot. The fix, always give them an easy way to reach a person."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "It's not set and forget. It's set, watch, and improve. Follow for more."
+    }
+  ]
+}

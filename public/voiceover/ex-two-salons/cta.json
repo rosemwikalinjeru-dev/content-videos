@@ -1,0 +1,70 @@
+{
+  "id": "cta",
+  "words": [
+    {
+      "text": "So",
+      "start": 0,
+      "end": 0.244
+    },
+    {
+      "text": "which",
+      "start": 0.29,
+      "end": 0.453
+    },
+    {
+      "text": "salon",
+      "start": 0.499,
+      "end": 0.824
+    },
+    {
+      "text": "are",
+      "start": 0.882,
+      "end": 0.975
+    },
+    {
+      "text": "you?",
+      "start": 1.022,
+      "end": 1.219
+    },
+    {
+      "text": "Follow",
+      "start": 1.335,
+      "end": 1.672
+    },
+    {
+      "text": "for",
+      "start": 1.73,
+      "end": 1.858
+    },
+    {
+      "text": "one",
+      "start": 1.927,
+      "end": 2.078
+    },
+    {
+      "text": "fix",
+      "start": 2.125,
+      "end": 2.322
+    },
+    {
+      "text": "like",
+      "start": 2.38,
+      "end": 2.554
+    },
+    {
+      "text": "this",
+      "start": 2.577,
+      "end": 2.763
+    },
+    {
+      "text": "every",
+      "start": 2.856,
+      "end": 3.1
+    },
+    {
+      "text": "week.",
+      "start": 3.135,
+      "end": 3.669
+    }
+  ]
+}

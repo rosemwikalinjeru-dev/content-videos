@@ -1,0 +1,85 @@
+{
+  "id": "time",
+  "words": [
+    {
+      "text": "Third,",
+      "start": 0,
+      "end": 0.499
+    },
+    {
+      "text": "your",
+      "start": 0.778,
+      "end": 0.94
+    },
+    {
+      "text": "team's",
+      "start": 0.998,
+      "end": 1.265
+    },
+    {
+      "text": "time.",
+      "start": 1.324,
+      "end": 1.683
+    },
+    {
+      "text": "They",
+      "start": 1.776,
+      "end": 1.962
+    },
+    {
+      "text": "stop",
+      "start": 2.009,
+      "end": 2.218
+    },
+    {
+      "text": "chasing",
+      "start": 2.264,
+      "end": 2.612
+    },
+    {
+      "text": "messages,",
+      "start": 2.67,
+      "end": 3.262
+    },
+    {
+      "text": "and",
+      "start": 3.309,
+      "end": 3.483
+    },
+    {
+      "text": "start",
+      "start": 3.553,
+      "end": 3.878
+    },
+    {
+      "text": "doing",
+      "start": 3.924,
+      "end": 4.133
+    },
+    {
+      "text": "the",
+      "start": 4.191,
+      "end": 4.272
+    },
+    {
+      "text": "work",
+      "start": 4.331,
+      "end": 4.54
+    },
+    {
+      "text": "people",
+      "start": 4.609,
+      "end": 4.888
+    },
+    {
+      "text": "pay",
+      "start": 4.934,
+      "end": 5.097
+    },
+    {
+      "text": "for.",
+      "start": 5.166,
+      "end": 5.666
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video": "ex-the-race",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9d604e7f66aa5e6a",
+      "audio": "voiceover/ex-the-race/hook.mp3",
+      "captions": "voiceover/ex-the-race/hook.json",
+      "durationInSeconds": 4.624,
+      "characters": 79
+    },
+    {
+      "id": "setup",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "4fab89ef82d639ef",
+      "audio": "voiceover/ex-the-race/setup.mp3",
+      "captions": "voiceover/ex-the-race/setup.json",
+      "durationInSeconds": 4.441,
+      "characters": 62
+    },
+    {
+      "id": "race",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "044c5690e60adfcf",
+      "audio": "voiceover/ex-the-race/race.mp3",
+      "captions": "voiceover/ex-the-race/race.json",
+      "durationInSeconds": 8.49,
+      "characters": 133
+    },
+    {
+      "id": "result",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "b8cb5a61388a0b03",
+      "audio": "voiceover/ex-the-race/result.mp3",
+      "captions": "voiceover/ex-the-race/result.json",
+      "durationInSeconds": 2.273,
+      "characters": 31
+    },
+    {
+      "id": "lesson",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f5df4dc703b8a6f1",
+      "audio": "voiceover/ex-the-race/lesson.mp3",
+      "captions": "voiceover/ex-the-race/lesson.json",
+      "durationInSeconds": 8.359,
+      "characters": 128
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "8a8c2b48b606929d",
+      "audio": "voiceover/ex-the-race/cta.mp3",
+      "captions": "voiceover/ex-the-race/cta.json",
+      "durationInSeconds": 3.788,
+      "characters": 57
+    }
+  ],
+  "generatedAt": "2026-11-06T19:40:26.590Z"
+}

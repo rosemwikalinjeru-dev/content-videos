@@ -1,0 +1,77 @@
+{
+  "video": "ex-ai-or-automation",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "05db7c2b4953402d",
+      "audio": "voiceover/ex-ai-or-automation/hook.mp3",
+      "captions": "voiceover/ex-ai-or-automation/hook.json",
+      "durationInSeconds": 5.016,
+      "characters": 69
+    },
+    {
+      "id": "q1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9c01024408692237",
+      "audio": "voiceover/ex-ai-or-automation/q1.mp3",
+      "captions": "voiceover/ex-ai-or-automation/q1.json",
+      "durationInSeconds": 4.258,
+      "characters": 61
+    },
+    {
+      "id": "a1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "651b7dd956937b91",
+      "audio": "voiceover/ex-ai-or-automation/a1.mp3",
+      "captions": "voiceover/ex-ai-or-automation/a1.json",
+      "durationInSeconds": 3.527,
+      "characters": 54
+    },
+    {
+      "id": "q2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "5900fc42c30e4221",
+      "audio": "voiceover/ex-ai-or-automation/q2.mp3",
+      "captions": "voiceover/ex-ai-or-automation/q2.json",
+      "durationInSeconds": 4.31,
+      "characters": 68
+    },
+    {
+      "id": "a2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "0ddeb8a255e687e2",
+      "audio": "voiceover/ex-ai-or-automation/a2.mp3",
+      "captions": "voiceover/ex-ai-or-automation/a2.json",
+      "durationInSeconds": 4.075,
+      "characters": 53
+    },
+    {
+      "id": "need",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "56c140b3a6013891",
+      "audio": "voiceover/ex-ai-or-automation/need.mp3",
+      "captions": "voiceover/ex-ai-or-automation/need.json",
+      "durationInSeconds": 8.202,
+      "characters": 113
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "5cf987378b3cb4f9",
+      "audio": "voiceover/ex-ai-or-automation/cta.mp3",
+      "captions": "voiceover/ex-ai-or-automation/cta.json",
+      "durationInSeconds": 5.564,
+      "characters": 84
+    }
+  ],
+  "generatedAt": "2026-11-06T19:40:30.001Z"
+}

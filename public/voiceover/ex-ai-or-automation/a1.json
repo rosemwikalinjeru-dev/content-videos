@@ -1,0 +1,45 @@
+{
+  "id": "a1",
+  "words": [
+    {
+      "text": "Automation.",
+      "start": 0,
+      "end": 0.929
+    },
+    {
+      "text": "Same",
+      "start": 0.998,
+      "end": 1.242
+    },
+    {
+      "text": "rule,",
+      "start": 1.277,
+      "end": 1.533
+    },
+    {
+      "text": "every",
+      "start": 1.579,
+      "end": 1.811
+    },
+    {
+      "text": "time.",
+      "start": 1.858,
+      "end": 2.159
+    },
+    {
+      "text": "No",
+      "start": 2.276,
+      "end": 2.392
+    },
+    {
+      "text": "thinking",
+      "start": 2.45,
+      "end": 2.821
+    },
+    {
+      "text": "needed.",
+      "start": 2.879,
+      "end": 3.483
+    }
+  ]
+}

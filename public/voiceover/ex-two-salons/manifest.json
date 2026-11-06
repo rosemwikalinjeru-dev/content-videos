@@ -1,0 +1,77 @@
+{
+  "video": "ex-two-salons",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "4aa58640c9368d18",
+      "audio": "voiceover/ex-two-salons/hook.mp3",
+      "captions": "voiceover/ex-two-salons/hook.json",
+      "durationInSeconds": 5.799,
+      "characters": 75
+    },
+    {
+      "id": "split",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "458b77767e5c6fcb",
+      "audio": "voiceover/ex-two-salons/split.mp3",
+      "captions": "voiceover/ex-two-salons/split.json",
+      "durationInSeconds": 7.367,
+      "characters": 102
+    },
+    {
+      "id": "speed",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3ace3145f92e8da5",
+      "audio": "voiceover/ex-two-salons/speed.mp3",
+      "captions": "voiceover/ex-two-salons/speed.json",
+      "durationInSeconds": 5.616,
+      "characters": 83
+    },
+    {
+      "id": "accuracy",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "bf138d3f07fb5c51",
+      "audio": "voiceover/ex-two-salons/accuracy.mp3",
+      "captions": "voiceover/ex-two-salons/accuracy.json",
+      "durationInSeconds": 4.598,
+      "characters": 64
+    },
+    {
+      "id": "time",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "fc0be4880cf7d250",
+      "audio": "voiceover/ex-two-salons/time.mp3",
+      "captions": "voiceover/ex-two-salons/time.json",
+      "durationInSeconds": 5.695,
+      "characters": 93
+    },
+    {
+      "id": "gap",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f81eb12294cc4e47",
+      "audio": "voiceover/ex-two-salons/gap.mp3",
+      "captions": "voiceover/ex-two-salons/gap.json",
+      "durationInSeconds": 5.851,
+      "characters": 74
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c6f9458c3636e782",
+      "audio": "voiceover/ex-two-salons/cta.mp3",
+      "captions": "voiceover/ex-two-salons/cta.json",
+      "durationInSeconds": 3.709,
+      "characters": 64
+    }
+  ],
+  "generatedAt": "2026-11-06T19:40:12.690Z"
+}

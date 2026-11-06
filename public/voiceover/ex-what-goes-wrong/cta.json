@@ -1,0 +1,70 @@
+{
+  "id": "cta",
+  "words": [
+    {
+      "text": "It's",
+      "start": 0,
+      "end": 0.372
+    },
+    {
+      "text": "not",
+      "start": 0.441,
+      "end": 0.592
+    },
+    {
+      "text": "set",
+      "start": 0.65,
+      "end": 0.824
+    },
+    {
+      "text": "and",
+      "start": 0.882,
+      "end": 0.975
+    },
+    {
+      "text": "forget.",
+      "start": 1.045,
+      "end": 1.474
+    },
+    {
+      "text": "It's",
+      "start": 1.533,
+      "end": 1.718
+    },
+    {
+      "text": "set,",
+      "start": 1.753,
+      "end": 2.183
+    },
+    {
+      "text": "watch,",
+      "start": 2.299,
+      "end": 2.775
+    },
+    {
+      "text": "and",
+      "start": 2.81,
+      "end": 2.995
+    },
+    {
+      "text": "improve.",
+      "start": 3.065,
+      "end": 3.506
+    },
+    {
+      "text": "Follow",
+      "start": 3.715,
+      "end": 4.017
+    },
+    {
+      "text": "for",
+      "start": 4.075,
+      "end": 4.191
+    },
+    {
+      "text": "more.",
+      "start": 4.249,
+      "end": 4.644
+    }
+  ]
+}

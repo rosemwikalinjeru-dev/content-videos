@@ -1,0 +1,40 @@
+{
+  "video": "ex-five-steps",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "You don't need a big A-I project. You need five small steps, in the right order."
+    },
+    {
+      "id": "s1",
+      "version": "v2",
+      "text": "Step one. Pick the one task your team complains about most."
+    },
+    {
+      "id": "s2",
+      "version": "v2",
+      "text": "Step two. Write down how it works today. Every step, even the messy ones."
+    },
+    {
+      "id": "s3",
+      "version": "v2",
+      "text": "Step three. Fix the process on paper, before you touch any tool."
+    },
+    {
+      "id": "s4",
+      "version": "v2",
+      "text": "Step four. Automate the boring part, and keep a person on the decisions."
+    },
+    {
+      "id": "s5",
+      "version": "v2",
+      "text": "Step five. Watch it for a month. Count the hours saved, and the mistakes caught."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Small, boring, and measured. That's how it actually works. Follow for one fix a week."
+    }
+  ]
+}

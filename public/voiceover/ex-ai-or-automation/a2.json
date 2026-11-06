@@ -1,0 +1,45 @@
+{
+  "id": "a2",
+  "words": [
+    {
+      "text": "That's",
+      "start": 0,
+      "end": 0.406
+    },
+    {
+      "text": "A-I.",
+      "start": 0.557,
+      "end": 1.126
+    },
+    {
+      "text": "It",
+      "start": 1.335,
+      "end": 1.509
+    },
+    {
+      "text": "handles",
+      "start": 1.579,
+      "end": 1.985
+    },
+    {
+      "text": "the",
+      "start": 2.043,
+      "end": 2.113
+    },
+    {
+      "text": "messy,",
+      "start": 2.183,
+      "end": 2.543
+    },
+    {
+      "text": "unpredictable",
+      "start": 2.601,
+      "end": 3.355
+    },
+    {
+      "text": "part.",
+      "start": 3.402,
+      "end": 4.04
+    }
+  ]
+}

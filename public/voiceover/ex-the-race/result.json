@@ -1,0 +1,35 @@
+{
+  "id": "result",
+  "words": [
+    {
+      "text": "Guess",
+      "start": 0,
+      "end": 0.406
+    },
+    {
+      "text": "who",
+      "start": 0.453,
+      "end": 0.592
+    },
+    {
+      "text": "gets",
+      "start": 0.662,
+      "end": 0.906
+    },
+    {
+      "text": "the",
+      "start": 0.964,
+      "end": 1.057
+    },
+    {
+      "text": "first",
+      "start": 1.115,
+      "end": 1.37
+    },
+    {
+      "text": "visit.",
+      "start": 1.451,
+      "end": 2.229
+    }
+  ]
+}

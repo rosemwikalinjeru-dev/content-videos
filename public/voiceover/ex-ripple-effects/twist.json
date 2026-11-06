@@ -1,0 +1,85 @@
+{
+  "id": "twist",
+  "words": [
+    {
+      "text": "But",
+      "start": 0,
+      "end": 0.197
+    },
+    {
+      "text": "the",
+      "start": 0.244,
+      "end": 0.337
+    },
+    {
+      "text": "ripple",
+      "start": 0.418,
+      "end": 0.755
+    },
+    {
+      "text": "works",
+      "start": 0.801,
+      "end": 1.196
+    },
+    {
+      "text": "both",
+      "start": 1.521,
+      "end": 1.823
+    },
+    {
+      "text": "ways.",
+      "start": 1.892,
+      "end": 2.218
+    },
+    {
+      "text": "Automate",
+      "start": 2.461,
+      "end": 3.019
+    },
+    {
+      "text": "a",
+      "start": 3.042,
+      "end": 3.065
+    },
+    {
+      "text": "broken",
+      "start": 3.111,
+      "end": 3.448
+    },
+    {
+      "text": "process,",
+      "start": 3.506,
+      "end": 3.947
+    },
+    {
+      "text": "and",
+      "start": 3.982,
+      "end": 4.133
+    },
+    {
+      "text": "you",
+      "start": 4.191,
+      "end": 4.272
+    },
+    {
+      "text": "just",
+      "start": 4.342,
+      "end": 4.54
+    },
+    {
+      "text": "make",
+      "start": 4.609,
+      "end": 4.795
+    },
+    {
+      "text": "mistakes",
+      "start": 4.83,
+      "end": 5.248
+    },
+    {
+      "text": "faster.",
+      "start": 5.317,
+      "end": 6.084
+    }
+  ]
+}

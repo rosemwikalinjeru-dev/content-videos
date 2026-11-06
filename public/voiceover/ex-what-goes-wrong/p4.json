@@ -1,0 +1,100 @@
+{
+  "id": "p4",
+  "words": [
+    {
+      "text": "Four.",
+      "start": 0,
+      "end": 0.615
+    },
+    {
+      "text": "Customers",
+      "start": 0.824,
+      "end": 1.382
+    },
+    {
+      "text": "feel",
+      "start": 1.44,
+      "end": 1.614
+    },
+    {
+      "text": "stuck",
+      "start": 1.683,
+      "end": 1.997
+    },
+    {
+      "text": "with",
+      "start": 2.078,
+      "end": 2.252
+    },
+    {
+      "text": "a",
+      "start": 2.287,
+      "end": 2.31
+    },
+    {
+      "text": "robot.",
+      "start": 2.357,
+      "end": 2.844
+    },
+    {
+      "text": "The",
+      "start": 3.019,
+      "end": 3.146
+    },
+    {
+      "text": "fix,",
+      "start": 3.216,
+      "end": 3.576
+    },
+    {
+      "text": "always",
+      "start": 3.599,
+      "end": 3.982
+    },
+    {
+      "text": "give",
+      "start": 4.04,
+      "end": 4.226
+    },
+    {
+      "text": "them",
+      "start": 4.261,
+      "end": 4.435
+    },
+    {
+      "text": "an",
+      "start": 4.516,
+      "end": 4.621
+    },
+    {
+      "text": "easy",
+      "start": 4.679,
+      "end": 4.899
+    },
+    {
+      "text": "way",
+      "start": 4.957,
+      "end": 5.097
+    },
+    {
+      "text": "to",
+      "start": 5.155,
+      "end": 5.213
+    },
+    {
+      "text": "reach",
+      "start": 5.294,
+      "end": 5.503
+    },
+    {
+      "text": "a",
+      "start": 5.538,
+      "end": 5.561
+    },
+    {
+      "text": "person.",
+      "start": 5.619,
+      "end": 6.223
+    }
+  ]
+}

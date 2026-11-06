@@ -1,0 +1,65 @@
+{
+  "id": "setup",
+  "words": [
+    {
+      "text": "A",
+      "start": 0,
+      "end": 0.232
+    },
+    {
+      "text": "homeowner",
+      "start": 0.313,
+      "end": 0.894
+    },
+    {
+      "text": "asks",
+      "start": 0.964,
+      "end": 1.347
+    },
+    {
+      "text": "three",
+      "start": 1.428,
+      "end": 1.695
+    },
+    {
+      "text": "roofers",
+      "start": 1.741,
+      "end": 2.148
+    },
+    {
+      "text": "for",
+      "start": 2.206,
+      "end": 2.345
+    },
+    {
+      "text": "a",
+      "start": 2.392,
+      "end": 2.426
+    },
+    {
+      "text": "quote,",
+      "start": 2.496,
+      "end": 2.984
+    },
+    {
+      "text": "on",
+      "start": 3.193,
+      "end": 3.332
+    },
+    {
+      "text": "the",
+      "start": 3.379,
+      "end": 3.46
+    },
+    {
+      "text": "same",
+      "start": 3.518,
+      "end": 3.75
+    },
+    {
+      "text": "night.",
+      "start": 3.796,
+      "end": 4.412
+    }
+  ]
+}

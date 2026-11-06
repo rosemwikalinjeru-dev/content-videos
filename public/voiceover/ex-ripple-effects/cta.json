@@ -1,0 +1,70 @@
+{
+  "id": "cta",
+  "words": [
+    {
+      "text": "Fix",
+      "start": 0,
+      "end": 0.29
+    },
+    {
+      "text": "the",
+      "start": 0.372,
+      "end": 0.453
+    },
+    {
+      "text": "process",
+      "start": 0.511,
+      "end": 0.917
+    },
+    {
+      "text": "first.",
+      "start": 0.975,
+      "end": 1.405
+    },
+    {
+      "text": "Then",
+      "start": 1.474,
+      "end": 1.672
+    },
+    {
+      "text": "automate",
+      "start": 1.765,
+      "end": 2.31
+    },
+    {
+      "text": "it.",
+      "start": 2.334,
+      "end": 2.577
+    },
+    {
+      "text": "Follow",
+      "start": 2.752,
+      "end": 3.077
+    },
+    {
+      "text": "for",
+      "start": 3.146,
+      "end": 3.286
+    },
+    {
+      "text": "one",
+      "start": 3.367,
+      "end": 3.541
+    },
+    {
+      "text": "fix",
+      "start": 3.599,
+      "end": 3.878
+    },
+    {
+      "text": "every",
+      "start": 3.994,
+      "end": 4.319
+    },
+    {
+      "text": "week.",
+      "start": 4.377,
+      "end": 4.923
+    }
+  ]
+}

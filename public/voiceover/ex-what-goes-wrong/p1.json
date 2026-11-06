@@ -1,0 +1,100 @@
+{
+  "id": "p1",
+  "words": [
+    {
+      "text": "One.",
+      "start": 0,
+      "end": 0.569
+    },
+    {
+      "text": "Bad",
+      "start": 0.743,
+      "end": 0.975
+    },
+    {
+      "text": "details",
+      "start": 0.998,
+      "end": 1.44
+    },
+    {
+      "text": "in,",
+      "start": 1.556,
+      "end": 1.834
+    },
+    {
+      "text": "bad",
+      "start": 1.881,
+      "end": 2.125
+    },
+    {
+      "text": "messages",
+      "start": 2.206,
+      "end": 2.717
+    },
+    {
+      "text": "out.",
+      "start": 2.833,
+      "end": 3.239
+    },
+    {
+      "text": "The",
+      "start": 3.355,
+      "end": 3.471
+    },
+    {
+      "text": "fix,",
+      "start": 3.541,
+      "end": 3.889
+    },
+    {
+      "text": "check",
+      "start": 3.959,
+      "end": 4.226
+    },
+    {
+      "text": "details",
+      "start": 4.307,
+      "end": 4.714
+    },
+    {
+      "text": "at",
+      "start": 4.76,
+      "end": 4.853
+    },
+    {
+      "text": "the",
+      "start": 4.876,
+      "end": 4.946
+    },
+    {
+      "text": "door,",
+      "start": 4.992,
+      "end": 5.375
+    },
+    {
+      "text": "like",
+      "start": 5.584,
+      "end": 5.828
+    },
+    {
+      "text": "confirming",
+      "start": 5.898,
+      "end": 6.49
+    },
+    {
+      "text": "the",
+      "start": 6.536,
+      "end": 6.618
+    },
+    {
+      "text": "phone",
+      "start": 6.664,
+      "end": 6.931
+    },
+    {
+      "text": "number.",
+      "start": 6.954,
+      "end": 7.616
+    }
+  ]
+}

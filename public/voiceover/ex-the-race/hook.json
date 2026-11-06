@@ -1,0 +1,70 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Your",
+      "start": 0,
+      "end": 0.197
+    },
+    {
+      "text": "competitor",
+      "start": 0.255,
+      "end": 0.952
+    },
+    {
+      "text": "isn't",
+      "start": 1.022,
+      "end": 1.289
+    },
+    {
+      "text": "better",
+      "start": 1.335,
+      "end": 1.602
+    },
+    {
+      "text": "than",
+      "start": 1.649,
+      "end": 1.788
+    },
+    {
+      "text": "you.",
+      "start": 1.869,
+      "end": 2.09
+    },
+    {
+      "text": "They're",
+      "start": 2.113,
+      "end": 2.368
+    },
+    {
+      "text": "just",
+      "start": 2.415,
+      "end": 2.694
+    },
+    {
+      "text": "faster",
+      "start": 2.844,
+      "end": 3.297
+    },
+    {
+      "text": "at",
+      "start": 3.367,
+      "end": 3.495
+    },
+    {
+      "text": "the",
+      "start": 3.529,
+      "end": 3.599
+    },
+    {
+      "text": "boring",
+      "start": 3.646,
+      "end": 3.971
+    },
+    {
+      "text": "stuff.",
+      "start": 4.04,
+      "end": 4.598
+    }
+  ]
+}

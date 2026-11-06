@@ -1,0 +1,70 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Quick",
+      "start": 0,
+      "end": 0.36
+    },
+    {
+      "text": "test.",
+      "start": 0.441,
+      "end": 0.871
+    },
+    {
+      "text": "Is",
+      "start": 1.045,
+      "end": 1.219
+    },
+    {
+      "text": "this",
+      "start": 1.277,
+      "end": 1.474
+    },
+    {
+      "text": "A-I,",
+      "start": 1.591,
+      "end": 2.067
+    },
+    {
+      "text": "or",
+      "start": 2.159,
+      "end": 2.334
+    },
+    {
+      "text": "just",
+      "start": 2.415,
+      "end": 2.624
+    },
+    {
+      "text": "automation?",
+      "start": 2.682,
+      "end": 3.344
+    },
+    {
+      "text": "Most",
+      "start": 3.39,
+      "end": 3.669
+    },
+    {
+      "text": "owners",
+      "start": 3.738,
+      "end": 4.063
+    },
+    {
+      "text": "mix",
+      "start": 4.145,
+      "end": 4.342
+    },
+    {
+      "text": "them",
+      "start": 4.412,
+      "end": 4.551
+    },
+    {
+      "text": "up.",
+      "start": 4.609,
+      "end": 4.969
+    }
+  ]
+}

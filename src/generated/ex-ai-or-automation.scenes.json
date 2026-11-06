@@ -1,0 +1,40 @@
+{
+  "video": "ex-ai-or-automation",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Quick test. Is this A-I, or just automation? Most owners mix them up."
+    },
+    {
+      "id": "q1",
+      "version": "v2",
+      "text": "A text goes out every time someone books. A-I, or automation?"
+    },
+    {
+      "id": "a1",
+      "version": "v2",
+      "text": "Automation. Same rule, every time. No thinking needed."
+    },
+    {
+      "id": "q2",
+      "version": "v2",
+      "text": "Reading a customer's message, and drafting a reply in plain English?"
+    },
+    {
+      "id": "a2",
+      "version": "v2",
+      "text": "That's A-I. It handles the messy, unpredictable part."
+    },
+    {
+      "id": "need",
+      "version": "v2",
+      "text": "So which do you need? Usually automation first. A-I helps with the messy parts, once the basics run on their own."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Rules for the routine. A-I for the messy. People for the decisions. Follow for more."
+    }
+  ]
+}

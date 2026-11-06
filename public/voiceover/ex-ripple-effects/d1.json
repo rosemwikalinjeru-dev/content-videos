@@ -1,0 +1,65 @@
+{
+  "id": "d1",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.279
+    },
+    {
+      "text": "reply",
+      "start": 0.348,
+      "end": 0.708
+    },
+    {
+      "text": "goes",
+      "start": 0.778,
+      "end": 0.964
+    },
+    {
+      "text": "out",
+      "start": 1.022,
+      "end": 1.196
+    },
+    {
+      "text": "in",
+      "start": 1.254,
+      "end": 1.324
+    },
+    {
+      "text": "a",
+      "start": 1.393,
+      "end": 1.416
+    },
+    {
+      "text": "minute.",
+      "start": 1.474,
+      "end": 1.881
+    },
+    {
+      "text": "So",
+      "start": 1.916,
+      "end": 2.148
+    },
+    {
+      "text": "more",
+      "start": 2.264,
+      "end": 2.508
+    },
+    {
+      "text": "people",
+      "start": 2.543,
+      "end": 2.856
+    },
+    {
+      "text": "actually",
+      "start": 2.902,
+      "end": 3.297
+    },
+    {
+      "text": "book.",
+      "start": 3.355,
+      "end": 3.855
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Here's",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "what",
+      "start": 0.372,
+      "end": 0.534
+    },
+    {
+      "text": "happens",
+      "start": 0.592,
+      "end": 1.057
+    },
+    {
+      "text": "when",
+      "start": 1.335,
+      "end": 1.556
+    },
+    {
+      "text": "a",
+      "start": 1.602,
+      "end": 1.625
+    },
+    {
+      "text": "heating",
+      "start": 1.695,
+      "end": 2.136
+    },
+    {
+      "text": "and",
+      "start": 2.229,
+      "end": 2.38
+    },
+    {
+      "text": "cooling",
+      "start": 2.438,
+      "end": 2.728
+    },
+    {
+      "text": "company",
+      "start": 2.798,
+      "end": 3.274
+    },
+    {
+      "text": "automates",
+      "start": 3.599,
+      "end": 4.319
+    },
+    {
+      "text": "just",
+      "start": 4.563,
+      "end": 4.957
+    },
+    {
+      "text": "one",
+      "start": 5.236,
+      "end": 5.526
+    },
+    {
+      "text": "thing.",
+      "start": 5.573,
+      "end": 5.979
+    },
+    {
+      "text": "Replying",
+      "start": 6.258,
+      "end": 6.803
+    },
+    {
+      "text": "to",
+      "start": 6.873,
+      "end": 6.954
+    },
+    {
+      "text": "new",
+      "start": 7.047,
+      "end": 7.21
+    },
+    {
+      "text": "leads.",
+      "start": 7.279,
+      "end": 7.895
+    }
+  ]
+}

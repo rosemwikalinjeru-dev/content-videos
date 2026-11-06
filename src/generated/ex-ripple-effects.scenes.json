@@ -1,0 +1,40 @@
+{
+  "video": "ex-ripple-effects",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Here's what happens when a heating and cooling company automates just one thing. Replying to new leads."
+    },
+    {
+      "id": "d1",
+      "version": "v2",
+      "text": "The reply goes out in a minute. So more people actually book."
+    },
+    {
+      "id": "d2",
+      "version": "v2",
+      "text": "A fuller schedule means techs aren't sitting around between jobs."
+    },
+    {
+      "id": "d3",
+      "version": "v2",
+      "text": "Fast service gets talked about. Ask at the right moment, and those customers leave reviews."
+    },
+    {
+      "id": "d4",
+      "version": "v2",
+      "text": "More reviews bring in more leads, and the whole cycle starts again."
+    },
+    {
+      "id": "twist",
+      "version": "v2",
+      "text": "But the ripple works both ways. Automate a broken process, and you just make mistakes faster."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Fix the process first. Then automate it. Follow for one fix every week."
+    }
+  ]
+}

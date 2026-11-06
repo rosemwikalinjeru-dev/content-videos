@@ -1,0 +1,80 @@
+{
+  "id": "d3",
+  "words": [
+    {
+      "text": "Fast",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "service",
+      "start": 0.557,
+      "end": 0.975
+    },
+    {
+      "text": "gets",
+      "start": 1.01,
+      "end": 1.219
+    },
+    {
+      "text": "talked",
+      "start": 1.265,
+      "end": 1.498
+    },
+    {
+      "text": "about.",
+      "start": 1.533,
+      "end": 2.009
+    },
+    {
+      "text": "Ask",
+      "start": 2.218,
+      "end": 2.508
+    },
+    {
+      "text": "at",
+      "start": 2.554,
+      "end": 2.624
+    },
+    {
+      "text": "the",
+      "start": 2.647,
+      "end": 2.717
+    },
+    {
+      "text": "right",
+      "start": 2.786,
+      "end": 3.007
+    },
+    {
+      "text": "moment,",
+      "start": 3.1,
+      "end": 3.587
+    },
+    {
+      "text": "and",
+      "start": 3.796,
+      "end": 3.971
+    },
+    {
+      "text": "those",
+      "start": 4.029,
+      "end": 4.296
+    },
+    {
+      "text": "customers",
+      "start": 4.342,
+      "end": 4.807
+    },
+    {
+      "text": "leave",
+      "start": 4.888,
+      "end": 5.12
+    },
+    {
+      "text": "reviews.",
+      "start": 5.155,
+      "end": 5.898
+    }
+  ]
+}

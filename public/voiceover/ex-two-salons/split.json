@@ -1,0 +1,95 @@
+{
+  "id": "split",
+  "words": [
+    {
+      "text": "Salon",
+      "start": 0,
+      "end": 0.406
+    },
+    {
+      "text": "A",
+      "start": 0.499,
+      "end": 0.58
+    },
+    {
+      "text": "answers",
+      "start": 0.673,
+      "end": 1.126
+    },
+    {
+      "text": "texts",
+      "start": 1.207,
+      "end": 1.637
+    },
+    {
+      "text": "whenever",
+      "start": 1.73,
+      "end": 2.194
+    },
+    {
+      "text": "someone's",
+      "start": 2.241,
+      "end": 2.682
+    },
+    {
+      "text": "free.",
+      "start": 2.752,
+      "end": 3.111
+    },
+    {
+      "text": "Salon",
+      "start": 3.495,
+      "end": 3.866
+    },
+    {
+      "text": "B",
+      "start": 3.913,
+      "end": 3.947
+    },
+    {
+      "text": "replies",
+      "start": 4.075,
+      "end": 4.54
+    },
+    {
+      "text": "in",
+      "start": 4.621,
+      "end": 4.748
+    },
+    {
+      "text": "a",
+      "start": 4.807,
+      "end": 4.83
+    },
+    {
+      "text": "minute,",
+      "start": 4.899,
+      "end": 5.375
+    },
+    {
+      "text": "every",
+      "start": 5.492,
+      "end": 5.782
+    },
+    {
+      "text": "time,",
+      "start": 5.84,
+      "end": 6.188
+    },
+    {
+      "text": "even",
+      "start": 6.258,
+      "end": 6.513
+    },
+    {
+      "text": "at",
+      "start": 6.571,
+      "end": 6.676
+    },
+    {
+      "text": "night.",
+      "start": 6.757,
+      "end": 7.338
+    }
+  ]
+}

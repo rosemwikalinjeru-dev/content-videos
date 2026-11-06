@@ -1,0 +1,55 @@
+{
+  "id": "accuracy",
+  "words": [
+    {
+      "text": "Second,",
+      "start": 0,
+      "end": 0.766
+    },
+    {
+      "text": "fewer",
+      "start": 0.882,
+      "end": 1.219
+    },
+    {
+      "text": "mistakes.",
+      "start": 1.289,
+      "end": 1.892
+    },
+    {
+      "text": "Details",
+      "start": 1.985,
+      "end": 2.403
+    },
+    {
+      "text": "get",
+      "start": 2.461,
+      "end": 2.624
+    },
+    {
+      "text": "typed",
+      "start": 2.67,
+      "end": 2.972
+    },
+    {
+      "text": "once,",
+      "start": 3.03,
+      "end": 3.367
+    },
+    {
+      "text": "not",
+      "start": 3.483,
+      "end": 3.657
+    },
+    {
+      "text": "three",
+      "start": 3.692,
+      "end": 3.901
+    },
+    {
+      "text": "times.",
+      "start": 3.936,
+      "end": 4.551
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "s2",
+  "words": [
+    {
+      "text": "Step",
+      "start": 0,
+      "end": 0.476
+    },
+    {
+      "text": "two.",
+      "start": 0.569,
+      "end": 0.824
+    },
+    {
+      "text": "Write",
+      "start": 1.103,
+      "end": 1.428
+    },
+    {
+      "text": "down",
+      "start": 1.451,
+      "end": 1.683
+    },
+    {
+      "text": "how",
+      "start": 1.753,
+      "end": 1.881
+    },
+    {
+      "text": "it",
+      "start": 1.95,
+      "end": 2.032
+    },
+    {
+      "text": "works",
+      "start": 2.09,
+      "end": 2.368
+    },
+    {
+      "text": "today.",
+      "start": 2.415,
+      "end": 2.833
+    },
+    {
+      "text": "Every",
+      "start": 3.077,
+      "end": 3.367
+    },
+    {
+      "text": "step,",
+      "start": 3.413,
+      "end": 3.796
+    },
+    {
+      "text": "even",
+      "start": 3.913,
+      "end": 4.191
+    },
+    {
+      "text": "the",
+      "start": 4.249,
+      "end": 4.319
+    },
+    {
+      "text": "messy",
+      "start": 4.377,
+      "end": 4.667
+    },
+    {
+      "text": "ones.",
+      "start": 4.737,
+      "end": 5.294
+    }
+  ]
+}

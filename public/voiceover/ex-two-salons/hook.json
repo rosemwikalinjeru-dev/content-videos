@@ -1,0 +1,70 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Two",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "salons.",
+      "start": 0.372,
+      "end": 0.987
+    },
+    {
+      "text": "Same",
+      "start": 1.103,
+      "end": 1.416
+    },
+    {
+      "text": "street,",
+      "start": 1.451,
+      "end": 1.904
+    },
+    {
+      "text": "same",
+      "start": 1.985,
+      "end": 2.252
+    },
+    {
+      "text": "prices.",
+      "start": 2.287,
+      "end": 2.949
+    },
+    {
+      "text": "One",
+      "start": 3.1,
+      "end": 3.332
+    },
+    {
+      "text": "of",
+      "start": 3.367,
+      "end": 3.448
+    },
+    {
+      "text": "them",
+      "start": 3.506,
+      "end": 3.669
+    },
+    {
+      "text": "is",
+      "start": 3.738,
+      "end": 3.889
+    },
+    {
+      "text": "quietly",
+      "start": 3.971,
+      "end": 4.551
+    },
+    {
+      "text": "pulling",
+      "start": 4.609,
+      "end": 4.934
+    },
+    {
+      "text": "ahead.",
+      "start": 5.004,
+      "end": 5.759
+    }
+  ]
+}

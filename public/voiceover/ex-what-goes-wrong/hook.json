@@ -1,0 +1,95 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Automation",
+      "start": 0,
+      "end": 0.72
+    },
+    {
+      "text": "can",
+      "start": 0.789,
+      "end": 0.987
+    },
+    {
+      "text": "quietly",
+      "start": 1.103,
+      "end": 1.567
+    },
+    {
+      "text": "hurt",
+      "start": 1.637,
+      "end": 1.904
+    },
+    {
+      "text": "your",
+      "start": 1.962,
+      "end": 2.078
+    },
+    {
+      "text": "business.",
+      "start": 2.113,
+      "end": 2.659
+    },
+    {
+      "text": "Here",
+      "start": 2.937,
+      "end": 3.158
+    },
+    {
+      "text": "are",
+      "start": 3.204,
+      "end": 3.332
+    },
+    {
+      "text": "four",
+      "start": 3.379,
+      "end": 3.587
+    },
+    {
+      "text": "ways",
+      "start": 3.669,
+      "end": 3.913
+    },
+    {
+      "text": "it",
+      "start": 3.971,
+      "end": 4.052
+    },
+    {
+      "text": "goes",
+      "start": 4.11,
+      "end": 4.319
+    },
+    {
+      "text": "wrong,",
+      "start": 4.354,
+      "end": 4.679
+    },
+    {
+      "text": "and",
+      "start": 4.795,
+      "end": 4.957
+    },
+    {
+      "text": "the",
+      "start": 5.016,
+      "end": 5.085
+    },
+    {
+      "text": "fix",
+      "start": 5.166,
+      "end": 5.445
+    },
+    {
+      "text": "for",
+      "start": 5.526,
+      "end": 5.689
+    },
+    {
+      "text": "each.",
+      "start": 5.759,
+      "end": 6.362
+    }
+  ]
+}

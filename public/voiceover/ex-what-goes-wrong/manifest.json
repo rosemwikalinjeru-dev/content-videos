@@ -1,0 +1,67 @@
+{
+  "video": "ex-what-goes-wrong",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6c3fb225bae31783",
+      "audio": "voiceover/ex-what-goes-wrong/hook.mp3",
+      "captions": "voiceover/ex-what-goes-wrong/hook.json",
+      "durationInSeconds": 6.4,
+      "characters": 98
+    },
+    {
+      "id": "p1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "da16a1ea84df7a03",
+      "audio": "voiceover/ex-what-goes-wrong/p1.mp3",
+      "captions": "voiceover/ex-what-goes-wrong/p1.json",
+      "durationInSeconds": 7.654,
+      "characters": 108
+    },
+    {
+      "id": "p2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "cd63ef00021e34a9",
+      "audio": "voiceover/ex-what-goes-wrong/p2.mp3",
+      "captions": "voiceover/ex-what-goes-wrong/p2.json",
+      "durationInSeconds": 7.105,
+      "characters": 100
+    },
+    {
+      "id": "p3",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "868c405e1fb0512d",
+      "audio": "voiceover/ex-what-goes-wrong/p3.mp3",
+      "captions": "voiceover/ex-what-goes-wrong/p3.json",
+      "durationInSeconds": 6.949,
+      "characters": 108
+    },
+    {
+      "id": "p4",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "37e39c85e3d9f34d",
+      "audio": "voiceover/ex-what-goes-wrong/p4.mp3",
+      "captions": "voiceover/ex-what-goes-wrong/p4.json",
+      "durationInSeconds": 6.269,
+      "characters": 97
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "27fb55911e1036cb",
+      "audio": "voiceover/ex-what-goes-wrong/cta.mp3",
+      "captions": "voiceover/ex-what-goes-wrong/cta.json",
+      "durationInSeconds": 4.676,
+      "characters": 71
+    }
+  ],
+  "generatedAt": "2026-11-06T19:40:19.907Z"
+}

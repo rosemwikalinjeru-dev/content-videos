@@ -1,0 +1,77 @@
+{
+  "video": "ex-five-steps",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "24dd55d231608d56",
+      "audio": "voiceover/ex-five-steps/hook.mp3",
+      "captions": "voiceover/ex-five-steps/hook.json",
+      "durationInSeconds": 4.833,
+      "characters": 80
+    },
+    {
+      "id": "s1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "31d0bd56f00eab58",
+      "audio": "voiceover/ex-five-steps/s1.mp3",
+      "captions": "voiceover/ex-five-steps/s1.json",
+      "durationInSeconds": 3.709,
+      "characters": 59
+    },
+    {
+      "id": "s2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "33a0394d88a169f1",
+      "audio": "voiceover/ex-five-steps/s2.mp3",
+      "captions": "voiceover/ex-five-steps/s2.json",
+      "durationInSeconds": 5.329,
+      "characters": 73
+    },
+    {
+      "id": "s3",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "301912cd70fba78b",
+      "audio": "voiceover/ex-five-steps/s3.mp3",
+      "captions": "voiceover/ex-five-steps/s3.json",
+      "durationInSeconds": 4.624,
+      "characters": 64
+    },
+    {
+      "id": "s4",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "72b66150c30bae5e",
+      "audio": "voiceover/ex-five-steps/s4.mp3",
+      "captions": "voiceover/ex-five-steps/s4.json",
+      "durationInSeconds": 5.016,
+      "characters": 72
+    },
+    {
+      "id": "s5",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "87cf35025a606e89",
+      "audio": "voiceover/ex-five-steps/s5.mp3",
+      "captions": "voiceover/ex-five-steps/s5.json",
+      "durationInSeconds": 5.564,
+      "characters": 80
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "0a77afe5535980ba",
+      "audio": "voiceover/ex-five-steps/cta.mp3",
+      "captions": "voiceover/ex-five-steps/cta.json",
+      "durationInSeconds": 6.217,
+      "characters": 85
+    }
+  ],
+  "generatedAt": "2026-11-06T19:40:23.569Z"
+}

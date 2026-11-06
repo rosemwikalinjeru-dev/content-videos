@@ -1,0 +1,65 @@
+{
+  "id": "cta",
+  "words": [
+    {
+      "text": "Be",
+      "start": 0,
+      "end": 0.221
+    },
+    {
+      "text": "the",
+      "start": 0.255,
+      "end": 0.337
+    },
+    {
+      "text": "fast",
+      "start": 0.395,
+      "end": 0.673
+    },
+    {
+      "text": "one.",
+      "start": 0.755,
+      "end": 0.998
+    },
+    {
+      "text": "Follow",
+      "start": 1.207,
+      "end": 1.533
+    },
+    {
+      "text": "for",
+      "start": 1.591,
+      "end": 1.753
+    },
+    {
+      "text": "one",
+      "start": 1.846,
+      "end": 2.032
+    },
+    {
+      "text": "fix",
+      "start": 2.09,
+      "end": 2.322
+    },
+    {
+      "text": "like",
+      "start": 2.392,
+      "end": 2.566
+    },
+    {
+      "text": "this",
+      "start": 2.601,
+      "end": 2.775
+    },
+    {
+      "text": "every",
+      "start": 2.868,
+      "end": 3.111
+    },
+    {
+      "text": "week.",
+      "start": 3.17,
+      "end": 3.762
+    }
+  ]
+}
