@@ -54,6 +54,7 @@ export const Tag: React.FC<{ children: React.ReactNode; color?: string; ink?: st
   <span
     style={{
       display: "inline-block",
+      alignSelf: "flex-start", // don't stretch when it's a direct child of a column layout
       font: `800 30px/1 ${MONO}`,
       letterSpacing: "0.1em",
       color: ink,
