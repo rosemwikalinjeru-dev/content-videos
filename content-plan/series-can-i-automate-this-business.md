@@ -46,6 +46,20 @@ what to automate, and where a person still steps in.**
 
 Mix rule: each day = 1 teardown episode + 1 explainer + 1 of either. Never 3 teardowns in a row.
 
+## Business videos (not automation; posted between the automation videos)
+| File | Topic | Visual | Length |
+|---|---|---|---|
+| biz-busy-not-profitable | busy vs profitable | job cards, ranking flips per hour | 32.3s |
+| biz-owner-bottleneck | owner as bottleneck | desk jam, three trays | 33.7s |
+| biz-cheapest-customer | discount customers | seesaw | 31.0s |
+| biz-best-employee-quits | knowledge in one head | head, checklist, 10-task grid | 31.8s |
+| biz-price-or-customers | pricing vs volume | two dials, profit and work bars | 34.9s |
+| biz-five-numbers | what to measure | Friday scorecard | 24.9s |
+| biz-silent-leavers | retention | ten customers, one speaks | 30.6s |
+| biz-say-no | choosing jobs | week calendar | 34.0s |
+
+CTA on these: "One business fix, every week."
+
 ## Posting rhythm (3 a day)
 - **Day 1:** Ep 00 (trailer, pinned) · Ep 01 (news, expires ~Nov 9) · Ep 03 (news, expires ~Nov 10)
 - **Day 2 onward:** next three episodes in order, at 8:30 AM / 12:30 PM / 7:30 PM ET
