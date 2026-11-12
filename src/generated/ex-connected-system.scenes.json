@@ -1,0 +1,40 @@
+{
+  "video": "ex-connected-system",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Your business isn't five separate tasks. It's one connected system. Watch what happens to twenty customers."
+    },
+    {
+      "id": "flows",
+      "version": "v2",
+      "text": "A lead comes in. It becomes a booking. The booking becomes a job. The job becomes an invoice. And the invoice becomes a review."
+    },
+    {
+      "id": "leaks",
+      "version": "v2",
+      "text": "Each step works fine alone. The customers get lost in the gaps between them."
+    },
+    {
+      "id": "sim-before",
+      "version": "v2",
+      "text": "Run twenty customers through, with every handoff done by memory. Watch how many reach the end."
+    },
+    {
+      "id": "connect",
+      "version": "v2",
+      "text": "Now connect the handoffs. Each step passes the customer to the next one, automatically."
+    },
+    {
+      "id": "sim-after",
+      "version": "v2",
+      "text": "Same twenty customers. Same team. Far more reach the end, and the ones who get stuck go to a person."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Don't just fix tasks. Fix the handoffs. Follow for one fix every week."
+    }
+  ]
+}

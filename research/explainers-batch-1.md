@@ -41,3 +41,17 @@ so they use icons instead.
 No "It's [day], [time]" opening in this batch. The hooks are a comparison (1), a promise of consequences (2), a warning (3),
 a reframe (4), a provocative claim (5) and a quiz (6). "Workflow", "integration" and "API" stay on-screen only (CLAUDE.md), and the voice
 says "automation" and "the system".
+
+---
+
+## ex-connected-system (added 2026-11-12): simulation + connected flow diagrams
+
+**Format:** system map. Five flows (Lead → Booking → Job → Invoice → Review), three steps each, joined by four
+handoffs. A deterministic simulation runs 20 customer dots through the whole map twice.
+
+- **The simulation is an illustration, not data.** The leak pattern is set by hand in
+  `src/videos/explainer/connected.tsx` (before: 11 of 20 lost at handoffs; after: 18 reach the end, 2 go to a
+  person). On screen it is labelled "DEMO SIMULATION · NOT REAL DATA". The voiceover gives no numbers except
+  "twenty customers" and says only "far more reach the end".
+- Claim "customers get lost in the gaps between steps": reasoning, the core of Rose's method (handoffs are where
+  processes break). No statistic.

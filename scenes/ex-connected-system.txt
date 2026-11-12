@@ -1,0 +1,20 @@
+# hook
+Your business isn't five separate tasks. It's one connected system. Watch what happens to twenty customers.
+
+# flows
+A lead comes in. It becomes a booking. The booking becomes a job. The job becomes an invoice. And the invoice becomes a review.
+
+# leaks
+Each step works fine alone. The customers get lost in the gaps between them.
+
+# sim-before
+Run twenty customers through, with every handoff done by memory. Watch how many reach the end.
+
+# connect
+Now connect the handoffs. Each step passes the customer to the next one, automatically.
+
+# sim-after
+Same twenty customers. Same team. Far more reach the end, and the ones who get stuck go to a person.
+
+# cta
+Don't just fix tasks. Fix the handoffs. Follow for one fix every week.
