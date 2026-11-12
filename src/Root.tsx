@@ -13,6 +13,7 @@ import { PermissionCarousel, SLIDES } from "./carousel/PermissionCarousel";
 import { IndustryGallery } from "./components/industry/Gallery";
 import { SeriesTrailer } from "./videos/trailer/SeriesTrailer";
 import { EXPLAINERS } from "./videos/explainer";
+import { BIZ } from "./videos/biz";
 import trailer from "./generated/series-trailer.scenes.json";
 
 import terra from "./generated/gpt61-terra.scenes.json";
@@ -77,7 +78,7 @@ export const RemotionRoot: React.FC = () => (
       />
     ))}
     {/* Explainer formats (split screen, chain reaction, warnings, staircase, race, quiz) */}
-    {EXPLAINERS.map((ex) => (
+    {[...EXPLAINERS, ...BIZ].map((ex) => (
       <Composition
         key={ex.id}
         id={ex.compositionId}
