@@ -1,0 +1,85 @@
+{
+  "id": "sort",
+  "words": [
+    {
+      "text": "Sort",
+      "start": 0,
+      "end": 0.453
+    },
+    {
+      "text": "them",
+      "start": 0.499,
+      "end": 0.639
+    },
+    {
+      "text": "into",
+      "start": 0.697,
+      "end": 0.906
+    },
+    {
+      "text": "three",
+      "start": 0.975,
+      "end": 1.149
+    },
+    {
+      "text": "piles.",
+      "start": 1.196,
+      "end": 1.544
+    },
+    {
+      "text": "Only",
+      "start": 1.591,
+      "end": 1.846
+    },
+    {
+      "text": "you.",
+      "start": 1.916,
+      "end": 2.136
+    },
+    {
+      "text": "Someone",
+      "start": 2.194,
+      "end": 2.601
+    },
+    {
+      "text": "else,",
+      "start": 2.635,
+      "end": 2.868
+    },
+    {
+      "text": "with",
+      "start": 2.902,
+      "end": 3.077
+    },
+    {
+      "text": "a",
+      "start": 3.123,
+      "end": 3.146
+    },
+    {
+      "text": "rule.",
+      "start": 3.193,
+      "end": 3.541
+    },
+    {
+      "text": "And",
+      "start": 3.715,
+      "end": 3.866
+    },
+    {
+      "text": "nobody",
+      "start": 3.936,
+      "end": 4.307
+    },
+    {
+      "text": "at",
+      "start": 4.377,
+      "end": 4.481
+    },
+    {
+      "text": "all.",
+      "start": 4.54,
+      "end": 5.016
+    }
+  ]
+}

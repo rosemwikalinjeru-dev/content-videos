@@ -1,0 +1,80 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "You",
+      "start": 0,
+      "end": 0.279
+    },
+    {
+      "text": "can't",
+      "start": 0.337,
+      "end": 0.697
+    },
+    {
+      "text": "fix",
+      "start": 0.824,
+      "end": 1.115
+    },
+    {
+      "text": "what",
+      "start": 1.184,
+      "end": 1.335
+    },
+    {
+      "text": "you",
+      "start": 1.382,
+      "end": 1.451
+    },
+    {
+      "text": "don't",
+      "start": 1.498,
+      "end": 1.707
+    },
+    {
+      "text": "count.",
+      "start": 1.765,
+      "end": 2.043
+    },
+    {
+      "text": "Here",
+      "start": 2.09,
+      "end": 2.287
+    },
+    {
+      "text": "are",
+      "start": 2.322,
+      "end": 2.438
+    },
+    {
+      "text": "five",
+      "start": 2.496,
+      "end": 2.775
+    },
+    {
+      "text": "numbers",
+      "start": 2.833,
+      "end": 3.228
+    },
+    {
+      "text": "every",
+      "start": 3.344,
+      "end": 3.634
+    },
+    {
+      "text": "owner",
+      "start": 3.704,
+      "end": 3.971
+    },
+    {
+      "text": "should",
+      "start": 4.029,
+      "end": 4.249
+    },
+    {
+      "text": "know.",
+      "start": 4.284,
+      "end": 4.783
+    }
+  ]
+}

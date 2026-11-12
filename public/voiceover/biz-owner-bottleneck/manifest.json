@@ -1,0 +1,77 @@
+{
+  "video": "biz-owner-bottleneck",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6d2da521b3a8d421",
+      "audio": "voiceover/biz-owner-bottleneck/hook.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/hook.json",
+      "durationInSeconds": 4.728,
+      "characters": 67
+    },
+    {
+      "id": "pile",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "41e2467dffc7daad",
+      "audio": "voiceover/biz-owner-bottleneck/pile.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/pile.json",
+      "durationInSeconds": 6.452,
+      "characters": 88
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "825fe6744b679206",
+      "audio": "voiceover/biz-owner-bottleneck/cost.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/cost.json",
+      "durationInSeconds": 3.344,
+      "characters": 53
+    },
+    {
+      "id": "sort",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6cb2916a9d33c446",
+      "audio": "voiceover/biz-owner-bottleneck/sort.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/sort.json",
+      "durationInSeconds": 5.042,
+      "characters": 83
+    },
+    {
+      "id": "rule",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "5279ad5c40b25887",
+      "audio": "voiceover/biz-owner-bottleneck/rule.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/rule.json",
+      "durationInSeconds": 5.042,
+      "characters": 77
+    },
+    {
+      "id": "result",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "8d47180887948874",
+      "audio": "voiceover/biz-owner-bottleneck/result.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/result.json",
+      "durationInSeconds": 4.493,
+      "characters": 80
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/biz-owner-bottleneck/cta.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/cta.json",
+      "durationInSeconds": 2.769,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-12T18:40:18.817Z"
+}

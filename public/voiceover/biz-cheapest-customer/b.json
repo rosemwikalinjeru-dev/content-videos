@@ -1,0 +1,80 @@
+{
+  "id": "b",
+  "words": [
+    {
+      "text": "Customer",
+      "start": 0,
+      "end": 0.592
+    },
+    {
+      "text": "B",
+      "start": 0.65,
+      "end": 0.731
+    },
+    {
+      "text": "wants",
+      "start": 1.057,
+      "end": 1.358
+    },
+    {
+      "text": "a",
+      "start": 1.393,
+      "end": 1.428
+    },
+    {
+      "text": "discount.",
+      "start": 1.474,
+      "end": 2.078
+    },
+    {
+      "text": "Then",
+      "start": 2.229,
+      "end": 2.415
+    },
+    {
+      "text": "come",
+      "start": 2.496,
+      "end": 2.694
+    },
+    {
+      "text": "five",
+      "start": 2.74,
+      "end": 3.03
+    },
+    {
+      "text": "calls,",
+      "start": 3.077,
+      "end": 3.483
+    },
+    {
+      "text": "two",
+      "start": 3.518,
+      "end": 3.704
+    },
+    {
+      "text": "changes,",
+      "start": 3.762,
+      "end": 4.354
+    },
+    {
+      "text": "and",
+      "start": 4.377,
+      "end": 4.551
+    },
+    {
+      "text": "a",
+      "start": 4.609,
+      "end": 4.632
+    },
+    {
+      "text": "late",
+      "start": 4.69,
+      "end": 4.899
+    },
+    {
+      "text": "payment.",
+      "start": 4.946,
+      "end": 5.666
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "base",
+  "words": [
+    {
+      "text": "Here's",
+      "start": 0,
+      "end": 0.418
+    },
+    {
+      "text": "a",
+      "start": 0.511,
+      "end": 0.557
+    },
+    {
+      "text": "demo",
+      "start": 0.639,
+      "end": 0.952
+    },
+    {
+      "text": "business.",
+      "start": 0.998,
+      "end": 1.521
+    },
+    {
+      "text": "Ten",
+      "start": 1.73,
+      "end": 1.95
+    },
+    {
+      "text": "jobs",
+      "start": 2.02,
+      "end": 2.264
+    },
+    {
+      "text": "a",
+      "start": 2.322,
+      "end": 2.345
+    },
+    {
+      "text": "week,",
+      "start": 2.415,
+      "end": 2.682
+    },
+    {
+      "text": "at",
+      "start": 2.705,
+      "end": 2.856
+    },
+    {
+      "text": "two",
+      "start": 2.879,
+      "end": 3.019
+    },
+    {
+      "text": "hundred",
+      "start": 3.077,
+      "end": 3.355
+    },
+    {
+      "text": "dollars",
+      "start": 3.39,
+      "end": 3.704
+    },
+    {
+      "text": "each.",
+      "start": 3.762,
+      "end": 4.063
+    },
+    {
+      "text": "Each",
+      "start": 4.389,
+      "end": 4.609
+    },
+    {
+      "text": "job",
+      "start": 4.679,
+      "end": 4.899
+    },
+    {
+      "text": "costs",
+      "start": 4.969,
+      "end": 5.294
+    },
+    {
+      "text": "one-fifty",
+      "start": 5.387,
+      "end": 5.956
+    },
+    {
+      "text": "to",
+      "start": 6.014,
+      "end": 6.084
+    },
+    {
+      "text": "do.",
+      "start": 6.142,
+      "end": 6.594
+    }
+  ]
+}

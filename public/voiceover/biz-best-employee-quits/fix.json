@@ -1,0 +1,90 @@
+{
+  "id": "fix",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "fix",
+      "start": 0.221,
+      "end": 0.534
+    },
+    {
+      "text": "takes",
+      "start": 0.65,
+      "end": 0.964
+    },
+    {
+      "text": "an",
+      "start": 1.033,
+      "end": 1.149
+    },
+    {
+      "text": "hour",
+      "start": 1.265,
+      "end": 1.579
+    },
+    {
+      "text": "a",
+      "start": 1.695,
+      "end": 1.741
+    },
+    {
+      "text": "week.",
+      "start": 1.823,
+      "end": 2.136
+    },
+    {
+      "text": "Pick",
+      "start": 2.252,
+      "end": 2.485
+    },
+    {
+      "text": "one",
+      "start": 2.566,
+      "end": 2.728
+    },
+    {
+      "text": "task,",
+      "start": 2.763,
+      "end": 3.181
+    },
+    {
+      "text": "and",
+      "start": 3.216,
+      "end": 3.39
+    },
+    {
+      "text": "have",
+      "start": 3.471,
+      "end": 3.646
+    },
+    {
+      "text": "her",
+      "start": 3.68,
+      "end": 3.785
+    },
+    {
+      "text": "write",
+      "start": 3.82,
+      "end": 4.11
+    },
+    {
+      "text": "down",
+      "start": 4.156,
+      "end": 4.389
+    },
+    {
+      "text": "the",
+      "start": 4.435,
+      "end": 4.528
+    },
+    {
+      "text": "steps.",
+      "start": 4.574,
+      "end": 5.248
+    }
+  ]
+}

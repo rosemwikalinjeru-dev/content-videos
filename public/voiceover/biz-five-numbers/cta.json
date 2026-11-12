@@ -1,0 +1,85 @@
+{
+  "id": "cta",
+  "words": [
+    {
+      "text": "Write",
+      "start": 0,
+      "end": 0.279
+    },
+    {
+      "text": "them",
+      "start": 0.302,
+      "end": 0.43
+    },
+    {
+      "text": "down",
+      "start": 0.488,
+      "end": 0.662
+    },
+    {
+      "text": "every",
+      "start": 0.72,
+      "end": 0.917
+    },
+    {
+      "text": "Friday.",
+      "start": 0.975,
+      "end": 1.416
+    },
+    {
+      "text": "The",
+      "start": 1.44,
+      "end": 1.533
+    },
+    {
+      "text": "weak",
+      "start": 1.591,
+      "end": 1.776
+    },
+    {
+      "text": "one",
+      "start": 1.858,
+      "end": 2.009
+    },
+    {
+      "text": "shows",
+      "start": 2.032,
+      "end": 2.252
+    },
+    {
+      "text": "you",
+      "start": 2.299,
+      "end": 2.368
+    },
+    {
+      "text": "what",
+      "start": 2.415,
+      "end": 2.554
+    },
+    {
+      "text": "to",
+      "start": 2.589,
+      "end": 2.647
+    },
+    {
+      "text": "fix.",
+      "start": 2.717,
+      "end": 3.042
+    },
+    {
+      "text": "Follow",
+      "start": 3.216,
+      "end": 3.506
+    },
+    {
+      "text": "for",
+      "start": 3.564,
+      "end": 3.692
+    },
+    {
+      "text": "more.",
+      "start": 3.762,
+      "end": 4.226
+    }
+  ]
+}

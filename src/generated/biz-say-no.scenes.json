@@ -1,0 +1,40 @@
+{
+  "video": "biz-say-no",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Sometimes the most profitable word in your business is, no."
+    },
+    {
+      "id": "setup",
+      "version": "v2",
+      "text": "It's a slow week, so you take a job that's a bad fit. Far away, low pay, vague details."
+    },
+    {
+      "id": "block",
+      "version": "v2",
+      "text": "It fills your Thursday. Then your ideal customer calls, and Thursday's gone."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "The wrong job didn't just pay less. It cost you the right one."
+    },
+    {
+      "id": "fix",
+      "version": "v2",
+      "text": "Write down three rules for a good job. Your area, your minimum price, your type of work."
+    },
+    {
+      "id": "use",
+      "version": "v2",
+      "text": "When a request breaks two of them, say no, and point them to someone else."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

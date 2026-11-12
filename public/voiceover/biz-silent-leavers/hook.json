@@ -1,0 +1,60 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Your",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "unhappiest",
+      "start": 0.476,
+      "end": 1.219
+    },
+    {
+      "text": "customers",
+      "start": 1.312,
+      "end": 1.939
+    },
+    {
+      "text": "usually",
+      "start": 2.113,
+      "end": 2.531
+    },
+    {
+      "text": "don't",
+      "start": 2.601,
+      "end": 2.821
+    },
+    {
+      "text": "complain.",
+      "start": 2.879,
+      "end": 3.402
+    },
+    {
+      "text": "They",
+      "start": 3.425,
+      "end": 3.576
+    },
+    {
+      "text": "just",
+      "start": 3.634,
+      "end": 3.82
+    },
+    {
+      "text": "don't",
+      "start": 3.866,
+      "end": 4.075
+    },
+    {
+      "text": "come",
+      "start": 4.122,
+      "end": 4.296
+    },
+    {
+      "text": "back.",
+      "start": 4.331,
+      "end": 4.83
+    }
+  ]
+}

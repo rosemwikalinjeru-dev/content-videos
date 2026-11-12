@@ -1,0 +1,77 @@
+{
+  "video": "biz-silent-leavers",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "e4745011ca595afb",
+      "audio": "voiceover/biz-silent-leavers/hook.mp3",
+      "captions": "voiceover/biz-silent-leavers/hook.json",
+      "durationInSeconds": 4.859,
+      "characters": 76
+    },
+    {
+      "id": "quiet",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "62f835c32b5377db",
+      "audio": "voiceover/biz-silent-leavers/quiet.mp3",
+      "captions": "voiceover/biz-silent-leavers/quiet.json",
+      "durationInSeconds": 4.258,
+      "characters": 65
+    },
+    {
+      "id": "gone",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "762a69cecb3647ac",
+      "audio": "voiceover/biz-silent-leavers/gone.mp3",
+      "captions": "voiceover/biz-silent-leavers/gone.json",
+      "durationInSeconds": 3.291,
+      "characters": 60
+    },
+    {
+      "id": "why",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3dc17ce23efe7646",
+      "audio": "voiceover/biz-silent-leavers/why.mp3",
+      "captions": "voiceover/biz-silent-leavers/why.json",
+      "durationInSeconds": 2.769,
+      "characters": 43
+    },
+    {
+      "id": "fix",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "72bbc54c1d96648c",
+      "audio": "voiceover/biz-silent-leavers/fix.mp3",
+      "captions": "voiceover/biz-silent-leavers/fix.json",
+      "durationInSeconds": 4.441,
+      "characters": 65
+    },
+    {
+      "id": "then",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "0e1c3d6f366c0420",
+      "audio": "voiceover/biz-silent-leavers/then.mp3",
+      "captions": "voiceover/biz-silent-leavers/then.json",
+      "durationInSeconds": 3.605,
+      "characters": 57
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "5e545c7b1af99009",
+      "audio": "voiceover/biz-silent-leavers/cta.mp3",
+      "captions": "voiceover/biz-silent-leavers/cta.json",
+      "durationInSeconds": 5.46,
+      "characters": 86
+    }
+  ],
+  "generatedAt": "2026-11-12T18:40:35.008Z"
+}

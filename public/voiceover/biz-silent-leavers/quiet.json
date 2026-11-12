@@ -1,0 +1,65 @@
+{
+  "id": "quiet",
+  "words": [
+    {
+      "text": "Picture",
+      "start": 0,
+      "end": 0.534
+    },
+    {
+      "text": "ten",
+      "start": 0.58,
+      "end": 0.801
+    },
+    {
+      "text": "customers",
+      "start": 0.871,
+      "end": 1.405
+    },
+    {
+      "text": "who",
+      "start": 1.44,
+      "end": 1.567
+    },
+    {
+      "text": "had",
+      "start": 1.649,
+      "end": 1.834
+    },
+    {
+      "text": "a",
+      "start": 1.892,
+      "end": 1.916
+    },
+    {
+      "text": "so-so",
+      "start": 1.974,
+      "end": 2.322
+    },
+    {
+      "text": "visit.",
+      "start": 2.403,
+      "end": 2.844
+    },
+    {
+      "text": "Maybe",
+      "start": 3.123,
+      "end": 3.39
+    },
+    {
+      "text": "one",
+      "start": 3.448,
+      "end": 3.587
+    },
+    {
+      "text": "tells",
+      "start": 3.611,
+      "end": 3.82
+    },
+    {
+      "text": "you.",
+      "start": 3.866,
+      "end": 4.226
+    }
+  ]
+}

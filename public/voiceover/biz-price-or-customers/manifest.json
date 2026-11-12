@@ -1,0 +1,67 @@
+{
+  "video": "biz-price-or-customers",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c03306543e020532",
+      "audio": "voiceover/biz-price-or-customers/hook.mp3",
+      "captions": "voiceover/biz-price-or-customers/hook.json",
+      "durationInSeconds": 4.362,
+      "characters": 64
+    },
+    {
+      "id": "base",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "01da07cadb6a14de",
+      "audio": "voiceover/biz-price-or-customers/base.mp3",
+      "captions": "voiceover/biz-price-or-customers/base.json",
+      "durationInSeconds": 6.635,
+      "characters": 101
+    },
+    {
+      "id": "more",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "825c1796869e15e0",
+      "audio": "voiceover/biz-price-or-customers/more.mp3",
+      "captions": "voiceover/biz-price-or-customers/more.json",
+      "durationInSeconds": 7.131,
+      "characters": 95
+    },
+    {
+      "id": "price",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "261798fe3783f0b4",
+      "audio": "voiceover/biz-price-or-customers/price.mp3",
+      "captions": "voiceover/biz-price-or-customers/price.json",
+      "durationInSeconds": 5.381,
+      "characters": 82
+    },
+    {
+      "id": "catch",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "d14b410317cb4ac2",
+      "audio": "voiceover/biz-price-or-customers/catch.mp3",
+      "captions": "voiceover/biz-price-or-customers/catch.json",
+      "durationInSeconds": 4.624,
+      "characters": 71
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "e8f00a92b3225174",
+      "audio": "voiceover/biz-price-or-customers/cta.mp3",
+      "captions": "voiceover/biz-price-or-customers/cta.json",
+      "durationInSeconds": 5.198,
+      "characters": 83
+    }
+  ],
+  "generatedAt": "2026-11-12T18:40:28.519Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "gone",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.232
+    },
+    {
+      "text": "rest",
+      "start": 0.302,
+      "end": 0.476
+    },
+    {
+      "text": "say",
+      "start": 0.499,
+      "end": 0.639
+    },
+    {
+      "text": "thanks,",
+      "start": 0.697,
+      "end": 1.033
+    },
+    {
+      "text": "leave,",
+      "start": 1.08,
+      "end": 1.358
+    },
+    {
+      "text": "and",
+      "start": 1.382,
+      "end": 1.486
+    },
+    {
+      "text": "quietly",
+      "start": 1.544,
+      "end": 1.939
+    },
+    {
+      "text": "book",
+      "start": 1.985,
+      "end": 2.159
+    },
+    {
+      "text": "somewhere",
+      "start": 2.218,
+      "end": 2.577
+    },
+    {
+      "text": "else.",
+      "start": 2.635,
+      "end": 3.251
+    }
+  ]
+}

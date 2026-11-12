@@ -1,0 +1,90 @@
+{
+  "id": "fix",
+  "words": [
+    {
+      "text": "Write",
+      "start": 0,
+      "end": 0.627
+    },
+    {
+      "text": "down",
+      "start": 0.662,
+      "end": 0.94
+    },
+    {
+      "text": "three",
+      "start": 1.01,
+      "end": 1.242
+    },
+    {
+      "text": "rules",
+      "start": 1.3,
+      "end": 1.556
+    },
+    {
+      "text": "for",
+      "start": 1.625,
+      "end": 1.765
+    },
+    {
+      "text": "a",
+      "start": 1.811,
+      "end": 1.834
+    },
+    {
+      "text": "good",
+      "start": 1.892,
+      "end": 2.055
+    },
+    {
+      "text": "job.",
+      "start": 2.101,
+      "end": 2.403
+    },
+    {
+      "text": "Your",
+      "start": 2.485,
+      "end": 2.717
+    },
+    {
+      "text": "area,",
+      "start": 2.786,
+      "end": 3.193
+    },
+    {
+      "text": "your",
+      "start": 3.251,
+      "end": 3.39
+    },
+    {
+      "text": "minimum",
+      "start": 3.437,
+      "end": 3.82
+    },
+    {
+      "text": "price,",
+      "start": 3.889,
+      "end": 4.296
+    },
+    {
+      "text": "your",
+      "start": 4.365,
+      "end": 4.516
+    },
+    {
+      "text": "type",
+      "start": 4.574,
+      "end": 4.818
+    },
+    {
+      "text": "of",
+      "start": 4.853,
+      "end": 4.934
+    },
+    {
+      "text": "work.",
+      "start": 5.016,
+      "end": 5.526
+    }
+  ]
+}

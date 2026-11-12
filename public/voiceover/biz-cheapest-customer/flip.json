@@ -1,0 +1,70 @@
+{
+  "id": "flip",
+  "words": [
+    {
+      "text": "On",
+      "start": 0,
+      "end": 0.325
+    },
+    {
+      "text": "paper,",
+      "start": 0.406,
+      "end": 0.987
+    },
+    {
+      "text": "B",
+      "start": 1.138,
+      "end": 1.231
+    },
+    {
+      "text": "still",
+      "start": 1.382,
+      "end": 1.66
+    },
+    {
+      "text": "looks",
+      "start": 1.718,
+      "end": 1.939
+    },
+    {
+      "text": "like",
+      "start": 1.997,
+      "end": 2.171
+    },
+    {
+      "text": "income.",
+      "start": 2.218,
+      "end": 2.67
+    },
+    {
+      "text": "Count",
+      "start": 2.914,
+      "end": 3.228
+    },
+    {
+      "text": "your",
+      "start": 3.286,
+      "end": 3.413
+    },
+    {
+      "text": "hours,",
+      "start": 3.483,
+      "end": 3.947
+    },
+    {
+      "text": "and",
+      "start": 3.982,
+      "end": 4.168
+    },
+    {
+      "text": "it",
+      "start": 4.238,
+      "end": 4.307
+    },
+    {
+      "text": "flips.",
+      "start": 4.377,
+      "end": 5.108
+    }
+  ]
+}

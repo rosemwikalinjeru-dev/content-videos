@@ -1,0 +1,40 @@
+{
+  "video": "biz-cheapest-customer",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Your cheapest customer is often your most expensive one."
+    },
+    {
+      "id": "a",
+      "version": "v2",
+      "text": "Customer A pays full price. One call, one visit, done."
+    },
+    {
+      "id": "b",
+      "version": "v2",
+      "text": "Customer B wants a discount. Then come five calls, two changes, and a late payment."
+    },
+    {
+      "id": "flip",
+      "version": "v2",
+      "text": "On paper, B still looks like income. Count your hours, and it flips."
+    },
+    {
+      "id": "lesson",
+      "version": "v2",
+      "text": "Price isn't just money. It's also a filter for who you work with."
+    },
+    {
+      "id": "do",
+      "version": "v2",
+      "text": "You don't have to drop them. Just stop discounting to win them."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

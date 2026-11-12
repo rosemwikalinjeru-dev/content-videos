@@ -1,0 +1,40 @@
+{
+  "video": "biz-busy-not-profitable",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "A full calendar doesn't mean you're making money. Let's check three jobs."
+    },
+    {
+      "id": "j1",
+      "version": "v2",
+      "text": "Job one pays four hundred dollars. It takes two hours, ten minutes away."
+    },
+    {
+      "id": "j2",
+      "version": "v2",
+      "text": "Job two pays six hundred. But it's a full day, and an hour's drive each way."
+    },
+    {
+      "id": "j3",
+      "version": "v2",
+      "text": "Job three pays three hundred. It takes forty-five minutes, five minutes away."
+    },
+    {
+      "id": "reveal",
+      "version": "v2",
+      "text": "Per hour of your time, the smallest job wins. And the biggest one comes last."
+    },
+    {
+      "id": "lesson",
+      "version": "v2",
+      "text": "So stop asking how busy you are. Ask what each hour brings in."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

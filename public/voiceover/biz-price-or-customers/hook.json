@@ -1,0 +1,65 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Want",
+      "start": 0,
+      "end": 0.244
+    },
+    {
+      "text": "more",
+      "start": 0.313,
+      "end": 0.476
+    },
+    {
+      "text": "profit?",
+      "start": 0.522,
+      "end": 1.057
+    },
+    {
+      "text": "You",
+      "start": 1.265,
+      "end": 1.393
+    },
+    {
+      "text": "have",
+      "start": 1.44,
+      "end": 1.579
+    },
+    {
+      "text": "two",
+      "start": 1.602,
+      "end": 1.718
+    },
+    {
+      "text": "dials.",
+      "start": 1.788,
+      "end": 2.287
+    },
+    {
+      "text": "Most",
+      "start": 2.496,
+      "end": 2.798
+    },
+    {
+      "text": "owners",
+      "start": 2.879,
+      "end": 3.181
+    },
+    {
+      "text": "only",
+      "start": 3.251,
+      "end": 3.471
+    },
+    {
+      "text": "turn",
+      "start": 3.518,
+      "end": 3.738
+    },
+    {
+      "text": "one.",
+      "start": 3.82,
+      "end": 4.319
+    }
+  ]
+}

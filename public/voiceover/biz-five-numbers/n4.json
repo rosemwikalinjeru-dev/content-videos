@@ -1,0 +1,35 @@
+{
+  "id": "n4",
+  "words": [
+    {
+      "text": "Four.",
+      "start": 0,
+      "end": 0.708
+    },
+    {
+      "text": "How",
+      "start": 0.917,
+      "end": 1.173
+    },
+    {
+      "text": "many",
+      "start": 1.242,
+      "end": 1.451
+    },
+    {
+      "text": "customers",
+      "start": 1.509,
+      "end": 2.055
+    },
+    {
+      "text": "come",
+      "start": 2.125,
+      "end": 2.345
+    },
+    {
+      "text": "back.",
+      "start": 2.392,
+      "end": 2.972
+    }
+  ]
+}

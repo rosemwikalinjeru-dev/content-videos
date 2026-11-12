@@ -1,0 +1,40 @@
+{
+  "video": "biz-five-numbers",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "You can't fix what you don't count. Here are five numbers every owner should know."
+    },
+    {
+      "id": "n1",
+      "version": "v2",
+      "text": "One. How many new leads came in this week."
+    },
+    {
+      "id": "n2",
+      "version": "v2",
+      "text": "Two. How many of them actually booked."
+    },
+    {
+      "id": "n3",
+      "version": "v2",
+      "text": "Three. What your average job is worth."
+    },
+    {
+      "id": "n4",
+      "version": "v2",
+      "text": "Four. How many customers come back."
+    },
+    {
+      "id": "n5",
+      "version": "v2",
+      "text": "Five. How many days it takes you to get paid."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Write them down every Friday. The weak one shows you what to fix. Follow for more."
+    }
+  ]
+}

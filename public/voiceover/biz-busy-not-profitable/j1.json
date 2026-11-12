@@ -1,0 +1,70 @@
+{
+  "id": "j1",
+  "words": [
+    {
+      "text": "Job",
+      "start": 0,
+      "end": 0.43
+    },
+    {
+      "text": "one",
+      "start": 0.511,
+      "end": 0.65
+    },
+    {
+      "text": "pays",
+      "start": 0.685,
+      "end": 0.894
+    },
+    {
+      "text": "four",
+      "start": 0.952,
+      "end": 1.115
+    },
+    {
+      "text": "hundred",
+      "start": 1.173,
+      "end": 1.463
+    },
+    {
+      "text": "dollars.",
+      "start": 1.509,
+      "end": 1.962
+    },
+    {
+      "text": "It",
+      "start": 2.136,
+      "end": 2.287
+    },
+    {
+      "text": "takes",
+      "start": 2.334,
+      "end": 2.589
+    },
+    {
+      "text": "two",
+      "start": 2.647,
+      "end": 2.786
+    },
+    {
+      "text": "hours,",
+      "start": 2.868,
+      "end": 3.251
+    },
+    {
+      "text": "ten",
+      "start": 3.274,
+      "end": 3.46
+    },
+    {
+      "text": "minutes",
+      "start": 3.518,
+      "end": 3.831
+    },
+    {
+      "text": "away.",
+      "start": 3.878,
+      "end": 4.505
+    }
+  ]
+}

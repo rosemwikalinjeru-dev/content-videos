@@ -1,0 +1,70 @@
+{
+  "id": "result",
+  "words": [
+    {
+      "text": "Ten",
+      "start": 0,
+      "end": 0.325
+    },
+    {
+      "text": "weeks",
+      "start": 0.383,
+      "end": 0.615
+    },
+    {
+      "text": "later,",
+      "start": 0.685,
+      "end": 1.103
+    },
+    {
+      "text": "ten",
+      "start": 1.138,
+      "end": 1.312
+    },
+    {
+      "text": "tasks",
+      "start": 1.37,
+      "end": 1.776
+    },
+    {
+      "text": "live",
+      "start": 1.892,
+      "end": 2.125
+    },
+    {
+      "text": "in",
+      "start": 2.183,
+      "end": 2.276
+    },
+    {
+      "text": "the",
+      "start": 2.31,
+      "end": 2.38
+    },
+    {
+      "text": "business.",
+      "start": 2.426,
+      "end": 2.926
+    },
+    {
+      "text": "Not",
+      "start": 3.077,
+      "end": 3.274
+    },
+    {
+      "text": "in",
+      "start": 3.344,
+      "end": 3.425
+    },
+    {
+      "text": "one",
+      "start": 3.518,
+      "end": 3.692
+    },
+    {
+      "text": "head.",
+      "start": 3.738,
+      "end": 4.272
+    }
+  ]
+}

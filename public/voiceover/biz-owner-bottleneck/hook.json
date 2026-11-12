@@ -1,0 +1,65 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "If",
+      "start": 0,
+      "end": 0.325
+    },
+    {
+      "text": "every",
+      "start": 0.418,
+      "end": 0.72
+    },
+    {
+      "text": "decision",
+      "start": 0.778,
+      "end": 1.207
+    },
+    {
+      "text": "waits",
+      "start": 1.265,
+      "end": 1.521
+    },
+    {
+      "text": "for",
+      "start": 1.579,
+      "end": 1.718
+    },
+    {
+      "text": "you,",
+      "start": 1.788,
+      "end": 2.055
+    },
+    {
+      "text": "your",
+      "start": 2.299,
+      "end": 2.461
+    },
+    {
+      "text": "business",
+      "start": 2.508,
+      "end": 2.961
+    },
+    {
+      "text": "moves",
+      "start": 3.111,
+      "end": 3.506
+    },
+    {
+      "text": "at",
+      "start": 3.634,
+      "end": 3.796
+    },
+    {
+      "text": "your",
+      "start": 3.855,
+      "end": 3.994
+    },
+    {
+      "text": "speed.",
+      "start": 4.052,
+      "end": 4.69
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "video": "biz-price-or-customers",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Want more profit? You have two dials. Most owners only turn one."
+    },
+    {
+      "id": "base",
+      "version": "v2",
+      "text": "Here's a demo business. Ten jobs a week, at two hundred dollars each. Each job costs one-fifty to do."
+    },
+    {
+      "id": "more",
+      "version": "v2",
+      "text": "Dial one, more customers. Two more jobs a week adds a hundred dollars in profit. And more work."
+    },
+    {
+      "id": "price",
+      "version": "v2",
+      "text": "Dial two, price. Ten percent higher adds two hundred in profit. For the same work."
+    },
+    {
+      "id": "catch",
+      "version": "v2",
+      "text": "The catch? Some customers may leave. So test it on new customers first."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Know both dials before you chase more work. Follow for one business fix every week."
+    }
+  ]
+}

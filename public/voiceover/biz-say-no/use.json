@@ -1,0 +1,80 @@
+{
+  "id": "use",
+  "words": [
+    {
+      "text": "When",
+      "start": 0,
+      "end": 0.221
+    },
+    {
+      "text": "a",
+      "start": 0.279,
+      "end": 0.302
+    },
+    {
+      "text": "request",
+      "start": 0.372,
+      "end": 0.894
+    },
+    {
+      "text": "breaks",
+      "start": 1.01,
+      "end": 1.358
+    },
+    {
+      "text": "two",
+      "start": 1.405,
+      "end": 1.544
+    },
+    {
+      "text": "of",
+      "start": 1.602,
+      "end": 1.683
+    },
+    {
+      "text": "them,",
+      "start": 1.765,
+      "end": 2.206
+    },
+    {
+      "text": "say",
+      "start": 2.485,
+      "end": 2.694
+    },
+    {
+      "text": "no,",
+      "start": 2.752,
+      "end": 3.065
+    },
+    {
+      "text": "and",
+      "start": 3.239,
+      "end": 3.39
+    },
+    {
+      "text": "point",
+      "start": 3.46,
+      "end": 3.692
+    },
+    {
+      "text": "them",
+      "start": 3.727,
+      "end": 3.866
+    },
+    {
+      "text": "to",
+      "start": 3.924,
+      "end": 3.994
+    },
+    {
+      "text": "someone",
+      "start": 4.063,
+      "end": 4.458
+    },
+    {
+      "text": "else.",
+      "start": 4.516,
+      "end": 5.155
+    }
+  ]
+}

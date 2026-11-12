@@ -1,0 +1,55 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "So",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "when",
+      "start": 0.36,
+      "end": 0.511
+    },
+    {
+      "text": "you're",
+      "start": 0.546,
+      "end": 0.731
+    },
+    {
+      "text": "on",
+      "start": 0.766,
+      "end": 0.848
+    },
+    {
+      "text": "a",
+      "start": 0.906,
+      "end": 0.94
+    },
+    {
+      "text": "job,",
+      "start": 1.022,
+      "end": 1.347
+    },
+    {
+      "text": "or",
+      "start": 1.382,
+      "end": 1.533
+    },
+    {
+      "text": "asleep,",
+      "start": 1.591,
+      "end": 2.02
+    },
+    {
+      "text": "everything",
+      "start": 2.067,
+      "end": 2.496
+    },
+    {
+      "text": "stops.",
+      "start": 2.554,
+      "end": 3.297
+    }
+  ]
+}

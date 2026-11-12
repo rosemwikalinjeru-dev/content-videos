@@ -1,0 +1,80 @@
+{
+  "id": "price",
+  "words": [
+    {
+      "text": "Dial",
+      "start": 0,
+      "end": 0.29
+    },
+    {
+      "text": "two,",
+      "start": 0.383,
+      "end": 0.58
+    },
+    {
+      "text": "price.",
+      "start": 0.639,
+      "end": 1.242
+    },
+    {
+      "text": "Ten",
+      "start": 1.521,
+      "end": 1.695
+    },
+    {
+      "text": "percent",
+      "start": 1.765,
+      "end": 2.136
+    },
+    {
+      "text": "higher",
+      "start": 2.194,
+      "end": 2.508
+    },
+    {
+      "text": "adds",
+      "start": 2.624,
+      "end": 2.902
+    },
+    {
+      "text": "two",
+      "start": 2.961,
+      "end": 3.1
+    },
+    {
+      "text": "hundred",
+      "start": 3.181,
+      "end": 3.541
+    },
+    {
+      "text": "in",
+      "start": 3.599,
+      "end": 3.669
+    },
+    {
+      "text": "profit.",
+      "start": 3.738,
+      "end": 4.18
+    },
+    {
+      "text": "For",
+      "start": 4.226,
+      "end": 4.377
+    },
+    {
+      "text": "the",
+      "start": 4.435,
+      "end": 4.516
+    },
+    {
+      "text": "same",
+      "start": 4.563,
+      "end": 4.783
+    },
+    {
+      "text": "work.",
+      "start": 4.818,
+      "end": 5.341
+    }
+  ]
+}

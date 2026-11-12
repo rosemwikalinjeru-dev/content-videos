@@ -1,0 +1,40 @@
+{
+  "video": "biz-owner-bottleneck",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "If every decision waits for you, your business moves at your speed."
+    },
+    {
+      "id": "pile",
+      "version": "v2",
+      "text": "Quotes, refunds, schedule changes, supplier questions. They all land on one desk. Yours."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "So when you're on a job, or asleep, everything stops."
+    },
+    {
+      "id": "sort",
+      "version": "v2",
+      "text": "Sort them into three piles. Only you. Someone else, with a rule. And nobody at all."
+    },
+    {
+      "id": "rule",
+      "version": "v2",
+      "text": "A rule sounds like this. Refunds under fifty dollars, the front desk decides."
+    },
+    {
+      "id": "result",
+      "version": "v2",
+      "text": "Now the small stuff moves without you. And you keep the decisions that need you."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

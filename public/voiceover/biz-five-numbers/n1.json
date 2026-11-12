@@ -1,0 +1,50 @@
+{
+  "id": "n1",
+  "words": [
+    {
+      "text": "One.",
+      "start": 0,
+      "end": 0.511
+    },
+    {
+      "text": "How",
+      "start": 0.604,
+      "end": 0.778
+    },
+    {
+      "text": "many",
+      "start": 0.824,
+      "end": 1.01
+    },
+    {
+      "text": "new",
+      "start": 1.057,
+      "end": 1.207
+    },
+    {
+      "text": "leads",
+      "start": 1.254,
+      "end": 1.451
+    },
+    {
+      "text": "came",
+      "start": 1.509,
+      "end": 1.718
+    },
+    {
+      "text": "in",
+      "start": 1.753,
+      "end": 1.823
+    },
+    {
+      "text": "this",
+      "start": 1.858,
+      "end": 1.997
+    },
+    {
+      "text": "week.",
+      "start": 2.067,
+      "end": 2.601
+    }
+  ]
+}

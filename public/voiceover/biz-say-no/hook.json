@@ -1,0 +1,55 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Sometimes",
+      "start": 0,
+      "end": 0.708
+    },
+    {
+      "text": "the",
+      "start": 0.755,
+      "end": 0.836
+    },
+    {
+      "text": "most",
+      "start": 0.894,
+      "end": 1.091
+    },
+    {
+      "text": "profitable",
+      "start": 1.149,
+      "end": 1.695
+    },
+    {
+      "text": "word",
+      "start": 1.741,
+      "end": 2.02
+    },
+    {
+      "text": "in",
+      "start": 2.09,
+      "end": 2.206
+    },
+    {
+      "text": "your",
+      "start": 2.252,
+      "end": 2.38
+    },
+    {
+      "text": "business",
+      "start": 2.426,
+      "end": 2.844
+    },
+    {
+      "text": "is,",
+      "start": 2.926,
+      "end": 3.309
+    },
+    {
+      "text": "no.",
+      "start": 3.46,
+      "end": 3.947
+    }
+  ]
+}

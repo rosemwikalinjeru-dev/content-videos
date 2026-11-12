@@ -1,0 +1,35 @@
+{
+  "id": "why",
+  "words": [
+    {
+      "text": "Complaining",
+      "start": 0,
+      "end": 0.65
+    },
+    {
+      "text": "feels",
+      "start": 0.708,
+      "end": 0.929
+    },
+    {
+      "text": "awkward.",
+      "start": 1.022,
+      "end": 1.509
+    },
+    {
+      "text": "Leaving",
+      "start": 1.625,
+      "end": 1.95
+    },
+    {
+      "text": "is",
+      "start": 2.02,
+      "end": 2.113
+    },
+    {
+      "text": "easy.",
+      "start": 2.194,
+      "end": 2.74
+    }
+  ]
+}

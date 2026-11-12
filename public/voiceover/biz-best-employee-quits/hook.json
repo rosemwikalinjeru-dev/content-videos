@@ -1,0 +1,60 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "What",
+      "start": 0,
+      "end": 0.209
+    },
+    {
+      "text": "happens",
+      "start": 0.279,
+      "end": 0.615
+    },
+    {
+      "text": "to",
+      "start": 0.673,
+      "end": 0.743
+    },
+    {
+      "text": "your",
+      "start": 0.813,
+      "end": 0.929
+    },
+    {
+      "text": "business",
+      "start": 0.987,
+      "end": 1.393
+    },
+    {
+      "text": "the",
+      "start": 1.428,
+      "end": 1.498
+    },
+    {
+      "text": "day",
+      "start": 1.567,
+      "end": 1.718
+    },
+    {
+      "text": "your",
+      "start": 1.788,
+      "end": 1.916
+    },
+    {
+      "text": "best",
+      "start": 1.985,
+      "end": 2.218
+    },
+    {
+      "text": "employee",
+      "start": 2.264,
+      "end": 2.682
+    },
+    {
+      "text": "quits?",
+      "start": 2.728,
+      "end": 3.297
+    }
+  ]
+}

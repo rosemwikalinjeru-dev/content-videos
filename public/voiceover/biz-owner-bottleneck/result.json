@@ -1,0 +1,80 @@
+{
+  "id": "result",
+  "words": [
+    {
+      "text": "Now",
+      "start": 0,
+      "end": 0.325
+    },
+    {
+      "text": "the",
+      "start": 0.383,
+      "end": 0.464
+    },
+    {
+      "text": "small",
+      "start": 0.522,
+      "end": 0.778
+    },
+    {
+      "text": "stuff",
+      "start": 0.824,
+      "end": 1.068
+    },
+    {
+      "text": "moves",
+      "start": 1.138,
+      "end": 1.393
+    },
+    {
+      "text": "without",
+      "start": 1.451,
+      "end": 1.846
+    },
+    {
+      "text": "you.",
+      "start": 1.927,
+      "end": 2.159
+    },
+    {
+      "text": "And",
+      "start": 2.334,
+      "end": 2.485
+    },
+    {
+      "text": "you",
+      "start": 2.554,
+      "end": 2.624
+    },
+    {
+      "text": "keep",
+      "start": 2.682,
+      "end": 2.891
+    },
+    {
+      "text": "the",
+      "start": 2.949,
+      "end": 3.03
+    },
+    {
+      "text": "decisions",
+      "start": 3.077,
+      "end": 3.611
+    },
+    {
+      "text": "that",
+      "start": 3.657,
+      "end": 3.808
+    },
+    {
+      "text": "need",
+      "start": 3.866,
+      "end": 4.063
+    },
+    {
+      "text": "you.",
+      "start": 4.098,
+      "end": 4.458
+    }
+  ]
+}

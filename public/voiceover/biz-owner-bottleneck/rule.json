@@ -1,0 +1,70 @@
+{
+  "id": "rule",
+  "words": [
+    {
+      "text": "A",
+      "start": 0,
+      "end": 0.221
+    },
+    {
+      "text": "rule",
+      "start": 0.29,
+      "end": 0.511
+    },
+    {
+      "text": "sounds",
+      "start": 0.546,
+      "end": 0.848
+    },
+    {
+      "text": "like",
+      "start": 0.906,
+      "end": 1.103
+    },
+    {
+      "text": "this.",
+      "start": 1.138,
+      "end": 1.44
+    },
+    {
+      "text": "Refunds",
+      "start": 1.683,
+      "end": 2.218
+    },
+    {
+      "text": "under",
+      "start": 2.31,
+      "end": 2.543
+    },
+    {
+      "text": "fifty",
+      "start": 2.589,
+      "end": 2.868
+    },
+    {
+      "text": "dollars,",
+      "start": 2.914,
+      "end": 3.413
+    },
+    {
+      "text": "the",
+      "start": 3.495,
+      "end": 3.599
+    },
+    {
+      "text": "front",
+      "start": 3.657,
+      "end": 3.889
+    },
+    {
+      "text": "desk",
+      "start": 3.924,
+      "end": 4.156
+    },
+    {
+      "text": "decides.",
+      "start": 4.238,
+      "end": 5.016
+    }
+  ]
+}

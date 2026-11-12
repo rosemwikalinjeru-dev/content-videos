@@ -1,0 +1,40 @@
+{
+  "id": "n3",
+  "words": [
+    {
+      "text": "Three.",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "What",
+      "start": 0.65,
+      "end": 0.859
+    },
+    {
+      "text": "your",
+      "start": 0.917,
+      "end": 1.057
+    },
+    {
+      "text": "average",
+      "start": 1.126,
+      "end": 1.602
+    },
+    {
+      "text": "job",
+      "start": 1.66,
+      "end": 1.916
+    },
+    {
+      "text": "is",
+      "start": 1.997,
+      "end": 2.136
+    },
+    {
+      "text": "worth.",
+      "start": 2.206,
+      "end": 2.833
+    }
+  ]
+}

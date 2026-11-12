@@ -1,0 +1,77 @@
+{
+  "video": "biz-cheapest-customer",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "eafb1be70255037e",
+      "audio": "voiceover/biz-cheapest-customer/hook.mp3",
+      "captions": "voiceover/biz-cheapest-customer/hook.json",
+      "durationInSeconds": 3.474,
+      "characters": 56
+    },
+    {
+      "id": "a",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c2633299609a466a",
+      "audio": "voiceover/biz-cheapest-customer/a.mp3",
+      "captions": "voiceover/biz-cheapest-customer/a.json",
+      "durationInSeconds": 3.892,
+      "characters": 54
+    },
+    {
+      "id": "b",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7afa3db22522f06b",
+      "audio": "voiceover/biz-cheapest-customer/b.mp3",
+      "captions": "voiceover/biz-cheapest-customer/b.json",
+      "durationInSeconds": 5.695,
+      "characters": 83
+    },
+    {
+      "id": "flip",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "951b9c1cc727bb3b",
+      "audio": "voiceover/biz-cheapest-customer/flip.mp3",
+      "captions": "voiceover/biz-cheapest-customer/flip.json",
+      "durationInSeconds": 5.146,
+      "characters": 68
+    },
+    {
+      "id": "lesson",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "afa0f77047c8cddb",
+      "audio": "voiceover/biz-cheapest-customer/lesson.mp3",
+      "captions": "voiceover/biz-cheapest-customer/lesson.json",
+      "durationInSeconds": 4.598,
+      "characters": 65
+    },
+    {
+      "id": "do",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "599e98667ba6ce11",
+      "audio": "voiceover/biz-cheapest-customer/do.mp3",
+      "captions": "voiceover/biz-cheapest-customer/do.json",
+      "durationInSeconds": 3.788,
+      "characters": 63
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/biz-cheapest-customer/cta.mp3",
+      "captions": "voiceover/biz-cheapest-customer/cta.json",
+      "durationInSeconds": 2.534,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-12T18:40:22.277Z"
+}

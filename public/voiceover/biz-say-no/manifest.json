@@ -1,0 +1,77 @@
+{
+  "video": "biz-say-no",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "93093d83d33467cc",
+      "audio": "voiceover/biz-say-no/hook.mp3",
+      "captions": "voiceover/biz-say-no/hook.json",
+      "durationInSeconds": 3.997,
+      "characters": 59
+    },
+    {
+      "id": "setup",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "99792537c49c2a02",
+      "audio": "voiceover/biz-say-no/setup.mp3",
+      "captions": "voiceover/biz-say-no/setup.json",
+      "durationInSeconds": 6.635,
+      "characters": 87
+    },
+    {
+      "id": "block",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "64ae971926634eb3",
+      "audio": "voiceover/biz-say-no/block.mp3",
+      "captions": "voiceover/biz-say-no/block.json",
+      "durationInSeconds": 4.78,
+      "characters": 76
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "bfbad932037f71ef",
+      "audio": "voiceover/biz-say-no/cost.mp3",
+      "captions": "voiceover/biz-say-no/cost.json",
+      "durationInSeconds": 3.579,
+      "characters": 62
+    },
+    {
+      "id": "fix",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c0b2368cecfddb0c",
+      "audio": "voiceover/biz-say-no/fix.mp3",
+      "captions": "voiceover/biz-say-no/fix.json",
+      "durationInSeconds": 5.564,
+      "characters": 88
+    },
+    {
+      "id": "use",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "5ba335bdc55d907c",
+      "audio": "voiceover/biz-say-no/use.mp3",
+      "captions": "voiceover/biz-say-no/use.json",
+      "durationInSeconds": 5.198,
+      "characters": 74
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/biz-say-no/cta.mp3",
+      "captions": "voiceover/biz-say-no/cta.json",
+      "durationInSeconds": 2.351,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-12T18:40:38.516Z"
+}

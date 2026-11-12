@@ -1,0 +1,40 @@
+{
+  "video": "biz-best-employee-quits",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "What happens to your business the day your best employee quits?"
+    },
+    {
+      "id": "head",
+      "version": "v2",
+      "text": "She knows the supplier codes, the tricky customers, and how the schedule really works. None of it is written down."
+    },
+    {
+      "id": "leave",
+      "version": "v2",
+      "text": "When she leaves, all of that leaves with her."
+    },
+    {
+      "id": "fix",
+      "version": "v2",
+      "text": "The fix takes an hour a week. Pick one task, and have her write down the steps."
+    },
+    {
+      "id": "test",
+      "version": "v2",
+      "text": "Then test it. Can someone new follow those steps, without asking her?"
+    },
+    {
+      "id": "result",
+      "version": "v2",
+      "text": "Ten weeks later, ten tasks live in the business. Not in one head."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "video": "biz-best-employee-quits",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "98e0a1777ef5ea6c",
+      "audio": "voiceover/biz-best-employee-quits/hook.mp3",
+      "captions": "voiceover/biz-best-employee-quits/hook.json",
+      "durationInSeconds": 3.344,
+      "characters": 63
+    },
+    {
+      "id": "head",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "0f731111301eeaa1",
+      "audio": "voiceover/biz-best-employee-quits/head.mp3",
+      "captions": "voiceover/biz-best-employee-quits/head.json",
+      "durationInSeconds": 7.053,
+      "characters": 114
+    },
+    {
+      "id": "leave",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "8606d6b8accaaa0d",
+      "audio": "voiceover/biz-best-employee-quits/leave.mp3",
+      "captions": "voiceover/biz-best-employee-quits/leave.json",
+      "durationInSeconds": 3.004,
+      "characters": 45
+    },
+    {
+      "id": "fix",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "2028802b6336e82d",
+      "audio": "voiceover/biz-best-employee-quits/fix.mp3",
+      "captions": "voiceover/biz-best-employee-quits/fix.json",
+      "durationInSeconds": 5.277,
+      "characters": 79
+    },
+    {
+      "id": "test",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9740e95e500c656d",
+      "audio": "voiceover/biz-best-employee-quits/test.mp3",
+      "captions": "voiceover/biz-best-employee-quits/test.json",
+      "durationInSeconds": 4.545,
+      "characters": 69
+    },
+    {
+      "id": "result",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a123e3439bd64ac7",
+      "audio": "voiceover/biz-best-employee-quits/result.mp3",
+      "captions": "voiceover/biz-best-employee-quits/result.json",
+      "durationInSeconds": 4.31,
+      "characters": 65
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/biz-best-employee-quits/cta.mp3",
+      "captions": "voiceover/biz-best-employee-quits/cta.json",
+      "durationInSeconds": 2.456,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-12T18:40:25.404Z"
+}

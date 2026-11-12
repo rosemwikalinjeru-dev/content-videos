@@ -1,0 +1,77 @@
+{
+  "video": "biz-five-numbers",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3b10c51acc221ec6",
+      "audio": "voiceover/biz-five-numbers/hook.mp3",
+      "captions": "voiceover/biz-five-numbers/hook.json",
+      "durationInSeconds": 4.833,
+      "characters": 82
+    },
+    {
+      "id": "n1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "2f5e78d22fd12810",
+      "audio": "voiceover/biz-five-numbers/n1.mp3",
+      "captions": "voiceover/biz-five-numbers/n1.json",
+      "durationInSeconds": 2.638,
+      "characters": 42
+    },
+    {
+      "id": "n2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "249fb887a432dea5",
+      "audio": "voiceover/biz-five-numbers/n2.mp3",
+      "captions": "voiceover/biz-five-numbers/n2.json",
+      "durationInSeconds": 2.456,
+      "characters": 38
+    },
+    {
+      "id": "n3",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f284d02fe55d3c19",
+      "audio": "voiceover/biz-five-numbers/n3.mp3",
+      "captions": "voiceover/biz-five-numbers/n3.json",
+      "durationInSeconds": 2.873,
+      "characters": 38
+    },
+    {
+      "id": "n4",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "492e79074da7a545",
+      "audio": "voiceover/biz-five-numbers/n4.mp3",
+      "captions": "voiceover/biz-five-numbers/n4.json",
+      "durationInSeconds": 3.004,
+      "characters": 35
+    },
+    {
+      "id": "n5",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "03d1e4d5e16ea82d",
+      "audio": "voiceover/biz-five-numbers/n5.mp3",
+      "captions": "voiceover/biz-five-numbers/n5.json",
+      "durationInSeconds": 2.926,
+      "characters": 45
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "19f5e0394489c6a3",
+      "audio": "voiceover/biz-five-numbers/cta.mp3",
+      "captions": "voiceover/biz-five-numbers/cta.json",
+      "durationInSeconds": 4.258,
+      "characters": 82
+    }
+  ],
+  "generatedAt": "2026-11-12T18:40:31.790Z"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "then",
+  "words": [
+    {
+      "text": "And",
+      "start": 0,
+      "end": 0.279
+    },
+    {
+      "text": "when",
+      "start": 0.337,
+      "end": 0.488
+    },
+    {
+      "text": "someone",
+      "start": 0.534,
+      "end": 0.859
+    },
+    {
+      "text": "says,",
+      "start": 0.894,
+      "end": 1.242
+    },
+    {
+      "text": "not",
+      "start": 1.335,
+      "end": 1.544
+    },
+    {
+      "text": "great,",
+      "start": 1.602,
+      "end": 2.02
+    },
+    {
+      "text": "call",
+      "start": 2.171,
+      "end": 2.403
+    },
+    {
+      "text": "them",
+      "start": 2.473,
+      "end": 2.612
+    },
+    {
+      "text": "the",
+      "start": 2.67,
+      "end": 2.752
+    },
+    {
+      "text": "same",
+      "start": 2.81,
+      "end": 3.042
+    },
+    {
+      "text": "day.",
+      "start": 3.088,
+      "end": 3.576
+    }
+  ]
+}

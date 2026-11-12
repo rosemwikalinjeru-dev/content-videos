@@ -1,0 +1,77 @@
+{
+  "video": "biz-busy-not-profitable",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "38d64fce329e124f",
+      "audio": "voiceover/biz-busy-not-profitable/hook.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/hook.json",
+      "durationInSeconds": 4.493,
+      "characters": 73
+    },
+    {
+      "id": "j1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3ad4d58fb9849111",
+      "audio": "voiceover/biz-busy-not-profitable/j1.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/j1.json",
+      "durationInSeconds": 4.545,
+      "characters": 72
+    },
+    {
+      "id": "j2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "ad772c2b0351e81b",
+      "audio": "voiceover/biz-busy-not-profitable/j2.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/j2.json",
+      "durationInSeconds": 5.46,
+      "characters": 76
+    },
+    {
+      "id": "j3",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "1a01b0d80323b6f2",
+      "audio": "voiceover/biz-busy-not-profitable/j3.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/j3.json",
+      "durationInSeconds": 4.963,
+      "characters": 77
+    },
+    {
+      "id": "reveal",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7f78c7b4bbbb2a46",
+      "audio": "voiceover/biz-busy-not-profitable/reveal.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/reveal.json",
+      "durationInSeconds": 4.545,
+      "characters": 77
+    },
+    {
+      "id": "lesson",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "2ac1789c10f42e66",
+      "audio": "voiceover/biz-busy-not-profitable/lesson.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/lesson.json",
+      "durationInSeconds": 4.023,
+      "characters": 62
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/biz-busy-not-profitable/cta.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/cta.json",
+      "durationInSeconds": 2.403,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-12T18:40:15.502Z"
+}

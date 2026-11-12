@@ -1,0 +1,40 @@
+{
+  "video": "biz-silent-leavers",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Your unhappiest customers usually don't complain. They just don't come back."
+    },
+    {
+      "id": "quiet",
+      "version": "v2",
+      "text": "Picture ten customers who had a so-so visit. Maybe one tells you."
+    },
+    {
+      "id": "gone",
+      "version": "v2",
+      "text": "The rest say thanks, leave, and quietly book somewhere else."
+    },
+    {
+      "id": "why",
+      "version": "v2",
+      "text": "Complaining feels awkward. Leaving is easy."
+    },
+    {
+      "id": "fix",
+      "version": "v2",
+      "text": "So ask first. One short message after every visit. How did we do?"
+    },
+    {
+      "id": "then",
+      "version": "v2",
+      "text": "And when someone says, not great, call them the same day."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "A complaint is a second chance. Silence isn't. Follow for one business fix every week."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "catch",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "catch?",
+      "start": 0.197,
+      "end": 0.766
+    },
+    {
+      "text": "Some",
+      "start": 0.975,
+      "end": 1.207
+    },
+    {
+      "text": "customers",
+      "start": 1.254,
+      "end": 1.834
+    },
+    {
+      "text": "may",
+      "start": 1.904,
+      "end": 2.02
+    },
+    {
+      "text": "leave.",
+      "start": 2.09,
+      "end": 2.334
+    },
+    {
+      "text": "So",
+      "start": 2.368,
+      "end": 2.485
+    },
+    {
+      "text": "test",
+      "start": 2.543,
+      "end": 2.752
+    },
+    {
+      "text": "it",
+      "start": 2.798,
+      "end": 2.879
+    },
+    {
+      "text": "on",
+      "start": 2.949,
+      "end": 3.042
+    },
+    {
+      "text": "new",
+      "start": 3.111,
+      "end": 3.251
+    },
+    {
+      "text": "customers",
+      "start": 3.309,
+      "end": 3.843
+    },
+    {
+      "text": "first.",
+      "start": 3.924,
+      "end": 4.598
+    }
+  ]
+}

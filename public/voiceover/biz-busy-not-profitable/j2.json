@@ -1,0 +1,85 @@
+{
+  "id": "j2",
+  "words": [
+    {
+      "text": "Job",
+      "start": 0,
+      "end": 0.464
+    },
+    {
+      "text": "two",
+      "start": 0.534,
+      "end": 0.789
+    },
+    {
+      "text": "pays",
+      "start": 0.94,
+      "end": 1.393
+    },
+    {
+      "text": "six",
+      "start": 1.509,
+      "end": 1.765
+    },
+    {
+      "text": "hundred.",
+      "start": 1.823,
+      "end": 2.252
+    },
+    {
+      "text": "But",
+      "start": 2.426,
+      "end": 2.601
+    },
+    {
+      "text": "it's",
+      "start": 2.647,
+      "end": 2.81
+    },
+    {
+      "text": "a",
+      "start": 2.844,
+      "end": 2.879
+    },
+    {
+      "text": "full",
+      "start": 2.926,
+      "end": 3.123
+    },
+    {
+      "text": "day,",
+      "start": 3.181,
+      "end": 3.437
+    },
+    {
+      "text": "and",
+      "start": 3.483,
+      "end": 3.657
+    },
+    {
+      "text": "an",
+      "start": 3.715,
+      "end": 3.796
+    },
+    {
+      "text": "hour's",
+      "start": 3.878,
+      "end": 4.214
+    },
+    {
+      "text": "drive",
+      "start": 4.284,
+      "end": 4.586
+    },
+    {
+      "text": "each",
+      "start": 4.667,
+      "end": 4.888
+    },
+    {
+      "text": "way.",
+      "start": 4.957,
+      "end": 5.433
+    }
+  ]
+}

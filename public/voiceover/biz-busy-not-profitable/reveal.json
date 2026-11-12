@@ -1,0 +1,80 @@
+{
+  "id": "reveal",
+  "words": [
+    {
+      "text": "Per",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "hour",
+      "start": 0.383,
+      "end": 0.673
+    },
+    {
+      "text": "of",
+      "start": 0.755,
+      "end": 0.859
+    },
+    {
+      "text": "your",
+      "start": 0.917,
+      "end": 1.057
+    },
+    {
+      "text": "time,",
+      "start": 1.115,
+      "end": 1.393
+    },
+    {
+      "text": "the",
+      "start": 1.416,
+      "end": 1.509
+    },
+    {
+      "text": "smallest",
+      "start": 1.567,
+      "end": 1.974
+    },
+    {
+      "text": "job",
+      "start": 2.02,
+      "end": 2.206
+    },
+    {
+      "text": "wins.",
+      "start": 2.276,
+      "end": 2.601
+    },
+    {
+      "text": "And",
+      "start": 2.659,
+      "end": 2.81
+    },
+    {
+      "text": "the",
+      "start": 2.868,
+      "end": 2.937
+    },
+    {
+      "text": "biggest",
+      "start": 2.984,
+      "end": 3.309
+    },
+    {
+      "text": "one",
+      "start": 3.379,
+      "end": 3.541
+    },
+    {
+      "text": "comes",
+      "start": 3.587,
+      "end": 3.82
+    },
+    {
+      "text": "last.",
+      "start": 3.901,
+      "end": 4.505
+    }
+  ]
+}
