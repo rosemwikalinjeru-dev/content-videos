@@ -1,0 +1,75 @@
+{
+  "id": "connect",
+  "words": [
+    {
+      "text": "Now",
+      "start": 0,
+      "end": 0.406
+    },
+    {
+      "text": "connect",
+      "start": 0.522,
+      "end": 0.94
+    },
+    {
+      "text": "the",
+      "start": 0.975,
+      "end": 1.045
+    },
+    {
+      "text": "handoffs.",
+      "start": 1.103,
+      "end": 1.683
+    },
+    {
+      "text": "Each",
+      "start": 2.009,
+      "end": 2.218
+    },
+    {
+      "text": "step",
+      "start": 2.252,
+      "end": 2.508
+    },
+    {
+      "text": "passes",
+      "start": 2.566,
+      "end": 2.902
+    },
+    {
+      "text": "the",
+      "start": 2.961,
+      "end": 3.042
+    },
+    {
+      "text": "customer",
+      "start": 3.1,
+      "end": 3.587
+    },
+    {
+      "text": "to",
+      "start": 3.657,
+      "end": 3.727
+    },
+    {
+      "text": "the",
+      "start": 3.796,
+      "end": 3.866
+    },
+    {
+      "text": "next",
+      "start": 3.924,
+      "end": 4.168
+    },
+    {
+      "text": "one,",
+      "start": 4.249,
+      "end": 4.481
+    },
+    {
+      "text": "automatically.",
+      "start": 4.54,
+      "end": 5.619
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Your",
+      "start": 0,
+      "end": 0.221
+    },
+    {
+      "text": "business",
+      "start": 0.279,
+      "end": 0.871
+    },
+    {
+      "text": "isn't",
+      "start": 1.115,
+      "end": 1.509
+    },
+    {
+      "text": "five",
+      "start": 1.591,
+      "end": 1.985
+    },
+    {
+      "text": "separate",
+      "start": 2.043,
+      "end": 2.519
+    },
+    {
+      "text": "tasks.",
+      "start": 2.543,
+      "end": 3.077
+    },
+    {
+      "text": "It's",
+      "start": 3.402,
+      "end": 3.622
+    },
+    {
+      "text": "one",
+      "start": 3.715,
+      "end": 3.982
+    },
+    {
+      "text": "connected",
+      "start": 4.04,
+      "end": 4.528
+    },
+    {
+      "text": "system.",
+      "start": 4.574,
+      "end": 5.108
+    },
+    {
+      "text": "Watch",
+      "start": 5.283,
+      "end": 5.55
+    },
+    {
+      "text": "what",
+      "start": 5.596,
+      "end": 5.747
+    },
+    {
+      "text": "happens",
+      "start": 5.805,
+      "end": 6.165
+    },
+    {
+      "text": "to",
+      "start": 6.223,
+      "end": 6.304
+    },
+    {
+      "text": "twenty",
+      "start": 6.374,
+      "end": 6.711
+    },
+    {
+      "text": "customers.",
+      "start": 6.769,
+      "end": 7.663
+    }
+  ]
+}

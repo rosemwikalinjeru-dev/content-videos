@@ -1,0 +1,85 @@
+{
+  "id": "sim-before",
+  "words": [
+    {
+      "text": "Run",
+      "start": 0,
+      "end": 0.488
+    },
+    {
+      "text": "twenty",
+      "start": 0.569,
+      "end": 0.906
+    },
+    {
+      "text": "customers",
+      "start": 0.952,
+      "end": 1.614
+    },
+    {
+      "text": "through,",
+      "start": 1.741,
+      "end": 2.159
+    },
+    {
+      "text": "with",
+      "start": 2.334,
+      "end": 2.531
+    },
+    {
+      "text": "every",
+      "start": 2.601,
+      "end": 2.844
+    },
+    {
+      "text": "handoff",
+      "start": 2.914,
+      "end": 3.402
+    },
+    {
+      "text": "done",
+      "start": 3.518,
+      "end": 3.738
+    },
+    {
+      "text": "by",
+      "start": 3.773,
+      "end": 3.878
+    },
+    {
+      "text": "memory.",
+      "start": 3.959,
+      "end": 4.505
+    },
+    {
+      "text": "Watch",
+      "start": 4.748,
+      "end": 5.05
+    },
+    {
+      "text": "how",
+      "start": 5.108,
+      "end": 5.271
+    },
+    {
+      "text": "many",
+      "start": 5.329,
+      "end": 5.538
+    },
+    {
+      "text": "reach",
+      "start": 5.631,
+      "end": 5.933
+    },
+    {
+      "text": "the",
+      "start": 6.049,
+      "end": 6.177
+    },
+    {
+      "text": "end.",
+      "start": 6.258,
+      "end": 6.827
+    }
+  ]
+}

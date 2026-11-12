@@ -1,0 +1,77 @@
+{
+  "video": "ex-connected-system",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "41134d9486b3ff8d",
+      "audio": "voiceover/ex-connected-system/hook.mp3",
+      "captions": "voiceover/ex-connected-system/hook.json",
+      "durationInSeconds": 7.706,
+      "characters": 107
+    },
+    {
+      "id": "flows",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "ba6cb0257e90e2b6",
+      "audio": "voiceover/ex-connected-system/flows.mp3",
+      "captions": "voiceover/ex-connected-system/flows.json",
+      "durationInSeconds": 8.202,
+      "characters": 127
+    },
+    {
+      "id": "leaks",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "dd6980f7bb102342",
+      "audio": "voiceover/ex-connected-system/leaks.mp3",
+      "captions": "voiceover/ex-connected-system/leaks.json",
+      "durationInSeconds": 4.963,
+      "characters": 76
+    },
+    {
+      "id": "sim-before",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "0008bcc8c15d4020",
+      "audio": "voiceover/ex-connected-system/sim-before.mp3",
+      "captions": "voiceover/ex-connected-system/sim-before.json",
+      "durationInSeconds": 6.87,
+      "characters": 94
+    },
+    {
+      "id": "connect",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f10186687c25a4fa",
+      "audio": "voiceover/ex-connected-system/connect.mp3",
+      "captions": "voiceover/ex-connected-system/connect.json",
+      "durationInSeconds": 5.669,
+      "characters": 87
+    },
+    {
+      "id": "sim-after",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "33788ce2e6206ebd",
+      "audio": "voiceover/ex-connected-system/sim-after.mp3",
+      "captions": "voiceover/ex-connected-system/sim-after.json",
+      "durationInSeconds": 6.766,
+      "characters": 100
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "044581b2b3b192aa",
+      "audio": "voiceover/ex-connected-system/cta.mp3",
+      "captions": "voiceover/ex-connected-system/cta.json",
+      "durationInSeconds": 4.624,
+      "characters": 70
+    }
+  ],
+  "generatedAt": "2026-11-12T17:44:55.505Z"
+}
