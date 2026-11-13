@@ -17,6 +17,16 @@
       "text": "So when you're on a job, or asleep, everything stops."
     },
     {
+      "id": "sim",
+      "version": "v2",
+      "text": "Watch one day. Twelve decisions come in. And every one of them waits for you."
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "text": "By five o'clock, three are done. Nine are still waiting. And so are your customers."
+    },
+    {
       "id": "sort",
       "version": "v2",
       "text": "Sort them into three piles. Only you. Someone else, with a rule. And nobody at all."
@@ -30,6 +40,21 @@
       "id": "result",
       "version": "v2",
       "text": "Now the small stuff moves without you. And you keep the decisions that need you."
+    },
+    {
+      "id": "sim3",
+      "version": "v2",
+      "text": "Run the same day again. Eight follow a rule. Three go to your team. One comes to you."
+    },
+    {
+      "id": "sim4",
+      "version": "v2",
+      "text": "Everything's answered by five. And you handled the one that mattered."
+    },
+    {
+      "id": "start",
+      "version": "v2",
+      "text": "Start this week. Every time someone asks you something, ask yourself. Could a rule answer this?"
     },
     {
       "id": "cta",
