@@ -48,8 +48,13 @@ export function useSpr(from: number, config = { damping: 14, stiffness: 150, mas
 
 // ---------- presenter (a drawn cartoon of the character Rose chose: short dark curls,
 // blue plaid overshirt, pink collared shirt. A drawing, never a photo.) ----------
-export const Presenter: React.FC<{ pointing: boolean }> = ({ pointing }) => {
+export const Presenter: React.FC<{ pointing: boolean; words?: Word[] }> = ({ pointing, words = [] }) => {
   const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  // lip-sync: the mouth opens while a word is being spoken and closes in the gaps
+  const now = frame / fps;
+  const speaking = words.some((w) => now >= w.start - 0.02 && now <= w.end);
+  const open = speaking ? 0.3 + 0.7 * Math.abs(Math.sin(now * Math.PI * 5.5)) : 0;
   const bob = Math.sin(frame / 14) * 4;
   const blink = frame % 96 < 4;
   const arm = pointing ? -58 + Math.sin(frame / 9) * 5 : 8;
@@ -109,7 +114,14 @@ export const Presenter: React.FC<{ pointing: boolean }> = ({ pointing }) => {
             <circle cx={187} cy={128} r={6.5} fill={dark} />
           </>
         )}
-        <path d="M142 156 Q165 174 190 154" stroke={dark} strokeWidth={5} fill="none" strokeLinecap="round" />
+        {open > 0 ? (
+          <>
+            <ellipse cx={166} cy={160} rx={17 - open * 3} ry={4 + open * 11} fill="#3a1418" stroke={dark} strokeWidth={3} />
+            <ellipse cx={166} cy={160 + open * 8} rx={9} ry={open * 5} fill="#d9667a" />
+          </>
+        ) : (
+          <path d="M142 156 Q165 174 190 154" stroke={dark} strokeWidth={5} fill="none" strokeLinecap="round" />
+        )}
         {/* near arm (gestures), sleeve rolled */}
         <g transform={`rotate(${arm} 246 250)`}>
           <rect x={226} y={236} width={44} height={120} rx={22} fill={plaid} stroke="#2c4f8a" strokeWidth={3} />
@@ -193,7 +205,7 @@ const Shell: React.FC<{ scene: TimedScene; spec?: PaperScene; index: number }> =
           </div>
         </>
       )}
-      <Presenter pointing={spec?.point ?? index % 2 === 0} />
+      <Presenter pointing={spec?.point ?? index % 2 === 0} words={scene.words} />
       <CaptionPill words={scene.words} />
       {scene.audio ? <Audio src={staticFile(scene.audio)} /> : null}
     </AbsoluteFill>
