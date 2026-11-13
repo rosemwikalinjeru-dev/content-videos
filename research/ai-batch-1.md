@@ -14,6 +14,7 @@ All eight are **evergreen**: no news claim, so no freshness limit. Every scenari
 | 6 | ai-not-for-ai | AI | Three things to keep with a person |
 | 7 | ai-morning-question | Connecting Claude | "What needs me today?" answered from connected tools |
 | 8 | ai-five-pages | AI operating system | Five pages an AI needs before it answers for you |
+| 9 | ai-make-it-efficient | AI + competitors | Five things that make AI useful, not a toy (added on request) |
 
 ## Facts the scripts lean on
 
@@ -63,3 +64,19 @@ because it was not measured.
 - "A-I" spelled for the voice; shown as "AI" on screen.
 - These are explainers, not teardowns (rotation rule satisfied).
 - AI-generated content label on every post (cloned voice).
+
+## Video 9: "a competitor of yours already uses AI" (added 2026-11-13)
+
+Rose asked for "how to make AI efficient in your business as your competitors are doing".
+
+- Surveys of small-business AI use disagree widely because they define "using AI" differently:
+  U.S. Census Bureau business survey (all firms, not only small): roughly 17-20% from Dec 2025 to May 2026;
+  U.S. Chamber of Commerce 2025 report: almost 60% of small businesses; Thryv (Apr 2026): 66%; Goldman Sachs (Mar 2026): 76%.
+  Sources: https://www.uschamber.com/assets/documents/Empowering-Small-Business-The-Impact-of-Technology-on-U.S.-Small-Business-Small-Business-Report-2026.pdf
+  · https://www.uschamberfoundation.org/workforce/half-of-small-business-workers-use-ai-most-to-boost-productivity-not-automate-jobs
+  (figures taken from search summaries; originals not opened from this environment).
+- **So the script uses no number.** It says "Chances are, a competitor of yours already uses AI" (hedged) and never
+  claims competitors are getting results. "A lot of AI use looks like this" is Rose's observation, not a statistic.
+- The five steps are Rose's method: one task, written-down rules, connected tools, a person checking, count before and after
+  (the measurement step is the brand differentiator).
+- The two demo businesses are labelled DEMO; no outcome numbers.
