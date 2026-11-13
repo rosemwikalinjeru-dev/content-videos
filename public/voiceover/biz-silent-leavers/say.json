@@ -1,0 +1,95 @@
+{
+  "id": "say",
+  "words": [
+    {
+      "text": "What",
+      "start": 0,
+      "end": 0.221
+    },
+    {
+      "text": "do",
+      "start": 0.255,
+      "end": 0.325
+    },
+    {
+      "text": "you",
+      "start": 0.383,
+      "end": 0.464
+    },
+    {
+      "text": "say",
+      "start": 0.522,
+      "end": 0.685
+    },
+    {
+      "text": "on",
+      "start": 0.755,
+      "end": 0.882
+    },
+    {
+      "text": "that",
+      "start": 0.929,
+      "end": 1.091
+    },
+    {
+      "text": "call?",
+      "start": 1.173,
+      "end": 1.474
+    },
+    {
+      "text": "Three",
+      "start": 1.625,
+      "end": 1.869
+    },
+    {
+      "text": "things.",
+      "start": 1.927,
+      "end": 2.322
+    },
+    {
+      "text": "I'm",
+      "start": 2.368,
+      "end": 2.543
+    },
+    {
+      "text": "sorry.",
+      "start": 2.612,
+      "end": 3.088
+    },
+    {
+      "text": "What",
+      "start": 3.204,
+      "end": 3.413
+    },
+    {
+      "text": "happened?",
+      "start": 3.483,
+      "end": 3.971
+    },
+    {
+      "text": "And",
+      "start": 4.18,
+      "end": 4.354
+    },
+    {
+      "text": "here's",
+      "start": 4.435,
+      "end": 4.702
+    },
+    {
+      "text": "what",
+      "start": 4.748,
+      "end": 4.899
+    },
+    {
+      "text": "I'll",
+      "start": 4.957,
+      "end": 5.12
+    },
+    {
+      "text": "do.",
+      "start": 5.166,
+      "end": 5.573
+    }
+  ]
+}

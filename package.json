@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/rosemwikalinjeru-dev/content-videos#readme",
   "dependencies": {
+    "@fontsource/archivo": "^5.3.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "@fontsource/ibm-plex-sans": "^5.3.0",
     "@fontsource/inter": "^5.3.0",
     "@fontsource/jetbrains-mono": "^5.3.0",
     "@remotion/cli": "^4.0.540",

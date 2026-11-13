@@ -1,0 +1,80 @@
+{
+  "id": "sim2",
+  "words": [
+    {
+      "text": "It's",
+      "start": 0,
+      "end": 0.337
+    },
+    {
+      "text": "a",
+      "start": 0.383,
+      "end": 0.418
+    },
+    {
+      "text": "bucket",
+      "start": 0.476,
+      "end": 0.789
+    },
+    {
+      "text": "with",
+      "start": 0.836,
+      "end": 0.975
+    },
+    {
+      "text": "a",
+      "start": 1.01,
+      "end": 1.033
+    },
+    {
+      "text": "hole",
+      "start": 1.103,
+      "end": 1.324
+    },
+    {
+      "text": "in",
+      "start": 1.358,
+      "end": 1.451
+    },
+    {
+      "text": "it.",
+      "start": 1.521,
+      "end": 1.741
+    },
+    {
+      "text": "And",
+      "start": 1.858,
+      "end": 2.032
+    },
+    {
+      "text": "you",
+      "start": 2.113,
+      "end": 2.229
+    },
+    {
+      "text": "keep",
+      "start": 2.31,
+      "end": 2.519
+    },
+    {
+      "text": "paying",
+      "start": 2.612,
+      "end": 2.879
+    },
+    {
+      "text": "to",
+      "start": 2.937,
+      "end": 3.03
+    },
+    {
+      "text": "refill",
+      "start": 3.111,
+      "end": 3.506
+    },
+    {
+      "text": "it.",
+      "start": 3.564,
+      "end": 3.994
+    }
+  ]
+}

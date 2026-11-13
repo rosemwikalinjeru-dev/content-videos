@@ -43,6 +43,36 @@
       "characters": 62
     },
     {
+      "id": "sim",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "738e51324953d6d3",
+      "audio": "voiceover/biz-say-no/sim.mp3",
+      "captions": "voiceover/biz-say-no/sim.json",
+      "durationInSeconds": 5.799,
+      "characters": 95
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c1a08e2f763231a2",
+      "audio": "voiceover/biz-say-no/sim2.mp3",
+      "captions": "voiceover/biz-say-no/sim2.json",
+      "durationInSeconds": 3.527,
+      "characters": 56
+    },
+    {
+      "id": "sim3",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9be2b5e87d00a586",
+      "audio": "voiceover/biz-say-no/sim3.mp3",
+      "captions": "voiceover/biz-say-no/sim3.json",
+      "durationInSeconds": 6.713,
+      "characters": 104
+    },
+    {
       "id": "fix",
       "version": "v2",
       "model": "eleven_multilingual_v2",
@@ -63,6 +93,26 @@
       "characters": 74
     },
     {
+      "id": "how",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "d6408d9c348ecc1f",
+      "audio": "voiceover/biz-say-no/how.mp3",
+      "captions": "voiceover/biz-say-no/how.json",
+      "durationInSeconds": 6.452,
+      "characters": 93
+    },
+    {
+      "id": "fear",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "1cba4631bd7715db",
+      "audio": "voiceover/biz-say-no/fear.mp3",
+      "captions": "voiceover/biz-say-no/fear.json",
+      "durationInSeconds": 5.251,
+      "characters": 77
+    },
+    {
       "id": "cta",
       "version": "v2",
       "model": "eleven_multilingual_v2",
@@ -73,5 +123,5 @@
       "characters": 39
     }
   ],
-  "generatedAt": "2026-11-12T18:40:38.516Z"
+  "generatedAt": "2026-11-13T19:56:27.667Z"
 }

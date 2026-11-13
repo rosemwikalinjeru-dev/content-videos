@@ -1,0 +1,80 @@
+{
+  "id": "sim2",
+  "words": [
+    {
+      "text": "By",
+      "start": 0,
+      "end": 0.174
+    },
+    {
+      "text": "five",
+      "start": 0.244,
+      "end": 0.476
+    },
+    {
+      "text": "o'clock,",
+      "start": 0.511,
+      "end": 0.964
+    },
+    {
+      "text": "three",
+      "start": 1.138,
+      "end": 1.474
+    },
+    {
+      "text": "are",
+      "start": 1.533,
+      "end": 1.73
+    },
+    {
+      "text": "done.",
+      "start": 1.765,
+      "end": 2.078
+    },
+    {
+      "text": "Nine",
+      "start": 2.403,
+      "end": 2.717
+    },
+    {
+      "text": "are",
+      "start": 2.763,
+      "end": 2.902
+    },
+    {
+      "text": "still",
+      "start": 2.937,
+      "end": 3.181
+    },
+    {
+      "text": "waiting.",
+      "start": 3.239,
+      "end": 3.704
+    },
+    {
+      "text": "And",
+      "start": 3.982,
+      "end": 4.133
+    },
+    {
+      "text": "so",
+      "start": 4.191,
+      "end": 4.365
+    },
+    {
+      "text": "are",
+      "start": 4.435,
+      "end": 4.551
+    },
+    {
+      "text": "your",
+      "start": 4.598,
+      "end": 4.725
+    },
+    {
+      "text": "customers.",
+      "start": 4.772,
+      "end": 5.619
+    }
+  ]
+}

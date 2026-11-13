@@ -1,0 +1,95 @@
+{
+  "id": "sim",
+  "words": [
+    {
+      "text": "Run",
+      "start": 0,
+      "end": 0.279
+    },
+    {
+      "text": "a",
+      "start": 0.36,
+      "end": 0.406
+    },
+    {
+      "text": "year",
+      "start": 0.522,
+      "end": 0.72
+    },
+    {
+      "text": "of",
+      "start": 0.789,
+      "end": 0.917
+    },
+    {
+      "text": "that.",
+      "start": 0.987,
+      "end": 1.277
+    },
+    {
+      "text": "Every",
+      "start": 1.347,
+      "end": 1.637
+    },
+    {
+      "text": "month,",
+      "start": 1.695,
+      "end": 2.009
+    },
+    {
+      "text": "a",
+      "start": 2.032,
+      "end": 2.055
+    },
+    {
+      "text": "few",
+      "start": 2.125,
+      "end": 2.287
+    },
+    {
+      "text": "quiet",
+      "start": 2.345,
+      "end": 2.682
+    },
+    {
+      "text": "ones",
+      "start": 2.763,
+      "end": 2.984
+    },
+    {
+      "text": "leave.",
+      "start": 3.053,
+      "end": 3.355
+    },
+    {
+      "text": "And",
+      "start": 3.529,
+      "end": 3.692
+    },
+    {
+      "text": "you",
+      "start": 3.75,
+      "end": 3.831
+    },
+    {
+      "text": "replace",
+      "start": 3.913,
+      "end": 4.342
+    },
+    {
+      "text": "them",
+      "start": 4.377,
+      "end": 4.505
+    },
+    {
+      "text": "with",
+      "start": 4.551,
+      "end": 4.714
+    },
+    {
+      "text": "ads.",
+      "start": 4.807,
+      "end": 5.48
+    }
+  ]
+}

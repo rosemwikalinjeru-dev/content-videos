@@ -1,0 +1,75 @@
+{
+  "id": "week-b",
+  "words": [
+    {
+      "text": "Week",
+      "start": 0,
+      "end": 0.279
+    },
+    {
+      "text": "B,",
+      "start": 0.372,
+      "end": 0.673
+    },
+    {
+      "text": "you",
+      "start": 0.917,
+      "end": 1.022
+    },
+    {
+      "text": "pick",
+      "start": 1.091,
+      "end": 1.265
+    },
+    {
+      "text": "the",
+      "start": 1.324,
+      "end": 1.393
+    },
+    {
+      "text": "jobs",
+      "start": 1.451,
+      "end": 1.695
+    },
+    {
+      "text": "close",
+      "start": 1.73,
+      "end": 2.009
+    },
+    {
+      "text": "by,",
+      "start": 2.055,
+      "end": 2.392
+    },
+    {
+      "text": "that",
+      "start": 2.635,
+      "end": 2.81
+    },
+    {
+      "text": "pay",
+      "start": 2.868,
+      "end": 2.995
+    },
+    {
+      "text": "well",
+      "start": 3.065,
+      "end": 3.251
+    },
+    {
+      "text": "for",
+      "start": 3.309,
+      "end": 3.425
+    },
+    {
+      "text": "the",
+      "start": 3.471,
+      "end": 3.541
+    },
+    {
+      "text": "time.",
+      "start": 3.599,
+      "end": 4.133
+    }
+  ]
+}

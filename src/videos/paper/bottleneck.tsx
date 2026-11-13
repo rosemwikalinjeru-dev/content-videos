@@ -1,7 +1,7 @@
 import React from "react";
 import { interpolate, useCurrentFrame, useVideoConfig } from "remotion";
 import { useBeat } from "../../components/kit";
-import { Card, Counter, Desk, Note, P, PF, PM, PaperScene, clampP, easeP, lerp, useSpr } from "./kit";
+import { Card, Counter, Desk, Note, P, PF, PH, PM, PaperScene, clampP, easeP, lerp, useSpr } from "./kit";
 
 // "The owner is the bottleneck", told in one world: decisions arrive as cards and have to
 // reach a desk. First there is one desk (yours). Then there are three.
@@ -25,7 +25,7 @@ const move = (frame: number, start: number, dur: number, a: Pt, b: Pt): Pt => {
 };
 
 const Door: React.FC<{ x?: number; y?: number }> = ({ x = DOOR.x, y = DOOR.y }) => (
-  <div style={{ position: "absolute", left: x - 150, top: y - 36, width: 300, height: 72, borderRadius: 18, border: `5px dashed ${P.ink}`, textAlign: "center", font: `800 26px/62px ${PM}`, letterSpacing: "0.08em", color: P.soft }}>
+  <div style={{ position: "absolute", left: x - 150, top: y - 36, width: 300, height: 72, borderRadius: 18, border: `5px dashed ${P.ink}`, textAlign: "center", font: `600 26px/62px ${PM}`, letterSpacing: "0.08em", color: P.soft }}>
     DECISIONS IN
   </div>
 );
@@ -41,13 +41,13 @@ const Clock: React.FC<{ t: number; from: number; to: number; x?: number; y?: num
         <circle cx={26} cy={26} r={22} fill={P.paper} stroke={P.ink} strokeWidth={5} />
         <line x1={26} y1={26} x2={26} y2={11} stroke={P.ink} strokeWidth={5} strokeLinecap="round" transform={`rotate(${ang} 26 26)`} />
       </svg>
-      <span style={{ font: `900 38px/1 ${PF}`, color: P.ink, whiteSpace: "nowrap" }}>{label}</span>
+      <span style={{ font: `800 38px/1 ${PH}`, color: P.ink, whiteSpace: "nowrap" }}>{label}</span>
     </div>
   );
 };
 
 const Sub: React.FC<{ x: number; y: number; children: React.ReactNode; color?: string; w?: number }> = ({ x, y, children, color = P.soft, w = 300 }) => (
-  <div style={{ position: "absolute", left: x - w / 2, top: y, width: w, textAlign: "center", font: `800 30px/1.15 ${PF}`, color }}>{children}</div>
+  <div style={{ position: "absolute", left: x - w / 2, top: y, width: w, textAlign: "center", font: `700 30px/1.15 ${PF}`, color }}>{children}</div>
 );
 
 // ---------- 1. hook: one desk, cards queue toward it ----------
@@ -111,7 +111,7 @@ const Cost: React.FC = () => {
       <Desk x={ONE.x} y={ONE.y} label="YOU" color={P.soft} sign={sign} dim={frame >= job} w={330} />
       {frame >= stops && (
         <Sub x={500} y={70} color={P.bad} w={700}>
-          <span style={{ font: `900 64px/1 ${PF}` }}>Everything stops.</span>
+          <span style={{ font: `800 64px/1 ${PH}` }}>Everything stops.</span>
         </Sub>
       )}
     </>
@@ -203,8 +203,8 @@ const Rule: React.FC = () => {
     <>
       <div style={{ opacity: a, transform: `scale(${0.9 + a * 0.1})`, transformOrigin: "500px 120px" }}>
         <Note x={500} y={20} w={860} color={P.accent}>
-          <div style={{ font: `800 24px/1 ${PM}`, letterSpacing: "0.1em", color: P.accent }}>EXAMPLE RULE</div>
-          <div style={{ font: `900 54px/1.1 ${PF}`, color: P.ink, marginTop: 10 }}>
+          <div style={{ font: `600 24px/1 ${PM}`, letterSpacing: "0.1em", color: P.accent }}>EXAMPLE RULE</div>
+          <div style={{ font: `800 54px/1.1 ${PH}`, color: P.ink, marginTop: 10 }}>
             Refund under $50 → <span style={{ color: P.accent }}>front desk decides</span>
           </div>
         </Note>
@@ -291,14 +291,14 @@ const Start: React.FC = () => {
     <>
       <div style={{ opacity: a, transform: `translateY(${(1 - a) * 20}px)` }}>
         <Note x={400} y={40} w={620}>
-          <div style={{ font: `800 24px/1 ${PM}`, letterSpacing: "0.1em", color: P.soft }}>SOMEONE ASKS YOU</div>
-          <div style={{ font: `900 56px/1.1 ${PF}`, color: P.ink, marginTop: 10 }}>"Can I refund this?"</div>
+          <div style={{ font: `600 24px/1 ${PM}`, letterSpacing: "0.1em", color: P.soft }}>SOMEONE ASKS YOU</div>
+          <div style={{ font: `800 56px/1.1 ${PH}`, color: P.ink, marginTop: 10 }}>"Can I refund this?"</div>
         </Note>
       </div>
       <div style={{ opacity: b, transform: `translateY(${(1 - b) * 20}px)` }}>
         <Note x={540} y={330} w={760} color={P.accent}>
-          <div style={{ font: `800 24px/1 ${PM}`, letterSpacing: "0.1em", color: P.accent }}>ASK YOURSELF</div>
-          <div style={{ font: `900 68px/1.05 ${PF}`, color: P.ink, marginTop: 10 }}>
+          <div style={{ font: `600 24px/1 ${PM}`, letterSpacing: "0.1em", color: P.accent }}>ASK YOURSELF</div>
+          <div style={{ font: `800 68px/1.05 ${PH}`, color: P.ink, marginTop: 10 }}>
             Could a <span style={{ color: P.accent }}>rule</span> answer this?
           </div>
         </Note>
@@ -314,10 +314,10 @@ const Cta: React.FC = () => {
   const pulse = 1 + Math.sin(frame / 6) * 0.03;
   return (
     <>
-      <div style={{ position: "absolute", left: 60, top: 120, transform: `scale(${p * pulse})`, transformOrigin: "left center", background: P.accent, color: "#fff", borderRadius: 999, padding: "34px 70px", font: `900 96px/1 ${PF}`, boxShadow: `0 12px 0 ${P.line}` }}>
+      <div style={{ position: "absolute", left: 60, top: 120, transform: `scale(${p * pulse})`, transformOrigin: "left center", background: P.accent, color: "#fff", borderRadius: 999, padding: "34px 70px", font: `800 96px/1 ${PH}`, boxShadow: `0 12px 0 ${P.line}` }}>
         Follow →
       </div>
-      <div style={{ position: "absolute", left: 64, top: 330, font: `800 34px/1.3 ${PM}`, letterSpacing: "0.06em", color: P.soft, opacity: p }}>
+      <div style={{ position: "absolute", left: 64, top: 330, font: `600 34px/1.3 ${PM}`, letterSpacing: "0.06em", color: P.soft, opacity: p }}>
         ROSE NJERU AUTOMATION
         <br />
         ONE BUSINESS FIX, EVERY WEEK

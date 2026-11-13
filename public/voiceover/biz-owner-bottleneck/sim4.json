@@ -1,0 +1,60 @@
+{
+  "id": "sim4",
+  "words": [
+    {
+      "text": "Everything's",
+      "start": 0,
+      "end": 0.639
+    },
+    {
+      "text": "answered",
+      "start": 0.708,
+      "end": 1.08
+    },
+    {
+      "text": "by",
+      "start": 1.115,
+      "end": 1.207
+    },
+    {
+      "text": "five.",
+      "start": 1.289,
+      "end": 1.602
+    },
+    {
+      "text": "And",
+      "start": 1.637,
+      "end": 1.753
+    },
+    {
+      "text": "you",
+      "start": 1.823,
+      "end": 1.927
+    },
+    {
+      "text": "handled",
+      "start": 2.043,
+      "end": 2.508
+    },
+    {
+      "text": "the",
+      "start": 2.589,
+      "end": 2.717
+    },
+    {
+      "text": "one",
+      "start": 2.798,
+      "end": 2.926
+    },
+    {
+      "text": "that",
+      "start": 2.961,
+      "end": 3.1
+    },
+    {
+      "text": "mattered.",
+      "start": 3.17,
+      "end": 3.855
+    }
+  ]
+}

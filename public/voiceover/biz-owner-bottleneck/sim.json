@@ -1,0 +1,80 @@
+{
+  "id": "sim",
+  "words": [
+    {
+      "text": "Watch",
+      "start": 0,
+      "end": 0.534
+    },
+    {
+      "text": "one",
+      "start": 0.685,
+      "end": 0.917
+    },
+    {
+      "text": "day.",
+      "start": 0.952,
+      "end": 1.231
+    },
+    {
+      "text": "Twelve",
+      "start": 1.405,
+      "end": 1.811
+    },
+    {
+      "text": "decisions",
+      "start": 1.858,
+      "end": 2.38
+    },
+    {
+      "text": "come",
+      "start": 2.45,
+      "end": 2.659
+    },
+    {
+      "text": "in.",
+      "start": 2.705,
+      "end": 2.856
+    },
+    {
+      "text": "And",
+      "start": 2.914,
+      "end": 3.088
+    },
+    {
+      "text": "every",
+      "start": 3.181,
+      "end": 3.425
+    },
+    {
+      "text": "one",
+      "start": 3.471,
+      "end": 3.622
+    },
+    {
+      "text": "of",
+      "start": 3.657,
+      "end": 3.727
+    },
+    {
+      "text": "them",
+      "start": 3.785,
+      "end": 3.936
+    },
+    {
+      "text": "waits",
+      "start": 4.005,
+      "end": 4.272
+    },
+    {
+      "text": "for",
+      "start": 4.331,
+      "end": 4.458
+    },
+    {
+      "text": "you.",
+      "start": 4.516,
+      "end": 4.969
+    }
+  ]
+}

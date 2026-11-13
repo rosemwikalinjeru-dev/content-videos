@@ -1,4 +1,8 @@
 import React from "react";
+import "@fontsource/archivo/800.css";
+import "@fontsource/ibm-plex-sans/600.css";
+import "@fontsource/ibm-plex-sans/700.css";
+import "@fontsource/ibm-plex-mono/600.css";
 import { AbsoluteFill, Audio, Sequence, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import { displayWord, SceneWords } from "../../components/kit";
 import type { TimedScene, VideoProps, Word } from "../../lib/timing";
@@ -21,8 +25,11 @@ export const P = {
   pill: "#221d17",
   hi: "#FFD84D",
 };
-export const PF = "Inter, sans-serif";
-export const PM = "'JetBrains Mono', monospace";
+// Brand typography (locked, see brand/visual-identity.md): Archivo for headlines and big numbers,
+// IBM Plex Sans for running text and captions, IBM Plex Mono for labels.
+export const PH = "Archivo, sans-serif";
+export const PF = "'IBM Plex Sans', sans-serif";
+export const PM = "'IBM Plex Mono', monospace";
 export const STAGE = { x: 0, y: 370, w: 1080, h: 860 };
 
 export const clampP = { extrapolateLeft: "clamp", extrapolateRight: "clamp" } as const;
@@ -127,7 +134,7 @@ export const CaptionPill: React.FC<{ words: Word[] }> = ({ words }) => {
         {chunk.map((w, i) => {
           const active = t >= w.start - 0.02 && t < w.end + 0.08;
           return (
-            <span key={i} style={{ font: `900 52px/1.1 ${PF}`, color: active ? P.hi : "#fff" }}>
+            <span key={i} style={{ font: `700 52px/1.1 ${PF}`, color: active ? P.hi : "#fff" }}>
               {displayWord(w.text)}
             </span>
           );
@@ -142,8 +149,8 @@ export const Headline: React.FC<{ kicker: string; head: string; accent: string; 
   const p = useSpr(0);
   return (
     <div style={{ position: "absolute", left: 60, right: 60, top: 130, opacity: p, transform: `translateY(${(1 - p) * -16}px)` }}>
-      <div style={{ font: `700 28px/1 ${PM}`, letterSpacing: "0.16em", color: bad ? P.bad : P.accent }}>{kicker}</div>
-      <div style={{ font: `900 86px/1.0 ${PF}`, letterSpacing: "-0.045em", color: P.ink, marginTop: 14, textTransform: "uppercase" }}>
+      <div style={{ font: `600 28px/1 ${PM}`, letterSpacing: "0.16em", color: bad ? P.bad : P.accent }}>{kicker}</div>
+      <div style={{ font: `800 86px/1.0 ${PH}`, letterSpacing: "-0.02em", color: P.ink, marginTop: 14, textTransform: "uppercase" }}>
         {head} <span style={{ color: bad ? P.bad : P.accent }}>{accent}</span>
       </div>
     </div>
@@ -205,7 +212,7 @@ export const makePaper = (specs: Record<string, PaperScene>): React.FC<VideoProp
           return seq;
         })}
         {preview ? (
-          <div style={{ position: "absolute", left: 60, top: 60, background: P.bad, color: "#fff", borderRadius: 10, padding: "10px 16px", font: `700 24px/1 ${PM}`, letterSpacing: "0.06em" }}>
+          <div style={{ position: "absolute", left: 60, top: 60, background: P.bad, color: "#fff", borderRadius: 10, padding: "10px 16px", font: `600 24px/1 ${PM}`, letterSpacing: "0.06em" }}>
             PREVIEW · NO VOICE · ESTIMATED TIMING
           </div>
         ) : null}
@@ -227,14 +234,14 @@ export const Desk: React.FC<{ x: number; y: number; label: string; color?: strin
 }) => (
   <div style={{ position: "absolute", left: x - w / 2, top: y - 60, width: w, opacity: dim ? 0.4 : 1 }}>
     <div style={{ textAlign: "center", marginBottom: 10 }}>
-      <span style={{ background: color, color: "#fff", borderRadius: 999, padding: "8px 20px", font: `900 32px/1 ${PF}`, letterSpacing: "-0.01em", whiteSpace: "nowrap" }}>{label}</span>
+      <span style={{ background: color, color: "#fff", borderRadius: 999, padding: "8px 20px", font: `800 32px/1 ${PH}`, letterSpacing: "-0.01em", whiteSpace: "nowrap" }}>{label}</span>
     </div>
     <div style={{ height: 150, borderRadius: 22, background: P.paper2, border: `5px solid ${P.ink}`, boxShadow: `0 10px 0 ${P.line}` }} />
     <div style={{ margin: "0 auto", width: 44, height: 46, background: P.paper2, borderLeft: `5px solid ${P.ink}`, borderRight: `5px solid ${P.ink}` }} />
     <div style={{ margin: "0 auto", width: w * 0.62, height: 24, borderRadius: 14, background: P.paper2, border: `5px solid ${P.ink}` }} />
     {sign && (
       <div style={{ position: "absolute", left: 0, right: 0, top: 96, textAlign: "center" }}>
-        <span style={{ background: P.bad, color: "#fff", borderRadius: 10, padding: "8px 12px", font: `800 24px/1 ${PM}` }}>{sign}</span>
+        <span style={{ background: P.bad, color: "#fff", borderRadius: 10, padding: "8px 12px", font: `600 24px/1 ${PM}` }}>{sign}</span>
       </div>
     )}
   </div>
@@ -265,14 +272,14 @@ export const Card: React.FC<{ x: number; y: number; text: string; state?: "new" 
         alignItems: "center",
         justifyContent: "center",
         textAlign: "center",
-        font: `800 25px/1.05 ${PF}`,
+        font: `700 25px/1.05 ${PF}`,
         color: P.ink,
         transform: `scale(${scale}) rotate(${rot}deg)`,
       }}
     >
       {text}
       {state === "done" && (
-        <span style={{ position: "absolute", right: -12, top: -14, width: 34, height: 34, borderRadius: 99, background: P.ok, color: "#fff", font: `900 22px/34px ${PF}` }}>✓</span>
+        <span style={{ position: "absolute", right: -12, top: -14, width: 34, height: 34, borderRadius: 99, background: P.ok, color: "#fff", font: `800 22px/34px ${PH}` }}>✓</span>
       )}
     </div>
   );
@@ -280,8 +287,8 @@ export const Card: React.FC<{ x: number; y: number; text: string; state?: "new" 
 
 export const Counter: React.FC<{ x: number; y: number; label: string; value: string | number; color: string }> = ({ x, y, label, value, color }) => (
   <div style={{ position: "absolute", left: x - 120, top: y, width: 240, textAlign: "center", background: P.card, border: `4px solid ${color}`, borderRadius: 18, padding: "10px 6px" }}>
-    <div style={{ font: `800 26px/1 ${PM}`, letterSpacing: "0.06em", color: P.soft }}>{label}</div>
-    <div style={{ font: `900 60px/1.05 ${PF}`, color }}>{value}</div>
+    <div style={{ font: `600 26px/1 ${PM}`, letterSpacing: "0.06em", color: P.soft }}>{label}</div>
+    <div style={{ font: `800 60px/1.05 ${PH}`, color }}>{value}</div>
   </div>
 );
 
@@ -290,5 +297,5 @@ export const Note: React.FC<{ children: React.ReactNode; x: number; y: number; w
 );
 
 export const DemoTag: React.FC<{ text?: string }> = ({ text = "DEMO · NOT REAL DATA" }) => (
-  <div style={{ position: "absolute", right: 60, bottom: 6, font: `700 22px/1 ${PM}`, letterSpacing: "0.08em", color: P.soft }}>{text}</div>
+  <div style={{ position: "absolute", right: 60, bottom: 6, font: `600 22px/1 ${PM}`, letterSpacing: "0.08em", color: P.soft }}>{text}</div>
 );

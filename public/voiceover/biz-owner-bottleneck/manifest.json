@@ -33,6 +33,26 @@
       "characters": 53
     },
     {
+      "id": "sim",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "b3d124efcadcd394",
+      "audio": "voiceover/biz-owner-bottleneck/sim.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/sim.json",
+      "durationInSeconds": 5.016,
+      "characters": 77
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "19d7870b1243437c",
+      "audio": "voiceover/biz-owner-bottleneck/sim2.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/sim2.json",
+      "durationInSeconds": 5.669,
+      "characters": 83
+    },
+    {
       "id": "sort",
       "version": "v2",
       "model": "eleven_multilingual_v2",
@@ -63,6 +83,36 @@
       "characters": 80
     },
     {
+      "id": "sim3",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "279372557f64c67f",
+      "audio": "voiceover/biz-owner-bottleneck/sim3.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/sim3.json",
+      "durationInSeconds": 5.198,
+      "characters": 85
+    },
+    {
+      "id": "sim4",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "fbd62fd1ede26e0d",
+      "audio": "voiceover/biz-owner-bottleneck/sim4.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/sim4.json",
+      "durationInSeconds": 3.892,
+      "characters": 69
+    },
+    {
+      "id": "start",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "cb5b7ba489e6861f",
+      "audio": "voiceover/biz-owner-bottleneck/start.mp3",
+      "captions": "voiceover/biz-owner-bottleneck/start.json",
+      "durationInSeconds": 5.878,
+      "characters": 95
+    },
+    {
       "id": "cta",
       "version": "v2",
       "model": "eleven_multilingual_v2",
@@ -73,5 +123,5 @@
       "characters": 39
     }
   ],
-  "generatedAt": "2026-11-12T18:40:18.817Z"
+  "generatedAt": "2026-11-13T19:56:16.667Z"
 }

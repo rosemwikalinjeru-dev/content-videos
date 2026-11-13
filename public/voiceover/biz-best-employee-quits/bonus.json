@@ -1,0 +1,70 @@
+{
+  "id": "bonus",
+  "words": [
+    {
+      "text": "And",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "she'll",
+      "start": 0.36,
+      "end": 0.615
+    },
+    {
+      "text": "thank",
+      "start": 0.662,
+      "end": 0.882
+    },
+    {
+      "text": "you",
+      "start": 0.94,
+      "end": 1.022
+    },
+    {
+      "text": "for",
+      "start": 1.091,
+      "end": 1.219
+    },
+    {
+      "text": "it.",
+      "start": 1.289,
+      "end": 1.498
+    },
+    {
+      "text": "She",
+      "start": 1.672,
+      "end": 1.823
+    },
+    {
+      "text": "can",
+      "start": 1.881,
+      "end": 2.032
+    },
+    {
+      "text": "finally",
+      "start": 2.101,
+      "end": 2.531
+    },
+    {
+      "text": "take",
+      "start": 2.601,
+      "end": 2.879
+    },
+    {
+      "text": "a",
+      "start": 2.937,
+      "end": 2.995
+    },
+    {
+      "text": "real",
+      "start": 3.088,
+      "end": 3.274
+    },
+    {
+      "text": "vacation.",
+      "start": 3.32,
+      "end": 4.133
+    }
+  ]
+}

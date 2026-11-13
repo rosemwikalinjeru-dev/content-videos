@@ -1,0 +1,80 @@
+{
+  "id": "keep",
+  "words": [
+    {
+      "text": "Keep",
+      "start": 0,
+      "end": 0.313
+    },
+    {
+      "text": "the",
+      "start": 0.36,
+      "end": 0.43
+    },
+    {
+      "text": "steps",
+      "start": 0.476,
+      "end": 0.755
+    },
+    {
+      "text": "where",
+      "start": 0.801,
+      "end": 1.01
+    },
+    {
+      "text": "everyone",
+      "start": 1.057,
+      "end": 1.463
+    },
+    {
+      "text": "can",
+      "start": 1.498,
+      "end": 1.637
+    },
+    {
+      "text": "find",
+      "start": 1.707,
+      "end": 1.927
+    },
+    {
+      "text": "them.",
+      "start": 1.962,
+      "end": 2.171
+    },
+    {
+      "text": "One",
+      "start": 2.252,
+      "end": 2.496
+    },
+    {
+      "text": "shared",
+      "start": 2.519,
+      "end": 2.775
+    },
+    {
+      "text": "folder.",
+      "start": 2.833,
+      "end": 3.297
+    },
+    {
+      "text": "One",
+      "start": 3.355,
+      "end": 3.599
+    },
+    {
+      "text": "page",
+      "start": 3.646,
+      "end": 3.936
+    },
+    {
+      "text": "per",
+      "start": 3.971,
+      "end": 4.087
+    },
+    {
+      "text": "task.",
+      "start": 4.133,
+      "end": 4.783
+    }
+  ]
+}

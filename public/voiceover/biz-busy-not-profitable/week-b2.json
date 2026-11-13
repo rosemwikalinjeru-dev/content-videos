@@ -1,0 +1,55 @@
+{
+  "id": "week-b2",
+  "words": [
+    {
+      "text": "Four",
+      "start": 0,
+      "end": 0.337
+    },
+    {
+      "text": "shorter",
+      "start": 0.406,
+      "end": 0.755
+    },
+    {
+      "text": "days.",
+      "start": 0.813,
+      "end": 1.126
+    },
+    {
+      "text": "Fewer",
+      "start": 1.242,
+      "end": 1.509
+    },
+    {
+      "text": "miles.",
+      "start": 1.579,
+      "end": 1.962
+    },
+    {
+      "text": "And",
+      "start": 2.009,
+      "end": 2.148
+    },
+    {
+      "text": "you're",
+      "start": 2.194,
+      "end": 2.345
+    },
+    {
+      "text": "done",
+      "start": 2.368,
+      "end": 2.577
+    },
+    {
+      "text": "on",
+      "start": 2.612,
+      "end": 2.682
+    },
+    {
+      "text": "Thursday.",
+      "start": 2.752,
+      "end": 3.529
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "sim2",
+  "words": [
+    {
+      "text": "Those",
+      "start": 0,
+      "end": 0.488
+    },
+    {
+      "text": "six",
+      "start": 0.522,
+      "end": 0.824
+    },
+    {
+      "text": "eat",
+      "start": 0.94,
+      "end": 1.126
+    },
+    {
+      "text": "your",
+      "start": 1.184,
+      "end": 1.312
+    },
+    {
+      "text": "slots,",
+      "start": 1.347,
+      "end": 1.695
+    },
+    {
+      "text": "your",
+      "start": 1.73,
+      "end": 1.869
+    },
+    {
+      "text": "miles,",
+      "start": 1.939,
+      "end": 2.287
+    },
+    {
+      "text": "and",
+      "start": 2.31,
+      "end": 2.403
+    },
+    {
+      "text": "your",
+      "start": 2.461,
+      "end": 2.601
+    },
+    {
+      "text": "patience.",
+      "start": 2.659,
+      "end": 3.483
+    }
+  ]
+}

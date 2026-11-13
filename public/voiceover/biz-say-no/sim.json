@@ -1,0 +1,100 @@
+{
+  "id": "sim",
+  "words": [
+    {
+      "text": "Run",
+      "start": 0,
+      "end": 0.244
+    },
+    {
+      "text": "a",
+      "start": 0.313,
+      "end": 0.337
+    },
+    {
+      "text": "month",
+      "start": 0.395,
+      "end": 0.639
+    },
+    {
+      "text": "both",
+      "start": 0.72,
+      "end": 0.94
+    },
+    {
+      "text": "ways.",
+      "start": 1.01,
+      "end": 1.335
+    },
+    {
+      "text": "Month",
+      "start": 1.463,
+      "end": 1.741
+    },
+    {
+      "text": "one,",
+      "start": 1.834,
+      "end": 2.043
+    },
+    {
+      "text": "you",
+      "start": 2.067,
+      "end": 2.159
+    },
+    {
+      "text": "say",
+      "start": 2.229,
+      "end": 2.357
+    },
+    {
+      "text": "yes",
+      "start": 2.403,
+      "end": 2.577
+    },
+    {
+      "text": "to",
+      "start": 2.635,
+      "end": 2.705
+    },
+    {
+      "text": "everything.",
+      "start": 2.786,
+      "end": 3.262
+    },
+    {
+      "text": "Twenty",
+      "start": 3.286,
+      "end": 3.646
+    },
+    {
+      "text": "jobs.",
+      "start": 3.715,
+      "end": 4.098
+    },
+    {
+      "text": "Six",
+      "start": 4.272,
+      "end": 4.516
+    },
+    {
+      "text": "of",
+      "start": 4.586,
+      "end": 4.656
+    },
+    {
+      "text": "them",
+      "start": 4.714,
+      "end": 4.853
+    },
+    {
+      "text": "bad",
+      "start": 4.911,
+      "end": 5.12
+    },
+    {
+      "text": "fits.",
+      "start": 5.19,
+      "end": 5.759
+    }
+  ]
+}

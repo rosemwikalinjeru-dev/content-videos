@@ -43,6 +43,26 @@
       "characters": 43
     },
     {
+      "id": "sim",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "286a5b6d05ee5705",
+      "audio": "voiceover/biz-silent-leavers/sim.mp3",
+      "captions": "voiceover/biz-silent-leavers/sim.json",
+      "durationInSeconds": 5.512,
+      "characters": 87
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a891cefb0d38b7c6",
+      "audio": "voiceover/biz-silent-leavers/sim2.mp3",
+      "captions": "voiceover/biz-silent-leavers/sim2.json",
+      "durationInSeconds": 4.023,
+      "characters": 66
+    },
+    {
       "id": "fix",
       "version": "v2",
       "model": "eleven_multilingual_v2",
@@ -63,6 +83,36 @@
       "characters": 57
     },
     {
+      "id": "say",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f43ecdfad71b429d",
+      "audio": "voiceover/biz-silent-leavers/say.mp3",
+      "captions": "voiceover/biz-silent-leavers/say.json",
+      "durationInSeconds": 5.616,
+      "characters": 94
+    },
+    {
+      "id": "win",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "e1d572622b7c3e99",
+      "audio": "voiceover/biz-silent-leavers/win.mp3",
+      "captions": "voiceover/biz-silent-leavers/win.json",
+      "durationInSeconds": 4.545,
+      "characters": 77
+    },
+    {
+      "id": "learn",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "1b2bdfc515c7cf30",
+      "audio": "voiceover/biz-silent-leavers/learn.mp3",
+      "captions": "voiceover/biz-silent-leavers/learn.json",
+      "durationInSeconds": 4.598,
+      "characters": 68
+    },
+    {
       "id": "cta",
       "version": "v2",
       "model": "eleven_multilingual_v2",
@@ -73,5 +123,5 @@
       "characters": 86
     }
   ],
-  "generatedAt": "2026-11-12T18:40:35.008Z"
+  "generatedAt": "2026-11-13T19:56:24.778Z"
 }

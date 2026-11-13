@@ -33,6 +33,26 @@
       "characters": 45
     },
     {
+      "id": "sim",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "2411bfb52191752e",
+      "audio": "voiceover/biz-best-employee-quits/sim.mp3",
+      "captions": "voiceover/biz-best-employee-quits/sim.json",
+      "durationInSeconds": 7.471,
+      "characters": 121
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7a06f4e2c20fde4e",
+      "audio": "voiceover/biz-best-employee-quits/sim2.mp3",
+      "captions": "voiceover/biz-best-employee-quits/sim2.json",
+      "durationInSeconds": 3.527,
+      "characters": 63
+    },
+    {
       "id": "fix",
       "version": "v2",
       "model": "eleven_multilingual_v2",
@@ -51,6 +71,36 @@
       "captions": "voiceover/biz-best-employee-quits/test.json",
       "durationInSeconds": 4.545,
       "characters": 69
+    },
+    {
+      "id": "which",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "2354cabca4d673f5",
+      "audio": "voiceover/biz-best-employee-quits/which.mp3",
+      "captions": "voiceover/biz-best-employee-quits/which.json",
+      "durationInSeconds": 4.31,
+      "characters": 68
+    },
+    {
+      "id": "keep",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "019227e93956d942",
+      "audio": "voiceover/biz-best-employee-quits/keep.mp3",
+      "captions": "voiceover/biz-best-employee-quits/keep.json",
+      "durationInSeconds": 4.833,
+      "characters": 82
+    },
+    {
+      "id": "bonus",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "fe9b9ae85744feed",
+      "audio": "voiceover/biz-best-employee-quits/bonus.mp3",
+      "captions": "voiceover/biz-best-employee-quits/bonus.json",
+      "durationInSeconds": 4.18,
+      "characters": 66
     },
     {
       "id": "result",
@@ -73,5 +123,5 @@
       "characters": 39
     }
   ],
-  "generatedAt": "2026-11-12T18:40:25.404Z"
+  "generatedAt": "2026-11-13T19:56:19.529Z"
 }

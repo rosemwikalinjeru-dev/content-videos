@@ -1,0 +1,80 @@
+{
+  "id": "compare",
+  "words": [
+    {
+      "text": "Same",
+      "start": 0,
+      "end": 0.534
+    },
+    {
+      "text": "week.",
+      "start": 0.58,
+      "end": 0.964
+    },
+    {
+      "text": "Same",
+      "start": 1.057,
+      "end": 1.428
+    },
+    {
+      "text": "you.",
+      "start": 1.474,
+      "end": 1.753
+    },
+    {
+      "text": "In",
+      "start": 1.834,
+      "end": 2.009
+    },
+    {
+      "text": "this",
+      "start": 2.043,
+      "end": 2.218
+    },
+    {
+      "text": "demo,",
+      "start": 2.299,
+      "end": 2.67
+    },
+    {
+      "text": "week",
+      "start": 2.717,
+      "end": 2.937
+    },
+    {
+      "text": "B",
+      "start": 3.019,
+      "end": 3.077
+    },
+    {
+      "text": "earns",
+      "start": 3.32,
+      "end": 3.669
+    },
+    {
+      "text": "more,",
+      "start": 3.738,
+      "end": 4.04
+    },
+    {
+      "text": "in",
+      "start": 4.11,
+      "end": 4.238
+    },
+    {
+      "text": "half",
+      "start": 4.354,
+      "end": 4.563
+    },
+    {
+      "text": "the",
+      "start": 4.632,
+      "end": 4.714
+    },
+    {
+      "text": "hours.",
+      "start": 4.76,
+      "end": 5.341
+    }
+  ]
+}

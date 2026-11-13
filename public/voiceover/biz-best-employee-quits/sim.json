@@ -1,0 +1,115 @@
+{
+  "id": "sim",
+  "words": [
+    {
+      "text": "Watch",
+      "start": 0,
+      "end": 0.546
+    },
+    {
+      "text": "the",
+      "start": 0.639,
+      "end": 0.72
+    },
+    {
+      "text": "first",
+      "start": 0.789,
+      "end": 0.998
+    },
+    {
+      "text": "week",
+      "start": 1.057,
+      "end": 1.231
+    },
+    {
+      "text": "without",
+      "start": 1.277,
+      "end": 1.637
+    },
+    {
+      "text": "her.",
+      "start": 1.707,
+      "end": 1.927
+    },
+    {
+      "text": "An",
+      "start": 2.101,
+      "end": 2.241
+    },
+    {
+      "text": "order",
+      "start": 2.357,
+      "end": 2.705
+    },
+    {
+      "text": "goes",
+      "start": 2.763,
+      "end": 2.961
+    },
+    {
+      "text": "in",
+      "start": 3.042,
+      "end": 3.123
+    },
+    {
+      "text": "late.",
+      "start": 3.204,
+      "end": 3.611
+    },
+    {
+      "text": "A",
+      "start": 3.82,
+      "end": 3.901
+    },
+    {
+      "text": "regular",
+      "start": 4.017,
+      "end": 4.389
+    },
+    {
+      "text": "gets",
+      "start": 4.458,
+      "end": 4.667
+    },
+    {
+      "text": "the",
+      "start": 4.702,
+      "end": 4.772
+    },
+    {
+      "text": "wrong",
+      "start": 4.818,
+      "end": 5.027
+    },
+    {
+      "text": "price.",
+      "start": 5.097,
+      "end": 5.515
+    },
+    {
+      "text": "The",
+      "start": 5.689,
+      "end": 5.805
+    },
+    {
+      "text": "schedule",
+      "start": 5.851,
+      "end": 6.269
+    },
+    {
+      "text": "gets",
+      "start": 6.304,
+      "end": 6.513
+    },
+    {
+      "text": "double",
+      "start": 6.571,
+      "end": 6.873
+    },
+    {
+      "text": "booked.",
+      "start": 6.908,
+      "end": 7.43
+    }
+  ]
+}

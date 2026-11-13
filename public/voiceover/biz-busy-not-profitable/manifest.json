@@ -53,6 +53,66 @@
       "characters": 77
     },
     {
+      "id": "week-a",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "99edd4bc74aabb17",
+      "audio": "voiceover/biz-busy-not-profitable/week-a.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/week-a.json",
+      "durationInSeconds": 4.833,
+      "characters": 73
+    },
+    {
+      "id": "week-a2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6f5f5e3f0a31b803",
+      "audio": "voiceover/biz-busy-not-profitable/week-a2.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/week-a2.json",
+      "durationInSeconds": 3.762,
+      "characters": 50
+    },
+    {
+      "id": "week-b",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "e0dfe6288929c473",
+      "audio": "voiceover/biz-busy-not-profitable/week-b.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/week-b.json",
+      "durationInSeconds": 4.18,
+      "characters": 63
+    },
+    {
+      "id": "week-b2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "1c8cc4b9d2621a1f",
+      "audio": "voiceover/biz-busy-not-profitable/week-b2.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/week-b2.json",
+      "durationInSeconds": 3.579,
+      "characters": 60
+    },
+    {
+      "id": "compare",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "76efb44bf92bba4d",
+      "audio": "voiceover/biz-busy-not-profitable/compare.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/compare.json",
+      "durationInSeconds": 5.381,
+      "characters": 72
+    },
+    {
+      "id": "how",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "019ec2ce7fef71d4",
+      "audio": "voiceover/biz-busy-not-profitable/how.mp3",
+      "captions": "voiceover/biz-busy-not-profitable/how.json",
+      "durationInSeconds": 6.504,
+      "characters": 97
+    },
+    {
       "id": "lesson",
       "version": "v2",
       "model": "eleven_multilingual_v2",
@@ -73,5 +133,5 @@
       "characters": 39
     }
   ],
-  "generatedAt": "2026-11-12T18:40:15.502Z"
+  "generatedAt": "2026-11-13T19:56:22.324Z"
 }

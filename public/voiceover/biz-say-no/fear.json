@@ -1,0 +1,80 @@
+{
+  "id": "fear",
+  "words": [
+    {
+      "text": "Scared",
+      "start": 0,
+      "end": 0.604
+    },
+    {
+      "text": "of",
+      "start": 0.685,
+      "end": 0.789
+    },
+    {
+      "text": "an",
+      "start": 0.859,
+      "end": 0.917
+    },
+    {
+      "text": "empty",
+      "start": 0.964,
+      "end": 1.196
+    },
+    {
+      "text": "calendar?",
+      "start": 1.242,
+      "end": 1.823
+    },
+    {
+      "text": "Keep",
+      "start": 1.974,
+      "end": 2.218
+    },
+    {
+      "text": "one",
+      "start": 2.31,
+      "end": 2.543
+    },
+    {
+      "text": "flexible",
+      "start": 2.577,
+      "end": 3.135
+    },
+    {
+      "text": "day",
+      "start": 3.193,
+      "end": 3.448
+    },
+    {
+      "text": "a",
+      "start": 3.518,
+      "end": 3.564
+    },
+    {
+      "text": "week",
+      "start": 3.634,
+      "end": 3.866
+    },
+    {
+      "text": "for",
+      "start": 3.936,
+      "end": 4.075
+    },
+    {
+      "text": "the",
+      "start": 4.122,
+      "end": 4.191
+    },
+    {
+      "text": "maybe",
+      "start": 4.249,
+      "end": 4.528
+    },
+    {
+      "text": "jobs.",
+      "start": 4.586,
+      "end": 5.201
+    }
+  ]
+}
