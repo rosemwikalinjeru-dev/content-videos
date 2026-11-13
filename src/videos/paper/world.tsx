@@ -1,6 +1,6 @@
 import React from "react";
 import { interpolate, useCurrentFrame } from "remotion";
-import { P, PF, PH, PM, clampP, easeP, lerp, useSpr } from "./kit";
+import { P, PF, PH, PM, clampP, easeP, lerp, on, useSpr } from "./kit";
 
 // Shared pieces for the paper-format worlds (people, labels, the closing card).
 
@@ -49,7 +49,7 @@ export const Label: React.FC<{ x: number; y: number; children: React.ReactNode; 
 
 export const Pill: React.FC<{ x: number; y: number; text: string; color?: string; size?: number }> = ({ x, y, text, color = P.ink, size = 30 }) => (
   <div style={{ position: "absolute", left: x - 300, top: y, width: 600, textAlign: "center" }}>
-    <span style={{ display: "inline-block", background: color, color: "#fff", borderRadius: 999, padding: "10px 22px", font: `800 ${size}px/1 ${PH}`, whiteSpace: "nowrap" }}>{text}</span>
+    <span style={{ display: "inline-block", background: color, color: on(color), borderRadius: 999, padding: "10px 22px", font: `800 ${size}px/1 ${PH}`, whiteSpace: "nowrap" }}>{text}</span>
   </div>
 );
 
@@ -70,7 +70,7 @@ export const Person: React.FC<{ x: number; y: number; color?: string; s?: number
       <path d="M14 186 L14 130 Q14 82 60 82 Q106 82 106 130 L106 186 Z" fill={color} stroke={P.ink} strokeWidth={6} strokeLinejoin="round" />
     </svg>
     {mark && (
-      <div style={{ position: "absolute", left: 78 * s, top: -18 * s, width: 54, height: 54, borderRadius: 99, background: markColor, color: "#fff", textAlign: "center", font: `800 36px/54px ${PH}` }}>{mark}</div>
+      <div style={{ position: "absolute", left: 78 * s, top: -18 * s, width: 54, height: 54, borderRadius: 99, background: markColor, color: on(markColor), textAlign: "center", font: `800 36px/54px ${PH}` }}>{mark}</div>
     )}
     {label && (
       <div style={{ position: "absolute", left: -100, right: -100, top: 196 * s, textAlign: "center", font: `600 24px/1.1 ${PM}`, letterSpacing: "0.06em", color: P.soft }}>{label}</div>
@@ -103,7 +103,7 @@ export const Block: React.FC<{ x: number; y: number; w: number; h: number; color
   h,
   color,
   children,
-  ink = "#fff",
+  ink,
   dashed,
   opacity = 1,
   size = 26,
@@ -118,7 +118,7 @@ export const Block: React.FC<{ x: number; y: number; w: number; h: number; color
       borderRadius: 14,
       background: dashed ? "transparent" : color,
       border: dashed ? `5px dashed ${color}` : `4px solid ${P.ink}`,
-      color: dashed ? color : ink,
+      color: dashed ? color : (ink ?? on(color)),
       display: "flex",
       alignItems: "center",
       justifyContent: "center",

@@ -8,8 +8,8 @@ import { Block, Bubble, Cta, In, Label, Pill, tw } from "./world";
 // Hand-set illustration: it does not claim every bad-fit job gets replaced.
 
 const DAYS = ["MON", "TUE", "WED", "THU", "FRI"];
-const GOOD = "#3b6fc0";
-const BADFIT = "#9a9184";
+const GOOD = P.accent;
+const BADFIT = P.pill;
 const wx = (i: number) => 40 + i * 184;
 
 const WeekRow: React.FC<{ y?: number; h?: number; children?: React.ReactNode; hot?: number; hotColor?: string }> = ({ y = 60, h = 300, children, hot, hotColor = P.bad }) => (
@@ -95,7 +95,7 @@ const BlockScene: React.FC = () => {
         </Block>
       </WeekRow>
       {frame >= ideal && (
-        <Block x={gx} y={gy} w={148} h={150} color={P.accent} size={28} opacity={g > 1.6 ? (2 - g) / 0.4 : 1}>
+        <Block x={gx} y={gy} w={148} h={150} color={P.warm} size={28} opacity={g > 1.6 ? (2 - g) / 0.4 : 1}>
           Ideal customer
         </Block>
       )}
@@ -164,7 +164,7 @@ const Month: React.FC<{ mode: "fill" | "pain" | "fix" }> = ({ mode }) => {
           const out = tw(frame, down + BAD.indexOf(i) * 3, 14);
           if (REPLACED.includes(i) && frame >= good + REPLACED.indexOf(i) * 6)
             return (
-              <Block key={i} x={tx(i)} y={ty(i)} w={126} h={134} color={P.ok} size={26}>
+              <Block key={i} x={tx(i)} y={ty(i)} w={126} h={134} color={P.warm} size={26}>
                 Good job
               </Block>
             );

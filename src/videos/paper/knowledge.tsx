@@ -7,7 +7,7 @@ import { Block, Bubble, Cta, In, Label, Person, Pill, move, tw } from "./world";
 // "The day your best employee quits." One world: her, what she knows (cards around her head),
 // and a shared folder that starts empty and fills one page at a time. Demo story, no statistics.
 
-const HER = "#c2567a";
+const HER = P.accent;
 const KNOWS = ["Supplier codes", "Tricky customers", "The real schedule"];
 const kPos = [
   { x: 150, y: 150 },
@@ -136,7 +136,7 @@ const Week: React.FC<{ hits: [number, number, string][]; team?: number }> = ({ h
       {team !== undefined &&
         [0, 1, 2].map((i) => (
           <In key={i} at={team + i * 5}>
-            <Person x={260 + i * 220} y={790} color="#3b6fc0" s={1.25} mark="?" />
+            <Person x={260 + i * 220} y={790} color={P.warm} s={1.25} mark="?" />
           </In>
         ))}
     </>
@@ -202,7 +202,7 @@ const Test: React.FC = () => {
   return (
     <>
       <Page x={330} y={120} title="Supplier codes" s={1.6} checks={checks} />
-      <Person x={760} y={600} color="#3b6fc0" s={1.5} label="SOMEONE NEW" />
+      <Person x={760} y={600} color={P.warm} s={1.5} label="SOMEONE NEW" />
       <In at={without} pop>
         <Pill x={500} y={720} text="✓ Didn't need to ask her" color={P.ok} size={38} />
       </In>

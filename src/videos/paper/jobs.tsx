@@ -8,8 +8,8 @@ import { Block, Bubble, Cta, In, Label, Pill, tw } from "./world";
 // Demo numbers only (research/business-batch-1.md): time and travel counted, materials ignored.
 
 const JOBS = [
-  { n: "Job 1", pay: 400, site: "2 hrs on site", drive: "10 min away", px: 430, hours: 2.33, ph: 171, col: "#3b6fc0" },
-  { n: "Job 2", pay: 600, site: "A full day", drive: "1 hr drive each way", px: 880, hours: 10, ph: 60, col: "#8a5fb5" },
+  { n: "Job 1", pay: 400, site: "2 hrs on site", drive: "10 min away", px: 430, hours: 2.33, ph: 171, col: P.warm },
+  { n: "Job 2", pay: 600, site: "A full day", drive: "1 hr drive each way", px: 880, hours: 10, ph: 60, col: P.pill },
   { n: "Job 3", pay: 300, site: "45 min on site", drive: "5 min away", px: 300, hours: 0.92, ph: 327, col: P.accent },
 ];
 const HOME = 110;
@@ -77,7 +77,7 @@ const Hook: React.FC = () => {
         [0, 1, 2].map((r) => {
           const at = 4 + (d * 3 + r) * 3;
           if (frame < at) return null;
-          return <Block key={`${d}-${r}`} x={50 + d * 182} y={60 + r * 150} w={166} h={134} color={[JOBS[0].col, JOBS[1].col, P.warm][(d + r) % 3]} size={28} opacity={tw(frame, at, 6)} />;
+          return <Block key={`${d}-${r}`} x={50 + d * 182} y={60 + r * 150} w={166} h={134} color={[JOBS[0].col, JOBS[1].col, P.accent][(d + r) % 3]} size={28} opacity={tw(frame, at, 6)} />;
         }),
       )}
       <In at={money} pop>
@@ -106,7 +106,7 @@ const Reveal: React.FC = () => {
           <div key={j.n} style={{ position: "absolute", left: 60, top: y, width: 880, height: 170, borderRadius: 22, background: P.card, border: `5px solid ${t > 0.5 ? col : P.ink}`, boxSizing: "border-box", padding: "18px 24px" }}>
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline" }}>
               <span style={{ font: `800 44px/1 ${PH}`, color: P.ink }}>{j.n}</span>
-              <span style={{ font: `800 60px/1 ${PH}`, color: col }}>{t < 0.5 ? `$${j.pay}` : `≈ $${j.ph}/hr`}</span>
+              <span style={{ font: `800 60px/1 ${PH}`, color: col === P.warm ? P.ink : col }}>{t < 0.5 ? `$${j.pay}` : `≈ $${j.ph}/hr`}</span>
             </div>
             <div style={{ marginTop: 18, width: w, height: 36, borderRadius: 10, background: col }} />
           </div>

@@ -159,7 +159,7 @@ const Sim1: React.FC<{ part: 1 | 2 }> = ({ part }) => {
 // ---------- three desks ----------
 const DESKS = [
   { k: "you", x: D3.you, label: "ONLY YOU", color: P.accent, sub: "the big calls" },
-  { k: "team", x: D3.team, label: "YOUR TEAM", color: "#3b6fc0", sub: "with a rule" },
+  { k: "team", x: D3.team, label: "YOUR TEAM", color: P.pill, sub: "with a rule" },
   { k: "rule", x: D3.rule, label: "NOBODY", color: P.warm, sub: "the rule answers" },
 ] as const;
 
@@ -274,7 +274,7 @@ const Sim2: React.FC<{ part: 1 | 2 }> = ({ part }) => {
         return <Card key={i} x={p.x} y={p.y} text={label} state={frame >= doneAt ? "done" : "new"} scale={k === "you" ? 1.2 : 1} />;
       })}
       {(part === 2 || frame >= one) && <Counter x={D3.you} y={745} label="YOU" value={part === 2 ? 1 : count("you")} color={P.accent} />}
-      {(part === 2 || frame >= threeB) && <Counter x={D3.team} y={745} label="TEAM" value={part === 2 ? 3 : count("team")} color="#3b6fc0" />}
+      {(part === 2 || frame >= threeB) && <Counter x={D3.team} y={745} label="TEAM" value={part === 2 ? 3 : count("team")} color={P.pill} />}
       {(part === 2 || frame >= eight) && <Counter x={D3.rule} y={745} label="RULE" value={part === 2 ? 8 : count("rule")} color={P.warm} />}
     </>
   );

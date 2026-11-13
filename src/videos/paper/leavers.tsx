@@ -20,7 +20,7 @@ const Ten: React.FC<{ leaveAt?: number; speakAt?: number }> = ({ leaveAt, speakA
         const t = leaveAt !== undefined && !stays ? tw(frame, leaveAt + i * 3, 26) : 0;
         return (
           <div key={i} style={{ opacity: 1 - t * 0.85 }}>
-            <Person x={px(i) + t * 900} y={py(i)} color={stays ? P.accent : "#8fa3b8"} s={0.95} />
+            <Person x={px(i) + t * 900} y={py(i)} color={stays ? P.accent : "#9fb4d1"} s={0.95} />
           </div>
         );
       })}
@@ -114,7 +114,7 @@ const Bucket: React.FC<{ from: number; labels?: boolean }> = ({ from, labels }) 
           y = lerp(120, s.y, t) - Math.sin(t * Math.PI) * 60;
           bought = true;
         } else if (ph >= 0.9) bought = true;
-        return <div key={k} style={{ position: "absolute", left: x - 26, top: y - 26, width: 52, height: 52, borderRadius: 99, background: bought ? P.warm : "#8fa3b8", border: `4px solid ${P.ink}`, boxSizing: "border-box", opacity: op }} />;
+        return <div key={k} style={{ position: "absolute", left: x - 26, top: y - 26, width: 52, height: 52, borderRadius: 99, background: bought ? P.warm : "#9fb4d1", border: `4px solid ${P.ink}`, boxSizing: "border-box", opacity: op }} />;
       })}
       <Counter x={130} y={60} label="MONTH" value={MONTHS[month]} color={P.ink} />
       <Block x={700} y={70} w={220} h={90} color={P.warm} ink={P.ink} size={34}>
@@ -132,7 +132,7 @@ const Bucket: React.FC<{ from: number; labels?: boolean }> = ({ from, labels }) 
       )}
       <div style={{ position: "absolute", left: 40, top: 812, display: "flex", gap: 24, font: `600 24px/1 ${PM}`, color: P.soft }}>
         <span>
-          <span style={{ color: "#8fa3b8" }}>●</span> CUSTOMER
+          <span style={{ color: "#9fb4d1" }}>●</span> CUSTOMER
         </span>
         <span>
           <span style={{ color: P.warm }}>●</span> BOUGHT WITH ADS
@@ -245,7 +245,7 @@ const Win: React.FC = () => {
         const kept = !goes && frame >= stay;
         return (
           <div key={i} style={{ opacity: 1 - t * 0.8 }}>
-            <Person x={110 + i * 180 + t * 500} y={470} color={kept ? P.ok : "#8fa3b8"} s={1.15} mark={kept ? "✓" : undefined} markColor={P.ok} />
+            <Person x={110 + i * 180 + t * 500} y={470} color={kept ? P.ok : "#9fb4d1"} s={1.15} mark={kept ? "✓" : undefined} markColor={P.ok} />
           </div>
         );
       })}

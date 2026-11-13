@@ -11,20 +11,24 @@ import type { TimedScene, VideoProps, Word } from "../../lib/timing";
 // light paper background, kicker + two-tone headline, a presenter in the corner with a small
 // caption pill, and one illustrated world in the middle that things physically move through.
 
+// Rose's brand palette (sent 2026-11-13): #E3EEFB light, #12171C / #171B20 dark, #A8D8B9 mint, #2563EB blue.
+// Everything in this format is one of those five colours or a tint of one. No red, no amber.
 export const P = {
-  paper: "#f5eee2",
-  paper2: "#ebe1d0",
-  card: "#fffdf8",
-  ink: "#1f1b16",
-  soft: "#7a6f60",
-  line: "#cdbfa8",
-  accent: "#0e7c6b", // Rose's accent: deep teal
-  warm: "#e9a23b",
-  bad: "#d6452f",
-  ok: "#1f9d6b",
-  pill: "#221d17",
-  hi: "#FFD84D",
+  paper: "#E3EEFB",
+  paper2: "#cfdff3",
+  card: "#f6faff",
+  ink: "#12171C",
+  soft: "#4d5866",
+  line: "#b4c7e0",
+  accent: "#2563EB",
+  warm: "#A8D8B9", // mint: highlights, "done", the second category
+  bad: "#171B20", // problems are shown dark, fixes blue
+  ok: "#2563EB",
+  pill: "#171B20",
+  hi: "#A8D8B9",
 };
+/** readable text colour on top of a palette fill */
+export const on = (c: string) => (c === P.warm || c === P.paper2 || c === P.card ? P.ink : "#fff");
 // Brand typography (locked, see brand/visual-identity.md): Archivo for headlines and big numbers,
 // IBM Plex Sans for running text and captions, IBM Plex Mono for labels.
 export const PH = "Archivo, sans-serif";
@@ -149,9 +153,9 @@ export const Headline: React.FC<{ kicker: string; head: string; accent: string; 
   const p = useSpr(0);
   return (
     <div style={{ position: "absolute", left: 60, right: 60, top: 130, opacity: p, transform: `translateY(${(1 - p) * -16}px)` }}>
-      <div style={{ font: `600 28px/1 ${PM}`, letterSpacing: "0.16em", color: bad ? P.bad : P.accent }}>{kicker}</div>
+      <div style={{ font: `600 28px/1 ${PM}`, letterSpacing: "0.16em", color: bad ? P.ink : P.accent }}>{kicker}</div>
       <div style={{ font: `800 86px/1.0 ${PH}`, letterSpacing: "-0.02em", color: P.ink, marginTop: 14, textTransform: "uppercase" }}>
-        {head} <span style={{ color: bad ? P.bad : P.accent }}>{accent}</span>
+        {head} <span style={{ color: P.accent }}>{accent}</span>
       </div>
     </div>
   );
@@ -234,7 +238,7 @@ export const Desk: React.FC<{ x: number; y: number; label: string; color?: strin
 }) => (
   <div style={{ position: "absolute", left: x - w / 2, top: y - 60, width: w, opacity: dim ? 0.4 : 1 }}>
     <div style={{ textAlign: "center", marginBottom: 10 }}>
-      <span style={{ background: color, color: "#fff", borderRadius: 999, padding: "8px 20px", font: `800 32px/1 ${PH}`, letterSpacing: "-0.01em", whiteSpace: "nowrap" }}>{label}</span>
+      <span style={{ background: color, color: on(color), borderRadius: 999, padding: "8px 20px", font: `800 32px/1 ${PH}`, letterSpacing: "-0.01em", whiteSpace: "nowrap" }}>{label}</span>
     </div>
     <div style={{ height: 150, borderRadius: 22, background: P.paper2, border: `5px solid ${P.ink}`, boxShadow: `0 10px 0 ${P.line}` }} />
     <div style={{ margin: "0 auto", width: 44, height: 46, background: P.paper2, borderLeft: `5px solid ${P.ink}`, borderRight: `5px solid ${P.ink}` }} />
@@ -255,7 +259,8 @@ export const Card: React.FC<{ x: number; y: number; text: string; state?: "new" 
   scale = 1,
   rot = 0,
 }) => {
-  const border = state === "wait" ? P.bad : state === "done" ? P.ok : P.ink;
+  const border = P.ink;
+  const fill = state === "wait" ? P.bad : state === "done" ? P.warm : P.card;
   return (
     <div
       style={{
@@ -265,7 +270,7 @@ export const Card: React.FC<{ x: number; y: number; text: string; state?: "new" 
         width: 156,
         height: 96,
         borderRadius: 12,
-        background: P.card,
+        background: fill,
         border: `4px solid ${border}`,
         boxShadow: "0 5px 0 #0002",
         display: "flex",
@@ -273,7 +278,7 @@ export const Card: React.FC<{ x: number; y: number; text: string; state?: "new" 
         justifyContent: "center",
         textAlign: "center",
         font: `700 25px/1.05 ${PF}`,
-        color: P.ink,
+        color: on(fill),
         transform: `scale(${scale}) rotate(${rot}deg)`,
       }}
     >
@@ -288,7 +293,7 @@ export const Card: React.FC<{ x: number; y: number; text: string; state?: "new" 
 export const Counter: React.FC<{ x: number; y: number; label: string; value: string | number; color: string }> = ({ x, y, label, value, color }) => (
   <div style={{ position: "absolute", left: x - 120, top: y, width: 240, textAlign: "center", background: P.card, border: `4px solid ${color}`, borderRadius: 18, padding: "10px 6px" }}>
     <div style={{ font: `600 26px/1 ${PM}`, letterSpacing: "0.06em", color: P.soft }}>{label}</div>
-    <div style={{ font: `800 60px/1.05 ${PH}`, color }}>{value}</div>
+    <div style={{ font: `800 60px/1.05 ${PH}`, color: color === P.warm ? P.ink : color }}>{value}</div>
   </div>
 );
 
