@@ -27,6 +27,36 @@
       "text": "Per hour of your time, the smallest job wins. And the biggest one comes last."
     },
     {
+      "id": "week-a",
+      "version": "v2",
+      "text": "Now run a whole week. Week A, you say yes to every big job that comes in."
+    },
+    {
+      "id": "week-a2",
+      "version": "v2",
+      "text": "Five long days. A lot of driving. A full calendar."
+    },
+    {
+      "id": "week-b",
+      "version": "v2",
+      "text": "Week B, you pick the jobs close by, that pay well for the time."
+    },
+    {
+      "id": "week-b2",
+      "version": "v2",
+      "text": "Four shorter days. Fewer miles. And you're done on Thursday."
+    },
+    {
+      "id": "compare",
+      "version": "v2",
+      "text": "Same week. Same you. In this demo, week B earns more, in half the hours."
+    },
+    {
+      "id": "how",
+      "version": "v2",
+      "text": "To find yours, write down three things for every job. What it paid. Hours on site. Hours driving."
+    },
+    {
       "id": "lesson",
       "version": "v2",
       "text": "So stop asking how busy you are. Ask what each hour brings in."

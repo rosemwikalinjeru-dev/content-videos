@@ -22,6 +22,16 @@
       "text": "Complaining feels awkward. Leaving is easy."
     },
     {
+      "id": "sim",
+      "version": "v2",
+      "text": "Run a year of that. Every month, a few quiet ones leave. And you replace them with ads."
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "text": "It's a bucket with a hole in it. And you keep paying to refill it."
+    },
+    {
       "id": "fix",
       "version": "v2",
       "text": "So ask first. One short message after every visit. How did we do?"
@@ -30,6 +40,21 @@
       "id": "then",
       "version": "v2",
       "text": "And when someone says, not great, call them the same day."
+    },
+    {
+      "id": "say",
+      "version": "v2",
+      "text": "What do you say on that call? Three things. I'm sorry. What happened? And here's what I'll do."
+    },
+    {
+      "id": "win",
+      "version": "v2",
+      "text": "Some will still leave. But some will stay, because you're the one who called."
+    },
+    {
+      "id": "learn",
+      "version": "v2",
+      "text": "And you find out what to fix, before the next customer runs into it."
     },
     {
       "id": "cta",

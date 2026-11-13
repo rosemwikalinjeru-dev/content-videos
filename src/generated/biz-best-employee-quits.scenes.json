@@ -17,6 +17,16 @@
       "text": "When she leaves, all of that leaves with her."
     },
     {
+      "id": "sim",
+      "version": "v2",
+      "text": "Watch the first week without her. An order goes in late. A regular gets the wrong price. The schedule gets double booked."
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "text": "Nobody did anything wrong. They just didn't know what she knew."
+    },
+    {
       "id": "fix",
       "version": "v2",
       "text": "The fix takes an hour a week. Pick one task, and have her write down the steps."
@@ -25,6 +35,21 @@
       "id": "test",
       "version": "v2",
       "text": "Then test it. Can someone new follow those steps, without asking her?"
+    },
+    {
+      "id": "which",
+      "version": "v2",
+      "text": "Which task first? The one only she can do, that you'd miss tomorrow."
+    },
+    {
+      "id": "keep",
+      "version": "v2",
+      "text": "Keep the steps where everyone can find them. One shared folder. One page per task."
+    },
+    {
+      "id": "bonus",
+      "version": "v2",
+      "text": "And she'll thank you for it. She can finally take a real vacation."
     },
     {
       "id": "result",

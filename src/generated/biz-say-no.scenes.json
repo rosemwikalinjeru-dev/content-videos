@@ -22,6 +22,21 @@
       "text": "The wrong job didn't just pay less. It cost you the right one."
     },
     {
+      "id": "sim",
+      "version": "v2",
+      "text": "Run a month both ways. Month one, you say yes to everything. Twenty jobs. Six of them bad fits."
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "text": "Those six eat your slots, your miles, and your patience."
+    },
+    {
+      "id": "sim3",
+      "version": "v2",
+      "text": "Month two, you turn those six down. Good jobs take some of their places. And you get your evenings back."
+    },
+    {
       "id": "fix",
       "version": "v2",
       "text": "Write down three rules for a good job. Your area, your minimum price, your type of work."
@@ -30,6 +45,16 @@
       "id": "use",
       "version": "v2",
       "text": "When a request breaks two of them, say no, and point them to someone else."
+    },
+    {
+      "id": "how",
+      "version": "v2",
+      "text": "Saying no politely is one sentence. That's not a fit for us, but here's someone who can help."
+    },
+    {
+      "id": "fear",
+      "version": "v2",
+      "text": "Scared of an empty calendar? Keep one flexible day a week for the maybe jobs."
     },
     {
       "id": "cta",
