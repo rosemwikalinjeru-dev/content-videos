@@ -1,0 +1,35 @@
+# hook
+You probably don't need an A-I agent. You might need one of these three.
+
+# one
+Number one, a chatbot. It answers questions. That's all it does.
+
+# two
+Number two, an automation. It follows a checklist. Same steps, every time.
+
+# three
+Number three, an agent. It decides the next step itself, and uses your tools to do it.
+
+# sim
+Watch one request go to all three. A customer writes, can I move my appointment to Friday?
+
+# sim1
+The chatbot says, sure, call the office. Helpful. But nothing actually moved.
+
+# sim2
+The automation sends the reschedule link. Great, if Friday is simple.
+
+# sim3
+The agent checks Friday, sees it's full, offers Thursday, and books it. Then it tells you.
+
+# cost
+More freedom means more ways to go wrong. So an agent needs rules, and someone checking.
+
+# pick
+So pick by the job. Same answer every time? Chatbot. Same steps every time? Automation.
+
+# pick2
+Only when the steps change every time, do you need an agent.
+
+# cta
+Follow for one business fix every week.

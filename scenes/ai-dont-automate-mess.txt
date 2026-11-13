@@ -1,0 +1,35 @@
+# hook
+Automating a broken process doesn't fix it. It just breaks it faster.
+
+# mess
+Here's a demo. A new customer, and seven steps before they're booked. Two of them are done twice.
+
+# slow
+By hand, it's slow. But a person catches the mistakes.
+
+# auto
+Now automate it, exactly as it is. Same seven steps. Same two mistakes.
+
+# sim
+Watch ten customers go through. The mistakes don't stop. They just arrive faster.
+
+# why
+Because an automation does what it's told. Even when what it's told makes no sense.
+
+# fix1
+So fix the process first. For every step, ask, why do we do this?
+
+# fix2
+Cut the steps nobody needs. Seven becomes four.
+
+# then
+Then automate the four. And keep one spot where a person checks.
+
+# sim2
+Same ten customers. Four steps. Nothing typed twice. One check before it goes out.
+
+# rule
+Simplify first. Automate second. In that order, every time.
+
+# cta
+Follow for one business fix every week.

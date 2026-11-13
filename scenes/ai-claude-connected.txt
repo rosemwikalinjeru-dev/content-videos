@@ -1,0 +1,35 @@
+# hook
+Ask A-I about your business, and it guesses. Connect it, and it looks things up.
+
+# alone
+On its own, Claude knows a lot about the world. And nothing about your Tuesday.
+
+# ask1
+So you ask, who is booked tomorrow? And it says, I can't see your calendar.
+
+# connect
+Now connect it. Your calendar, your email, your files. Each one is a door you choose to open.
+
+# ask2
+Ask again. Who is booked tomorrow? This time it opens the calendar, and reads you the list.
+
+# more
+Ask, which customers emailed and got no reply? It checks the inbox, and tells you.
+
+# sim
+Watch one demo morning. Three questions. Three doors. And no hour of clicking around.
+
+# limit
+Here's the honest part. It only sees what you connect. And it's only as good as what's in there.
+
+# check
+Set it to ask before it sends anything. You stay the one who approves.
+
+# start
+Start small. Connect one thing. Ask the one question you already answer every morning.
+
+# verdict
+A-I that guesses is a toy. A-I that can look things up is a helper.
+
+# cta
+Follow for one business fix every week.

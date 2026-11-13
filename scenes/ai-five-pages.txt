@@ -1,0 +1,35 @@
+# hook
+A-I doesn't know your prices, your area, or your rules. Until you write them down.
+
+# problem
+Ask it to answer a customer, and it sounds confident. And gets your business wrong.
+
+# why
+It isn't broken. Nobody told it how you work.
+
+# p1
+So give it five pages. Page one. What you do, and what you don't.
+
+# p2
+Page two. Your prices, or how you quote.
+
+# p3
+Page three. Where you work, and when.
+
+# p4
+Page four. Your rules. Deposits, cancellations, and what needs your okay.
+
+# p5
+Page five. How you talk to customers. With a few real examples.
+
+# sim
+Watch the same question, before and after. Do you work Saturdays?
+
+# sim2
+Before, a guess. After, it reads page three. Yes, until two. Here's how to book.
+
+# bonus
+And those five pages help every new hire too. Human or not.
+
+# cta
+Follow for one business fix every week.
