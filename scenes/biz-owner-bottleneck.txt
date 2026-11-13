@@ -7,6 +7,12 @@ Quotes, refunds, schedule changes, supplier questions. They all land on one desk
 # cost
 So when you're on a job, or asleep, everything stops.
 
+# sim
+Watch one day. Twelve decisions come in. And every one of them waits for you.
+
+# sim2
+By five o'clock, three are done. Nine are still waiting. And so are your customers.
+
 # sort
 Sort them into three piles. Only you. Someone else, with a rule. And nobody at all.
 
@@ -15,6 +21,15 @@ A rule sounds like this. Refunds under fifty dollars, the front desk decides.
 
 # result
 Now the small stuff moves without you. And you keep the decisions that need you.
+
+# sim3
+Run the same day again. Eight follow a rule. Three go to your team. One comes to you.
+
+# sim4
+Everything's answered by five. And you handled the one that mattered.
+
+# start
+Start this week. Every time someone asks you something, ask yourself. Could a rule answer this?
 
 # cta
 Follow for one business fix every week.

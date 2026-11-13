@@ -16,5 +16,23 @@ Four. How many customers come back.
 # n5
 Five. How many days it takes you to get paid.
 
+# sim
+Here's why they matter. Watch one month move through all five.
+
+# sim2
+A hundred leads. Forty book. At three hundred dollars a job, that's twelve thousand.
+
+# sim3
+Now lift just one number. Fifty book. That's fifteen thousand. Same leads. Same price.
+
+# sim4
+Or get paid in ten days, not forty. Same money, a month sooner.
+
+# where
+Each number points to a different fix. Leads is marketing. Booked is follow-up. Paid is invoicing.
+
+# start
+You don't need software. A notebook, and five lines every Friday, will do.
+
 # cta
 Write them down every Friday. The weak one shows you what to fix. Follow for more.

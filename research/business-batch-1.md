@@ -30,3 +30,32 @@ the team, pricing, numbers, retention and saying no. **None ends with "automate 
 | five-numbers | Dashboard: five gauges fill one at a time; one turns red ("the weak one") |
 | silent-leavers | Ten customer figures; one speech bubble; nine walk out a door; then a "How did we do?" message |
 | say-no | Week calendar: a grey block lands on Thursday; a gold block bounces off; then a 3-rule checklist |
+
+---
+
+## One-minute versions (added 2026-11-13)
+
+Rose asked for ~1 minute each, more detail, with simulation and motion graphics. Every previously approved line is
+kept unchanged (so its voice take is reused); new scenes were inserted. **New lines need approval before voicing.**
+
+### Demo arithmetic behind the new simulation lines (all labelled DEMO on screen)
+
+| Video | New claim | Working |
+|---|---|---|
+| busy | "Week B earns more, in half the hours" | Week A: 5 × Job 2 ($600, 10h incl. driving) = **$3,000 in 50h**. Week B: 4 days × (2 × Job 1 + 2 × Job 3) = 4 × $1,400 = **$5,600 in 26h** (2×2.33h + 2×0.92h = 6.5h/day). Time + travel only |
+| bottleneck | 12 decisions: 3 done, 9 waiting → then 8 by rule, 3 to the team, 1 to the owner | Hand-set illustration; 8 + 3 + 1 = 12 |
+| cheapest | A "might tell a friend"; B asks again, calls on a Sunday; "ten of each" | Demo story, hedged ("might"). No statistic |
+| best employee | Late order, wrong price, double booking in week one | Demo story |
+| price | Year: dial 1 ≈ $5,000 and ~100 extra jobs; dial 2 ≈ $10,000 and no extra jobs | +$100/wk × 52 = $5,200; +2 jobs × 52 = 104. +$200/wk × 52 = $10,400 |
+| price | "Lose almost three in ten and still break even" | At $220 the margin is $70/job; $500 ÷ $70 = 7.14 jobs → can lose 2.86 of 10 = 28.6% |
+| five numbers | 100 leads, 40 book, $300/job = $12,000; 50 book = $15,000 | 40 × 300; 50 × 300 |
+| five numbers | Paid in 10 days, not 40: "same money, a month sooner" | 30 days' difference |
+| leavers | "A few quiet ones leave every month, replaced with ads"; bucket with a hole | Illustration; no rate claimed |
+| say no | Month one: 20 jobs, 6 bad fits. Month two: "good jobs take some of their places" | Hand-set illustration; deliberately does not claim all 6 are replaced |
+
+### Simulation planned per video
+busy: two weeks fill up side by side with running $ and hours · bottleneck: 12 decision dots queue at one desk, then
+route three ways · cheapest: two month-long timelines, then ten A's vs ten B's · best employee: a week of small
+failures landing on a calendar · price: a 52-week counter for each dial, then a break-even row of ten customers ·
+five numbers: one month flowing through a five-stage funnel · leavers: a leaking bucket refilled by ads over 12 months ·
+say no: two month grids, bad-fit jobs greyed out then swapped.

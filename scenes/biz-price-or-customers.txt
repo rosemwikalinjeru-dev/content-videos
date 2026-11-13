@@ -10,8 +10,20 @@ Dial one, more customers. Two more jobs a week adds a hundred dollars in profit.
 # price
 Dial two, price. Ten percent higher adds two hundred in profit. For the same work.
 
+# sim
+Now run it for a year. Dial one. About five thousand dollars more. And a hundred extra jobs to do.
+
+# sim2
+Dial two. About ten thousand more. And not one extra job.
+
 # catch
 The catch? Some customers may leave. So test it on new customers first.
+
+# lose
+How many customers could you lose, and still break even? In this demo, almost three in ten.
+
+# how
+So don't guess. Raise it for new customers, and watch what happens for a month.
 
 # cta
 Know both dials before you chase more work. Follow for one business fix every week.

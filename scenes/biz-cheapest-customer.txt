@@ -10,6 +10,21 @@ Customer B wants a discount. Then come five calls, two changes, and a late payme
 # flip
 On paper, B still looks like income. Count your hours, and it flips.
 
+# month
+Follow both for a month. Customer A books again, and might tell a friend.
+
+# month2
+Customer B asks for another discount. And calls you on a Sunday.
+
+# sim
+Now picture ten of each. The A's fill your week calmly. The B's fill your phone.
+
+# spot
+How do you spot a B early? They argue about the price, before they ask about the work.
+
+# reply
+So have one line ready. That's our price, and here's what it includes.
+
 # lesson
 Price isn't just money. It's also a filter for who you work with.
 

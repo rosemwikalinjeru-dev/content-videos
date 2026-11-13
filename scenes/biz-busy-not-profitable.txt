@@ -13,6 +13,24 @@ Job three pays three hundred. It takes forty-five minutes, five minutes away.
 # reveal
 Per hour of your time, the smallest job wins. And the biggest one comes last.
 
+# week-a
+Now run a whole week. Week A, you say yes to every big job that comes in.
+
+# week-a2
+Five long days. A lot of driving. A full calendar.
+
+# week-b
+Week B, you pick the jobs close by, that pay well for the time.
+
+# week-b2
+Four shorter days. Fewer miles. And you're done on Thursday.
+
+# compare
+Same week. Same you. In this demo, week B earns more, in half the hours.
+
+# how
+To find yours, write down three things for every job. What it paid. Hours on site. Hours driving.
+
 # lesson
 So stop asking how busy you are. Ask what each hour brings in.
 

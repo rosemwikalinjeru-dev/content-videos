@@ -7,11 +7,26 @@ She knows the supplier codes, the tricky customers, and how the schedule really 
 # leave
 When she leaves, all of that leaves with her.
 
+# sim
+Watch the first week without her. An order goes in late. A regular gets the wrong price. The schedule gets double booked.
+
+# sim2
+Nobody did anything wrong. They just didn't know what she knew.
+
 # fix
 The fix takes an hour a week. Pick one task, and have her write down the steps.
 
 # test
 Then test it. Can someone new follow those steps, without asking her?
+
+# which
+Which task first? The one only she can do, that you'd miss tomorrow.
+
+# keep
+Keep the steps where everyone can find them. One shared folder. One page per task.
+
+# bonus
+And she'll thank you for it. She can finally take a real vacation.
 
 # result
 Ten weeks later, ten tasks live in the business. Not in one head.
