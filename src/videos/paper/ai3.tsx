@@ -123,7 +123,7 @@ export const AI_MORNING: Record<string, PaperScene> = {
     ),
   },
   now: { kicker: "TODAY", head: "The answer lives in", accent: "five places", bad: true, Stage: () => <Q_Now /> },
-  cost: { kicker: "TODAY", head: "So mornings start with", accent: "clicking around", bad: true, Stage: () => <Q_Now hunt /> },
+  cost: { kicker: "TODAY", head: "Mornings start", accent: "with clicking", bad: true, Stage: () => <Q_Now hunt /> },
   idea: {
     kicker: "PICTURE THIS",
     head: "One",
@@ -343,7 +343,7 @@ const Two: React.FC<{ part: 0 | 1 | 2 }> = ({ part }) => {
           </Label>
           {[0, 1, 2].map((r) => {
             const ok = frame >= second + r * 14;
-            return <Chip key={r} x={560} y={410 + r * 92} w={400} h={80} text={ok ? `✓ Lead ${r + 1} answered` : `New lead ${r + 1}`} kind={ok ? "ok" : "plain"} size={30} />;
+            return <Chip key={r} x={540} y={410 + r * 92} w={400} h={80} text={ok ? `✓ Lead ${r + 1} answered` : `New lead ${r + 1}`} kind={ok ? "ok" : "plain"} size={30} />;
           })}
           <Label x={760} y={700} w={400} mono size={24}>
             OWNER IS ON A JOB

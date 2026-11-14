@@ -285,7 +285,7 @@ const J_Review: React.FC = () => {
 };
 
 export const AI_JOB: Record<string, PaperScene> = {
-  hook: { kicker: "SETTING UP AN AI AGENT", head: "No job description?", accent: "No hire.", Stage: J_Hook },
+  hook: { kicker: "SETTING UP AN AI AGENT", head: "No description?", accent: "No hire.", Stage: J_Hook },
   bad: { kicker: "HOW MOST SET IT UP", head: "Here's everything.", accent: "Go help.", bad: true, Stage: () => <J_Keys /> },
   risk: { kicker: "THE RISK", head: "Every key,", accent: "no instructions", bad: true, Stage: () => <J_Keys risk /> },
   j1: { kicker: "LINE ONE", head: "What's", accent: "the job?", Stage: () => <JobCard upTo={0} /> },
@@ -439,7 +439,7 @@ export const AI_NOT_FOR_AI: Record<string, PaperScene> = {
       />
     ),
   },
-  three2: { kicker: "THE SPLIT", head: "AI takes the message.", accent: "You answer.", Stage: () => <Handoff ai="Takes the message" you="Gives the answer" at="shouldnt" /> },
+  three2: { kicker: "THE SPLIT", head: "AI notes it.", accent: "You answer.", Stage: () => <Handoff ai="Takes the message" you="Gives the answer" at="shouldnt" /> },
   flip: { kicker: "SO WHAT DOES AI GET?", head: "The", accent: "repeated stuff", Stage: N_Flip },
   sim: { kicker: "DEMO DAY · NOT REAL DATA", head: "20 messages", accent: "come in", Stage: () => <N_Sim part={1} /> },
   sim2: { kicker: "DEMO DAY · NOT REAL DATA", head: "The few,", accent: "in front of you", Stage: () => <N_Sim part={2} /> },

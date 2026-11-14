@@ -480,7 +480,7 @@ const O_Start: React.FC = () => (
 );
 
 export const AI_OPERATING_SYSTEM: Record<string, PaperScene> = {
-  hook: { kicker: "AI OPERATING SYSTEM, PLAINLY", head: "Your business runs on", accent: "your memory", bad: true, Stage: () => <Owner /> },
+  hook: { kicker: "AI OPERATING SYSTEM, PLAINLY", head: "It runs on", accent: "your memory", bad: true, Stage: () => <Owner /> },
   head: { kicker: "WHAT YOU'RE CARRYING", head: "It's all in", accent: "your head", bad: true, Stage: O_Head },
   risk: { kicker: "THE RISK", head: "You're out.", accent: "It forgets.", bad: true, Stage: O_Risk },
   idea: { kicker: "WHAT IT REALLY IS", head: "One place that", accent: "remembers", Stage: O_Idea },
