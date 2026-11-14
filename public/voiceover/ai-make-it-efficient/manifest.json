@@ -1,0 +1,137 @@
+{
+  "video": "ai-make-it-efficient",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f9185ef940da8ef6",
+      "audio": "voiceover/ai-make-it-efficient/hook.mp3",
+      "captions": "voiceover/ai-make-it-efficient/hook.json",
+      "durationInSeconds": 6.818,
+      "characters": 104
+    },
+    {
+      "id": "toy",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "8a31f644f87b76cb",
+      "audio": "voiceover/ai-make-it-efficient/toy.mp3",
+      "captions": "voiceover/ai-make-it-efficient/toy.json",
+      "durationInSeconds": 6.113,
+      "characters": 93
+    },
+    {
+      "id": "five",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "ff263a3356360c2c",
+      "audio": "voiceover/ai-make-it-efficient/five.mp3",
+      "captions": "voiceover/ai-make-it-efficient/five.json",
+      "durationInSeconds": 3.527,
+      "characters": 55
+    },
+    {
+      "id": "s1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "35496c878bfb8223",
+      "audio": "voiceover/ai-make-it-efficient/s1.mp3",
+      "captions": "voiceover/ai-make-it-efficient/s1.json",
+      "durationInSeconds": 5.016,
+      "characters": 75
+    },
+    {
+      "id": "s2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3b0c2986d47c0755",
+      "audio": "voiceover/ai-make-it-efficient/s2.mp3",
+      "captions": "voiceover/ai-make-it-efficient/s2.json",
+      "durationInSeconds": 5.198,
+      "characters": 72
+    },
+    {
+      "id": "s3",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "ac4e648cdbf5b2ae",
+      "audio": "voiceover/ai-make-it-efficient/s3.mp3",
+      "captions": "voiceover/ai-make-it-efficient/s3.json",
+      "durationInSeconds": 5.042,
+      "characters": 78
+    },
+    {
+      "id": "s4",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6806f226b22fb070",
+      "audio": "voiceover/ai-make-it-efficient/s4.mp3",
+      "captions": "voiceover/ai-make-it-efficient/s4.json",
+      "durationInSeconds": 5.564,
+      "characters": 79
+    },
+    {
+      "id": "s5",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "d7fbd6dcd19a9916",
+      "audio": "voiceover/ai-make-it-efficient/s5.mp3",
+      "captions": "voiceover/ai-make-it-efficient/s5.json",
+      "durationInSeconds": 4.728,
+      "characters": 77
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "899ebb8e854579ae",
+      "audio": "voiceover/ai-make-it-efficient/sim.mp3",
+      "captions": "voiceover/ai-make-it-efficient/sim.json",
+      "durationInSeconds": 6.687,
+      "characters": 86
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "1f7d3308515f356f",
+      "audio": "voiceover/ai-make-it-efficient/sim2.mp3",
+      "captions": "voiceover/ai-make-it-efficient/sim2.json",
+      "durationInSeconds": 6.687,
+      "characters": 95
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "b329569c75cb40c2",
+      "audio": "voiceover/ai-make-it-efficient/verdict.mp3",
+      "captions": "voiceover/ai-make-it-efficient/verdict.json",
+      "durationInSeconds": 2.638,
+      "characters": 39
+    },
+    {
+      "id": "start",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "60eb425d05d77c12",
+      "audio": "voiceover/ai-make-it-efficient/start.mp3",
+      "captions": "voiceover/ai-make-it-efficient/start.json",
+      "durationInSeconds": 5.042,
+      "characters": 71
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/ai-make-it-efficient/cta.mp3",
+      "captions": "voiceover/ai-make-it-efficient/cta.json",
+      "durationInSeconds": 2.638,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-13T21:55:45.070Z"
+}

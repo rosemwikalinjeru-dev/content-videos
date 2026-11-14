@@ -1,0 +1,65 @@
+{
+  "video": "ai-agent-job-description",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "You'd never hire someone without a job description. So don't do it to an A-I."
+    },
+    {
+      "id": "bad",
+      "version": "v2",
+      "text": "Most people set up an A-I agent like this. Here's everything. Go help."
+    },
+    {
+      "id": "risk",
+      "version": "v2",
+      "text": "That's a new hire with every key to the building, and no instructions."
+    },
+    {
+      "id": "j1",
+      "version": "v2",
+      "text": "Line one. What's the job? One job. Answer new leads. Not, run my business."
+    },
+    {
+      "id": "j2",
+      "version": "v2",
+      "text": "Line two. What can it touch? The calendar, yes. The bank account, no."
+    },
+    {
+      "id": "j3",
+      "version": "v2",
+      "text": "Line three. What must it never do? No refunds. No made-up prices. No medical advice."
+    },
+    {
+      "id": "j4",
+      "version": "v2",
+      "text": "Line four. Who does it ask? When it isn't sure, it hands off to a person. By name."
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "text": "Watch a demo. A customer asks for a discount. That's not in the job."
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "text": "So the agent doesn't guess. It says, let me get the owner, and passes it on."
+    },
+    {
+      "id": "review",
+      "version": "v2",
+      "text": "And like any new hire, check its work. Read its conversations in the first week."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "A good agent isn't the smartest one. It's the one that knows its job."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "now",
+  "words": [
+    {
+      "text": "Today,",
+      "start": 0,
+      "end": 0.778
+    },
+    {
+      "text": "the",
+      "start": 0.906,
+      "end": 1.033
+    },
+    {
+      "text": "answer",
+      "start": 1.091,
+      "end": 1.428
+    },
+    {
+      "text": "lives",
+      "start": 1.498,
+      "end": 1.753
+    },
+    {
+      "text": "in",
+      "start": 1.834,
+      "end": 1.962
+    },
+    {
+      "text": "five",
+      "start": 2.043,
+      "end": 2.31
+    },
+    {
+      "text": "places.",
+      "start": 2.368,
+      "end": 2.995
+    },
+    {
+      "text": "The",
+      "start": 3.111,
+      "end": 3.239
+    },
+    {
+      "text": "calendar.",
+      "start": 3.297,
+      "end": 3.901
+    },
+    {
+      "text": "The",
+      "start": 4.017,
+      "end": 4.156
+    },
+    {
+      "text": "inbox.",
+      "start": 4.238,
+      "end": 4.888
+    },
+    {
+      "text": "The",
+      "start": 4.981,
+      "end": 5.108
+    },
+    {
+      "text": "invoices.",
+      "start": 5.178,
+      "end": 5.851
+    },
+    {
+      "text": "A",
+      "start": 5.875,
+      "end": 5.933
+    },
+    {
+      "text": "notebook.",
+      "start": 6.014,
+      "end": 6.536
+    },
+    {
+      "text": "Your",
+      "start": 6.56,
+      "end": 6.734
+    },
+    {
+      "text": "head.",
+      "start": 6.792,
+      "end": 7.291
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "start",
+  "words": [
+    {
+      "text": "So",
+      "start": 0,
+      "end": 0.36
+    },
+    {
+      "text": "start",
+      "start": 0.406,
+      "end": 0.789
+    },
+    {
+      "text": "with",
+      "start": 0.859,
+      "end": 1.022
+    },
+    {
+      "text": "step",
+      "start": 1.057,
+      "end": 1.312
+    },
+    {
+      "text": "one",
+      "start": 1.428,
+      "end": 1.614
+    },
+    {
+      "text": "this",
+      "start": 1.649,
+      "end": 1.8
+    },
+    {
+      "text": "week.",
+      "start": 1.858,
+      "end": 2.183
+    },
+    {
+      "text": "One",
+      "start": 2.299,
+      "end": 2.543
+    },
+    {
+      "text": "task",
+      "start": 2.577,
+      "end": 2.984
+    },
+    {
+      "text": "you",
+      "start": 3.111,
+      "end": 3.251
+    },
+    {
+      "text": "repeat",
+      "start": 3.344,
+      "end": 3.704
+    },
+    {
+      "text": "every",
+      "start": 3.82,
+      "end": 4.087
+    },
+    {
+      "text": "single",
+      "start": 4.145,
+      "end": 4.481
+    },
+    {
+      "text": "day.",
+      "start": 4.528,
+      "end": 5.016
+    }
+  ]
+}

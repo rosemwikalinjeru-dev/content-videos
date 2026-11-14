@@ -1,0 +1,60 @@
+{
+  "id": "one",
+  "words": [
+    {
+      "text": "Number",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "one,",
+      "start": 0.511,
+      "end": 0.743
+    },
+    {
+      "text": "a",
+      "start": 0.789,
+      "end": 0.871
+    },
+    {
+      "text": "chatbot.",
+      "start": 0.929,
+      "end": 1.521
+    },
+    {
+      "text": "It",
+      "start": 1.637,
+      "end": 1.811
+    },
+    {
+      "text": "answers",
+      "start": 1.881,
+      "end": 2.287
+    },
+    {
+      "text": "questions.",
+      "start": 2.357,
+      "end": 3.007
+    },
+    {
+      "text": "That's",
+      "start": 3.181,
+      "end": 3.437
+    },
+    {
+      "text": "all",
+      "start": 3.495,
+      "end": 3.657
+    },
+    {
+      "text": "it",
+      "start": 3.715,
+      "end": 3.785
+    },
+    {
+      "text": "does.",
+      "start": 3.831,
+      "end": 4.412
+    }
+  ]
+}

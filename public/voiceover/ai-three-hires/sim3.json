@@ -1,0 +1,85 @@
+{
+  "id": "sim3",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.244
+    },
+    {
+      "text": "agent",
+      "start": 0.302,
+      "end": 0.673
+    },
+    {
+      "text": "checks",
+      "start": 0.697,
+      "end": 0.964
+    },
+    {
+      "text": "Friday,",
+      "start": 1.033,
+      "end": 1.614
+    },
+    {
+      "text": "sees",
+      "start": 1.788,
+      "end": 2.055
+    },
+    {
+      "text": "it's",
+      "start": 2.125,
+      "end": 2.276
+    },
+    {
+      "text": "full,",
+      "start": 2.322,
+      "end": 2.647
+    },
+    {
+      "text": "offers",
+      "start": 2.694,
+      "end": 3.019
+    },
+    {
+      "text": "Thursday,",
+      "start": 3.077,
+      "end": 3.599
+    },
+    {
+      "text": "and",
+      "start": 3.715,
+      "end": 3.901
+    },
+    {
+      "text": "books",
+      "start": 3.959,
+      "end": 4.214
+    },
+    {
+      "text": "it.",
+      "start": 4.261,
+      "end": 4.516
+    },
+    {
+      "text": "Then",
+      "start": 4.632,
+      "end": 4.83
+    },
+    {
+      "text": "it",
+      "start": 4.899,
+      "end": 5.004
+    },
+    {
+      "text": "tells",
+      "start": 5.039,
+      "end": 5.306
+    },
+    {
+      "text": "you.",
+      "start": 5.352,
+      "end": 5.712
+    }
+  ]
+}

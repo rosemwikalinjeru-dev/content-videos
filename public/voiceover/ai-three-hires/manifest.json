@@ -1,0 +1,127 @@
+{
+  "video": "ai-three-hires",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "42ce88723667c168",
+      "audio": "voiceover/ai-three-hires/hook.mp3",
+      "captions": "voiceover/ai-three-hires/hook.json",
+      "durationInSeconds": 4.78,
+      "characters": 72
+    },
+    {
+      "id": "one",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "4d55493e6702cfb6",
+      "audio": "voiceover/ai-three-hires/one.mp3",
+      "captions": "voiceover/ai-three-hires/one.json",
+      "durationInSeconds": 4.441,
+      "characters": 64
+    },
+    {
+      "id": "two",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9e06bc4efe415d33",
+      "audio": "voiceover/ai-three-hires/two.mp3",
+      "captions": "voiceover/ai-three-hires/two.json",
+      "durationInSeconds": 5.198,
+      "characters": 74
+    },
+    {
+      "id": "three",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "44f2b24246afebb8",
+      "audio": "voiceover/ai-three-hires/three.mp3",
+      "captions": "voiceover/ai-three-hires/three.json",
+      "durationInSeconds": 5.616,
+      "characters": 86
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "81e43e7bd25ced72",
+      "audio": "voiceover/ai-three-hires/sim.mp3",
+      "captions": "voiceover/ai-three-hires/sim.json",
+      "durationInSeconds": 6.034,
+      "characters": 90
+    },
+    {
+      "id": "sim1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "99e9aae722570fb2",
+      "audio": "voiceover/ai-three-hires/sim1.mp3",
+      "captions": "voiceover/ai-three-hires/sim1.json",
+      "durationInSeconds": 5.277,
+      "characters": 77
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "12e14a1a861e83b2",
+      "audio": "voiceover/ai-three-hires/sim2.mp3",
+      "captions": "voiceover/ai-three-hires/sim2.json",
+      "durationInSeconds": 4.624,
+      "characters": 69
+    },
+    {
+      "id": "sim3",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "1c9841ce00ea7374",
+      "audio": "voiceover/ai-three-hires/sim3.mp3",
+      "captions": "voiceover/ai-three-hires/sim3.json",
+      "durationInSeconds": 5.747,
+      "characters": 90
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "28fd4ffe673412ba",
+      "audio": "voiceover/ai-three-hires/cost.mp3",
+      "captions": "voiceover/ai-three-hires/cost.json",
+      "durationInSeconds": 5.251,
+      "characters": 88
+    },
+    {
+      "id": "pick",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "1dba2c69068c646b",
+      "audio": "voiceover/ai-three-hires/pick.mp3",
+      "captions": "voiceover/ai-three-hires/pick.json",
+      "durationInSeconds": 5.851,
+      "characters": 87
+    },
+    {
+      "id": "pick2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "58c91c37674b40e4",
+      "audio": "voiceover/ai-three-hires/pick2.mp3",
+      "captions": "voiceover/ai-three-hires/pick2.json",
+      "durationInSeconds": 3.657,
+      "characters": 60
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/ai-three-hires/cta.mp3",
+      "captions": "voiceover/ai-three-hires/cta.json",
+      "durationInSeconds": 2.638,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-13T21:55:04.825Z"
+}

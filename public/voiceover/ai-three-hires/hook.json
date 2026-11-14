@@ -1,0 +1,75 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "You",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "probably",
+      "start": 0.209,
+      "end": 0.627
+    },
+    {
+      "text": "don't",
+      "start": 0.685,
+      "end": 0.917
+    },
+    {
+      "text": "need",
+      "start": 0.987,
+      "end": 1.242
+    },
+    {
+      "text": "an",
+      "start": 1.312,
+      "end": 1.451
+    },
+    {
+      "text": "A-I",
+      "start": 1.602,
+      "end": 1.939
+    },
+    {
+      "text": "agent.",
+      "start": 2.055,
+      "end": 2.612
+    },
+    {
+      "text": "You",
+      "start": 2.786,
+      "end": 2.902
+    },
+    {
+      "text": "might",
+      "start": 2.961,
+      "end": 3.193
+    },
+    {
+      "text": "need",
+      "start": 3.309,
+      "end": 3.553
+    },
+    {
+      "text": "one",
+      "start": 3.634,
+      "end": 3.82
+    },
+    {
+      "text": "of",
+      "start": 3.855,
+      "end": 3.913
+    },
+    {
+      "text": "these",
+      "start": 3.971,
+      "end": 4.168
+    },
+    {
+      "text": "three.",
+      "start": 4.203,
+      "end": 4.737
+    }
+  ]
+}

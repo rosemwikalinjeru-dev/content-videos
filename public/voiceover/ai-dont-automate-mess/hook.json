@@ -1,0 +1,65 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Automating",
+      "start": 0,
+      "end": 0.708
+    },
+    {
+      "text": "a",
+      "start": 0.778,
+      "end": 0.813
+    },
+    {
+      "text": "broken",
+      "start": 0.859,
+      "end": 1.161
+    },
+    {
+      "text": "process",
+      "start": 1.219,
+      "end": 1.602
+    },
+    {
+      "text": "doesn't",
+      "start": 1.66,
+      "end": 1.962
+    },
+    {
+      "text": "fix",
+      "start": 2.02,
+      "end": 2.229
+    },
+    {
+      "text": "it.",
+      "start": 2.31,
+      "end": 2.485
+    },
+    {
+      "text": "It",
+      "start": 2.659,
+      "end": 2.81
+    },
+    {
+      "text": "just",
+      "start": 2.879,
+      "end": 3.077
+    },
+    {
+      "text": "breaks",
+      "start": 3.123,
+      "end": 3.402
+    },
+    {
+      "text": "it",
+      "start": 3.448,
+      "end": 3.518
+    },
+    {
+      "text": "faster.",
+      "start": 3.576,
+      "end": 4.272
+    }
+  ]
+}

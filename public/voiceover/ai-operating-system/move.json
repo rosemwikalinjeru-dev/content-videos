@@ -1,0 +1,80 @@
+{
+  "id": "move",
+  "words": [
+    {
+      "text": "Move",
+      "start": 0,
+      "end": 0.406
+    },
+    {
+      "text": "each",
+      "start": 0.499,
+      "end": 0.766
+    },
+    {
+      "text": "thing",
+      "start": 0.824,
+      "end": 1.126
+    },
+    {
+      "text": "out",
+      "start": 1.3,
+      "end": 1.556
+    },
+    {
+      "text": "of",
+      "start": 1.602,
+      "end": 1.672
+    },
+    {
+      "text": "your",
+      "start": 1.741,
+      "end": 1.892
+    },
+    {
+      "text": "head,",
+      "start": 1.962,
+      "end": 2.252
+    },
+    {
+      "text": "and",
+      "start": 2.299,
+      "end": 2.461
+    },
+    {
+      "text": "onto",
+      "start": 2.543,
+      "end": 2.798
+    },
+    {
+      "text": "the",
+      "start": 2.868,
+      "end": 2.949
+    },
+    {
+      "text": "board.",
+      "start": 2.995,
+      "end": 3.274
+    },
+    {
+      "text": "One",
+      "start": 3.32,
+      "end": 3.506
+    },
+    {
+      "text": "at",
+      "start": 3.541,
+      "end": 3.622
+    },
+    {
+      "text": "a",
+      "start": 3.68,
+      "end": 3.704
+    },
+    {
+      "text": "time.",
+      "start": 3.762,
+      "end": 4.319
+    }
+  ]
+}

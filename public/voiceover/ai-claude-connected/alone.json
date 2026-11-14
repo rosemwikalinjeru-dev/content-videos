@@ -1,0 +1,80 @@
+{
+  "id": "alone",
+  "words": [
+    {
+      "text": "On",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "its",
+      "start": 0.36,
+      "end": 0.511
+    },
+    {
+      "text": "own,",
+      "start": 0.592,
+      "end": 0.871
+    },
+    {
+      "text": "Claude",
+      "start": 0.917,
+      "end": 1.289
+    },
+    {
+      "text": "knows",
+      "start": 1.335,
+      "end": 1.602
+    },
+    {
+      "text": "a",
+      "start": 1.66,
+      "end": 1.695
+    },
+    {
+      "text": "lot",
+      "start": 1.753,
+      "end": 1.939
+    },
+    {
+      "text": "about",
+      "start": 1.985,
+      "end": 2.241
+    },
+    {
+      "text": "the",
+      "start": 2.276,
+      "end": 2.345
+    },
+    {
+      "text": "world.",
+      "start": 2.403,
+      "end": 2.74
+    },
+    {
+      "text": "And",
+      "start": 2.775,
+      "end": 2.914
+    },
+    {
+      "text": "nothing",
+      "start": 2.984,
+      "end": 3.262
+    },
+    {
+      "text": "about",
+      "start": 3.32,
+      "end": 3.611
+    },
+    {
+      "text": "your",
+      "start": 3.669,
+      "end": 3.796
+    },
+    {
+      "text": "Tuesday.",
+      "start": 3.831,
+      "end": 4.551
+    }
+  ]
+}

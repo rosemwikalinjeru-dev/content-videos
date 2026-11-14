@@ -1,0 +1,65 @@
+{
+  "id": "bonus",
+  "words": [
+    {
+      "text": "And",
+      "start": 0,
+      "end": 0.255
+    },
+    {
+      "text": "those",
+      "start": 0.313,
+      "end": 0.557
+    },
+    {
+      "text": "five",
+      "start": 0.592,
+      "end": 0.824
+    },
+    {
+      "text": "pages",
+      "start": 0.871,
+      "end": 1.265
+    },
+    {
+      "text": "help",
+      "start": 1.335,
+      "end": 1.591
+    },
+    {
+      "text": "every",
+      "start": 1.707,
+      "end": 1.974
+    },
+    {
+      "text": "new",
+      "start": 2.032,
+      "end": 2.159
+    },
+    {
+      "text": "hire",
+      "start": 2.229,
+      "end": 2.45
+    },
+    {
+      "text": "too.",
+      "start": 2.496,
+      "end": 2.74
+    },
+    {
+      "text": "Human",
+      "start": 2.786,
+      "end": 3.158
+    },
+    {
+      "text": "or",
+      "start": 3.228,
+      "end": 3.297
+    },
+    {
+      "text": "not.",
+      "start": 3.355,
+      "end": 3.855
+    }
+  ]
+}

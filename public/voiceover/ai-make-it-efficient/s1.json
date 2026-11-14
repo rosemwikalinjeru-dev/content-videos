@@ -1,0 +1,65 @@
+{
+  "id": "s1",
+  "words": [
+    {
+      "text": "One.",
+      "start": 0,
+      "end": 0.499
+    },
+    {
+      "text": "Pick",
+      "start": 0.673,
+      "end": 0.871
+    },
+    {
+      "text": "one",
+      "start": 0.952,
+      "end": 1.091
+    },
+    {
+      "text": "repeated",
+      "start": 1.126,
+      "end": 1.533
+    },
+    {
+      "text": "task.",
+      "start": 1.567,
+      "end": 1.927
+    },
+    {
+      "text": "Not",
+      "start": 1.997,
+      "end": 2.183
+    },
+    {
+      "text": "everything.",
+      "start": 2.241,
+      "end": 2.728
+    },
+    {
+      "text": "One.",
+      "start": 2.844,
+      "end": 3.146
+    },
+    {
+      "text": "Like",
+      "start": 3.355,
+      "end": 3.587
+    },
+    {
+      "text": "answering",
+      "start": 3.634,
+      "end": 4.063
+    },
+    {
+      "text": "new",
+      "start": 4.145,
+      "end": 4.284
+    },
+    {
+      "text": "leads.",
+      "start": 4.342,
+      "end": 4.969
+    }
+  ]
+}

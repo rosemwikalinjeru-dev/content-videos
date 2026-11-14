@@ -1,0 +1,65 @@
+{
+  "id": "p5",
+  "words": [
+    {
+      "text": "Page",
+      "start": 0,
+      "end": 0.43
+    },
+    {
+      "text": "five.",
+      "start": 0.464,
+      "end": 0.731
+    },
+    {
+      "text": "How",
+      "start": 0.778,
+      "end": 0.94
+    },
+    {
+      "text": "you",
+      "start": 1.01,
+      "end": 1.103
+    },
+    {
+      "text": "talk",
+      "start": 1.161,
+      "end": 1.358
+    },
+    {
+      "text": "to",
+      "start": 1.428,
+      "end": 1.498
+    },
+    {
+      "text": "customers.",
+      "start": 1.567,
+      "end": 2.159
+    },
+    {
+      "text": "With",
+      "start": 2.194,
+      "end": 2.368
+    },
+    {
+      "text": "a",
+      "start": 2.415,
+      "end": 2.438
+    },
+    {
+      "text": "few",
+      "start": 2.508,
+      "end": 2.659
+    },
+    {
+      "text": "real",
+      "start": 2.728,
+      "end": 2.984
+    },
+    {
+      "text": "examples.",
+      "start": 3.053,
+      "end": 3.947
+    }
+  ]
+}

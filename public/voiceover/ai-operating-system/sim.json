@@ -1,0 +1,95 @@
+{
+  "id": "sim",
+  "words": [
+    {
+      "text": "Now",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "watch",
+      "start": 0.36,
+      "end": 0.569
+    },
+    {
+      "text": "a",
+      "start": 0.604,
+      "end": 0.627
+    },
+    {
+      "text": "demo",
+      "start": 0.673,
+      "end": 0.929
+    },
+    {
+      "text": "Monday.",
+      "start": 0.987,
+      "end": 1.393
+    },
+    {
+      "text": "A",
+      "start": 1.451,
+      "end": 1.533
+    },
+    {
+      "text": "lead",
+      "start": 1.625,
+      "end": 1.869
+    },
+    {
+      "text": "comes",
+      "start": 1.962,
+      "end": 2.229
+    },
+    {
+      "text": "in.",
+      "start": 2.299,
+      "end": 2.438
+    },
+    {
+      "text": "It",
+      "start": 2.508,
+      "end": 2.659
+    },
+    {
+      "text": "lands",
+      "start": 2.728,
+      "end": 2.984
+    },
+    {
+      "text": "on",
+      "start": 3.019,
+      "end": 3.088
+    },
+    {
+      "text": "the",
+      "start": 3.135,
+      "end": 3.216
+    },
+    {
+      "text": "board,",
+      "start": 3.274,
+      "end": 3.622
+    },
+    {
+      "text": "not",
+      "start": 3.715,
+      "end": 3.913
+    },
+    {
+      "text": "in",
+      "start": 3.971,
+      "end": 4.04
+    },
+    {
+      "text": "your",
+      "start": 4.098,
+      "end": 4.238
+    },
+    {
+      "text": "memory.",
+      "start": 4.296,
+      "end": 4.923
+    }
+  ]
+}

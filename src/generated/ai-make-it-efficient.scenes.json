@@ -1,0 +1,70 @@
+{
+  "video": "ai-make-it-efficient",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Chances are, a competitor of yours already uses A-I. The question is whether it's actually helping them."
+    },
+    {
+      "id": "toy",
+      "version": "v2",
+      "text": "A lot of A-I use looks like this. A question here. An email there. Nice, but nothing changes."
+    },
+    {
+      "id": "five",
+      "version": "v2",
+      "text": "Here's what the useful version looks like. Five things."
+    },
+    {
+      "id": "s1",
+      "version": "v2",
+      "text": "One. Pick one repeated task. Not everything. One. Like answering new leads."
+    },
+    {
+      "id": "s2",
+      "version": "v2",
+      "text": "Two. Tell it how your business works. Prices, area, rules. Written down."
+    },
+    {
+      "id": "s3",
+      "version": "v2",
+      "text": "Three. Connect it to your tools, so it can look things up instead of guessing."
+    },
+    {
+      "id": "s4",
+      "version": "v2",
+      "text": "Four. Keep a person checking. Especially where money or customers are involved."
+    },
+    {
+      "id": "s5",
+      "version": "v2",
+      "text": "Five. Count. Before and after. How long did a reply take last month? And now?"
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "text": "Watch two demo businesses. Same A-I. One just chats with it. The other gives it a job."
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "text": "The first gets nice paragraphs. The second gets new leads answered while the owner is on a job."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "Same tool. The setup is the difference."
+    },
+    {
+      "id": "start",
+      "version": "v2",
+      "text": "So start with step one this week. One task you repeat every single day."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

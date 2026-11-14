@@ -1,0 +1,60 @@
+{
+  "id": "lists",
+  "words": [
+    {
+      "text": "Four",
+      "start": 0,
+      "end": 0.337
+    },
+    {
+      "text": "lists.",
+      "start": 0.395,
+      "end": 0.766
+    },
+    {
+      "text": "Your",
+      "start": 0.813,
+      "end": 0.964
+    },
+    {
+      "text": "customers.",
+      "start": 1.022,
+      "end": 1.625
+    },
+    {
+      "text": "Your",
+      "start": 1.66,
+      "end": 1.811
+    },
+    {
+      "text": "jobs.",
+      "start": 1.869,
+      "end": 2.276
+    },
+    {
+      "text": "Your",
+      "start": 2.45,
+      "end": 2.612
+    },
+    {
+      "text": "money.",
+      "start": 2.659,
+      "end": 3.007
+    },
+    {
+      "text": "And",
+      "start": 3.042,
+      "end": 3.193
+    },
+    {
+      "text": "your",
+      "start": 3.251,
+      "end": 3.379
+    },
+    {
+      "text": "follow-ups.",
+      "start": 3.425,
+      "end": 4.226
+    }
+  ]
+}

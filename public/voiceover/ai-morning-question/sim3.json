@@ -1,0 +1,75 @@
+{
+  "id": "sim3",
+  "words": [
+    {
+      "text": "It",
+      "start": 0,
+      "end": 0.325
+    },
+    {
+      "text": "checks",
+      "start": 0.372,
+      "end": 0.627
+    },
+    {
+      "text": "the",
+      "start": 0.662,
+      "end": 0.755
+    },
+    {
+      "text": "inbox.",
+      "start": 0.836,
+      "end": 1.393
+    },
+    {
+      "text": "A",
+      "start": 1.637,
+      "end": 1.707
+    },
+    {
+      "text": "customer",
+      "start": 1.823,
+      "end": 2.334
+    },
+    {
+      "text": "asked",
+      "start": 2.415,
+      "end": 2.728
+    },
+    {
+      "text": "for",
+      "start": 2.763,
+      "end": 2.914
+    },
+    {
+      "text": "a",
+      "start": 2.984,
+      "end": 3.03
+    },
+    {
+      "text": "quote",
+      "start": 3.146,
+      "end": 3.564
+    },
+    {
+      "text": "on",
+      "start": 3.646,
+      "end": 3.796
+    },
+    {
+      "text": "Friday.",
+      "start": 3.878,
+      "end": 4.365
+    },
+    {
+      "text": "Nobody",
+      "start": 4.574,
+      "end": 5.004
+    },
+    {
+      "text": "replied.",
+      "start": 5.074,
+      "end": 5.851
+    }
+  ]
+}

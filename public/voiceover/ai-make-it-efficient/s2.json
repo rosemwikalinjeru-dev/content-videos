@@ -1,0 +1,65 @@
+{
+  "id": "s2",
+  "words": [
+    {
+      "text": "Two.",
+      "start": 0,
+      "end": 0.418
+    },
+    {
+      "text": "Tell",
+      "start": 0.697,
+      "end": 0.929
+    },
+    {
+      "text": "it",
+      "start": 0.987,
+      "end": 1.068
+    },
+    {
+      "text": "how",
+      "start": 1.115,
+      "end": 1.242
+    },
+    {
+      "text": "your",
+      "start": 1.312,
+      "end": 1.44
+    },
+    {
+      "text": "business",
+      "start": 1.486,
+      "end": 1.858
+    },
+    {
+      "text": "works.",
+      "start": 1.904,
+      "end": 2.334
+    },
+    {
+      "text": "Prices,",
+      "start": 2.508,
+      "end": 3.228
+    },
+    {
+      "text": "area,",
+      "start": 3.274,
+      "end": 3.75
+    },
+    {
+      "text": "rules.",
+      "start": 3.785,
+      "end": 4.191
+    },
+    {
+      "text": "Written",
+      "start": 4.214,
+      "end": 4.551
+    },
+    {
+      "text": "down.",
+      "start": 4.609,
+      "end": 5.155
+    }
+  ]
+}

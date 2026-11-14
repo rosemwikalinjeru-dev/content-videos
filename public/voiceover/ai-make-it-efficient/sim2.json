@@ -1,0 +1,95 @@
+{
+  "id": "sim2",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "first",
+      "start": 0.209,
+      "end": 0.546
+    },
+    {
+      "text": "gets",
+      "start": 0.673,
+      "end": 1.01
+    },
+    {
+      "text": "nice",
+      "start": 1.161,
+      "end": 1.451
+    },
+    {
+      "text": "paragraphs.",
+      "start": 1.509,
+      "end": 2.241
+    },
+    {
+      "text": "The",
+      "start": 2.485,
+      "end": 2.612
+    },
+    {
+      "text": "second",
+      "start": 2.67,
+      "end": 3.042
+    },
+    {
+      "text": "gets",
+      "start": 3.1,
+      "end": 3.367
+    },
+    {
+      "text": "new",
+      "start": 3.495,
+      "end": 3.669
+    },
+    {
+      "text": "leads",
+      "start": 3.727,
+      "end": 3.971
+    },
+    {
+      "text": "answered",
+      "start": 4.052,
+      "end": 4.586
+    },
+    {
+      "text": "while",
+      "start": 4.795,
+      "end": 5.062
+    },
+    {
+      "text": "the",
+      "start": 5.097,
+      "end": 5.178
+    },
+    {
+      "text": "owner",
+      "start": 5.259,
+      "end": 5.55
+    },
+    {
+      "text": "is",
+      "start": 5.631,
+      "end": 5.782
+    },
+    {
+      "text": "on",
+      "start": 5.851,
+      "end": 5.933
+    },
+    {
+      "text": "a",
+      "start": 5.991,
+      "end": 6.026
+    },
+    {
+      "text": "job.",
+      "start": 6.095,
+      "end": 6.641
+    }
+  ]
+}

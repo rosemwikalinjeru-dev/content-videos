@@ -1,0 +1,90 @@
+{
+  "id": "ask2",
+  "words": [
+    {
+      "text": "Ask",
+      "start": 0,
+      "end": 0.453
+    },
+    {
+      "text": "again.",
+      "start": 0.511,
+      "end": 0.824
+    },
+    {
+      "text": "Who",
+      "start": 0.848,
+      "end": 1.022
+    },
+    {
+      "text": "is",
+      "start": 1.091,
+      "end": 1.173
+    },
+    {
+      "text": "booked",
+      "start": 1.242,
+      "end": 1.474
+    },
+    {
+      "text": "tomorrow?",
+      "start": 1.509,
+      "end": 1.974
+    },
+    {
+      "text": "This",
+      "start": 2.009,
+      "end": 2.206
+    },
+    {
+      "text": "time",
+      "start": 2.276,
+      "end": 2.624
+    },
+    {
+      "text": "it",
+      "start": 2.682,
+      "end": 2.833
+    },
+    {
+      "text": "opens",
+      "start": 2.891,
+      "end": 3.181
+    },
+    {
+      "text": "the",
+      "start": 3.216,
+      "end": 3.297
+    },
+    {
+      "text": "calendar,",
+      "start": 3.344,
+      "end": 3.924
+    },
+    {
+      "text": "and",
+      "start": 3.959,
+      "end": 4.133
+    },
+    {
+      "text": "reads",
+      "start": 4.203,
+      "end": 4.458
+    },
+    {
+      "text": "you",
+      "start": 4.516,
+      "end": 4.69
+    },
+    {
+      "text": "the",
+      "start": 4.818,
+      "end": 4.957
+    },
+    {
+      "text": "list.",
+      "start": 5.027,
+      "end": 5.619
+    }
+  ]
+}

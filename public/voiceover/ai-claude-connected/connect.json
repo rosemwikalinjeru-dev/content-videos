@@ -1,0 +1,95 @@
+{
+  "id": "connect",
+  "words": [
+    {
+      "text": "Now",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "connect",
+      "start": 0.348,
+      "end": 0.708
+    },
+    {
+      "text": "it.",
+      "start": 0.743,
+      "end": 1.01
+    },
+    {
+      "text": "Your",
+      "start": 1.161,
+      "end": 1.335
+    },
+    {
+      "text": "calendar,",
+      "start": 1.382,
+      "end": 1.974
+    },
+    {
+      "text": "your",
+      "start": 2.043,
+      "end": 2.206
+    },
+    {
+      "text": "email,",
+      "start": 2.276,
+      "end": 2.717
+    },
+    {
+      "text": "your",
+      "start": 2.786,
+      "end": 2.937
+    },
+    {
+      "text": "files.",
+      "start": 2.995,
+      "end": 3.448
+    },
+    {
+      "text": "Each",
+      "start": 3.727,
+      "end": 3.947
+    },
+    {
+      "text": "one",
+      "start": 4.017,
+      "end": 4.18
+    },
+    {
+      "text": "is",
+      "start": 4.226,
+      "end": 4.331
+    },
+    {
+      "text": "a",
+      "start": 4.389,
+      "end": 4.412
+    },
+    {
+      "text": "door",
+      "start": 4.481,
+      "end": 4.69
+    },
+    {
+      "text": "you",
+      "start": 4.76,
+      "end": 4.841
+    },
+    {
+      "text": "choose",
+      "start": 4.899,
+      "end": 5.132
+    },
+    {
+      "text": "to",
+      "start": 5.155,
+      "end": 5.224
+    },
+    {
+      "text": "open.",
+      "start": 5.317,
+      "end": 5.944
+    }
+  ]
+}

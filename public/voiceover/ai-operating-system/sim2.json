@@ -1,0 +1,70 @@
+{
+  "id": "sim2",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.244
+    },
+    {
+      "text": "quote",
+      "start": 0.302,
+      "end": 0.569
+    },
+    {
+      "text": "goes",
+      "start": 0.604,
+      "end": 0.801
+    },
+    {
+      "text": "out.",
+      "start": 0.871,
+      "end": 1.231
+    },
+    {
+      "text": "The",
+      "start": 1.265,
+      "end": 1.382
+    },
+    {
+      "text": "follow-up",
+      "start": 1.44,
+      "end": 1.846
+    },
+    {
+      "text": "is",
+      "start": 1.916,
+      "end": 1.997
+    },
+    {
+      "text": "set.",
+      "start": 2.043,
+      "end": 2.38
+    },
+    {
+      "text": "Nobody",
+      "start": 2.45,
+      "end": 2.902
+    },
+    {
+      "text": "had",
+      "start": 2.961,
+      "end": 3.111
+    },
+    {
+      "text": "to",
+      "start": 3.146,
+      "end": 3.204
+    },
+    {
+      "text": "remember",
+      "start": 3.274,
+      "end": 3.669
+    },
+    {
+      "text": "anything.",
+      "start": 3.75,
+      "end": 4.505
+    }
+  ]
+}

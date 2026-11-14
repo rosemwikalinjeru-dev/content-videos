@@ -1,0 +1,65 @@
+{
+  "id": "two",
+  "words": [
+    {
+      "text": "Number",
+      "start": 0,
+      "end": 0.325
+    },
+    {
+      "text": "two,",
+      "start": 0.383,
+      "end": 0.708
+    },
+    {
+      "text": "an",
+      "start": 0.836,
+      "end": 1.01
+    },
+    {
+      "text": "automation.",
+      "start": 1.103,
+      "end": 1.846
+    },
+    {
+      "text": "It",
+      "start": 1.892,
+      "end": 2.032
+    },
+    {
+      "text": "follows",
+      "start": 2.101,
+      "end": 2.438
+    },
+    {
+      "text": "a",
+      "start": 2.519,
+      "end": 2.566
+    },
+    {
+      "text": "checklist.",
+      "start": 2.635,
+      "end": 3.286
+    },
+    {
+      "text": "Same",
+      "start": 3.402,
+      "end": 3.692
+    },
+    {
+      "text": "steps,",
+      "start": 3.727,
+      "end": 4.203
+    },
+    {
+      "text": "every",
+      "start": 4.272,
+      "end": 4.563
+    },
+    {
+      "text": "time.",
+      "start": 4.621,
+      "end": 5.155
+    }
+  ]
+}

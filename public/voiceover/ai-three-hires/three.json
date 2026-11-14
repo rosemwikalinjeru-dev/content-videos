@@ -1,0 +1,90 @@
+{
+  "id": "three",
+  "words": [
+    {
+      "text": "Number",
+      "start": 0,
+      "end": 0.313
+    },
+    {
+      "text": "three,",
+      "start": 0.36,
+      "end": 0.743
+    },
+    {
+      "text": "an",
+      "start": 0.917,
+      "end": 1.08
+    },
+    {
+      "text": "agent.",
+      "start": 1.161,
+      "end": 1.718
+    },
+    {
+      "text": "It",
+      "start": 1.8,
+      "end": 1.974
+    },
+    {
+      "text": "decides",
+      "start": 2.032,
+      "end": 2.473
+    },
+    {
+      "text": "the",
+      "start": 2.543,
+      "end": 2.635
+    },
+    {
+      "text": "next",
+      "start": 2.705,
+      "end": 2.926
+    },
+    {
+      "text": "step",
+      "start": 2.961,
+      "end": 3.158
+    },
+    {
+      "text": "itself,",
+      "start": 3.216,
+      "end": 3.634
+    },
+    {
+      "text": "and",
+      "start": 3.657,
+      "end": 3.785
+    },
+    {
+      "text": "uses",
+      "start": 3.866,
+      "end": 4.191
+    },
+    {
+      "text": "your",
+      "start": 4.261,
+      "end": 4.4
+    },
+    {
+      "text": "tools",
+      "start": 4.458,
+      "end": 4.748
+    },
+    {
+      "text": "to",
+      "start": 4.795,
+      "end": 4.876
+    },
+    {
+      "text": "do",
+      "start": 4.946,
+      "end": 5.062
+    },
+    {
+      "text": "it.",
+      "start": 5.143,
+      "end": 5.573
+    }
+  ]
+}

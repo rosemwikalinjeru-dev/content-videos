@@ -1,0 +1,50 @@
+{
+  "id": "why",
+  "words": [
+    {
+      "text": "It",
+      "start": 0,
+      "end": 0.255
+    },
+    {
+      "text": "isn't",
+      "start": 0.313,
+      "end": 0.534
+    },
+    {
+      "text": "broken.",
+      "start": 0.569,
+      "end": 0.964
+    },
+    {
+      "text": "Nobody",
+      "start": 0.998,
+      "end": 1.37
+    },
+    {
+      "text": "told",
+      "start": 1.428,
+      "end": 1.66
+    },
+    {
+      "text": "it",
+      "start": 1.707,
+      "end": 1.811
+    },
+    {
+      "text": "how",
+      "start": 1.892,
+      "end": 2.009
+    },
+    {
+      "text": "you",
+      "start": 2.055,
+      "end": 2.148
+    },
+    {
+      "text": "work.",
+      "start": 2.229,
+      "end": 2.786
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "sim2",
+  "words": [
+    {
+      "text": "Before,",
+      "start": 0,
+      "end": 0.639
+    },
+    {
+      "text": "a",
+      "start": 0.673,
+      "end": 0.731
+    },
+    {
+      "text": "guess.",
+      "start": 0.813,
+      "end": 1.149
+    },
+    {
+      "text": "After,",
+      "start": 1.393,
+      "end": 1.858
+    },
+    {
+      "text": "it",
+      "start": 1.916,
+      "end": 2.078
+    },
+    {
+      "text": "reads",
+      "start": 2.148,
+      "end": 2.345
+    },
+    {
+      "text": "page",
+      "start": 2.415,
+      "end": 2.682
+    },
+    {
+      "text": "three.",
+      "start": 2.717,
+      "end": 3.042
+    },
+    {
+      "text": "Yes,",
+      "start": 3.135,
+      "end": 3.46
+    },
+    {
+      "text": "until",
+      "start": 3.541,
+      "end": 3.855
+    },
+    {
+      "text": "two.",
+      "start": 3.924,
+      "end": 4.156
+    },
+    {
+      "text": "Here's",
+      "start": 4.307,
+      "end": 4.551
+    },
+    {
+      "text": "how",
+      "start": 4.598,
+      "end": 4.714
+    },
+    {
+      "text": "to",
+      "start": 4.783,
+      "end": 4.865
+    },
+    {
+      "text": "book.",
+      "start": 4.934,
+      "end": 5.387
+    }
+  ]
+}

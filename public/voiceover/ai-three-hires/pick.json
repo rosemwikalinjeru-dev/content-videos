@@ -1,0 +1,80 @@
+{
+  "id": "pick",
+  "words": [
+    {
+      "text": "So",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "pick",
+      "start": 0.372,
+      "end": 0.569
+    },
+    {
+      "text": "by",
+      "start": 0.65,
+      "end": 0.766
+    },
+    {
+      "text": "the",
+      "start": 0.824,
+      "end": 0.906
+    },
+    {
+      "text": "job.",
+      "start": 0.964,
+      "end": 1.254
+    },
+    {
+      "text": "Same",
+      "start": 1.289,
+      "end": 1.533
+    },
+    {
+      "text": "answer",
+      "start": 1.567,
+      "end": 1.892
+    },
+    {
+      "text": "every",
+      "start": 1.962,
+      "end": 2.194
+    },
+    {
+      "text": "time?",
+      "start": 2.241,
+      "end": 2.554
+    },
+    {
+      "text": "Chatbot.",
+      "start": 2.67,
+      "end": 3.344
+    },
+    {
+      "text": "Same",
+      "start": 3.518,
+      "end": 3.808
+    },
+    {
+      "text": "steps",
+      "start": 3.831,
+      "end": 4.156
+    },
+    {
+      "text": "every",
+      "start": 4.214,
+      "end": 4.435
+    },
+    {
+      "text": "time?",
+      "start": 4.481,
+      "end": 4.76
+    },
+    {
+      "text": "Automation.",
+      "start": 4.807,
+      "end": 5.805
+    }
+  ]
+}

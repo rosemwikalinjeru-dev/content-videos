@@ -1,0 +1,65 @@
+{
+  "video": "ai-claude-connected",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Ask A-I about your business, and it guesses. Connect it, and it looks things up."
+    },
+    {
+      "id": "alone",
+      "version": "v2",
+      "text": "On its own, Claude knows a lot about the world. And nothing about your Tuesday."
+    },
+    {
+      "id": "ask1",
+      "version": "v2",
+      "text": "So you ask, who is booked tomorrow? And it says, I can't see your calendar."
+    },
+    {
+      "id": "connect",
+      "version": "v2",
+      "text": "Now connect it. Your calendar, your email, your files. Each one is a door you choose to open."
+    },
+    {
+      "id": "ask2",
+      "version": "v2",
+      "text": "Ask again. Who is booked tomorrow? This time it opens the calendar, and reads you the list."
+    },
+    {
+      "id": "more",
+      "version": "v2",
+      "text": "Ask, which customers emailed and got no reply? It checks the inbox, and tells you."
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "text": "Watch one demo morning. Three questions. Three doors. And no hour of clicking around."
+    },
+    {
+      "id": "limit",
+      "version": "v2",
+      "text": "Here's the honest part. It only sees what you connect. And it's only as good as what's in there."
+    },
+    {
+      "id": "check",
+      "version": "v2",
+      "text": "Set it to ask before it sends anything. You stay the one who approves."
+    },
+    {
+      "id": "start",
+      "version": "v2",
+      "text": "Start small. Connect one thing. Ask the one question you already answer every morning."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "A-I that guesses is a toy. A-I that can look things up is a helper."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

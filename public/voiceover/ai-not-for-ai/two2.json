@@ -1,0 +1,70 @@
+{
+  "id": "two2",
+  "words": [
+    {
+      "text": "That's",
+      "start": 0,
+      "end": 0.464
+    },
+    {
+      "text": "your",
+      "start": 0.522,
+      "end": 0.673
+    },
+    {
+      "text": "money",
+      "start": 0.731,
+      "end": 1.057
+    },
+    {
+      "text": "and",
+      "start": 1.138,
+      "end": 1.3
+    },
+    {
+      "text": "your",
+      "start": 1.358,
+      "end": 1.498
+    },
+    {
+      "text": "judgment.",
+      "start": 1.567,
+      "end": 2.159
+    },
+    {
+      "text": "A-I",
+      "start": 2.241,
+      "end": 2.601
+    },
+    {
+      "text": "can",
+      "start": 2.694,
+      "end": 2.844
+    },
+    {
+      "text": "prepare",
+      "start": 2.914,
+      "end": 3.332
+    },
+    {
+      "text": "it.",
+      "start": 3.379,
+      "end": 3.576
+    },
+    {
+      "text": "You",
+      "start": 3.634,
+      "end": 3.773
+    },
+    {
+      "text": "approve",
+      "start": 3.843,
+      "end": 4.238
+    },
+    {
+      "text": "it.",
+      "start": 4.272,
+      "end": 4.737
+    }
+  ]
+}

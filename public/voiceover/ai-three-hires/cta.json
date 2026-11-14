@@ -1,0 +1,40 @@
+{
+  "id": "cta",
+  "words": [
+    {
+      "text": "Follow",
+      "start": 0,
+      "end": 0.43
+    },
+    {
+      "text": "for",
+      "start": 0.499,
+      "end": 0.65
+    },
+    {
+      "text": "one",
+      "start": 0.731,
+      "end": 0.894
+    },
+    {
+      "text": "business",
+      "start": 0.94,
+      "end": 1.324
+    },
+    {
+      "text": "fix",
+      "start": 1.382,
+      "end": 1.637
+    },
+    {
+      "text": "every",
+      "start": 1.753,
+      "end": 2.032
+    },
+    {
+      "text": "week.",
+      "start": 2.078,
+      "end": 2.601
+    }
+  ]
+}

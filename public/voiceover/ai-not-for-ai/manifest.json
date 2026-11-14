@@ -1,0 +1,127 @@
+{
+  "video": "ai-not-for-ai",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "4cf3a11345395305",
+      "audio": "voiceover/ai-not-for-ai/hook.mp3",
+      "captions": "voiceover/ai-not-for-ai/hook.json",
+      "durationInSeconds": 3.788,
+      "characters": 59
+    },
+    {
+      "id": "one",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "35c6afa7a801e49f",
+      "audio": "voiceover/ai-not-for-ai/one.mp3",
+      "captions": "voiceover/ai-not-for-ai/one.json",
+      "durationInSeconds": 4.911,
+      "characters": 75
+    },
+    {
+      "id": "one2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "0712e6c349ba068b",
+      "audio": "voiceover/ai-not-for-ai/one2.mp3",
+      "captions": "voiceover/ai-not-for-ai/one2.json",
+      "durationInSeconds": 3.579,
+      "characters": 62
+    },
+    {
+      "id": "two",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "63387725ee5d86de",
+      "audio": "voiceover/ai-not-for-ai/two.mp3",
+      "captions": "voiceover/ai-not-for-ai/two.json",
+      "durationInSeconds": 5.277,
+      "characters": 70
+    },
+    {
+      "id": "two2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9d794afdad1aec69",
+      "audio": "voiceover/ai-not-for-ai/two2.mp3",
+      "captions": "voiceover/ai-not-for-ai/two2.json",
+      "durationInSeconds": 4.78,
+      "characters": 72
+    },
+    {
+      "id": "three",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "4044c621f443254d",
+      "audio": "voiceover/ai-not-for-ai/three.mp3",
+      "captions": "voiceover/ai-not-for-ai/three.json",
+      "durationInSeconds": 4.833,
+      "characters": 70
+    },
+    {
+      "id": "three2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6b1fa1852166361b",
+      "audio": "voiceover/ai-not-for-ai/three2.mp3",
+      "captions": "voiceover/ai-not-for-ai/three2.json",
+      "durationInSeconds": 3.84,
+      "characters": 62
+    },
+    {
+      "id": "flip",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "76053472d3c44f96",
+      "audio": "voiceover/ai-not-for-ai/flip.mp3",
+      "captions": "voiceover/ai-not-for-ai/flip.json",
+      "durationInSeconds": 6.504,
+      "characters": 83
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "989e553dd7e7e6bb",
+      "audio": "voiceover/ai-not-for-ai/sim.mp3",
+      "captions": "voiceover/ai-not-for-ai/sim.json",
+      "durationInSeconds": 5.695,
+      "characters": 83
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c3955176aaae352e",
+      "audio": "voiceover/ai-not-for-ai/sim2.mp3",
+      "captions": "voiceover/ai-not-for-ai/sim2.json",
+      "durationInSeconds": 4.075,
+      "characters": 64
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "930080e828e431e6",
+      "audio": "voiceover/ai-not-for-ai/verdict.mp3",
+      "captions": "voiceover/ai-not-for-ai/verdict.json",
+      "durationInSeconds": 3.762,
+      "characters": 56
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/ai-not-for-ai/cta.mp3",
+      "captions": "voiceover/ai-not-for-ai/cta.json",
+      "durationInSeconds": 2.638,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-13T21:55:27.575Z"
+}

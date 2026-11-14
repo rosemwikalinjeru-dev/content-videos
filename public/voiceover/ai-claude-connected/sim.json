@@ -1,0 +1,75 @@
+{
+  "id": "sim",
+  "words": [
+    {
+      "text": "Watch",
+      "start": 0,
+      "end": 0.418
+    },
+    {
+      "text": "one",
+      "start": 0.464,
+      "end": 0.604
+    },
+    {
+      "text": "demo",
+      "start": 0.627,
+      "end": 0.859
+    },
+    {
+      "text": "morning.",
+      "start": 0.917,
+      "end": 1.393
+    },
+    {
+      "text": "Three",
+      "start": 1.451,
+      "end": 1.695
+    },
+    {
+      "text": "questions.",
+      "start": 1.753,
+      "end": 2.403
+    },
+    {
+      "text": "Three",
+      "start": 2.473,
+      "end": 2.717
+    },
+    {
+      "text": "doors.",
+      "start": 2.763,
+      "end": 3.204
+    },
+    {
+      "text": "And",
+      "start": 3.413,
+      "end": 3.576
+    },
+    {
+      "text": "no",
+      "start": 3.657,
+      "end": 3.878
+    },
+    {
+      "text": "hour",
+      "start": 3.971,
+      "end": 4.261
+    },
+    {
+      "text": "of",
+      "start": 4.319,
+      "end": 4.412
+    },
+    {
+      "text": "clicking",
+      "start": 4.481,
+      "end": 4.853
+    },
+    {
+      "text": "around.",
+      "start": 4.911,
+      "end": 5.526
+    }
+  ]
+}

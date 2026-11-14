@@ -1,0 +1,85 @@
+{
+  "id": "sim",
+  "words": [
+    {
+      "text": "Watch",
+      "start": 0,
+      "end": 0.348
+    },
+    {
+      "text": "a",
+      "start": 0.43,
+      "end": 0.488
+    },
+    {
+      "text": "demo",
+      "start": 0.569,
+      "end": 0.859
+    },
+    {
+      "text": "morning.",
+      "start": 0.894,
+      "end": 1.335
+    },
+    {
+      "text": "The",
+      "start": 1.358,
+      "end": 1.498
+    },
+    {
+      "text": "A-I",
+      "start": 1.579,
+      "end": 2.02
+    },
+    {
+      "text": "checks",
+      "start": 2.136,
+      "end": 2.403
+    },
+    {
+      "text": "the",
+      "start": 2.45,
+      "end": 2.519
+    },
+    {
+      "text": "calendar.",
+      "start": 2.566,
+      "end": 3.053
+    },
+    {
+      "text": "Four",
+      "start": 3.135,
+      "end": 3.355
+    },
+    {
+      "text": "jobs",
+      "start": 3.413,
+      "end": 3.634
+    },
+    {
+      "text": "today.",
+      "start": 3.68,
+      "end": 4.04
+    },
+    {
+      "text": "One",
+      "start": 4.063,
+      "end": 4.238
+    },
+    {
+      "text": "has",
+      "start": 4.272,
+      "end": 4.423
+    },
+    {
+      "text": "no",
+      "start": 4.493,
+      "end": 4.609
+    },
+    {
+      "text": "address.",
+      "start": 4.656,
+      "end": 5.294
+    }
+  ]
+}

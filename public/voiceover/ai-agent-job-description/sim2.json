@@ -1,0 +1,85 @@
+{
+  "id": "sim2",
+  "words": [
+    {
+      "text": "So",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "the",
+      "start": 0.36,
+      "end": 0.464
+    },
+    {
+      "text": "agent",
+      "start": 0.522,
+      "end": 0.882
+    },
+    {
+      "text": "doesn't",
+      "start": 0.94,
+      "end": 1.242
+    },
+    {
+      "text": "guess.",
+      "start": 1.289,
+      "end": 1.66
+    },
+    {
+      "text": "It",
+      "start": 1.904,
+      "end": 2.067
+    },
+    {
+      "text": "says,",
+      "start": 2.125,
+      "end": 2.566
+    },
+    {
+      "text": "let",
+      "start": 2.717,
+      "end": 2.926
+    },
+    {
+      "text": "me",
+      "start": 2.995,
+      "end": 3.077
+    },
+    {
+      "text": "get",
+      "start": 3.135,
+      "end": 3.286
+    },
+    {
+      "text": "the",
+      "start": 3.332,
+      "end": 3.413
+    },
+    {
+      "text": "owner,",
+      "start": 3.495,
+      "end": 3.913
+    },
+    {
+      "text": "and",
+      "start": 3.936,
+      "end": 4.087
+    },
+    {
+      "text": "passes",
+      "start": 4.168,
+      "end": 4.505
+    },
+    {
+      "text": "it",
+      "start": 4.563,
+      "end": 4.644
+    },
+    {
+      "text": "on.",
+      "start": 4.725,
+      "end": 5.201
+    }
+  ]
+}

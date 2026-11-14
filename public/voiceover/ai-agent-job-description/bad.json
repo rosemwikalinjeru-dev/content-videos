@@ -1,0 +1,70 @@
+{
+  "id": "bad",
+  "words": [
+    {
+      "text": "Most",
+      "start": 0,
+      "end": 0.453
+    },
+    {
+      "text": "people",
+      "start": 0.511,
+      "end": 0.789
+    },
+    {
+      "text": "set",
+      "start": 0.824,
+      "end": 1.033
+    },
+    {
+      "text": "up",
+      "start": 1.103,
+      "end": 1.219
+    },
+    {
+      "text": "an",
+      "start": 1.289,
+      "end": 1.358
+    },
+    {
+      "text": "A-I",
+      "start": 1.474,
+      "end": 1.904
+    },
+    {
+      "text": "agent",
+      "start": 2.078,
+      "end": 2.519
+    },
+    {
+      "text": "like",
+      "start": 2.601,
+      "end": 2.798
+    },
+    {
+      "text": "this.",
+      "start": 2.833,
+      "end": 3.135
+    },
+    {
+      "text": "Here's",
+      "start": 3.344,
+      "end": 3.622
+    },
+    {
+      "text": "everything.",
+      "start": 3.738,
+      "end": 4.296
+    },
+    {
+      "text": "Go",
+      "start": 4.354,
+      "end": 4.551
+    },
+    {
+      "text": "help.",
+      "start": 4.621,
+      "end": 5.108
+    }
+  ]
+}

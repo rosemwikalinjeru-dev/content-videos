@@ -1,0 +1,60 @@
+{
+  "id": "list",
+  "words": [
+    {
+      "text": "Then",
+      "start": 0,
+      "end": 0.255
+    },
+    {
+      "text": "it",
+      "start": 0.372,
+      "end": 0.546
+    },
+    {
+      "text": "hands",
+      "start": 0.615,
+      "end": 0.859
+    },
+    {
+      "text": "you",
+      "start": 0.906,
+      "end": 0.998
+    },
+    {
+      "text": "a",
+      "start": 1.068,
+      "end": 1.103
+    },
+    {
+      "text": "short",
+      "start": 1.149,
+      "end": 1.428
+    },
+    {
+      "text": "list.",
+      "start": 1.498,
+      "end": 1.846
+    },
+    {
+      "text": "Three",
+      "start": 1.916,
+      "end": 2.159
+    },
+    {
+      "text": "things.",
+      "start": 2.194,
+      "end": 2.577
+    },
+    {
+      "text": "In",
+      "start": 2.786,
+      "end": 2.926
+    },
+    {
+      "text": "order.",
+      "start": 3.019,
+      "end": 3.669
+    }
+  ]
+}

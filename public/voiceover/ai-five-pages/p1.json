@@ -1,0 +1,75 @@
+{
+  "id": "p1",
+  "words": [
+    {
+      "text": "So",
+      "start": 0,
+      "end": 0.348
+    },
+    {
+      "text": "give",
+      "start": 0.406,
+      "end": 0.604
+    },
+    {
+      "text": "it",
+      "start": 0.627,
+      "end": 0.708
+    },
+    {
+      "text": "five",
+      "start": 0.778,
+      "end": 1.01
+    },
+    {
+      "text": "pages.",
+      "start": 1.068,
+      "end": 1.533
+    },
+    {
+      "text": "Page",
+      "start": 1.579,
+      "end": 1.858
+    },
+    {
+      "text": "one.",
+      "start": 1.927,
+      "end": 2.159
+    },
+    {
+      "text": "What",
+      "start": 2.194,
+      "end": 2.403
+    },
+    {
+      "text": "you",
+      "start": 2.45,
+      "end": 2.531
+    },
+    {
+      "text": "do,",
+      "start": 2.601,
+      "end": 2.798
+    },
+    {
+      "text": "and",
+      "start": 2.821,
+      "end": 2.937
+    },
+    {
+      "text": "what",
+      "start": 2.995,
+      "end": 3.146
+    },
+    {
+      "text": "you",
+      "start": 3.204,
+      "end": 3.286
+    },
+    {
+      "text": "don't.",
+      "start": 3.344,
+      "end": 3.901
+    }
+  ]
+}

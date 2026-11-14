@@ -1,0 +1,127 @@
+{
+  "video": "ai-claude-connected",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7efa5e86da7d3e8d",
+      "audio": "voiceover/ai-claude-connected/hook.mp3",
+      "captions": "voiceover/ai-claude-connected/hook.json",
+      "durationInSeconds": 5.094,
+      "characters": 80
+    },
+    {
+      "id": "alone",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a0606583d7e6c7b8",
+      "audio": "voiceover/ai-claude-connected/alone.mp3",
+      "captions": "voiceover/ai-claude-connected/alone.json",
+      "durationInSeconds": 4.598,
+      "characters": 79
+    },
+    {
+      "id": "ask1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3fb207c6c3b25426",
+      "audio": "voiceover/ai-claude-connected/ask1.mp3",
+      "captions": "voiceover/ai-claude-connected/ask1.json",
+      "durationInSeconds": 5.198,
+      "characters": 75
+    },
+    {
+      "id": "connect",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "4471bbbcff1a9f9f",
+      "audio": "voiceover/ai-claude-connected/connect.mp3",
+      "captions": "voiceover/ai-claude-connected/connect.json",
+      "durationInSeconds": 5.982,
+      "characters": 93
+    },
+    {
+      "id": "ask2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "76bbdafd0a199412",
+      "audio": "voiceover/ai-claude-connected/ask2.mp3",
+      "captions": "voiceover/ai-claude-connected/ask2.json",
+      "durationInSeconds": 5.669,
+      "characters": 91
+    },
+    {
+      "id": "more",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "889dd767ffbe2668",
+      "audio": "voiceover/ai-claude-connected/more.mp3",
+      "captions": "voiceover/ai-claude-connected/more.json",
+      "durationInSeconds": 5.381,
+      "characters": 82
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a924d2a8ec9dcc27",
+      "audio": "voiceover/ai-claude-connected/sim.mp3",
+      "captions": "voiceover/ai-claude-connected/sim.json",
+      "durationInSeconds": 5.564,
+      "characters": 85
+    },
+    {
+      "id": "limit",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "206286a17b21c8bf",
+      "audio": "voiceover/ai-claude-connected/limit.mp3",
+      "captions": "voiceover/ai-claude-connected/limit.json",
+      "durationInSeconds": 6.922,
+      "characters": 96
+    },
+    {
+      "id": "check",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "47c19c7c06ba4d74",
+      "audio": "voiceover/ai-claude-connected/check.mp3",
+      "captions": "voiceover/ai-claude-connected/check.json",
+      "durationInSeconds": 4.493,
+      "characters": 70
+    },
+    {
+      "id": "start",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "8ccc1f547b7eb5e4",
+      "audio": "voiceover/ai-claude-connected/start.mp3",
+      "captions": "voiceover/ai-claude-connected/start.json",
+      "durationInSeconds": 5.799,
+      "characters": 86
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "7184d8f8a5e1df8e",
+      "audio": "voiceover/ai-claude-connected/verdict.mp3",
+      "captions": "voiceover/ai-claude-connected/verdict.json",
+      "durationInSeconds": 5.198,
+      "characters": 67
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/ai-claude-connected/cta.mp3",
+      "captions": "voiceover/ai-claude-connected/cta.json",
+      "durationInSeconds": 2.638,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-13T21:54:59.043Z"
+}

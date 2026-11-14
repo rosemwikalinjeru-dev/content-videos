@@ -1,0 +1,65 @@
+{
+  "video": "ai-five-pages",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "A-I doesn't know your prices, your area, or your rules. Until you write them down."
+    },
+    {
+      "id": "problem",
+      "version": "v2",
+      "text": "Ask it to answer a customer, and it sounds confident. And gets your business wrong."
+    },
+    {
+      "id": "why",
+      "version": "v2",
+      "text": "It isn't broken. Nobody told it how you work."
+    },
+    {
+      "id": "p1",
+      "version": "v2",
+      "text": "So give it five pages. Page one. What you do, and what you don't."
+    },
+    {
+      "id": "p2",
+      "version": "v2",
+      "text": "Page two. Your prices, or how you quote."
+    },
+    {
+      "id": "p3",
+      "version": "v2",
+      "text": "Page three. Where you work, and when."
+    },
+    {
+      "id": "p4",
+      "version": "v2",
+      "text": "Page four. Your rules. Deposits, cancellations, and what needs your okay."
+    },
+    {
+      "id": "p5",
+      "version": "v2",
+      "text": "Page five. How you talk to customers. With a few real examples."
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "text": "Watch the same question, before and after. Do you work Saturdays?"
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "text": "Before, a guess. After, it reads page three. Yes, until two. Here's how to book."
+    },
+    {
+      "id": "bonus",
+      "version": "v2",
+      "text": "And those five pages help every new hire too. Human or not."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

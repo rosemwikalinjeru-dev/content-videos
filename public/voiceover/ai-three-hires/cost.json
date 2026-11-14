@@ -1,0 +1,85 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "More",
+      "start": 0,
+      "end": 0.36
+    },
+    {
+      "text": "freedom",
+      "start": 0.418,
+      "end": 0.824
+    },
+    {
+      "text": "means",
+      "start": 0.906,
+      "end": 1.184
+    },
+    {
+      "text": "more",
+      "start": 1.265,
+      "end": 1.486
+    },
+    {
+      "text": "ways",
+      "start": 1.533,
+      "end": 1.811
+    },
+    {
+      "text": "to",
+      "start": 1.869,
+      "end": 1.95
+    },
+    {
+      "text": "go",
+      "start": 2.02,
+      "end": 2.159
+    },
+    {
+      "text": "wrong.",
+      "start": 2.206,
+      "end": 2.531
+    },
+    {
+      "text": "So",
+      "start": 2.612,
+      "end": 2.752
+    },
+    {
+      "text": "an",
+      "start": 2.821,
+      "end": 2.891
+    },
+    {
+      "text": "agent",
+      "start": 2.949,
+      "end": 3.251
+    },
+    {
+      "text": "needs",
+      "start": 3.309,
+      "end": 3.529
+    },
+    {
+      "text": "rules,",
+      "start": 3.587,
+      "end": 3.936
+    },
+    {
+      "text": "and",
+      "start": 3.959,
+      "end": 4.122
+    },
+    {
+      "text": "someone",
+      "start": 4.18,
+      "end": 4.505
+    },
+    {
+      "text": "checking.",
+      "start": 4.54,
+      "end": 5.201
+    }
+  ]
+}

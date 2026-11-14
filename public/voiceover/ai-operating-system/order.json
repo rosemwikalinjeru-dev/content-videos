@@ -1,0 +1,80 @@
+{
+  "id": "order",
+  "words": [
+    {
+      "text": "But",
+      "start": 0,
+      "end": 0.279
+    },
+    {
+      "text": "the",
+      "start": 0.313,
+      "end": 0.395
+    },
+    {
+      "text": "order",
+      "start": 0.476,
+      "end": 0.778
+    },
+    {
+      "text": "matters.",
+      "start": 0.836,
+      "end": 1.347
+    },
+    {
+      "text": "Board",
+      "start": 1.556,
+      "end": 1.823
+    },
+    {
+      "text": "first.",
+      "start": 1.892,
+      "end": 2.334
+    },
+    {
+      "text": "A-I",
+      "start": 2.543,
+      "end": 2.821
+    },
+    {
+      "text": "second.",
+      "start": 2.914,
+      "end": 3.437
+    },
+    {
+      "text": "It",
+      "start": 3.587,
+      "end": 3.715
+    },
+    {
+      "text": "can't",
+      "start": 3.762,
+      "end": 3.982
+    },
+    {
+      "text": "organize",
+      "start": 4.063,
+      "end": 4.574
+    },
+    {
+      "text": "what",
+      "start": 4.609,
+      "end": 4.772
+    },
+    {
+      "text": "isn't",
+      "start": 4.865,
+      "end": 5.166
+    },
+    {
+      "text": "written",
+      "start": 5.201,
+      "end": 5.492
+    },
+    {
+      "text": "down.",
+      "start": 5.55,
+      "end": 6.084
+    }
+  ]
+}

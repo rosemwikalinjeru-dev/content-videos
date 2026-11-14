@@ -1,0 +1,95 @@
+{
+  "id": "head",
+  "words": [
+    {
+      "text": "Who's",
+      "start": 0,
+      "end": 0.36
+    },
+    {
+      "text": "waiting",
+      "start": 0.418,
+      "end": 0.743
+    },
+    {
+      "text": "on",
+      "start": 0.801,
+      "end": 0.871
+    },
+    {
+      "text": "a",
+      "start": 0.929,
+      "end": 0.952
+    },
+    {
+      "text": "quote.",
+      "start": 1.022,
+      "end": 1.44
+    },
+    {
+      "text": "Who",
+      "start": 1.567,
+      "end": 1.718
+    },
+    {
+      "text": "hasn't",
+      "start": 1.8,
+      "end": 2.101
+    },
+    {
+      "text": "paid.",
+      "start": 2.183,
+      "end": 2.519
+    },
+    {
+      "text": "Which",
+      "start": 2.728,
+      "end": 2.972
+    },
+    {
+      "text": "job",
+      "start": 3.042,
+      "end": 3.251
+    },
+    {
+      "text": "is",
+      "start": 3.309,
+      "end": 3.39
+    },
+    {
+      "text": "on",
+      "start": 3.448,
+      "end": 3.518
+    },
+    {
+      "text": "Thursday.",
+      "start": 3.576,
+      "end": 4.098
+    },
+    {
+      "text": "It's",
+      "start": 4.122,
+      "end": 4.319
+    },
+    {
+      "text": "all",
+      "start": 4.377,
+      "end": 4.563
+    },
+    {
+      "text": "in",
+      "start": 4.621,
+      "end": 4.69
+    },
+    {
+      "text": "your",
+      "start": 4.748,
+      "end": 4.876
+    },
+    {
+      "text": "head.",
+      "start": 4.934,
+      "end": 5.48
+    }
+  ]
+}

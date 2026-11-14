@@ -1,0 +1,65 @@
+{
+  "video": "ai-morning-question",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "What if you could ask your business one question every morning, and get an answer?"
+    },
+    {
+      "id": "now",
+      "version": "v2",
+      "text": "Today, the answer lives in five places. The calendar. The inbox. The invoices. A notebook. Your head."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "So every morning starts with a lot of clicking around."
+    },
+    {
+      "id": "idea",
+      "version": "v2",
+      "text": "Now picture one question. What needs me today?"
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "text": "Watch a demo morning. The A-I checks the calendar. Four jobs today. One has no address."
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "text": "It checks the invoices. Two are overdue."
+    },
+    {
+      "id": "sim3",
+      "version": "v2",
+      "text": "It checks the inbox. A customer asked for a quote on Friday. Nobody replied."
+    },
+    {
+      "id": "list",
+      "version": "v2",
+      "text": "Then it hands you a short list. Three things. In order."
+    },
+    {
+      "id": "honest",
+      "version": "v2",
+      "text": "It doesn't do your job. It tells you where to look first."
+    },
+    {
+      "id": "need",
+      "version": "v2",
+      "text": "To get there, your tools have to be connected. And what's in them has to be up to date."
+    },
+    {
+      "id": "start",
+      "version": "v2",
+      "text": "Start by writing down the three questions you ask yourself every morning."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

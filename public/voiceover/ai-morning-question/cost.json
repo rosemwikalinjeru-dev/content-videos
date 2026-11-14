@@ -1,0 +1,55 @@
+{
+  "id": "cost",
+  "words": [
+    {
+      "text": "So",
+      "start": 0,
+      "end": 0.372
+    },
+    {
+      "text": "every",
+      "start": 0.464,
+      "end": 0.743
+    },
+    {
+      "text": "morning",
+      "start": 0.801,
+      "end": 1.149
+    },
+    {
+      "text": "starts",
+      "start": 1.219,
+      "end": 1.602
+    },
+    {
+      "text": "with",
+      "start": 1.649,
+      "end": 1.788
+    },
+    {
+      "text": "a",
+      "start": 1.834,
+      "end": 1.858
+    },
+    {
+      "text": "lot",
+      "start": 1.916,
+      "end": 2.078
+    },
+    {
+      "text": "of",
+      "start": 2.125,
+      "end": 2.183
+    },
+    {
+      "text": "clicking",
+      "start": 2.241,
+      "end": 2.577
+    },
+    {
+      "text": "around.",
+      "start": 2.635,
+      "end": 3.344
+    }
+  ]
+}

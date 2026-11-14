@@ -1,0 +1,80 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Ask",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "A-I",
+      "start": 0.557,
+      "end": 0.906
+    },
+    {
+      "text": "about",
+      "start": 0.998,
+      "end": 1.277
+    },
+    {
+      "text": "your",
+      "start": 1.324,
+      "end": 1.428
+    },
+    {
+      "text": "business,",
+      "start": 1.474,
+      "end": 2.032
+    },
+    {
+      "text": "and",
+      "start": 2.09,
+      "end": 2.276
+    },
+    {
+      "text": "it",
+      "start": 2.357,
+      "end": 2.415
+    },
+    {
+      "text": "guesses.",
+      "start": 2.473,
+      "end": 2.914
+    },
+    {
+      "text": "Connect",
+      "start": 2.972,
+      "end": 3.402
+    },
+    {
+      "text": "it,",
+      "start": 3.471,
+      "end": 3.634
+    },
+    {
+      "text": "and",
+      "start": 3.657,
+      "end": 3.82
+    },
+    {
+      "text": "it",
+      "start": 3.878,
+      "end": 3.959
+    },
+    {
+      "text": "looks",
+      "start": 4.029,
+      "end": 4.226
+    },
+    {
+      "text": "things",
+      "start": 4.272,
+      "end": 4.516
+    },
+    {
+      "text": "up.",
+      "start": 4.586,
+      "end": 5.062
+    }
+  ]
+}

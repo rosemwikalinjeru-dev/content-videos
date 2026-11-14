@@ -1,0 +1,65 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Three",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "things",
+      "start": 0.337,
+      "end": 0.627
+    },
+    {
+      "text": "I",
+      "start": 0.708,
+      "end": 0.766
+    },
+    {
+      "text": "would",
+      "start": 0.859,
+      "end": 1.057
+    },
+    {
+      "text": "not",
+      "start": 1.103,
+      "end": 1.242
+    },
+    {
+      "text": "hand",
+      "start": 1.312,
+      "end": 1.498
+    },
+    {
+      "text": "to",
+      "start": 1.544,
+      "end": 1.614
+    },
+    {
+      "text": "A-I",
+      "start": 1.695,
+      "end": 2.067
+    },
+    {
+      "text": "in",
+      "start": 2.241,
+      "end": 2.415
+    },
+    {
+      "text": "a",
+      "start": 2.485,
+      "end": 2.508
+    },
+    {
+      "text": "service",
+      "start": 2.577,
+      "end": 2.995
+    },
+    {
+      "text": "business.",
+      "start": 3.03,
+      "end": 3.762
+    }
+  ]
+}

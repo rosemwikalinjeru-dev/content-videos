@@ -1,0 +1,80 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "You'd",
+      "start": 0,
+      "end": 0.244
+    },
+    {
+      "text": "never",
+      "start": 0.279,
+      "end": 0.511
+    },
+    {
+      "text": "hire",
+      "start": 0.592,
+      "end": 0.882
+    },
+    {
+      "text": "someone",
+      "start": 0.929,
+      "end": 1.44
+    },
+    {
+      "text": "without",
+      "start": 1.498,
+      "end": 1.846
+    },
+    {
+      "text": "a",
+      "start": 1.892,
+      "end": 1.927
+    },
+    {
+      "text": "job",
+      "start": 1.997,
+      "end": 2.171
+    },
+    {
+      "text": "description.",
+      "start": 2.241,
+      "end": 2.81
+    },
+    {
+      "text": "So",
+      "start": 2.833,
+      "end": 2.926
+    },
+    {
+      "text": "don't",
+      "start": 2.984,
+      "end": 3.181
+    },
+    {
+      "text": "do",
+      "start": 3.228,
+      "end": 3.344
+    },
+    {
+      "text": "it",
+      "start": 3.425,
+      "end": 3.506
+    },
+    {
+      "text": "to",
+      "start": 3.553,
+      "end": 3.657
+    },
+    {
+      "text": "an",
+      "start": 3.738,
+      "end": 3.82
+    },
+    {
+      "text": "A-I.",
+      "start": 3.913,
+      "end": 4.69
+    }
+  ]
+}

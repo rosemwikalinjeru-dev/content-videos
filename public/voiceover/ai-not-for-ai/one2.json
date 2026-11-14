@@ -1,0 +1,65 @@
+{
+  "id": "one2",
+  "words": [
+    {
+      "text": "A-I",
+      "start": 0,
+      "end": 0.557
+    },
+    {
+      "text": "can",
+      "start": 0.65,
+      "end": 0.789
+    },
+    {
+      "text": "tell",
+      "start": 0.848,
+      "end": 1.022
+    },
+    {
+      "text": "you",
+      "start": 1.068,
+      "end": 1.149
+    },
+    {
+      "text": "they're",
+      "start": 1.196,
+      "end": 1.428
+    },
+    {
+      "text": "upset.",
+      "start": 1.451,
+      "end": 1.927
+    },
+    {
+      "text": "A",
+      "start": 1.985,
+      "end": 2.032
+    },
+    {
+      "text": "person",
+      "start": 2.125,
+      "end": 2.426
+    },
+    {
+      "text": "should",
+      "start": 2.473,
+      "end": 2.67
+    },
+    {
+      "text": "make",
+      "start": 2.717,
+      "end": 2.902
+    },
+    {
+      "text": "the",
+      "start": 2.937,
+      "end": 3.007
+    },
+    {
+      "text": "call.",
+      "start": 3.065,
+      "end": 3.529
+    }
+  ]
+}

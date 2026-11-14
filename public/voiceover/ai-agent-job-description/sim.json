@@ -1,0 +1,75 @@
+{
+  "id": "sim",
+  "words": [
+    {
+      "text": "Watch",
+      "start": 0,
+      "end": 0.29
+    },
+    {
+      "text": "a",
+      "start": 0.337,
+      "end": 0.36
+    },
+    {
+      "text": "demo.",
+      "start": 0.418,
+      "end": 0.964
+    },
+    {
+      "text": "A",
+      "start": 1.08,
+      "end": 1.149
+    },
+    {
+      "text": "customer",
+      "start": 1.242,
+      "end": 1.73
+    },
+    {
+      "text": "asks",
+      "start": 1.811,
+      "end": 2.183
+    },
+    {
+      "text": "for",
+      "start": 2.229,
+      "end": 2.357
+    },
+    {
+      "text": "a",
+      "start": 2.392,
+      "end": 2.415
+    },
+    {
+      "text": "discount.",
+      "start": 2.473,
+      "end": 3.088
+    },
+    {
+      "text": "That's",
+      "start": 3.181,
+      "end": 3.425
+    },
+    {
+      "text": "not",
+      "start": 3.471,
+      "end": 3.611
+    },
+    {
+      "text": "in",
+      "start": 3.669,
+      "end": 3.738
+    },
+    {
+      "text": "the",
+      "start": 3.796,
+      "end": 3.866
+    },
+    {
+      "text": "job.",
+      "start": 3.924,
+      "end": 4.458
+    }
+  ]
+}

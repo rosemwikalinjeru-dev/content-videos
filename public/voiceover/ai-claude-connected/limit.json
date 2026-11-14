@@ -1,0 +1,100 @@
+{
+  "id": "limit",
+  "words": [
+    {
+      "text": "Here's",
+      "start": 0,
+      "end": 0.418
+    },
+    {
+      "text": "the",
+      "start": 0.464,
+      "end": 0.546
+    },
+    {
+      "text": "honest",
+      "start": 0.604,
+      "end": 0.929
+    },
+    {
+      "text": "part.",
+      "start": 0.998,
+      "end": 1.37
+    },
+    {
+      "text": "It",
+      "start": 1.614,
+      "end": 1.846
+    },
+    {
+      "text": "only",
+      "start": 1.916,
+      "end": 2.264
+    },
+    {
+      "text": "sees",
+      "start": 2.345,
+      "end": 2.833
+    },
+    {
+      "text": "what",
+      "start": 2.961,
+      "end": 3.204
+    },
+    {
+      "text": "you",
+      "start": 3.262,
+      "end": 3.355
+    },
+    {
+      "text": "connect.",
+      "start": 3.425,
+      "end": 3.994
+    },
+    {
+      "text": "And",
+      "start": 4.238,
+      "end": 4.4
+    },
+    {
+      "text": "it's",
+      "start": 4.47,
+      "end": 4.621
+    },
+    {
+      "text": "only",
+      "start": 4.737,
+      "end": 5.062
+    },
+    {
+      "text": "as",
+      "start": 5.108,
+      "end": 5.201
+    },
+    {
+      "text": "good",
+      "start": 5.283,
+      "end": 5.526
+    },
+    {
+      "text": "as",
+      "start": 5.596,
+      "end": 5.759
+    },
+    {
+      "text": "what's",
+      "start": 5.828,
+      "end": 6.084
+    },
+    {
+      "text": "in",
+      "start": 6.153,
+      "end": 6.258
+    },
+    {
+      "text": "there.",
+      "start": 6.316,
+      "end": 6.873
+    }
+  ]
+}

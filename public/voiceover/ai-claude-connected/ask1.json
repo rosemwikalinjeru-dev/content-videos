@@ -1,0 +1,80 @@
+{
+  "id": "ask1",
+  "words": [
+    {
+      "text": "So",
+      "start": 0,
+      "end": 0.313
+    },
+    {
+      "text": "you",
+      "start": 0.383,
+      "end": 0.476
+    },
+    {
+      "text": "ask,",
+      "start": 0.604,
+      "end": 0.987
+    },
+    {
+      "text": "who",
+      "start": 1.022,
+      "end": 1.265
+    },
+    {
+      "text": "is",
+      "start": 1.382,
+      "end": 1.544
+    },
+    {
+      "text": "booked",
+      "start": 1.625,
+      "end": 1.939
+    },
+    {
+      "text": "tomorrow?",
+      "start": 2.009,
+      "end": 2.577
+    },
+    {
+      "text": "And",
+      "start": 2.612,
+      "end": 2.728
+    },
+    {
+      "text": "it",
+      "start": 2.798,
+      "end": 2.868
+    },
+    {
+      "text": "says,",
+      "start": 2.902,
+      "end": 3.32
+    },
+    {
+      "text": "I",
+      "start": 3.529,
+      "end": 3.599
+    },
+    {
+      "text": "can't",
+      "start": 3.715,
+      "end": 3.971
+    },
+    {
+      "text": "see",
+      "start": 4.017,
+      "end": 4.18
+    },
+    {
+      "text": "your",
+      "start": 4.214,
+      "end": 4.342
+    },
+    {
+      "text": "calendar.",
+      "start": 4.389,
+      "end": 5.155
+    }
+  ]
+}

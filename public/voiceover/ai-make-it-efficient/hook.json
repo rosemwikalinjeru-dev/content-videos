@@ -1,0 +1,90 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Chances",
+      "start": 0,
+      "end": 0.488
+    },
+    {
+      "text": "are,",
+      "start": 0.569,
+      "end": 0.998
+    },
+    {
+      "text": "a",
+      "start": 1.057,
+      "end": 1.115
+    },
+    {
+      "text": "competitor",
+      "start": 1.196,
+      "end": 1.823
+    },
+    {
+      "text": "of",
+      "start": 1.881,
+      "end": 1.95
+    },
+    {
+      "text": "yours",
+      "start": 2.032,
+      "end": 2.357
+    },
+    {
+      "text": "already",
+      "start": 2.473,
+      "end": 2.914
+    },
+    {
+      "text": "uses",
+      "start": 2.984,
+      "end": 3.32
+    },
+    {
+      "text": "A-I.",
+      "start": 3.402,
+      "end": 3.994
+    },
+    {
+      "text": "The",
+      "start": 4.203,
+      "end": 4.319
+    },
+    {
+      "text": "question",
+      "start": 4.377,
+      "end": 4.702
+    },
+    {
+      "text": "is",
+      "start": 4.76,
+      "end": 4.841
+    },
+    {
+      "text": "whether",
+      "start": 4.899,
+      "end": 5.143
+    },
+    {
+      "text": "it's",
+      "start": 5.201,
+      "end": 5.341
+    },
+    {
+      "text": "actually",
+      "start": 5.41,
+      "end": 5.851
+    },
+    {
+      "text": "helping",
+      "start": 5.921,
+      "end": 6.293
+    },
+    {
+      "text": "them.",
+      "start": 6.339,
+      "end": 6.78
+    }
+  ]
+}

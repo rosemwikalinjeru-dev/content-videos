@@ -1,0 +1,45 @@
+{
+  "id": "idea",
+  "words": [
+    {
+      "text": "Now",
+      "start": 0,
+      "end": 0.348
+    },
+    {
+      "text": "picture",
+      "start": 0.418,
+      "end": 0.731
+    },
+    {
+      "text": "one",
+      "start": 0.789,
+      "end": 0.929
+    },
+    {
+      "text": "question.",
+      "start": 0.964,
+      "end": 1.416
+    },
+    {
+      "text": "What",
+      "start": 1.498,
+      "end": 1.672
+    },
+    {
+      "text": "needs",
+      "start": 1.741,
+      "end": 1.974
+    },
+    {
+      "text": "me",
+      "start": 2.032,
+      "end": 2.159
+    },
+    {
+      "text": "today?",
+      "start": 2.206,
+      "end": 2.926
+    }
+  ]
+}

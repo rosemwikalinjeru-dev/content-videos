@@ -1,0 +1,50 @@
+{
+  "id": "five",
+  "words": [
+    {
+      "text": "Here's",
+      "start": 0,
+      "end": 0.36
+    },
+    {
+      "text": "what",
+      "start": 0.406,
+      "end": 0.557
+    },
+    {
+      "text": "the",
+      "start": 0.592,
+      "end": 0.662
+    },
+    {
+      "text": "useful",
+      "start": 0.743,
+      "end": 1.126
+    },
+    {
+      "text": "version",
+      "start": 1.196,
+      "end": 1.521
+    },
+    {
+      "text": "looks",
+      "start": 1.579,
+      "end": 1.8
+    },
+    {
+      "text": "like.",
+      "start": 1.858,
+      "end": 2.194
+    },
+    {
+      "text": "Five",
+      "start": 2.473,
+      "end": 2.775
+    },
+    {
+      "text": "things.",
+      "start": 2.81,
+      "end": 3.483
+    }
+  ]
+}

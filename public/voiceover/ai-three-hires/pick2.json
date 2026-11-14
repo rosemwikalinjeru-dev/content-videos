@@ -1,0 +1,65 @@
+{
+  "id": "pick2",
+  "words": [
+    {
+      "text": "Only",
+      "start": 0,
+      "end": 0.464
+    },
+    {
+      "text": "when",
+      "start": 0.511,
+      "end": 0.662
+    },
+    {
+      "text": "the",
+      "start": 0.697,
+      "end": 0.778
+    },
+    {
+      "text": "steps",
+      "start": 0.824,
+      "end": 1.149
+    },
+    {
+      "text": "change",
+      "start": 1.207,
+      "end": 1.509
+    },
+    {
+      "text": "every",
+      "start": 1.556,
+      "end": 1.788
+    },
+    {
+      "text": "time,",
+      "start": 1.846,
+      "end": 2.148
+    },
+    {
+      "text": "do",
+      "start": 2.218,
+      "end": 2.322
+    },
+    {
+      "text": "you",
+      "start": 2.368,
+      "end": 2.438
+    },
+    {
+      "text": "need",
+      "start": 2.485,
+      "end": 2.659
+    },
+    {
+      "text": "an",
+      "start": 2.717,
+      "end": 2.798
+    },
+    {
+      "text": "agent.",
+      "start": 2.879,
+      "end": 3.622
+    }
+  ]
+}

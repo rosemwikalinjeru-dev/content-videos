@@ -1,0 +1,40 @@
+{
+  "id": "p3",
+  "words": [
+    {
+      "text": "Page",
+      "start": 0,
+      "end": 0.406
+    },
+    {
+      "text": "three.",
+      "start": 0.453,
+      "end": 0.755
+    },
+    {
+      "text": "Where",
+      "start": 0.929,
+      "end": 1.161
+    },
+    {
+      "text": "you",
+      "start": 1.196,
+      "end": 1.289
+    },
+    {
+      "text": "work,",
+      "start": 1.347,
+      "end": 1.66
+    },
+    {
+      "text": "and",
+      "start": 1.695,
+      "end": 1.881
+    },
+    {
+      "text": "when.",
+      "start": 1.974,
+      "end": 2.508
+    }
+  ]
+}

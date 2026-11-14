@@ -1,0 +1,75 @@
+{
+  "id": "start",
+  "words": [
+    {
+      "text": "Start",
+      "start": 0,
+      "end": 0.337
+    },
+    {
+      "text": "small.",
+      "start": 0.372,
+      "end": 0.848
+    },
+    {
+      "text": "Connect",
+      "start": 0.917,
+      "end": 1.335
+    },
+    {
+      "text": "one",
+      "start": 1.416,
+      "end": 1.602
+    },
+    {
+      "text": "thing.",
+      "start": 1.637,
+      "end": 2.02
+    },
+    {
+      "text": "Ask",
+      "start": 2.345,
+      "end": 2.728
+    },
+    {
+      "text": "the",
+      "start": 2.798,
+      "end": 2.879
+    },
+    {
+      "text": "one",
+      "start": 2.961,
+      "end": 3.135
+    },
+    {
+      "text": "question",
+      "start": 3.17,
+      "end": 3.576
+    },
+    {
+      "text": "you",
+      "start": 3.622,
+      "end": 3.704
+    },
+    {
+      "text": "already",
+      "start": 3.785,
+      "end": 4.133
+    },
+    {
+      "text": "answer",
+      "start": 4.203,
+      "end": 4.644
+    },
+    {
+      "text": "every",
+      "start": 4.795,
+      "end": 5.074
+    },
+    {
+      "text": "morning.",
+      "start": 5.132,
+      "end": 5.759
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "video": "ai-dont-automate-mess",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "e8aa0c7fbabb2752",
+      "audio": "voiceover/ai-dont-automate-mess/hook.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/hook.json",
+      "durationInSeconds": 4.31,
+      "characters": 69
+    },
+    {
+      "id": "mess",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "4c8730e61d873050",
+      "audio": "voiceover/ai-dont-automate-mess/mess.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/mess.json",
+      "durationInSeconds": 5.878,
+      "characters": 97
+    },
+    {
+      "id": "slow",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "8e80a130c461a306",
+      "audio": "voiceover/ai-dont-automate-mess/slow.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/slow.json",
+      "durationInSeconds": 3.527,
+      "characters": 54
+    },
+    {
+      "id": "auto",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "d7ad41526283cc1c",
+      "audio": "voiceover/ai-dont-automate-mess/auto.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/auto.json",
+      "durationInSeconds": 5.198,
+      "characters": 71
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "bb4abcc482e93f35",
+      "audio": "voiceover/ai-dont-automate-mess/sim.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/sim.json",
+      "durationInSeconds": 5.146,
+      "characters": 81
+    },
+    {
+      "id": "why",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "39a5940140625a9d",
+      "audio": "voiceover/ai-dont-automate-mess/why.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/why.json",
+      "durationInSeconds": 5.198,
+      "characters": 83
+    },
+    {
+      "id": "fix1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c052cffedee6e42a",
+      "audio": "voiceover/ai-dont-automate-mess/fix1.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/fix1.json",
+      "durationInSeconds": 4.127,
+      "characters": 65
+    },
+    {
+      "id": "fix2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "f0788303192a9c3d",
+      "audio": "voiceover/ai-dont-automate-mess/fix2.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/fix2.json",
+      "durationInSeconds": 3.422,
+      "characters": 47
+    },
+    {
+      "id": "then",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "746a484052fe1e29",
+      "audio": "voiceover/ai-dont-automate-mess/then.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/then.json",
+      "durationInSeconds": 3.762,
+      "characters": 64
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "0adf8a4e93021cfd",
+      "audio": "voiceover/ai-dont-automate-mess/sim2.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/sim2.json",
+      "durationInSeconds": 5.616,
+      "characters": 82
+    },
+    {
+      "id": "rule",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "923f173b02b06124",
+      "audio": "voiceover/ai-dont-automate-mess/rule.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/rule.json",
+      "durationInSeconds": 3.579,
+      "characters": 59
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/ai-dont-automate-mess/cta.mp3",
+      "captions": "voiceover/ai-dont-automate-mess/cta.json",
+      "durationInSeconds": 2.351,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-13T21:55:15.727Z"
+}

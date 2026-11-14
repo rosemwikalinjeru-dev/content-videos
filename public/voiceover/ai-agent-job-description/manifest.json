@@ -1,0 +1,127 @@
+{
+  "video": "ai-agent-job-description",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "edb76ad1dd0cc6b7",
+      "audio": "voiceover/ai-agent-job-description/hook.mp3",
+      "captions": "voiceover/ai-agent-job-description/hook.json",
+      "durationInSeconds": 4.728,
+      "characters": 77
+    },
+    {
+      "id": "bad",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "23f53c109d1b6c67",
+      "audio": "voiceover/ai-agent-job-description/bad.mp3",
+      "captions": "voiceover/ai-agent-job-description/bad.json",
+      "durationInSeconds": 5.146,
+      "characters": 70
+    },
+    {
+      "id": "risk",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "570a0ccd5dacd0e1",
+      "audio": "voiceover/ai-agent-job-description/risk.mp3",
+      "captions": "voiceover/ai-agent-job-description/risk.json",
+      "durationInSeconds": 4.598,
+      "characters": 70
+    },
+    {
+      "id": "j1",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3f32f3ae8fb8e063",
+      "audio": "voiceover/ai-agent-job-description/j1.mp3",
+      "captions": "voiceover/ai-agent-job-description/j1.json",
+      "durationInSeconds": 4.833,
+      "characters": 74
+    },
+    {
+      "id": "j2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "eaf075aa1ac2d140",
+      "audio": "voiceover/ai-agent-job-description/j2.mp3",
+      "captions": "voiceover/ai-agent-job-description/j2.json",
+      "durationInSeconds": 4.833,
+      "characters": 69
+    },
+    {
+      "id": "j3",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "274bfade11a61107",
+      "audio": "voiceover/ai-agent-job-description/j3.mp3",
+      "captions": "voiceover/ai-agent-job-description/j3.json",
+      "durationInSeconds": 5.564,
+      "characters": 84
+    },
+    {
+      "id": "j4",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "996f6d92f1ee77e8",
+      "audio": "voiceover/ai-agent-job-description/j4.mp3",
+      "captions": "voiceover/ai-agent-job-description/j4.json",
+      "durationInSeconds": 6.034,
+      "characters": 82
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "b00e8aa48166d92b",
+      "audio": "voiceover/ai-agent-job-description/sim.mp3",
+      "captions": "voiceover/ai-agent-job-description/sim.json",
+      "durationInSeconds": 4.493,
+      "characters": 68
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "9db15f90305ad7f0",
+      "audio": "voiceover/ai-agent-job-description/sim2.mp3",
+      "captions": "voiceover/ai-agent-job-description/sim2.json",
+      "durationInSeconds": 5.251,
+      "characters": 76
+    },
+    {
+      "id": "review",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "2e4ecedeb531ad25",
+      "audio": "voiceover/ai-agent-job-description/review.mp3",
+      "captions": "voiceover/ai-agent-job-description/review.json",
+      "durationInSeconds": 5.277,
+      "characters": 80
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3367ce084371cc02",
+      "audio": "voiceover/ai-agent-job-description/verdict.mp3",
+      "captions": "voiceover/ai-agent-job-description/verdict.json",
+      "durationInSeconds": 4.545,
+      "characters": 69
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/ai-agent-job-description/cta.mp3",
+      "captions": "voiceover/ai-agent-job-description/cta.json",
+      "durationInSeconds": 2.456,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-13T21:55:21.748Z"
+}

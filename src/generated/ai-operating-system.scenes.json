@@ -1,0 +1,65 @@
+{
+  "video": "ai-operating-system",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Right now, the operating system of your business is your memory."
+    },
+    {
+      "id": "head",
+      "version": "v2",
+      "text": "Who's waiting on a quote. Who hasn't paid. Which job is on Thursday. It's all in your head."
+    },
+    {
+      "id": "risk",
+      "version": "v2",
+      "text": "So when you're sick, or busy, or asleep, the business forgets."
+    },
+    {
+      "id": "idea",
+      "version": "v2",
+      "text": "An A-I operating system sounds fancy. It's just this. One place where the business remembers."
+    },
+    {
+      "id": "lists",
+      "version": "v2",
+      "text": "Four lists. Your customers. Your jobs. Your money. And your follow-ups."
+    },
+    {
+      "id": "move",
+      "version": "v2",
+      "text": "Move each thing out of your head, and onto the board. One at a time."
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "text": "Now watch a demo Monday. A lead comes in. It lands on the board, not in your memory."
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "text": "The quote goes out. The follow-up is set. Nobody had to remember anything."
+    },
+    {
+      "id": "ai",
+      "version": "v2",
+      "text": "And here's where A-I comes in. It reads the board, and tells you what needs you today."
+    },
+    {
+      "id": "order",
+      "version": "v2",
+      "text": "But the order matters. Board first. A-I second. It can't organize what isn't written down."
+    },
+    {
+      "id": "start",
+      "version": "v2",
+      "text": "Start with one list this week. The one you'd lose sleep over."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

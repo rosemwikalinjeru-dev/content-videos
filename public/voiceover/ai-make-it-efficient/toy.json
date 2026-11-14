@@ -1,0 +1,95 @@
+{
+  "id": "toy",
+  "words": [
+    {
+      "text": "A",
+      "start": 0,
+      "end": 0.221
+    },
+    {
+      "text": "lot",
+      "start": 0.337,
+      "end": 0.511
+    },
+    {
+      "text": "of",
+      "start": 0.569,
+      "end": 0.639
+    },
+    {
+      "text": "A-I",
+      "start": 0.755,
+      "end": 0.987
+    },
+    {
+      "text": "use",
+      "start": 1.068,
+      "end": 1.277
+    },
+    {
+      "text": "looks",
+      "start": 1.312,
+      "end": 1.509
+    },
+    {
+      "text": "like",
+      "start": 1.567,
+      "end": 1.741
+    },
+    {
+      "text": "this.",
+      "start": 1.776,
+      "end": 2.032
+    },
+    {
+      "text": "A",
+      "start": 2.206,
+      "end": 2.287
+    },
+    {
+      "text": "question",
+      "start": 2.38,
+      "end": 2.775
+    },
+    {
+      "text": "here.",
+      "start": 2.844,
+      "end": 3.123
+    },
+    {
+      "text": "An",
+      "start": 3.274,
+      "end": 3.448
+    },
+    {
+      "text": "email",
+      "start": 3.529,
+      "end": 3.843
+    },
+    {
+      "text": "there.",
+      "start": 3.913,
+      "end": 4.203
+    },
+    {
+      "text": "Nice,",
+      "start": 4.377,
+      "end": 4.725
+    },
+    {
+      "text": "but",
+      "start": 4.748,
+      "end": 4.876
+    },
+    {
+      "text": "nothing",
+      "start": 4.934,
+      "end": 5.201
+    },
+    {
+      "text": "changes.",
+      "start": 5.259,
+      "end": 6.084
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "need",
+  "words": [
+    {
+      "text": "To",
+      "start": 0,
+      "end": 0.197
+    },
+    {
+      "text": "get",
+      "start": 0.267,
+      "end": 0.43
+    },
+    {
+      "text": "there,",
+      "start": 0.476,
+      "end": 0.766
+    },
+    {
+      "text": "your",
+      "start": 0.975,
+      "end": 1.126
+    },
+    {
+      "text": "tools",
+      "start": 1.184,
+      "end": 1.498
+    },
+    {
+      "text": "have",
+      "start": 1.625,
+      "end": 1.834
+    },
+    {
+      "text": "to",
+      "start": 1.869,
+      "end": 1.927
+    },
+    {
+      "text": "be",
+      "start": 1.997,
+      "end": 2.09
+    },
+    {
+      "text": "connected.",
+      "start": 2.136,
+      "end": 2.763
+    },
+    {
+      "text": "And",
+      "start": 2.937,
+      "end": 3.1
+    },
+    {
+      "text": "what's",
+      "start": 3.17,
+      "end": 3.425
+    },
+    {
+      "text": "in",
+      "start": 3.541,
+      "end": 3.704
+    },
+    {
+      "text": "them",
+      "start": 3.762,
+      "end": 4.052
+    },
+    {
+      "text": "has",
+      "start": 4.203,
+      "end": 4.4
+    },
+    {
+      "text": "to",
+      "start": 4.47,
+      "end": 4.54
+    },
+    {
+      "text": "be",
+      "start": 4.609,
+      "end": 4.702
+    },
+    {
+      "text": "up",
+      "start": 4.748,
+      "end": 4.853
+    },
+    {
+      "text": "to",
+      "start": 4.911,
+      "end": 4.969
+    },
+    {
+      "text": "date.",
+      "start": 5.039,
+      "end": 5.619
+    }
+  ]
+}

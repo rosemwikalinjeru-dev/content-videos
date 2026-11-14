@@ -1,0 +1,65 @@
+{
+  "id": "then",
+  "words": [
+    {
+      "text": "Then",
+      "start": 0,
+      "end": 0.221
+    },
+    {
+      "text": "automate",
+      "start": 0.279,
+      "end": 0.708
+    },
+    {
+      "text": "the",
+      "start": 0.731,
+      "end": 0.801
+    },
+    {
+      "text": "four.",
+      "start": 0.871,
+      "end": 1.161
+    },
+    {
+      "text": "And",
+      "start": 1.196,
+      "end": 1.347
+    },
+    {
+      "text": "keep",
+      "start": 1.44,
+      "end": 1.649
+    },
+    {
+      "text": "one",
+      "start": 1.741,
+      "end": 1.904
+    },
+    {
+      "text": "spot",
+      "start": 1.939,
+      "end": 2.229
+    },
+    {
+      "text": "where",
+      "start": 2.287,
+      "end": 2.485
+    },
+    {
+      "text": "a",
+      "start": 2.519,
+      "end": 2.554
+    },
+    {
+      "text": "person",
+      "start": 2.612,
+      "end": 3.007
+    },
+    {
+      "text": "checks.",
+      "start": 3.077,
+      "end": 3.715
+    }
+  ]
+}

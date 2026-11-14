@@ -1,0 +1,75 @@
+{
+  "id": "sim2",
+  "words": [
+    {
+      "text": "Same",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "ten",
+      "start": 0.476,
+      "end": 0.627
+    },
+    {
+      "text": "customers.",
+      "start": 0.697,
+      "end": 1.358
+    },
+    {
+      "text": "Four",
+      "start": 1.474,
+      "end": 1.66
+    },
+    {
+      "text": "steps.",
+      "start": 1.73,
+      "end": 2.287
+    },
+    {
+      "text": "Nothing",
+      "start": 2.415,
+      "end": 2.74
+    },
+    {
+      "text": "typed",
+      "start": 2.786,
+      "end": 3.088
+    },
+    {
+      "text": "twice.",
+      "start": 3.146,
+      "end": 3.587
+    },
+    {
+      "text": "One",
+      "start": 3.738,
+      "end": 3.982
+    },
+    {
+      "text": "check",
+      "start": 4.029,
+      "end": 4.272
+    },
+    {
+      "text": "before",
+      "start": 4.342,
+      "end": 4.621
+    },
+    {
+      "text": "it",
+      "start": 4.656,
+      "end": 4.725
+    },
+    {
+      "text": "goes",
+      "start": 4.772,
+      "end": 4.969
+    },
+    {
+      "text": "out.",
+      "start": 5.027,
+      "end": 5.573
+    }
+  ]
+}

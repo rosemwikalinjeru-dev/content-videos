@@ -1,0 +1,60 @@
+{
+  "id": "sim",
+  "words": [
+    {
+      "text": "Watch",
+      "start": 0,
+      "end": 0.418
+    },
+    {
+      "text": "the",
+      "start": 0.488,
+      "end": 0.58
+    },
+    {
+      "text": "same",
+      "start": 0.627,
+      "end": 0.836
+    },
+    {
+      "text": "question,",
+      "start": 0.882,
+      "end": 1.463
+    },
+    {
+      "text": "before",
+      "start": 1.591,
+      "end": 1.962
+    },
+    {
+      "text": "and",
+      "start": 2.009,
+      "end": 2.113
+    },
+    {
+      "text": "after.",
+      "start": 2.183,
+      "end": 2.647
+    },
+    {
+      "text": "Do",
+      "start": 2.775,
+      "end": 2.902
+    },
+    {
+      "text": "you",
+      "start": 2.972,
+      "end": 3.077
+    },
+    {
+      "text": "work",
+      "start": 3.17,
+      "end": 3.413
+    },
+    {
+      "text": "Saturdays?",
+      "start": 3.471,
+      "end": 4.458
+    }
+  ]
+}

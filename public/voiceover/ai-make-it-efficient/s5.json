@@ -1,0 +1,80 @@
+{
+  "id": "s5",
+  "words": [
+    {
+      "text": "Five.",
+      "start": 0,
+      "end": 0.592
+    },
+    {
+      "text": "Count.",
+      "start": 0.65,
+      "end": 1.08
+    },
+    {
+      "text": "Before",
+      "start": 1.126,
+      "end": 1.486
+    },
+    {
+      "text": "and",
+      "start": 1.521,
+      "end": 1.614
+    },
+    {
+      "text": "after.",
+      "start": 1.672,
+      "end": 2.09
+    },
+    {
+      "text": "How",
+      "start": 2.148,
+      "end": 2.299
+    },
+    {
+      "text": "long",
+      "start": 2.357,
+      "end": 2.531
+    },
+    {
+      "text": "did",
+      "start": 2.589,
+      "end": 2.705
+    },
+    {
+      "text": "a",
+      "start": 2.752,
+      "end": 2.775
+    },
+    {
+      "text": "reply",
+      "start": 2.856,
+      "end": 3.17
+    },
+    {
+      "text": "take",
+      "start": 3.239,
+      "end": 3.437
+    },
+    {
+      "text": "last",
+      "start": 3.483,
+      "end": 3.657
+    },
+    {
+      "text": "month?",
+      "start": 3.727,
+      "end": 3.982
+    },
+    {
+      "text": "And",
+      "start": 4.005,
+      "end": 4.133
+    },
+    {
+      "text": "now?",
+      "start": 4.203,
+      "end": 4.69
+    }
+  ]
+}

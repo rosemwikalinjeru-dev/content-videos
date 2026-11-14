@@ -1,0 +1,70 @@
+{
+  "id": "risk",
+  "words": [
+    {
+      "text": "That's",
+      "start": 0,
+      "end": 0.372
+    },
+    {
+      "text": "a",
+      "start": 0.406,
+      "end": 0.43
+    },
+    {
+      "text": "new",
+      "start": 0.499,
+      "end": 0.65
+    },
+    {
+      "text": "hire",
+      "start": 0.72,
+      "end": 1.149
+    },
+    {
+      "text": "with",
+      "start": 1.324,
+      "end": 1.533
+    },
+    {
+      "text": "every",
+      "start": 1.602,
+      "end": 1.846
+    },
+    {
+      "text": "key",
+      "start": 1.904,
+      "end": 2.078
+    },
+    {
+      "text": "to",
+      "start": 2.136,
+      "end": 2.218
+    },
+    {
+      "text": "the",
+      "start": 2.287,
+      "end": 2.368
+    },
+    {
+      "text": "building,",
+      "start": 2.426,
+      "end": 2.891
+    },
+    {
+      "text": "and",
+      "start": 2.937,
+      "end": 3.088
+    },
+    {
+      "text": "no",
+      "start": 3.17,
+      "end": 3.344
+    },
+    {
+      "text": "instructions.",
+      "start": 3.425,
+      "end": 4.551
+    }
+  ]
+}

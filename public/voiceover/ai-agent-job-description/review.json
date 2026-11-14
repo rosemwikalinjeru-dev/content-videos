@@ -1,0 +1,80 @@
+{
+  "id": "review",
+  "words": [
+    {
+      "text": "And",
+      "start": 0,
+      "end": 0.325
+    },
+    {
+      "text": "like",
+      "start": 0.406,
+      "end": 0.604
+    },
+    {
+      "text": "any",
+      "start": 0.65,
+      "end": 0.848
+    },
+    {
+      "text": "new",
+      "start": 0.917,
+      "end": 1.068
+    },
+    {
+      "text": "hire,",
+      "start": 1.161,
+      "end": 1.509
+    },
+    {
+      "text": "check",
+      "start": 1.683,
+      "end": 1.904
+    },
+    {
+      "text": "its",
+      "start": 1.962,
+      "end": 2.101
+    },
+    {
+      "text": "work.",
+      "start": 2.159,
+      "end": 2.519
+    },
+    {
+      "text": "Read",
+      "start": 2.798,
+      "end": 3.007
+    },
+    {
+      "text": "its",
+      "start": 3.053,
+      "end": 3.181
+    },
+    {
+      "text": "conversations",
+      "start": 3.228,
+      "end": 4.017
+    },
+    {
+      "text": "in",
+      "start": 4.098,
+      "end": 4.214
+    },
+    {
+      "text": "the",
+      "start": 4.261,
+      "end": 4.331
+    },
+    {
+      "text": "first",
+      "start": 4.389,
+      "end": 4.656
+    },
+    {
+      "text": "week.",
+      "start": 4.714,
+      "end": 5.248
+    }
+  ]
+}

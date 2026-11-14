@@ -1,0 +1,80 @@
+{
+  "id": "verdict",
+  "words": [
+    {
+      "text": "A-I",
+      "start": 0,
+      "end": 0.72
+    },
+    {
+      "text": "that",
+      "start": 0.836,
+      "end": 0.975
+    },
+    {
+      "text": "guesses",
+      "start": 1.045,
+      "end": 1.405
+    },
+    {
+      "text": "is",
+      "start": 1.474,
+      "end": 1.579
+    },
+    {
+      "text": "a",
+      "start": 1.649,
+      "end": 1.672
+    },
+    {
+      "text": "toy.",
+      "start": 1.741,
+      "end": 2.171
+    },
+    {
+      "text": "A-I",
+      "start": 2.345,
+      "end": 2.868
+    },
+    {
+      "text": "that",
+      "start": 2.984,
+      "end": 3.123
+    },
+    {
+      "text": "can",
+      "start": 3.181,
+      "end": 3.309
+    },
+    {
+      "text": "look",
+      "start": 3.367,
+      "end": 3.529
+    },
+    {
+      "text": "things",
+      "start": 3.587,
+      "end": 3.843
+    },
+    {
+      "text": "up",
+      "start": 3.913,
+      "end": 4.063
+    },
+    {
+      "text": "is",
+      "start": 4.18,
+      "end": 4.342
+    },
+    {
+      "text": "a",
+      "start": 4.4,
+      "end": 4.435
+    },
+    {
+      "text": "helper.",
+      "start": 4.505,
+      "end": 5.155
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "slow",
+  "words": [
+    {
+      "text": "By",
+      "start": 0,
+      "end": 0.302
+    },
+    {
+      "text": "hand,",
+      "start": 0.383,
+      "end": 0.801
+    },
+    {
+      "text": "it's",
+      "start": 0.882,
+      "end": 1.091
+    },
+    {
+      "text": "slow.",
+      "start": 1.115,
+      "end": 1.428
+    },
+    {
+      "text": "But",
+      "start": 1.463,
+      "end": 1.614
+    },
+    {
+      "text": "a",
+      "start": 1.66,
+      "end": 1.683
+    },
+    {
+      "text": "person",
+      "start": 1.753,
+      "end": 2.067
+    },
+    {
+      "text": "catches",
+      "start": 2.136,
+      "end": 2.473
+    },
+    {
+      "text": "the",
+      "start": 2.519,
+      "end": 2.589
+    },
+    {
+      "text": "mistakes.",
+      "start": 2.635,
+      "end": 3.483
+    }
+  ]
+}

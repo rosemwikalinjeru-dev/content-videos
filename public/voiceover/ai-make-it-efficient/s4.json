@@ -1,0 +1,65 @@
+{
+  "id": "s4",
+  "words": [
+    {
+      "text": "Four.",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "Keep",
+      "start": 0.615,
+      "end": 0.848
+    },
+    {
+      "text": "a",
+      "start": 0.917,
+      "end": 0.952
+    },
+    {
+      "text": "person",
+      "start": 1.022,
+      "end": 1.393
+    },
+    {
+      "text": "checking.",
+      "start": 1.451,
+      "end": 1.95
+    },
+    {
+      "text": "Especially",
+      "start": 2.101,
+      "end": 2.728
+    },
+    {
+      "text": "where",
+      "start": 2.798,
+      "end": 3.019
+    },
+    {
+      "text": "money",
+      "start": 3.077,
+      "end": 3.425
+    },
+    {
+      "text": "or",
+      "start": 3.553,
+      "end": 3.704
+    },
+    {
+      "text": "customers",
+      "start": 3.762,
+      "end": 4.342
+    },
+    {
+      "text": "are",
+      "start": 4.458,
+      "end": 4.667
+    },
+    {
+      "text": "involved.",
+      "start": 4.737,
+      "end": 5.526
+    }
+  ]
+}

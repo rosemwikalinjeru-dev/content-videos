@@ -1,0 +1,127 @@
+{
+  "video": "ai-morning-question",
+  "voiceId": "B7ZAlMIzX6c9jwjYTxMd",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "5e4782ed64715a0d",
+      "audio": "voiceover/ai-morning-question/hook.mp3",
+      "captions": "voiceover/ai-morning-question/hook.json",
+      "durationInSeconds": 4.963,
+      "characters": 82
+    },
+    {
+      "id": "now",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "56b561cbedf18bc5",
+      "audio": "voiceover/ai-morning-question/now.mp3",
+      "captions": "voiceover/ai-morning-question/now.json",
+      "durationInSeconds": 7.34,
+      "characters": 101
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "769f73a804542b55",
+      "audio": "voiceover/ai-morning-question/cost.mp3",
+      "captions": "voiceover/ai-morning-question/cost.json",
+      "durationInSeconds": 3.37,
+      "characters": 54
+    },
+    {
+      "id": "idea",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "c33e0cb7c1cca540",
+      "audio": "voiceover/ai-morning-question/idea.mp3",
+      "captions": "voiceover/ai-morning-question/idea.json",
+      "durationInSeconds": 2.952,
+      "characters": 46
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "75ec80191d6d6c5c",
+      "audio": "voiceover/ai-morning-question/sim.mp3",
+      "captions": "voiceover/ai-morning-question/sim.json",
+      "durationInSeconds": 5.329,
+      "characters": 87
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "85ed93a08ecb4ed4",
+      "audio": "voiceover/ai-morning-question/sim2.mp3",
+      "captions": "voiceover/ai-morning-question/sim2.json",
+      "durationInSeconds": 2.456,
+      "characters": 40
+    },
+    {
+      "id": "sim3",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "883183f66fb180af",
+      "audio": "voiceover/ai-morning-question/sim3.mp3",
+      "captions": "voiceover/ai-morning-question/sim3.json",
+      "durationInSeconds": 5.878,
+      "characters": 76
+    },
+    {
+      "id": "list",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "6043486cebba801b",
+      "audio": "voiceover/ai-morning-question/list.mp3",
+      "captions": "voiceover/ai-morning-question/list.json",
+      "durationInSeconds": 3.709,
+      "characters": 55
+    },
+    {
+      "id": "honest",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "36d28b67a4c3f0b0",
+      "audio": "voiceover/ai-morning-question/honest.mp3",
+      "captions": "voiceover/ai-morning-question/honest.json",
+      "durationInSeconds": 3.422,
+      "characters": 57
+    },
+    {
+      "id": "need",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "cdb66300b0fdb8d2",
+      "audio": "voiceover/ai-morning-question/need.mp3",
+      "captions": "voiceover/ai-morning-question/need.json",
+      "durationInSeconds": 5.669,
+      "characters": 87
+    },
+    {
+      "id": "start",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "3c6fd33d57493a95",
+      "audio": "voiceover/ai-morning-question/start.mp3",
+      "captions": "voiceover/ai-morning-question/start.json",
+      "durationInSeconds": 4.833,
+      "characters": 73
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "model": "eleven_multilingual_v2",
+      "hash": "a855b13ba4fb56ab",
+      "audio": "voiceover/ai-morning-question/cta.mp3",
+      "captions": "voiceover/ai-morning-question/cta.json",
+      "durationInSeconds": 2.926,
+      "characters": 39
+    }
+  ],
+  "generatedAt": "2026-11-13T21:55:33.207Z"
+}

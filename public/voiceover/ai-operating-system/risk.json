@@ -1,0 +1,60 @@
+{
+  "id": "risk",
+  "words": [
+    {
+      "text": "So",
+      "start": 0,
+      "end": 0.464
+    },
+    {
+      "text": "when",
+      "start": 0.522,
+      "end": 0.685
+    },
+    {
+      "text": "you're",
+      "start": 0.72,
+      "end": 0.882
+    },
+    {
+      "text": "sick,",
+      "start": 0.906,
+      "end": 1.173
+    },
+    {
+      "text": "or",
+      "start": 1.207,
+      "end": 1.358
+    },
+    {
+      "text": "busy,",
+      "start": 1.416,
+      "end": 1.707
+    },
+    {
+      "text": "or",
+      "start": 1.741,
+      "end": 1.846
+    },
+    {
+      "text": "asleep,",
+      "start": 1.892,
+      "end": 2.31
+    },
+    {
+      "text": "the",
+      "start": 2.345,
+      "end": 2.438
+    },
+    {
+      "text": "business",
+      "start": 2.496,
+      "end": 2.821
+    },
+    {
+      "text": "forgets.",
+      "start": 2.868,
+      "end": 3.622
+    }
+  ]
+}

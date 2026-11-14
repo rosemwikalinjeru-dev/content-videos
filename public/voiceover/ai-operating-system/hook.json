@@ -1,0 +1,60 @@
+{
+  "id": "hook",
+  "words": [
+    {
+      "text": "Right",
+      "start": 0,
+      "end": 0.279
+    },
+    {
+      "text": "now,",
+      "start": 0.348,
+      "end": 0.685
+    },
+    {
+      "text": "the",
+      "start": 0.801,
+      "end": 0.929
+    },
+    {
+      "text": "operating",
+      "start": 0.987,
+      "end": 1.521
+    },
+    {
+      "text": "system",
+      "start": 1.591,
+      "end": 1.974
+    },
+    {
+      "text": "of",
+      "start": 2.043,
+      "end": 2.136
+    },
+    {
+      "text": "your",
+      "start": 2.218,
+      "end": 2.357
+    },
+    {
+      "text": "business",
+      "start": 2.415,
+      "end": 2.821
+    },
+    {
+      "text": "is",
+      "start": 2.891,
+      "end": 3.007
+    },
+    {
+      "text": "your",
+      "start": 3.065,
+      "end": 3.204
+    },
+    {
+      "text": "memory.",
+      "start": 3.274,
+      "end": 3.947
+    }
+  ]
+}

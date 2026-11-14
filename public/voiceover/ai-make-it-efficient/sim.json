@@ -1,0 +1,90 @@
+{
+  "id": "sim",
+  "words": [
+    {
+      "text": "Watch",
+      "start": 0,
+      "end": 0.325
+    },
+    {
+      "text": "two",
+      "start": 0.406,
+      "end": 0.557
+    },
+    {
+      "text": "demo",
+      "start": 0.627,
+      "end": 0.859
+    },
+    {
+      "text": "businesses.",
+      "start": 0.917,
+      "end": 1.649
+    },
+    {
+      "text": "Same",
+      "start": 1.823,
+      "end": 2.229
+    },
+    {
+      "text": "A-I.",
+      "start": 2.345,
+      "end": 2.961
+    },
+    {
+      "text": "One",
+      "start": 3.286,
+      "end": 3.541
+    },
+    {
+      "text": "just",
+      "start": 3.599,
+      "end": 3.971
+    },
+    {
+      "text": "chats",
+      "start": 4.087,
+      "end": 4.389
+    },
+    {
+      "text": "with",
+      "start": 4.435,
+      "end": 4.598
+    },
+    {
+      "text": "it.",
+      "start": 4.644,
+      "end": 4.888
+    },
+    {
+      "text": "The",
+      "start": 5.097,
+      "end": 5.224
+    },
+    {
+      "text": "other",
+      "start": 5.283,
+      "end": 5.492
+    },
+    {
+      "text": "gives",
+      "start": 5.55,
+      "end": 5.782
+    },
+    {
+      "text": "it",
+      "start": 5.828,
+      "end": 5.921
+    },
+    {
+      "text": "a",
+      "start": 5.979,
+      "end": 6.014
+    },
+    {
+      "text": "job.",
+      "start": 6.072,
+      "end": 6.641
+    }
+  ]
+}

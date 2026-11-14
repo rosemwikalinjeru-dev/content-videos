@@ -1,0 +1,70 @@
+{
+  "id": "sim",
+  "words": [
+    {
+      "text": "Watch",
+      "start": 0,
+      "end": 0.337
+    },
+    {
+      "text": "ten",
+      "start": 0.43,
+      "end": 0.72
+    },
+    {
+      "text": "customers",
+      "start": 0.801,
+      "end": 1.312
+    },
+    {
+      "text": "go",
+      "start": 1.382,
+      "end": 1.509
+    },
+    {
+      "text": "through.",
+      "start": 1.567,
+      "end": 1.916
+    },
+    {
+      "text": "The",
+      "start": 2.159,
+      "end": 2.276
+    },
+    {
+      "text": "mistakes",
+      "start": 2.334,
+      "end": 2.752
+    },
+    {
+      "text": "don't",
+      "start": 2.798,
+      "end": 2.995
+    },
+    {
+      "text": "stop.",
+      "start": 3.042,
+      "end": 3.413
+    },
+    {
+      "text": "They",
+      "start": 3.471,
+      "end": 3.634
+    },
+    {
+      "text": "just",
+      "start": 3.68,
+      "end": 3.866
+    },
+    {
+      "text": "arrive",
+      "start": 3.913,
+      "end": 4.272
+    },
+    {
+      "text": "faster.",
+      "start": 4.319,
+      "end": 5.108
+    }
+  ]
+}

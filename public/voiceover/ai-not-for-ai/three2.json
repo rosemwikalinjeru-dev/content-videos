@@ -1,0 +1,60 @@
+{
+  "id": "three2",
+  "words": [
+    {
+      "text": "There,",
+      "start": 0,
+      "end": 0.464
+    },
+    {
+      "text": "A-I",
+      "start": 0.511,
+      "end": 0.871
+    },
+    {
+      "text": "can",
+      "start": 0.987,
+      "end": 1.138
+    },
+    {
+      "text": "take",
+      "start": 1.207,
+      "end": 1.428
+    },
+    {
+      "text": "the",
+      "start": 1.463,
+      "end": 1.533
+    },
+    {
+      "text": "message.",
+      "start": 1.591,
+      "end": 2.101
+    },
+    {
+      "text": "It",
+      "start": 2.276,
+      "end": 2.403
+    },
+    {
+      "text": "shouldn't",
+      "start": 2.438,
+      "end": 2.775
+    },
+    {
+      "text": "give",
+      "start": 2.833,
+      "end": 3.019
+    },
+    {
+      "text": "the",
+      "start": 3.053,
+      "end": 3.146
+    },
+    {
+      "text": "answer.",
+      "start": 3.204,
+      "end": 3.808
+    }
+  ]
+}

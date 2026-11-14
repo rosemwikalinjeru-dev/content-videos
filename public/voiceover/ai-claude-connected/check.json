@@ -1,0 +1,75 @@
+{
+  "id": "check",
+  "words": [
+    {
+      "text": "Set",
+      "start": 0,
+      "end": 0.418
+    },
+    {
+      "text": "it",
+      "start": 0.476,
+      "end": 0.557
+    },
+    {
+      "text": "to",
+      "start": 0.592,
+      "end": 0.662
+    },
+    {
+      "text": "ask",
+      "start": 0.755,
+      "end": 1.022
+    },
+    {
+      "text": "before",
+      "start": 1.091,
+      "end": 1.405
+    },
+    {
+      "text": "it",
+      "start": 1.44,
+      "end": 1.521
+    },
+    {
+      "text": "sends",
+      "start": 1.567,
+      "end": 1.858
+    },
+    {
+      "text": "anything.",
+      "start": 1.916,
+      "end": 2.403
+    },
+    {
+      "text": "You",
+      "start": 2.682,
+      "end": 2.833
+    },
+    {
+      "text": "stay",
+      "start": 2.891,
+      "end": 3.123
+    },
+    {
+      "text": "the",
+      "start": 3.193,
+      "end": 3.262
+    },
+    {
+      "text": "one",
+      "start": 3.332,
+      "end": 3.483
+    },
+    {
+      "text": "who",
+      "start": 3.506,
+      "end": 3.634
+    },
+    {
+      "text": "approves.",
+      "start": 3.692,
+      "end": 4.458
+    }
+  ]
+}

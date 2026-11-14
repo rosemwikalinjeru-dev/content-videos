@@ -1,0 +1,80 @@
+{
+  "id": "why",
+  "words": [
+    {
+      "text": "Because",
+      "start": 0,
+      "end": 0.43
+    },
+    {
+      "text": "an",
+      "start": 0.464,
+      "end": 0.534
+    },
+    {
+      "text": "automation",
+      "start": 0.58,
+      "end": 1.196
+    },
+    {
+      "text": "does",
+      "start": 1.254,
+      "end": 1.44
+    },
+    {
+      "text": "what",
+      "start": 1.486,
+      "end": 1.637
+    },
+    {
+      "text": "it's",
+      "start": 1.695,
+      "end": 1.846
+    },
+    {
+      "text": "told.",
+      "start": 1.904,
+      "end": 2.287
+    },
+    {
+      "text": "Even",
+      "start": 2.531,
+      "end": 2.81
+    },
+    {
+      "text": "when",
+      "start": 2.856,
+      "end": 3.019
+    },
+    {
+      "text": "what",
+      "start": 3.077,
+      "end": 3.228
+    },
+    {
+      "text": "it's",
+      "start": 3.286,
+      "end": 3.448
+    },
+    {
+      "text": "told",
+      "start": 3.506,
+      "end": 3.808
+    },
+    {
+      "text": "makes",
+      "start": 3.924,
+      "end": 4.18
+    },
+    {
+      "text": "no",
+      "start": 4.249,
+      "end": 4.377
+    },
+    {
+      "text": "sense.",
+      "start": 4.458,
+      "end": 5.155
+    }
+  ]
+}

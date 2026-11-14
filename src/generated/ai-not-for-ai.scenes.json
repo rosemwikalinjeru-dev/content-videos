@@ -1,0 +1,65 @@
+{
+  "video": "ai-not-for-ai",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "Three things I would not hand to A-I in a service business."
+    },
+    {
+      "id": "one",
+      "version": "v2",
+      "text": "One. The angry customer. They don't want a fast answer. They want a person."
+    },
+    {
+      "id": "one2",
+      "version": "v2",
+      "text": "A-I can tell you they're upset. A person should make the call."
+    },
+    {
+      "id": "two",
+      "version": "v2",
+      "text": "Two. The price exception. A discount, a refund, a favor for a regular."
+    },
+    {
+      "id": "two2",
+      "version": "v2",
+      "text": "That's your money and your judgment. A-I can prepare it. You approve it."
+    },
+    {
+      "id": "three",
+      "version": "v2",
+      "text": "Three. Anything where being wrong is expensive. Health. Legal. Safety."
+    },
+    {
+      "id": "three2",
+      "version": "v2",
+      "text": "There, A-I can take the message. It shouldn't give the answer."
+    },
+    {
+      "id": "flip",
+      "version": "v2",
+      "text": "So what does A-I get? The repeated stuff. Reminders. First replies. Sorting. Notes."
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "text": "Watch one demo day. Twenty messages come in. Most are routine. A few need a person."
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "text": "A-I clears the routine. And puts the few in front of you, first."
+    },
+    {
+      "id": "verdict",
+      "version": "v2",
+      "text": "A-I for the routine. People for the moments that matter."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

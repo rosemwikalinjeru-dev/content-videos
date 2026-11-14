@@ -1,0 +1,80 @@
+{
+  "id": "s3",
+  "words": [
+    {
+      "text": "Three.",
+      "start": 0,
+      "end": 0.464
+    },
+    {
+      "text": "Connect",
+      "start": 0.615,
+      "end": 0.987
+    },
+    {
+      "text": "it",
+      "start": 1.022,
+      "end": 1.103
+    },
+    {
+      "text": "to",
+      "start": 1.138,
+      "end": 1.207
+    },
+    {
+      "text": "your",
+      "start": 1.289,
+      "end": 1.428
+    },
+    {
+      "text": "tools,",
+      "start": 1.486,
+      "end": 1.985
+    },
+    {
+      "text": "so",
+      "start": 2.229,
+      "end": 2.38
+    },
+    {
+      "text": "it",
+      "start": 2.473,
+      "end": 2.554
+    },
+    {
+      "text": "can",
+      "start": 2.612,
+      "end": 2.763
+    },
+    {
+      "text": "look",
+      "start": 2.833,
+      "end": 3.007
+    },
+    {
+      "text": "things",
+      "start": 3.065,
+      "end": 3.32
+    },
+    {
+      "text": "up",
+      "start": 3.402,
+      "end": 3.564
+    },
+    {
+      "text": "instead",
+      "start": 3.68,
+      "end": 4.087
+    },
+    {
+      "text": "of",
+      "start": 4.133,
+      "end": 4.191
+    },
+    {
+      "text": "guessing.",
+      "start": 4.284,
+      "end": 5.016
+    }
+  ]
+}

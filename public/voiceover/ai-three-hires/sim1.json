@@ -1,0 +1,65 @@
+{
+  "id": "sim1",
+  "words": [
+    {
+      "text": "The",
+      "start": 0,
+      "end": 0.151
+    },
+    {
+      "text": "chatbot",
+      "start": 0.209,
+      "end": 0.65
+    },
+    {
+      "text": "says,",
+      "start": 0.72,
+      "end": 1.126
+    },
+    {
+      "text": "sure,",
+      "start": 1.219,
+      "end": 1.533
+    },
+    {
+      "text": "call",
+      "start": 1.591,
+      "end": 1.8
+    },
+    {
+      "text": "the",
+      "start": 1.869,
+      "end": 1.939
+    },
+    {
+      "text": "office.",
+      "start": 1.997,
+      "end": 2.426
+    },
+    {
+      "text": "Helpful.",
+      "start": 2.67,
+      "end": 3.274
+    },
+    {
+      "text": "But",
+      "start": 3.448,
+      "end": 3.611
+    },
+    {
+      "text": "nothing",
+      "start": 3.68,
+      "end": 3.994
+    },
+    {
+      "text": "actually",
+      "start": 4.087,
+      "end": 4.528
+    },
+    {
+      "text": "moved.",
+      "start": 4.586,
+      "end": 5.248
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "idea",
+  "words": [
+    {
+      "text": "An",
+      "start": 0,
+      "end": 0.313
+    },
+    {
+      "text": "A-I",
+      "start": 0.43,
+      "end": 0.929
+    },
+    {
+      "text": "operating",
+      "start": 1.08,
+      "end": 1.683
+    },
+    {
+      "text": "system",
+      "start": 1.741,
+      "end": 2.078
+    },
+    {
+      "text": "sounds",
+      "start": 2.148,
+      "end": 2.392
+    },
+    {
+      "text": "fancy.",
+      "start": 2.45,
+      "end": 2.821
+    },
+    {
+      "text": "It's",
+      "start": 2.844,
+      "end": 3.03
+    },
+    {
+      "text": "just",
+      "start": 3.1,
+      "end": 3.309
+    },
+    {
+      "text": "this.",
+      "start": 3.355,
+      "end": 3.68
+    },
+    {
+      "text": "One",
+      "start": 4.005,
+      "end": 4.249
+    },
+    {
+      "text": "place",
+      "start": 4.296,
+      "end": 4.609
+    },
+    {
+      "text": "where",
+      "start": 4.644,
+      "end": 4.818
+    },
+    {
+      "text": "the",
+      "start": 4.841,
+      "end": 4.911
+    },
+    {
+      "text": "business",
+      "start": 4.957,
+      "end": 5.352
+    },
+    {
+      "text": "remembers.",
+      "start": 5.41,
+      "end": 6.316
+    }
+  ]
+}

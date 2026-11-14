@@ -1,0 +1,70 @@
+{
+  "id": "j2",
+  "words": [
+    {
+      "text": "Line",
+      "start": 0,
+      "end": 0.441
+    },
+    {
+      "text": "two.",
+      "start": 0.488,
+      "end": 0.755
+    },
+    {
+      "text": "What",
+      "start": 0.906,
+      "end": 1.126
+    },
+    {
+      "text": "can",
+      "start": 1.184,
+      "end": 1.324
+    },
+    {
+      "text": "it",
+      "start": 1.382,
+      "end": 1.463
+    },
+    {
+      "text": "touch?",
+      "start": 1.509,
+      "end": 1.939
+    },
+    {
+      "text": "The",
+      "start": 2.113,
+      "end": 2.241
+    },
+    {
+      "text": "calendar,",
+      "start": 2.299,
+      "end": 2.891
+    },
+    {
+      "text": "yes.",
+      "start": 2.949,
+      "end": 3.39
+    },
+    {
+      "text": "The",
+      "start": 3.506,
+      "end": 3.634
+    },
+    {
+      "text": "bank",
+      "start": 3.692,
+      "end": 3.913
+    },
+    {
+      "text": "account,",
+      "start": 3.959,
+      "end": 4.331
+    },
+    {
+      "text": "no.",
+      "start": 4.377,
+      "end": 4.783
+    }
+  ]
+}

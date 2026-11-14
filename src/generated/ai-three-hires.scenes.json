@@ -1,0 +1,65 @@
+{
+  "video": "ai-three-hires",
+  "scenes": [
+    {
+      "id": "hook",
+      "version": "v2",
+      "text": "You probably don't need an A-I agent. You might need one of these three."
+    },
+    {
+      "id": "one",
+      "version": "v2",
+      "text": "Number one, a chatbot. It answers questions. That's all it does."
+    },
+    {
+      "id": "two",
+      "version": "v2",
+      "text": "Number two, an automation. It follows a checklist. Same steps, every time."
+    },
+    {
+      "id": "three",
+      "version": "v2",
+      "text": "Number three, an agent. It decides the next step itself, and uses your tools to do it."
+    },
+    {
+      "id": "sim",
+      "version": "v2",
+      "text": "Watch one request go to all three. A customer writes, can I move my appointment to Friday?"
+    },
+    {
+      "id": "sim1",
+      "version": "v2",
+      "text": "The chatbot says, sure, call the office. Helpful. But nothing actually moved."
+    },
+    {
+      "id": "sim2",
+      "version": "v2",
+      "text": "The automation sends the reschedule link. Great, if Friday is simple."
+    },
+    {
+      "id": "sim3",
+      "version": "v2",
+      "text": "The agent checks Friday, sees it's full, offers Thursday, and books it. Then it tells you."
+    },
+    {
+      "id": "cost",
+      "version": "v2",
+      "text": "More freedom means more ways to go wrong. So an agent needs rules, and someone checking."
+    },
+    {
+      "id": "pick",
+      "version": "v2",
+      "text": "So pick by the job. Same answer every time? Chatbot. Same steps every time? Automation."
+    },
+    {
+      "id": "pick2",
+      "version": "v2",
+      "text": "Only when the steps change every time, do you need an agent."
+    },
+    {
+      "id": "cta",
+      "version": "v2",
+      "text": "Follow for one business fix every week."
+    }
+  ]
+}

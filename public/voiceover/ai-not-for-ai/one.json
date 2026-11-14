@@ -1,0 +1,75 @@
+{
+  "id": "one",
+  "words": [
+    {
+      "text": "One.",
+      "start": 0,
+      "end": 0.546
+    },
+    {
+      "text": "The",
+      "start": 0.697,
+      "end": 0.848
+    },
+    {
+      "text": "angry",
+      "start": 0.917,
+      "end": 1.242
+    },
+    {
+      "text": "customer.",
+      "start": 1.289,
+      "end": 1.811
+    },
+    {
+      "text": "They",
+      "start": 1.846,
+      "end": 1.962
+    },
+    {
+      "text": "don't",
+      "start": 1.997,
+      "end": 2.206
+    },
+    {
+      "text": "want",
+      "start": 2.264,
+      "end": 2.461
+    },
+    {
+      "text": "a",
+      "start": 2.508,
+      "end": 2.543
+    },
+    {
+      "text": "fast",
+      "start": 2.601,
+      "end": 2.902
+    },
+    {
+      "text": "answer.",
+      "start": 2.972,
+      "end": 3.448
+    },
+    {
+      "text": "They",
+      "start": 3.657,
+      "end": 3.82
+    },
+    {
+      "text": "want",
+      "start": 3.855,
+      "end": 4.04
+    },
+    {
+      "text": "a",
+      "start": 4.075,
+      "end": 4.11
+    },
+    {
+      "text": "person.",
+      "start": 4.18,
+      "end": 4.876
+    }
+  ]
+}
